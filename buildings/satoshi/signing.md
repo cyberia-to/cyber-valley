@@ -125,6 +125,6 @@ activities: daily sign practice during routines (mealtime signs, outdoor signs),
 
 ## subgraphs
 
-[[lang]] — the language domain. [[neural]] — multimodal communication as proto-neural language. [[semcon]] — signs as early semantic conventions
+[[lang]] — the language domain. [[neural]] — multimodal communication as proto-neural language. [[dialect]] — signs as early dialects
 
 see [[satoshi/domains]] for the full domain set

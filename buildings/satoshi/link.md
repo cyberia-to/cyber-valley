@@ -66,7 +66,7 @@ target by age 7: creates structured observations, understands that her contribut
 | 3 | draws bird → worm → soil | chain of connections | [[linkchain]] |
 | 4 | "many birds eat worms" | pattern across instances | [[motif]] detection |
 | 5 | photographs and labels | creates addressable content | [[particle]] creation |
-| 6 | "birds help the garden because they eat pests" | causal system model | [[semantic convention]] |
+| 6 | "birds help the garden because they eat pests" | causal system model | [[dialect]] |
 | 7 | publishes observation to graph | shared [[knowledge]] | [[neuron]] in [[cybergraph]] |
 
 the child does not learn digital skills. she learns to think in connections — and at the right moment, the [[cybergraph]] becomes the natural home for connections she has been making since birth

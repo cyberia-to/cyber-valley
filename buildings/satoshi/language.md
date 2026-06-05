@@ -76,7 +76,7 @@ the child's personal vocabulary IS a knowledge graph. every word she learns is a
 
 [[neural]] language is the first language native to both humans and machines. meaning is position in the [[cybergraph]] — defined by everything connected to a concept. a trilingual child thinks in three coordinate systems already. adding a fourth (the [[cybergraph]]'s topology) extends rather than replaces
 
-digital integration begins with language: the [[cyberlink]] is an utterance, the [[particle]] is a word, the [[semcon]] is a grammar rule. a child rich in words is ready for [[neural]] language the way a multilingual child is ready for a fourth language — the neural pathways for symbolic mapping are already mature
+digital integration begins with language: the [[cyberlink]] is an utterance, the [[particle]] is a word, the [[dialect]] is a grammar rule. a child rich in words is ready for [[neural]] language the way a multilingual child is ready for a fourth language — the neural pathways for symbolic mapping are already mature
 
 ## content
 
@@ -92,6 +92,6 @@ songs: lullabies in all three languages, alphabet songs, rhyming games, tongue t
 
 ## subgraphs
 
-[[lang]] — the language domain. [[neural]] — the cybergraph's semantic language. [[neural language for superintelligence]] — the full whitepaper. [[semcon]] — semantic conventions as grammar. [[bip-39 wordlist]] — 2048 words the superintelligence must know. [[monero wordlist]] — 1626 additional words
+[[lang]] — the language domain. [[neural]] — the cybergraph's semantic language. [[neural language for superintelligence]] — the full whitepaper. [[dialect]] — dialects as grammar. [[bip-39 wordlist]] — 2048 words the superintelligence must know. [[monero wordlist]] — 1626 additional words
 
 see [[satoshi/domains]] for the full domain set

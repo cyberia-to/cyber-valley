@@ -89,7 +89,7 @@ the [[emotion]] system in [[cyb]] maps seven emotions to wavelengths — grounde
 | sadness | indigo | 420-450 nm | "I feel heavy and quiet" |
 | fear | violet | 380-420 nm | "something might hurt me" |
 
-the child can point to colors to express states before she has words for them — a visual [[semcon]] for emotional communication
+the child can point to colors to express states before she has words for them — a visual [[dialect]] for emotional communication
 
 ## the [[superhuman]] connection
 
