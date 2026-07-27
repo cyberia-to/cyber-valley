@@ -66,7 +66,6 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 |---|---|---|---|
 | **A. Leasehold 25y upfront** | Full payment at signing, registered lease | 100% now | Residents ready to build |
 | **B. Annual leasehold** | Yearly payments, indexed | Stream, little now | Cautious entrants, community services |
-| **C. Lease-to-own** | Annual payments converting to full-term buyout | Stream → lump sum | Residents with limited capital |
 | **D. JV via HGB contribution** | PT PMA contributes HGB rights for project equity | 0 now, equity upside | Capital partners (hotel, clinic operators) |
 | **E. JV via leasehold contribution** | Lease contributed for a share of the OpCo | 0 now, OpCo stake | Operators without land capital |
 | **F. Option agreement** | 5–10% premium for the right to buy a lease at a fixed price within N years | Small cash now, no land transferred | Speculative demand, early phases |
@@ -86,7 +85,7 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 | Wave | Volume | Instruments | Price (per are) | Trigger |
 |---|---|---|---|---|
 | 1 — Pioneers | 15 are | K, A | ×0.4 of target | Now. Build obligation mandatory; pioneer homes are the social proof |
-| 2 — Anchor live | 25 are | A, C, F | ×0.7 | Anchor operating, Phase 1 infrastructure complete |
+| 2 — Anchor live | 25 are | A, F | ×0.7 | Anchor operating, Phase 1 infrastructure complete |
 | 3 — City alive | 25 are | A, G | ×1.0–1.3 | Community services populated, daily life visible |
 | Reserve | 15 are | — | ×2+ | Best view plots. Do not release until price doubles Wave 3 |
 
@@ -157,7 +156,7 @@ Capital sources by phase:
 
 P0:  Wave 1 (K) + options (F) + parking tranche 1   → Phase 1 infrastructure capex
 P1:  Self-funded infra (PT PMA ownership)           → barter/BOT only on cash gap
-P2:  Wave 2 (A, C) + option exercises               → Z3 + operations
+P2:  Wave 2 (A) + option exercises                  → Z3 + operations
 P3:  Wave 3 + sale-leaseback (L)                    → refinancing, distributions
 ∞:   Annual leases + participation rents
      + infrastructure margin (tariffs − O&M fees)
@@ -166,7 +165,7 @@ P3:  Wave 3 + sale-leaseback (L)                    → refinancing, distributio
 
 Four permanent revenue streams after Phase 2:
 
-1. **Lease payments** (B/C contracts, indexed to assessed land value — a de facto land value tax that lets the city's growth fund the city's operations)
+1. **Lease payments** (B contracts, indexed to assessed land value — a de facto land value tax that lets the city's growth fund the city's operations)
 2. **Participation rents** (% of Z2/Z3 commercial revenue)
 3. **Infrastructure margin** (utility tariffs net of management fees)
 4. **Mobility and estate services** (parking management, rental pool, agro commerce)
