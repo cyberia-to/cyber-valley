@@ -45,8 +45,8 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 | Z3 | **Community** | 1.5 ha | 4% | School, hospital, construction facilities, cowork, common house. Deliberately subsidized |
 | Z4 | **Infra** | 4.5 ha | 12% | Roads, energy, water, connectivity. Ownership retained; parking slots are the zone's only sellable micro-asset — the cash source for the zone build-out |
 | Z5 | **Innovation** | 3 ha | 8% | Labs, studios, startup plots. Land-for-equity portfolio and JV |
-| Z6 | **Agroforestry / Production** | 10 ha | 27% | Permaculture, livestock, aquaculture, nursery. Working landscape and supply chain |
-| Z7 | **Conservation / Cloud Forest** | 5 ha | 14% | Inviolable. Watershed, biodiversity, and the amenity that prices Z1–Z2 |
+| Z6 | **Agroforestry** | 10 ha | 27% | Permaculture, livestock, aquaculture, nursery. Working landscape and supply chain |
+| Z7 | **Conservation** | 5 ha | 14% | Inviolable. Watershed, biodiversity, and the amenity that prices Z1–Z2 |
 | Z8 | **Commons** | 2 ha | 5% | Trails, plazas, public space |
 
 **Design logic:**
