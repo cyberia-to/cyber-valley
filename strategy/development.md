@@ -8,7 +8,7 @@ alias: city development strategy, master plan
 
 **Asset:** 37 ha, Gesing, Buleleng, Bali · 1,200–1,500 m elevation · cloud forest / permaculture
 **Holding structure:** PT PMA Cyber Valley Estate (HGB/Hak Pakai capable) · Cyberia DAO LLC (Marshall Islands)
-**Version:** 1.0 · July 2026
+**Version:** 1.1 · July 2026
 
 This document is public by design. The pricing curve, wave caps, and reserve rule are commitments, not negotiating positions: a buyer who can verify the curve in advance can trust the discipline behind it.
 
@@ -41,13 +41,13 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 | # | Zone | Area | % | Function |
 |---|------|------|---|----------|
 | Z1 | **Residences** | 8 ha | 22% | Cash engine. Villas, plots of 5–15 are, sold in waves |
-| Z2 | **Anchor / Wellness** | 3 ha | 8% | The magnet: spa, restaurant, bathhouse, light clinic. Held or JV'd, never sold outright |
-| Z3 | **Community Services** | 1.5 ha | 4% | School, market, cowork, common house. Deliberately subsidized |
-| Z4 | **Infrastructure + Parking** | 4.5 ha | 12% | Energy, water, treatment, connectivity, workshops (2.5 ha) + mobility hub (2 ha). Ownership retained; parking slots are the zone's only sellable micro-asset |
-| Z5 | **Innovation Campus** | 3 ha | 8% | Labs, studios, startup plots. Land-for-equity portfolio |
+| Z2 | **Anchor** | 3 ha | 8% | The magnet and traffic generator: spas, markets, restaurants. Each deal structured individually, with review |
+| Z3 | **Community** | 1.5 ha | 4% | School, hospital, construction facilities, cowork, common house. Deliberately subsidized |
+| Z4 | **Infra** | 4.5 ha | 12% | Roads, energy, water, connectivity. Ownership retained; parking slots are the zone's only sellable micro-asset — the cash source for the zone build-out |
+| Z5 | **Innovation** | 3 ha | 8% | Labs, studios, startup plots. Land-for-equity portfolio and JV |
 | Z6 | **Agroforestry / Production** | 10 ha | 27% | Permaculture, livestock, aquaculture, nursery. Working landscape and supply chain |
 | Z7 | **Conservation / Cloud Forest** | 5 ha | 14% | Inviolable. Watershed, biodiversity, and the amenity that prices Z1–Z2 |
-| Z8 | **Roads / Commons** | 2 ha | 5% | Roads, trails, public space |
+| Z8 | **Commons** | 2 ha | 5% | Trails, plazas, public space |
 
 **Design logic:**
 
@@ -90,11 +90,11 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 | 3 — City alive | 25 are | A, G | ×1.0–1.3 | Community services populated, daily life visible |
 | Reserve | 15 are | — | ×2+ | Best view plots. Do not release until price doubles Wave 3 |
 
-**Z2 — Anchor / Wellness.** The core (spa, restaurant) is held outright or structured as JV (D/E): PT PMA contributes land, the operator contributes capex and brand, equity split 40–60%. Peripheral retreat villas move to sale-leaseback (L) in Phase 3. This zone is never sold outright — it is the demand engine for everything else.
+**Z2 — Anchor.** Each deal is structured individually and passes review: the core (spa, market, restaurant) is held outright or structured as JV (D/E) — PT PMA contributes land, the operator contributes capex and brand, equity split 40–60%. Peripheral retreat villas move to sale-leaseback (L) in Phase 3. This zone is never sold outright — it is the demand and traffic engine for everything else.
 
-**Z3 — Community Services.** Near-zero leasehold (B at nominal rent) plus participation rent (G) after breakeven. Deed restrictions lock the use; reversion clauses fire on any change of function. The zone loses money by design and returns it through a 20–40% uplift on adjacent Z1 pricing.
+**Z3 — Community.** Near-zero leasehold (B at nominal rent) plus participation rent (G) after breakeven. Deed restrictions lock the use; reversion clauses fire on any change of function. The zone loses money by design and returns it through a 20–40% uplift on adjacent Z1 pricing.
 
-**Z4 — Infrastructure + Parking.**
+**Z4 — Infra.**
 
 *Infrastructure core (2.5 ha):*
 - **Default model: self-funded.** Capex comes from Phase 0 proceeds; ownership stays 100% with PT PMA.
@@ -111,7 +111,7 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 - Honest disclosure to buyers: yield projections assume Phase 2+ traffic. Early tranches carry a 2-year minimum rent guarantee from the management company, priced into the slot.
 - Throughput at maturity: 10–12k people/day — sufficient for the anchor, events, and residency flows combined.
 
-**Z5 — Innovation Campus.** Land-for-equity (J): leases at ×0.2 for 2–5% equity across a portfolio of 15–20 resident ventures — two successes repay the zone. Options (F) serve those who want to reserve ground without freezing it: unexercised options expire. Selection filters for alignment with the Cyberia stack, not capital alone.
+**Z5 — Innovation.** Land-for-equity (J): leases at ×0.2 for 2–5% equity across a portfolio of 15–20 resident ventures — two successes repay the zone. Larger operators enter via JV (D/E). Options (F) serve those who want to reserve ground without freezing it: unexercised options expire. Selection filters for alignment with the Cyberia stack, not capital alone.
 
 **Z6 — Agroforestry.** Annual leases (B) to farm operators plus participation (G) in farm revenue, or pure operator agreements with no land rights transferred. Output feeds the Z2 restaurant and estate commerce — vertical integration from soil to table.
 
@@ -137,7 +137,7 @@ A city needs infrastructure to attract residents and residents to pay for infras
 
 **Phase 2 — Monetizing growth (+2–4 years)**
 - Wave 2 sales at ×0.7; option exercises convert
-- Z3 populated (school, market) funded by Wave 2 proceeds
+- Z3 populated (school, hospital) funded by Wave 2 proceeds
 - Z5 opens: first land-for-equity deals
 - Parking demand catches up with hub capacity; slot yields normalize
 
