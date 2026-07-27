@@ -208,7 +208,7 @@ The structural goal: by end of Phase 2, recurring streams cover 100% of estate o
 
 ---
 
-→ [[ops]] for the operational playbook and KPIs
-→ [[districts]] for the district inventory
-→ [[zoning system]] for the land-use code every lease inherits
-→ [[strategy/notes]] for product analysis, [[strategy/tone]] for brand guardrails
+→ [[cyber-valley/ops/ops]] for the operational playbook and KPIs
+→ [[cyber-valley/districts]] for the district inventory
+→ [[cyber-valley/policies/zoning system]] for the land-use code every lease inherits
+→ [[cyber-valley/strategy/notes]] for product analysis, [[cyber-valley/strategy/tone]] for brand guardrails
