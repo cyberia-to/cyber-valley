@@ -8,6 +8,7 @@ crystal-domain: cyberia
 cyberia operational plan — playbook, KPIs, unit economics, risk register.
 
 → [[cyberia/foundation/strategy]] for the strategic context
+→ [[strategy/development]] for the city development strategy — zones, deal instruments, wave pricing (canonical for the land-sales model)
 
 ---
 
