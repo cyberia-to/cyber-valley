@@ -65,7 +65,7 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 | Instrument | Mechanics | Cash profile | Primary use |
 |---|---|---|---|
 | **A. Leasehold 25y upfront** | Full payment at signing, registered lease | 100% now | Residents ready to build |
-| **B. Annual leasehold** | Yearly payments, indexed | Stream, little now | Cautious entrants, community services |
+| **B. Annual leasehold** | Yearly payments, indexed via the [[rent index]] | Stream, little now | Cautious entrants, community services |
 | **D. JV via HGB contribution** | PT PMA contributes HGB rights for project equity | 0 now, equity upside | Capital partners (hotel, clinic operators) |
 | **E. JV via leasehold contribution** | Lease contributed for a share of the OpCo | 0 now, OpCo stake | Operators without land capital |
 | **F. Option agreement** | 5–10% premium for the right to buy a lease at a fixed price within N years | Small cash now, no land transferred | Speculative demand, early phases |
@@ -165,7 +165,7 @@ P3:  Wave 3 + sale-leaseback (L)                    → refinancing, distributio
 
 Four permanent revenue streams after Phase 2:
 
-1. **Lease payments** (B contracts, indexed to assessed land value — a de facto land value tax that lets the city's growth fund the city's operations)
+1. **Lease payments** (B contracts, indexed via the [[rent index]] with an assessed-land-value hybrid under discussion — a de facto land value tax that lets the city's growth fund the city's operations)
 2. **Participation rents** (% of Z2/Z3 commercial revenue)
 3. **Infrastructure margin** (utility tariffs net of management fees)
 4. **Mobility and estate services** (parking management, rental pool, agro commerce)
