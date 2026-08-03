@@ -65,7 +65,7 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 | Instrument | Mechanics | Cash profile | Primary use |
 |---|---|---|---|
 | **A. Leasehold upfront** | Full payment at signing, registered lease (25y + pre-agreed extensions) | 100% now | Residents ready to build |
-| **B. Annual leasehold** | Yearly payments, indexed via the [[rent index]] | Stream, little now | Cautious entrants, community services |
+| **B. [[annual leasehold|Annual leasehold]]** | Yearly payments, indexed via the [[rent index]] — price a deal in the [[annual leasehold|pricer]] | Stream, little now | Cautious entrants, community services |
 | **C. Joint venture** | Lease contributed for a share of the OpCo | 0 now, OpCo stake | Operators without land capital |
 | **D. Hak Pakai** | Right-of-use title on a completed structure, registrable to foreign individuals (KITAS/KITAP) | 100% at transfer | Foreign buyers who want a registered title, not a contract |
 | **E. Hak Milik** | Freehold transfer of the parcel | 100% at transfer | Indonesian citizens only — the WNI ownership channel |
