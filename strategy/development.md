@@ -64,7 +64,11 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 
 | Instrument | Mechanics | Cash profile | Primary use |
 |---|---|---|---|
-| **Joint venture through leasehold** | Lease contributed for a share of the OpCo | 0 now, OpCo stake | Operators without land capital |
+| **A. Leasehold upfront** | Full payment at signing, registered lease (25y + pre-agreed extensions) | 100% now | Residents ready to build |
+| **B. Annual leasehold** | Yearly payments, indexed via the [[rent index]] | Stream, little now | Cautious entrants, community services |
+| **C. Joint venture** | Lease contributed for a share of the OpCo | 0 now, OpCo stake | Operators without land capital |
+| **D. Hak Pakai** | Right-of-use title on a completed structure, registrable to foreign individuals (KITAS/KITAP) | 100% at transfer | Foreign buyers who want a registered title, not a contract |
+| **E. Hak Milik** | Freehold transfer of the parcel | 100% at transfer | Indonesian citizens only — the WNI ownership channel |
 
 **Indonesian legal wrapper:** individual foreign buyers take notarized leaseholds from PT PMA (25 years + pre-agreed extension options) or Hak Pakai on completed structures; PT PMA-to-PT PMA transfers carry HGB rights for JV and institutional channels. All leases include sublease rights through the estate management company, enabling a rental pool for absentee owners.
 
@@ -74,14 +78,14 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 
 | Wave | Volume | Instruments | Price (per are) | Trigger |
 |---|---|---|---|---|
-| 1 — Pioneers | 15 are | K, A | ×0.4 of target | Now. Build obligation mandatory; pioneer homes are the social proof |
-| 2 — Anchor live | 25 are | A, F | ×0.7 | Anchor operating, Phase 1 infrastructure complete |
-| 3 — City alive | 25 are | A, G | ×1.0–1.3 | Community services populated, daily life visible |
+| 1 — Pioneers | 15 are | A + build obligation | ×0.4 of target | Now. Build obligation mandatory; pioneer homes are the social proof |
+| 2 — Anchor live | 25 are | A | ×0.7 | Anchor operating, Phase 1 infrastructure complete |
+| 3 — City alive | 25 are | A, B | ×1.0–1.3 | Community services populated, daily life visible |
 | Reserve | 15 are | — | ×2+ | Best view plots. Do not release until price doubles Wave 3 |
 
-**Z2 — Anchor.** Each deal is structured individually and passes review: the core (spa, market, restaurant) is held outright or structured as JV (D/E) — PT PMA contributes land, the operator contributes capex and brand, equity split 40–60%. Peripheral retreat villas move to sale-leaseback (L) in Phase 3. This zone is never sold outright — it is the demand and traffic engine for everything else.
+**Z2 — Anchor.** Each deal is structured individually and passes review: the core (spa, market, restaurant) is held outright or structured as JV (C) — PT PMA contributes land, the operator contributes capex and brand, equity split 40–60%. Peripheral retreat villas move to sale-leaseback in Phase 3. This zone is never sold outright — it is the demand and traffic engine for everything else.
 
-**Z3 — Community.** Near-zero leasehold (B at nominal rent) plus participation rent (G) after breakeven. Deed restrictions lock the use; reversion clauses fire on any change of function. The zone loses money by design and returns it through a 20–40% uplift on adjacent Z1 pricing.
+**Z3 — Community.** Near-zero leasehold (B at nominal rent) plus participation rent after breakeven. Deed restrictions lock the use; reversion clauses fire on any change of function. The zone loses money by design and returns it through a 20–40% uplift on adjacent Z1 pricing.
 
 **Z4 — Infra.**
 
@@ -89,7 +93,7 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 - **Default model: self-funded.** Capex comes from Phase 0 proceeds; ownership stays 100% with PT PMA.
 - Operations are delegated to specialized management companies on **fee contracts (5–15% of revenue)** with KPIs and replacement rights — no equity, no concessions.
 - The full tariff margin (energy, water, connectivity) remains with the developer as a permanent, city-scaling cash flow.
-- Barter (H) and BOT (I) are held in reserve strictly for cash-gap scenarios, with their true cost stated openly: barter is a disguised land sale at 50% discount; BOT surrenders 15–20 years of operating profit.
+- Barter and BOT are held in reserve strictly for cash-gap scenarios, with their true cost stated openly: barter is a disguised land sale at 50% discount; BOT surrenders 15–20 years of operating profit.
 - Perpetual transfer of any infrastructure asset is prohibited in all scenarios.
 
 *Mobility hub (2 ha):*
@@ -100,9 +104,9 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 - Honest disclosure to buyers: yield projections assume Phase 2+ traffic. Early tranches carry a 2-year minimum rent guarantee from the management company, priced into the slot.
 - Throughput at maturity: 10–12k people/day — sufficient for the anchor, events, and residency flows combined.
 
-**Z5 — Innovation.** Land-for-equity (J): leases at ×0.2 for 2–5% equity across a portfolio of 15–20 resident ventures — two successes repay the zone. Larger operators enter via JV (D/E). Options (F) serve those who want to reserve ground without freezing it: unexercised options expire. Selection filters for alignment with the Cyberia stack, not capital alone.
+**Z5 — Innovation.** Land-for-equity: leases at ×0.2 for 2–5% equity across a portfolio of 15–20 resident ventures — two successes repay the zone. Larger operators enter via JV (C). Options serve those who want to reserve ground without freezing it: unexercised options expire. Selection filters for alignment with the Cyberia stack, not capital alone.
 
-**Z6 — Agroforestry.** Annual leases (B) to farm operators plus participation (G) in farm revenue, or pure operator agreements with no land rights transferred. Output feeds the Z2 restaurant and estate commerce — vertical integration from soil to table.
+**Z6 — Agroforestry.** Annual leases (B) to farm operators plus participation in farm revenue, or pure operator agreements with no land rights transferred. Output feeds the Z2 restaurant and estate commerce — vertical integration from soil to table.
 
 **Z7 — Conservation.** No transactions. Optional revenue layers: carbon and biodiversity credits, donor naming rights, trail network as a priced amenity.
 
@@ -113,8 +117,8 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 A city needs infrastructure to attract residents and residents to pay for infrastructure. The resolution is wave-based sequencing where each phase's sales fund the next phase's infrastructure, anchored by one demand magnet built first.
 
 **Phase 0 — Capital before infrastructure (now → +6 months)**
-- Wave 1 residential sales (instrument K): 15 are at pioneer pricing with build obligations
-- Options (F) on Wave 2 sold to believers not yet ready to build
+- Wave 1 residential sales (A with build obligation): 15 are at pioneer pricing
+- Options on Wave 2 sold to believers not yet ready to build
 - Parking slots, tranche 1: 500 motorbike + 100 car slots ≈ $1M — the lowest-friction entry product
 - Target: Phase 0 proceeds must fully cover Phase 1 infrastructure capex **before construction starts**; otherwise the project is forced into barter on bad terms
 
@@ -132,7 +136,7 @@ A city needs infrastructure to attract residents and residents to pay for infras
 
 **Phase 3 — Full pricing + refinancing (+4 years onward)**
 - Wave 3 at ×1.0–1.3
-- Sale-leaseback (L) of mature Z2 assets to institutional buyers
+- Sale-leaseback of mature Z2 assets to institutional buyers
 - Recurring flows (leases, participation rents, infrastructure margin) cover the city's operating budget independent of land sales
 
 **The Disney rule:** the reserve — the best 15 are of Z1 plus the entire Z2 frontage — is not released until market prices reach 2× Wave 3.
@@ -144,10 +148,10 @@ A city needs infrastructure to attract residents and residents to pay for infras
 ```
 Capital sources by phase:
 
-P0:  Wave 1 (K) + options (F) + parking tranche 1   → Phase 1 infrastructure capex
+P0:  Wave 1 (A) + options + parking tranche 1       → Phase 1 infrastructure capex
 P1:  Self-funded infra (PT PMA ownership)           → barter/BOT only on cash gap
 P2:  Wave 2 (A) + option exercises                  → Z3 + operations
-P3:  Wave 3 + sale-leaseback (L)                    → refinancing, distributions
+P3:  Wave 3 + sale-leaseback                        → refinancing, distributions
 ∞:   Annual leases + participation rents
      + infrastructure margin (tariffs − O&M fees)
      + parking management fees + agro revenue
@@ -178,13 +182,13 @@ The structural goal: by end of Phase 2, recurring streams cover 100% of estate o
 
 | Risk | Mitigation |
 |---|---|
-| Landbankers freezing plots | Build obligations + reversion (K) on all early-phase sales; options (F) instead of sales for speculative demand — they expire, land doesn't freeze |
+| Landbankers freezing plots | Build obligations + reversion clauses on all early-phase sales; options instead of sales for speculative demand — they expire, land doesn't freeze |
 | Selling too much, too cheap, too early | Hard cap: Wave 1 ≤ 20% of residential inventory; reserve inviolable until 2× Wave 3 pricing |
-| Loss of infrastructure control | Self-fund default; fallback instruments (H/I) only with reversion; perpetual transfer prohibited |
+| Loss of infrastructure control | Self-fund default; barter/BOT fallbacks only with reversion; perpetual transfer prohibited |
 | Community plots changing function | Deed restrictions + reversion clauses in all Z3 contracts |
 | Regulatory (PT PMA status, HGB extensions, zoning) | Extension options written into every lease now; Hak Pakai duplication where possible; ITR/RDTR Buleleng verification before plot subdivision is finalized |
 | Early parking buyers facing empty asphalt | Phase-2 yield framing in all sales material + 2-year minimum rent guarantee priced into tranche 1 |
-| Phase 0 raise falling short of Phase 1 capex | Construction does not start until the gap is closed; barter (H) pre-negotiated as a standby facility, not a surprise |
+| Phase 0 raise falling short of Phase 1 capex | Construction does not start until the gap is closed; barter pre-negotiated as a standby facility, not a surprise |
 
 ---
 
