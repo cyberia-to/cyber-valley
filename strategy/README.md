@@ -119,7 +119,7 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 - Capacity: ~350 car slots (1 ha) + ~1,800 motorbike slots (1 ha), weighted for Balinese two-wheel culture.
 - Product: the slot as a micro-asset — **motorbike $1k / car $5k** (25-year lease per slot). Full sell-out ≈ **$3.5M**, comparable to a residential wave but consuming no buildable land.
 - Management company runs operations for opex + 25–30% of revenue; slot owners target 10–15% gross yield at $0.30–0.50/hour car tariffs in destination mode.
-- Strategic role: the $1k slot is the cheapest ticket into the project — a micro-investor funnel with an upgrade path (slot → option → lease) and the natural first candidate for tokenization (§7).
+- Strategic role: the $1k slot is the cheapest ticket into the project — a micro-investor funnel with an upgrade path (slot → option → lease) and the natural first candidate for tokenization (§8).
 - Honest disclosure to buyers: yield projections assume Phase 2+ traffic. Early tranches carry a 2-year minimum rent guarantee from the management company, priced into the slot.
 - Throughput at maturity: 10–12k people/day — sufficient for the anchor, events, and residency flows combined.
 
@@ -188,7 +188,35 @@ The structural goal: by end of Phase 2, recurring streams cover 100% of estate o
 
 ---
 
-## 7. Governance and the Cyberia Layer
+## 7. Spending Strategy
+
+Sections 4–6 answer where money comes from; this one answers where it goes. A city is a machine that turns rent back into capability — the spending discipline IS the development strategy, and it is what separates an estate that compounds from a project that cashes out.
+
+**The capability stack.** Every dollar buys a layer of the city's body, ordered survival-first:
+
+| layer | what it buys | spend character |
+|---|---|---|
+| water | springs, gravity storage, drainage | capex early, cheap to keep |
+| energy | solar + storage | capex, near-zero marginal cost |
+| walls | terracing, erosion control, perimeter, gates | capex + seasonal maintenance |
+| roads | access, internal mobility, trails | capex; maintenance is senior |
+| genetics | nursery, seed bank, soil biology, species | continuous tithe — living capital compounds |
+| computing | connectivity, sensors, the node, local compute | short refresh cycles |
+| security | guardians, legal stack, monitoring | pure opex — people |
+
+**Five allocation rules:**
+
+1. **Two ledgers, never mixed.** One-time income (upfronts, HGB trades, lump sums) buys permanent capability; recurring income (the five streams of §6) runs the city. Capital events are never spent on opex — a city that eats its lump sums dies rich.
+2. **Maintenance is senior.** Existing capability is maintained before any new one is bought. A decaying asset is a liability wearing an asset's name.
+3. **Bottleneck-first.** Growth capex concentrates on the binding constraint of the current phase — sequencing is the strategy, applied to spending.
+4. **Collapse down the stack.** When income shrinks, cuts run top-down: computing before roads, roads before water. The bottom of the stack is never rationed.
+5. **Tithes off the top.** Fixed shares of every recurring dollar flow automatically: to the biosphere (the amenity engine is fed, not hoped for), to reserves held in the [[century index]] (the war chest keeps its value by construction), to the desa share (the tone guardrail).
+
+Starting allocation of recurring income, reviewed at every phase gate: **40% run** (opex + maintenance + security) · **25% grow** (bottleneck capex) · **15% store** (CX reserves) · **10% biosphere** · **10% desa**.
+
+---
+
+## 8. Governance and the Cyberia Layer
 
 **Corporate:** PT PMA holds land rights and infrastructure; Cyberia DAO LLC (Marshall Islands) holds the coordination and token layer. The legal bridge — DAO-side representations of PT PMA lease registry entries — is the single most important legal engineering task of Phase 0–1.
 
@@ -198,7 +226,7 @@ The structural goal: by end of Phase 2, recurring streams cover 100% of estate o
 
 ---
 
-## 8. Risk Register
+## 9. Risk Register
 
 | Risk | Mitigation |
 |---|---|
@@ -212,7 +240,7 @@ The structural goal: by end of Phase 2, recurring streams cover 100% of estate o
 
 ---
 
-## 9. Open Items
+## 10. Open Items
 
 1. **Z1 subdivision grain:** 5-are vs 10-are minimum plots — more buyers vs. lower density and stronger atmosphere. Decision gates Wave 1 marketing.
 2. **Wave 1 price anchor:** comparable analysis of Munduk/Bedugul leasehold $/are required to calibrate the ×0.4 pioneer multiple.
