@@ -2,7 +2,7 @@
 tags: cyberia, cyber valley, strategy
 crystal-type: pattern
 crystal-domain: cyberia
-alias: development, city development strategy, master plan
+alias: development, city development strategy, master plan, tone, the tone
 ---
 # Cyber Valley City Development Strategy
 
@@ -18,13 +18,24 @@ This document is public by design. The pricing curve, wave caps, and reserve rul
 
 Cyber Valley is the physical layer of the Cyberia stack: a prototype settlement demonstrating that a self-funding, self-governing city can be bootstrapped from raw land without external debt or loss of founding control.
 
-The master developer thesis is simple: **land is the capital, infrastructure is the bottleneck, sequencing is the strategy.** Early transactions must finance infrastructure without giving away the upside; infrastructure then multiplies the value of everything sold later. The reference playbook is Irvine Ranch and Disney-Celebration: acquire and hold quietly, sell slowly, raise prices with every phase, never lose control of the systems that make the city function.
+The master developer thesis is simple: **land is the capital, infrastructure is the bottleneck, sequencing is the strategy.** Early transactions must finance infrastructure without giving away the upside; infrastructure then multiplies the value of everything sold later. The reference playbook is [Irvine Ranch](https://en.wikipedia.org/wiki/Irvine_Ranch) and [Disney-Celebration](https://en.wikipedia.org/wiki/Celebration,_Florida): acquire and hold quietly, sell slowly, raise prices with every phase, never lose control of the systems that make the city function. Irvine proves a single-owner estate on long ground leases compounds for a century; Celebration proves tone can be engineered and priced.
 
 Three non-negotiable principles govern every decision in this document:
 
 1. **The landscape is capital, not inventory.** 46% of the estate (agroforestry and cloud forest) is never sold. It is the amenity engine that prices everything else.
 2. **Infrastructure ownership never leaves the developer.** Operations can be delegated; ownership and tariff-setting cannot.
 3. **Scarcity is manufactured through discipline, not marketing.** Each sales wave is capped, and the best land sells last, at the highest price.
+
+### The Tone
+
+The valley is wild, sacred, nature-first — glowing rather than loud, priced and filtered rather than mass-market, for people who respect land. Tone is an asset with named holders: founders, guardians, retreat leaders, key early guests, long-term partners, approved visual media.
+
+Four guardrails protect it:
+
+1. **Price and filter.** No chasing the cheap market early, no budget-tour channels pushing clients, no low-quality parties.
+2. **Cap the sacred.** Volume limits in sacred zones; cars and noise stay at the perimeter; Sinwood never overloads past the sacred feeling.
+3. **Guardians hold the culture.** They train every guide — no drift into taxi-driver attitude; desa share stays strong, protecting sacredness locally.
+4. **Curate the image.** All visual media approved, no ugly mass promotion; storytelling capacity — guides, signage, materials — is budgeted, not hoped for.
 
 ---
 
@@ -206,4 +217,4 @@ The structural goal: by end of Phase 2, recurring streams cover 100% of estate o
 → [[cyber-valley/ops/ops]] for the operational playbook and KPIs
 → [[cyber-valley/districts]] for the district inventory
 → [[cyber-valley/policies/zoning system]] for the land-use code every lease inherits
-→ [[cyber-valley/strategy/notes]] for product analysis, [[cyber-valley/strategy/tone]] for brand guardrails
+→ [[cyber-valley/strategy/notes]] for product analysis
