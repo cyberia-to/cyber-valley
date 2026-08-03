@@ -64,17 +64,7 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 
 | Instrument | Mechanics | Cash profile | Primary use |
 |---|---|---|---|
-| **A. Leasehold 25y upfront** | Full payment at signing, registered lease | 100% now | Residents ready to build |
-| **B. Annual leasehold** | Yearly payments, indexed via the [[rent index]] | Stream, little now | Cautious entrants, community services |
-| **D. JV via HGB contribution** | PT PMA contributes HGB rights for project equity | 0 now, equity upside | Capital partners (hotel, clinic operators) |
-| **E. JV via leasehold contribution** | Lease contributed for a share of the OpCo | 0 now, OpCo stake | Operators without land capital |
-| **F. Option agreement** | 5–10% premium for the right to buy a lease at a fixed price within N years | Small cash now, no land transferred | Speculative demand, early phases |
-| **G. Participation rent** | Base rent + % of on-site business revenue | Stream + upside | Commercial plots in Z2/Z3 |
-| **H. Land-for-infra barter** | Contractor builds infrastructure, receives plots at internal offset | 0 cash, infra appears | **Fallback only** — cash-gap situations; real cost is plots at ×0.5 |
-| **I. BOT (build-operate-transfer)** | Partner builds and operates 15–20 years, asset then reverts | 0 now, asset later | **Fallback only** — specialized capex where the partner carries technology risk |
-| **J. Land-for-equity** | Discounted lease for 2–5% equity in a resident venture | Portfolio bet | Z5, the YC model applied to land |
-| **K. Milestone-vested lease** | Price at ×0.3–0.5 with a 2–3 year build obligation; reversion on failure | Cash now + anti-landbanking | Wave 1 pioneers |
-| **L. Sale-leaseback** | Sell a built asset, lease it back | Late-phase refinancing | Institutional buyers, Phase 3+ |
+| **Joint venture through leasehold** | Lease contributed for a share of the OpCo | 0 now, OpCo stake | Operators without land capital |
 
 **Indonesian legal wrapper:** individual foreign buyers take notarized leaseholds from PT PMA (25 years + pre-agreed extension options) or Hak Pakai on completed structures; PT PMA-to-PT PMA transfers carry HGB rights for JV and institutional channels. All leases include sublease rights through the estate management company, enabling a rental pool for absentee owners.
 
