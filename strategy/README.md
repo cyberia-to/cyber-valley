@@ -8,7 +8,7 @@ alias: development, city development strategy, master plan, tone, the tone
 
 **Asset:** 37 ha, Gesing, Buleleng, Bali · 1,200–1,500 m elevation · cloud forest / permaculture
 **Holding structure:** PT PMA Cyber Valley Estate (HGB/Hak Pakai capable) · Cyberia DAO LLC (Marshall Islands)
-**Version:** 1.1 · July 2026
+**Version:** 2.0 · August 2026
 
 This document is public by design. The pricing curve, wave caps, and reserve rule are commitments, not negotiating positions: a buyer who can verify the curve in advance can trust the discipline behind it.
 
@@ -16,7 +16,7 @@ This document is public by design. The pricing curve, wave caps, and reserve rul
 
 ## 1. Strategic Intent
 
-Cyber Valley is the physical layer of the Cyberia stack: a prototype settlement demonstrating that a self-funding, self-governing city can be bootstrapped from raw land without external debt or loss of founding control.
+Cyber Valley is the physical layer of the Cyberia stack: a prototype settlement demonstrating that a self-funding, self-governing city can be bootstrapped from raw land without external debt or loss of founding control — and city #1 of a network (§11).
 
 The master developer thesis is simple: **land is the capital, infrastructure is the bottleneck, sequencing is the strategy.** Early transactions must finance infrastructure without giving away the upside; infrastructure then multiplies the value of everything sold later. The proof is not in freehold empires — it is in cities built on exactly our kind of tenure, time-bound land rights:
 
@@ -47,7 +47,41 @@ Four guardrails protect it:
 
 ---
 
-## 2. The Asset and Its Position
+## 2. For Whom
+
+Demand is a pyramid: a wide warm base that pays for today and a narrow apex that the city is actually for. The strategy serves both and never confuses them.
+
+**The macro pool.** ~900M adults want to leave where they live; 25–35M actually move each year. Inside that flow sit ~40M global nomads, decomposed by awareness in the [[migration market model]]: N0 asleep ~28M · N1 hurting ~8M · N2 seeking ~2–3M · N3 building ~300k. The apex product targets N2–N3: founders and engineers between cycles, writers and researchers needing quiet, families homeschooling on the road, builders of villages, co-ops, and network states.
+
+**Two stories of demand.** The visitor economy — Indonesian families and Bali tourists, roughly three quarters of heads at $5–220 tickets — is fuel: traffic, local legitimacy, reviews, content, F&B margin. The resident economy — nomads month+, event hosts, builders: a few percent of heads but over half of revenue — is the product. The brand leads with the visceral (forest, volcano, glow); the cyber layer reveals itself post-arrival. Fuel is never mistaken for product, and neither is starved.
+
+**What the apex actually buys.** Nomads move sideways — they do not want classic rooting; they want belonging that survives relocation. So this site sells time and membership, not soil: VISIT → STAY → SETTLE happen here (§3 products, §6 instruments); BELONG is a network product (§11).
+
+**Tone versus volume, resolved by zoning.** Volume lives at the perimeter — trails, picnic grounds, the mobility hub; the sacred core is capacity-capped and price-filtered. The two demand stories never occupy the same hectare at the same hour.
+
+---
+
+## 3. Products: The Ladder
+
+Five operating products, ordered by length of stay. Each rung feeds the next, and the ladder converts into land instruments (§6):
+
+| # | product | stay | ticket | role |
+|---|---|---|---|---|
+| 1 | **Picnics & trails** — Indonesian families and groups | hours | $2–15 | traffic, local love, the license to operate |
+| 2 | **Mountain tourism hub** — trails, sunrise, waterfalls, glamping | 1–2 days | $35–220 | overnight economics, the OTA channel |
+| 3 | **Event platform** — retreats, camps, markets, festivals | day–week | $400+/host × participants | the multiplier: one event = a hundred rung-1/2 visits, content, high-intent guests |
+| 4 | **Nomad hub** — coliving 40–80 beds, cowork, wellness | month+ | ~$1.8k/mo | the revenue backbone and the funnel into leases |
+| 5 | **Farm-to-table epicenter** — nandu → restaurant → spa products | horizontal | F&B attach at every rung | the margin layer of rungs 1–4 and a destination magnet in its own right |
+
+Rules of the ladder:
+
+- **Each rung is measured by its own metric.** Rung 1's product is legitimacy and content — measured in local NPS, reviews, organic share, never raw revenue; priced to stay full. Rungs 2–4 are measured on contribution margin and conversion to the next rung.
+- **Conversion is the strategy.** Picnic → story → overnight; event → "lived a week here" → monthly plan; nomad → residency → [[annual leasehold]]. Repeat/referral target: 10% → 25%.
+- **Capacity is the bottleneck, not demand.** Sinwood concurrent load, trail load, and event-day parking are modeled before any marketing push — bottleneck-first capex (§9) buys capacity at the constraining rung.
+
+---
+
+## 4. The Asset and Its Position
 
 37 hectares of highland cloud forest and productive land at 1,200–1,500 m — a climate band that stays temperate year-round, an increasingly scarce asset as lowland tropical heat intensifies.
 
@@ -55,7 +89,7 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 
 ---
 
-## 3. Land Use Plan: Eight Zones
+## 5. Land Use Plan: Eight Zones
 
 | # | Zone | Area | % | Function |
 |---|------|------|---|----------|
@@ -71,15 +105,15 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 **Design logic:**
 
 - **Z6 + Z7 (46%) are permanent holdings.** A villa plot adjoining managed forest and productive farmland commands a 30–50% premium over an identical plot in a bare subdivision. The unsold land is what sells the sold land.
-- **Z1 is released in waves, never in bulk** (§5). Total early release is capped at 20% of the residential inventory.
+- **Z1 is released in waves, never in bulk** (§7). Total early release is capped at 20% of the residential inventory.
 - **Z4 is the control layer.** Whoever owns energy, water, and access owns the city. All structures in this zone revert to the developer.
-- **The core is car-free.** Vehicles stop at the Z4 mobility hub on the perimeter; internal movement is by foot, e-mobility, and shuttle. This is simultaneously an operating decision and the wellness product itself — silence and clean air are the brand.
+- **The core is car-free.** Vehicles stop at the Z4 mobility hub on the perimeter; internal movement is by foot, e-mobility, and shuttle. This is simultaneously an operating decision and the wellness product itself — silence and clean air are the brand. It is also how rung-1 volume and the sacred core coexist (§2).
 
 ---
 
-## 4. Deal Architecture
+## 6. Deal Architecture
 
-### 4.1 Instrument Menu
+### 6.1 Instrument Menu
 
 | Instrument | Mechanics | Cash profile | Primary use |
 |---|---|---|---|
@@ -91,7 +125,7 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 
 **Indonesian legal wrapper:** individual foreign buyers take notarized leaseholds from PT PMA (25 years + pre-agreed extension options) or Hak Pakai on completed structures; PT PMA-to-PT PMA transfers carry HGB rights for JV and institutional channels. All leases include sublease rights through the estate management company, enabling a rental pool for absentee owners.
 
-### 4.2 Zone-by-Zone Application
+### 6.2 Zone-by-Zone Application
 
 **Z1 — Residences (~80 sellable are after internal circulation)**
 
@@ -119,7 +153,7 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 - Capacity: ~350 car slots (1 ha) + ~1,800 motorbike slots (1 ha), weighted for Balinese two-wheel culture.
 - Product: the slot as a micro-asset — **motorbike $1k / car $5k** (25-year lease per slot). Full sell-out ≈ **$3.5M**, comparable to a residential wave but consuming no buildable land.
 - Management company runs operations for opex + 25–30% of revenue; slot owners target 10–15% gross yield at $0.30–0.50/hour car tariffs in destination mode.
-- Strategic role: the $1k slot is the cheapest ticket into the project — a micro-investor funnel with an upgrade path (slot → option → lease) and the natural first candidate for tokenization (§8).
+- Strategic role: the $1k slot is the cheapest ticket into the project — a micro-investor funnel with an upgrade path (slot → option → lease) and the natural first candidate for tokenization (§10).
 - Honest disclosure to buyers: yield projections assume Phase 2+ traffic. Early tranches carry a 2-year minimum rent guarantee from the management company, priced into the slot.
 - Throughput at maturity: 10–12k people/day — sufficient for the anchor, events, and residency flows combined.
 
@@ -131,7 +165,7 @@ Competitive position: the Munduk–Bedugul highland corridor is the last under-d
 
 ---
 
-## 5. Phasing: Resolving the Chicken-and-Egg
+## 7. Phasing: Resolving the Chicken-and-Egg
 
 A city needs infrastructure to attract residents and residents to pay for infrastructure. The resolution is wave-based sequencing where each phase's sales fund the next phase's infrastructure, anchored by one demand magnet built first.
 
@@ -145,7 +179,7 @@ A city needs infrastructure to attract residents and residents to pay for infras
 - Infrastructure built self-funded; ownership with PT PMA; operations contracted to fee-based managers
 - Barter/BOT deployed only if a cash gap materializes, and only point-wise
 - Z2 anchor launched (own capex + operator JV)
-- Residency program (150 people/month) operates as the built-in lead funnel for leases
+- Residency program ramps toward ~150 people/month — the built-in lead funnel for leases
 
 **Phase 2 — Monetizing growth (+2–4 years)**
 - Wave 2 sales at ×0.7; option exercises convert
@@ -162,7 +196,7 @@ A city needs infrastructure to attract residents and residents to pay for infras
 
 ---
 
-## 6. Financial Architecture
+## 8. Financial Architecture
 
 ```
 Capital sources by phase:
@@ -188,9 +222,9 @@ The structural goal: by end of Phase 2, recurring streams cover 100% of estate o
 
 ---
 
-## 7. Spending Strategy
+## 9. Spending Strategy
 
-Sections 4–6 answer where money comes from; this one answers where it goes. A city is a machine that turns rent back into capability — the spending discipline IS the development strategy, and it is what separates an estate that compounds from a project that cashes out.
+Sections 6–8 answer where money comes from; this one answers where it goes. A city is a machine that turns rent back into capability — the spending discipline IS the development strategy, and it is what separates an estate that compounds from a project that cashes out.
 
 **The capability stack.** Every dollar buys a layer of the city's body, ordered survival-first:
 
@@ -206,7 +240,7 @@ Sections 4–6 answer where money comes from; this one answers where it goes. A 
 
 **Five allocation rules:**
 
-1. **Two ledgers, never mixed.** One-time income (upfronts, HGB trades, lump sums) buys permanent capability; recurring income (the five streams of §6) runs the city. Capital events are never spent on opex — a city that eats its lump sums dies rich.
+1. **Two ledgers, never mixed.** One-time income (upfronts, HGB trades, lump sums) buys permanent capability; recurring income (the five streams of §8) runs the city. Capital events are never spent on opex — a city that eats its lump sums dies rich.
 2. **Maintenance is senior.** Existing capability is maintained before any new one is bought. A decaying asset is a liability wearing an asset's name.
 3. **Bottleneck-first.** Growth capex concentrates on the binding constraint of the current phase — sequencing is the strategy, applied to spending.
 4. **Collapse down the stack.** When income shrinks, cuts run top-down: computing before roads, roads before water. The bottom of the stack is never rationed.
@@ -216,7 +250,7 @@ Starting allocation of recurring income, reviewed at every phase gate: **40% run
 
 ---
 
-## 8. Governance and the Cyberia Layer
+## 10. Governance and the Cyberia Layer
 
 **Corporate:** PT PMA holds land rights and infrastructure; Cyberia DAO LLC (Marshall Islands) holds the coordination and token layer. The legal bridge — DAO-side representations of PT PMA lease registry entries — is the single most important legal engineering task of Phase 0–1.
 
@@ -226,7 +260,21 @@ Starting allocation of recurring income, reviewed at every phase gate: **40% run
 
 ---
 
-## 9. Risk Register
+## 11. The Network Exit
+
+Honesty about the ceiling: **Indonesia cannot sell rooting.** Hak Milik is citizens-only, dual citizenship is prohibited, every foreign status is time-bound. The top rung of the ladder — BELONG — is not this jurisdiction's product, and earlier versions of this strategy erred by promising it here. The correction:
+
+1. **Gesing is city #1, not the terminal city** — the prototype, the campus, and the cash engine of a network. Its ladder honestly ends at SETTLE: leaseholds of 25 years plus extensions.
+2. **BELONG is sold by the network.** Citizenship is Cyberia membership — portable across sites, with land rights attached per jurisdiction. The nomad who moves sideways keeps everything; this matches what nomads actually want (§2) instead of fighting it.
+3. **Cash out roughly half; keep the engine.** Capital assets — HGB anchors (Rockets, Bridge), district leaseholds, mature sale-leasebacks — are sold on the §7 phase gates. Never sold: Z4 (control), Z6/Z7 (the amenity engine), and the five recurring streams. Proceeds sit in [[century index]] reserves until deployed — a war chest that keeps its value while the next site is chosen.
+4. **Site #2 passes five filters that Gesing cannot:** perpetual land rights for foreigners · a real path to citizenship or permanent residence · rights that survive a change of government · geography that carries the tone · crypto-compatible rails. The jurisdiction memo is an open item (§13).
+5. **The export product is the playbook itself:** the CX index, the marketplace protocol, the spending discipline, the zone architecture, this document. Every city Cyberia develops prices its leases with the same machine — that sentence is already written into the [[century index]] spec.
+
+Winning, stated plainly: recurring streams cover Gesing's opex (§8), the reserve wave sells at 2× (§7), roughly half the capital redeploys into the first rooting-capable site, and city #2 starts with everything city #1 had to learn.
+
+---
+
+## 12. Risk Register
 
 | Risk | Mitigation |
 |---|---|
@@ -235,22 +283,26 @@ Starting allocation of recurring income, reviewed at every phase gate: **40% run
 | Loss of infrastructure control | Self-fund default; barter/BOT fallbacks only with reversion; perpetual transfer prohibited |
 | Community plots changing function | Deed restrictions + reversion clauses in all Z3 contracts |
 | Regulatory (PT PMA status, HGB extensions, zoning) | Extension options written into every lease now; Hak Pakai duplication where possible; ITR/RDTR Buleleng verification before plot subdivision is finalized |
+| Single-jurisdiction concentration | The network exit (§11): staged cash-out, CX reserves, site #2 filters |
 | Early parking buyers facing empty asphalt | Phase-2 yield framing in all sales material + 2-year minimum rent guarantee priced into tranche 1 |
 | Phase 0 raise falling short of Phase 1 capex | Construction does not start until the gap is closed; barter pre-negotiated as a standby facility, not a surprise |
 
 ---
 
-## 10. Open Items
+## 13. Open Items
 
 1. **Z1 subdivision grain:** 5-are vs 10-are minimum plots — more buyers vs. lower density and stronger atmosphere. Decision gates Wave 1 marketing.
 2. **Wave 1 price anchor:** comparable analysis of Munduk/Bedugul leasehold $/are required to calibrate the ×0.4 pioneer multiple.
 3. **ITR/RDTR Buleleng:** confirm permitted construction on current land status — this determines which zones are legal immediately and which require status conversion. **Highest-priority verification; gates the entire subdivision plan.**
 4. **Phase 1 capex model:** road + water + energy core + hub pad, priced against realistic Phase 0 sales volume — determines exactly how many Wave 1 are must sell before ground breaks.
 5. **DAO ↔ PT PMA legal bridge:** structure for token-side representation of registered leases.
+6. **Site #2 jurisdiction memo:** the five §11 filters applied first-principles to candidate jurisdictions, with verified facts on land rights, naturalization, and political risk.
+7. **Sinwood capacity model:** concurrent load limit for the sacred core — gates rung-3 event marketing and the new-moon product.
 
 ---
 
 → [[cyber-valley/ops/ops]] for the operational playbook and KPIs
+→ [[marketing]] for channel stacks, segment economics, and CAC math
 → [[cyber-valley/districts]] for the district inventory
 → [[cyber-valley/policies/zoning system]] for the land-use code every lease inherits
 → [[cyber-valley/strategy/notes]] for product analysis
