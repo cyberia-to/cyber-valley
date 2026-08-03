@@ -157,12 +157,13 @@ P3:  Wave 3 + sale-leaseback                        → refinancing, distributio
      + parking management fees + agro revenue
 ```
 
-Four permanent revenue streams after Phase 2:
+The business model — five permanent revenue streams after Phase 2:
 
-1. **Lease payments** (B contracts, indexed via the [[rent index]] with an assessed-land-value hybrid under discussion — a de facto land value tax that lets the city's growth fund the city's operations)
-2. **Participation rents** (% of Z2/Z3 commercial revenue)
-3. **Infrastructure margin** (utility tariffs net of management fees)
-4. **Mobility and estate services** (parking management, rental pool, agro commerce)
+1. **Utility payments** — power, water, connectivity, waste: tariffs net of management fees, the infrastructure margin
+2. **Share of sales** — % of on-site business revenue (participation rents, Z2/Z3)
+3. **Share of sublease** — % on subleases placed through the estate rental pool
+4. **Rent payments** — [[annual leasehold]] schedules, indexed via the [[century index]]
+5. **The lease right — free.** Entry costs nothing as such: the right to hold a lease is granted in exchange for 2 and 3. The estate earns from the city's activity, not from gatekeeping the door.
 
 The structural goal: by end of Phase 2, recurring streams cover 100% of estate opex, making land sales pure capital events rather than survival necessities. That is the definition of a bootstrapped city.
 
