@@ -72,7 +72,6 @@ root.innerHTML='<div class=cols><div class="panel ctrl">'+html+'</div>'
 +'<p class=note>Красная линия — рента индексируется, но её доля от актива тает, когда g &gt; CPI. '
 +'Жёлтая — на каждом review рента подтягивается к X% от текущей стоимости земли и индексируется с новой базы. '
 +'При g = CPI линии совпадают: review ничего не стоит арендатору — чистая страховка.</p></div></div></div>';
-
 function calc(){
  const pf=P.p/100, rAdj=(P.rBase+P.spread*(1-pf))/100, cpi=P.cpi/100, g=P.g/100;
  const totalPV=P.k/100*P.FH, premium=pf*totalPV, remainder=totalPV-premium;
