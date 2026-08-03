@@ -2,7 +2,7 @@
 tags: cyberia, cyber valley, strategy
 crystal-type: pattern
 crystal-domain: cyberia
-alias: city development strategy, master plan
+alias: development, city development strategy, master plan
 ---
 # Cyber Valley City Development Strategy
 
