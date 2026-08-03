@@ -49,7 +49,7 @@ Four guardrails protect it:
 
 ## 2. The Asset and Its Position
 
-37 hectares of highland cloud forest and productive land at 1,200–1,500 m — a climate band that stays temperate year-round, an increasingly scarce asset as lowland tropical heat intensifies. The estate already operates a permaculture system, animal husbandry, and a residency program running ~150 visitors per month: an existing demand funnel that most greenfield developments spend years and millions to build.
+37 hectares of highland cloud forest and productive land at 1,200–1,500 m — a climate band that stays temperate year-round, an increasingly scarce asset as lowland tropical heat intensifies.
 
 Competitive position: the Munduk–Bedugul highland corridor is the last under-developed premium band on Bali. Lowland leasehold prices (Canggu, Ubud) have inflated beyond the reach of the exact demographic Cyber Valley targets — builders, founders, and long-horizon residents rather than short-stay tourists. The highland discount will not persist once road access and utilities normalize; the strategy is to be the party that normalizes them and captures the repricing.
 
