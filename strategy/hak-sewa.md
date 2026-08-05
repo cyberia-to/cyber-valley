@@ -8,7 +8,7 @@ crystal-domain: cyberia
 
 the Indonesian lease right — the legal category under which [[cyber-valley]] leaseholds sit. a hak sewa is a contract to use land or a building for an agreed term against payment; it is a right, not a title, and it never moves ownership.
 
-for a foreign resident it is the cleanest way to hold cyber valley land: no citizenship requirement, no company needed, a notarized deed from PT PMA with pre-agreed extension options. the estate's other instruments register ownership at the land office ([[hak pakai]] for foreigners on a completed structure, [[hak milik]] freehold for citizens); hak sewa stays a contract with the estate.
+for a foreign resident it is the cleanest way to hold cyber valley land: no citizenship requirement, no company needed, a notarized deed from PT PMA with extension pre-agreed on the [[century index]] — the renewal cost fixed by the index, not renegotiated at market. the estate's other instruments register ownership at the land office ([[hak pakai]] for foreigners on a completed structure, [[hak milik]] freehold for citizens); hak sewa stays a contract with the estate.
 
 two payment forms, one right:
 
