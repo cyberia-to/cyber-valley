@@ -6,7 +6,7 @@ crystal-domain: cyberia
 ---
 # annual leasehold
 
-a 25-year registered leasehold on [[development|cyber valley]] land with pre-agreed extension options — instrument B of the [[development|strategy]].
+a 25-year registered leasehold — legally a [[hak sewa]], the Indonesian lease right — on [[development|cyber valley]] land with pre-agreed extension options. instrument B of the [[development|strategy]]: the same hak sewa as [[leasehold upfront]] (A), paid on a schedule instead of at once.
 
 the right to the lease is free: the estate charges nothing for entry — it earns a share of your on-site sales and of your sublease income instead. the land itself you pay for like this: at least 30% of the lease value at signing, the rest as an annual schedule that compounds three costs — the cost of money, the money index ([[century index]]), and land growth. the schedule is fixed at signing; the money leg follows the actual index.
 
