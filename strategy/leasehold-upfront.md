@@ -13,7 +13,7 @@ the resident's instrument: one payment, a notarized hak sewa from PT PMA with ex
 what the lease carries:
 
 - registered 25y term + extension pre-agreed on the [[century index]], notarial deed from PT PMA
-- the right to sublet through the estate rental pool for a revenue share (~20% pool-managed short-stay, ~10% owner-run long-stay) — see [[hak sewa]] for the short-stay vs monthly terms
+- the right to sublet the land at any horizon — day to season — via the cyberia [[marketplace]] API for agents, against the area tax (10%, or 5% self-sufficient) plus a thin settlement fee, not a management cut — see [[hak sewa]]
 - the [[cyber-valley/policies/zoning system|zoning code]] as a covenant: footprint caps, species density, pollution policies
 - build obligation on Wave 1 — anti-landbanking, reversion if nothing stands in 2–3 years
 
