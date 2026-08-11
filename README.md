@@ -15,5 +15,5 @@ The project is deliberately self-funded to protect one core idea: an outstanding
 [[visit us]], or [[join us]] from wherever you are.
 
 - [[cyber-valley/cve]] — valley events
-- [[cyber-valley/oxytocin]] — wellness layer
+- [[oxytocin]] — wellness layer
 - [[cyber-valley/cybland]] — land and infrastructure
