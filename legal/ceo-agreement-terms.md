@@ -11,7 +11,7 @@ Translated from the Russian working document `Условия и тезисы д�
 
 > Status. Negotiating position for the CEO contract, written to be handed to counsel. Nothing here is executed. Blanks in the source (`______`) and the author's inline queries are preserved as they stand.
 
-Part of the [[dzin]] corporate pack. Reads together with [[revenue-model]] (the commission arithmetic), [[shareholders-agreement]] (the equity that the same person holds as a Shareholder) and [[articles-of-association]] (the authority the same person holds as Director).
+Part of the [[dzin]] corporate pack. This page owns the role, the authority and the procedure; every figure of remuneration sits in [[ceo-compensation-schedule]], the annex to this agreement. Reads together with [[shareholders-agreement]] (the equity the same person holds as a Shareholder) and [[articles-of-association]] (the authority the same person holds as Director).
 
 ## 1. Role and area of responsibility of the CEO
 
@@ -21,27 +21,13 @@ The CEO's results and KPI are to be assessed against the resources the company a
 
 ## 2. CEO remuneration
 
-The CEO receives:
+Every figure — salary, land commissions, sub-project referral and administration fees, the investment fee, KPI bonuses, dividends and expense reimbursement — lives in [[ceo-compensation-schedule]], which is the annex to this agreement. The source document carried an inline query against the KPI bonus line (Dima?), preserved there.
 
-- commissions and other payments provided for in the section [[revenue-model|Cyber Valley revenue and compensation model]];
-- a fixed salary in an agreed amount, provided that ______
-- dividends on the shares of the company held by the CEO;
-- KPI bonuses under a separately approved KPI table; (source query: Dima?)
-- reimbursement of agreed expenses incurred in the interests of the company.
-
-The CEO's commissions are to be documented in a separate Compensation Schedule with a clear definition of the calculation base, the moment the right to a commission arises, the payment procedure under instalment sales, referral attribution, and the survival of already-earned commissions after the CEO's term of office ends.
+The Schedule defines, for each type of remuneration: the calculation base, the moment the right arises, the payment procedure under instalment sales, referral attribution, and the survival of already-earned commissions after the CEO's term of office ends.
 
 ## 3. Equity and options
 
-On taking office the CEO acquires 1% of the shares of the company.
-
-The CEO receives an option right to acquire additional shares:
-
-- 5% — within 2 years;
-- 5% — within 5 years;
-- 10% — within 10 years.
-
-The option strike is assumed on a company valuation of USD 4,000,000: 1% = USD 40,000.
+The entry stake, the option ladder and the strike basis are set out in [[ceo-compensation-schedule]] §9. The share transfer that creates the entry stake is executed under [[shareholders-agreement]].
 
 The option rights are to be secured in law as exercisable rights of the CEO, defining the exercise period, the conditions under which the option survives the end of the CEO's term of office, anti-dilution protection, and the mechanism on a Change of Control.
 
@@ -165,38 +151,21 @@ Strategic disagreement, loss of confidence absent a proven material breach, and 
 
 ## 15. Protection of the CEO on termination without Cause
 
-If the company or the shareholders terminate the CEO's powers without Cause, the CEO has the right, at his election, to:
+The CEO elects either to remain a shareholder or to be bought out; the valuation basis, the floor at the sum invested, the security for payment and the relation to severance are in [[ceo-compensation-schedule]] §12. Counsel is to propose the most reliable mechanism for the payment principle that is permissible under Indonesian law.
 
-- retain his entire stake and remain a shareholder of the company; or
-- receive a buyout of his stake at Fair Market Value as at the date of exit, determined by independent valuation taking into account the market value of the land, projects and other material assets of the company less real liabilities. In any event the amount is to be no less than the sum the CEO invested in the company.
-
-If the CEO elects the buyout, the corresponding consideration is to be paid in full or reliably secured as part of the procedure terminating his powers. Counsel is to propose the most reliable mechanism for this principle that is permissible under Indonesian law.
-
-The buyout of the stake stands separately from the CEO's severance / termination compensation.
+⚠ The election in favour of the CEO is presently defeated by the call option in [[shareholders-agreement]] Article 4(2), which lets the Company and the other shareholders take those shares on a Good Leaver regardless. See [[ceo-compensation-schedule]] §15.
 
 ## 16. Protection of equity and company value
 
-Protection of the CEO is to be provided against:
-
-- unjustified dilution of his stake;
-- artificial reduction of the value of the company ahead of a buyout or dismissal;
-- non-arm's-length transfer of land, projects and other assets to related companies;
-- creation of artificial obligations or debt;
-- other acts aimed at circumventing the CEO's economic rights.
+The anti-dilution and value-protection covenants are in [[ceo-compensation-schedule]] §9.4.
 
 ## 17. Change of control — sale of the company or of material assets
 
-On a sale of the company, of a controlling stake, of a significant part of the land assets or of a key project, the CEO's rights are to be defined, including:
-
-- tag-along;
-- retention or exercise of equity and options;
-- possible acceleration of options;
-- payment of accrued commissions and bonuses;
-- cash-out on comparable economic terms, where applicable.
+The CEO's rights on a change of control — tag-along, retention or exercise of equity and options, acceleration, accrued commissions, cash-out — are in [[ceo-compensation-schedule]] §13, and the tag-along itself is granted by [[shareholders-agreement]] Article 2.
 
 ## 18. Survival of earned commissions after departure
 
-Commissions and other economic rights of the CEO that were earned, or that arise from transactions, clients, investors or projects introduced by the CEO before the end of his term of office, survive and are paid after his departure in accordance with the economic model originally agreed.
+See [[ceo-compensation-schedule]] §11.
 
 ## 19. Protection after termination
 
@@ -208,16 +177,7 @@ The CEO observes reasonable confidentiality obligations. Any non-compete or non-
 
 ## Questions for discussion and approval
 
-Numbering follows the source, including its gaps.
+Non-economic questions. Everything touching remuneration, equity and exit economics moved to [[ceo-compensation-schedule]] §14.
 
-1. The amount of the CEO's fixed salary and the conditions for starting or changing its payment.
-2. The final system of CEO commissions: percentages on land sales, deal stewardship, referral and administration of sub-projects.
-3. Confirmation of the option model: 1% on entry plus 5% / 5% / 10%, and a fixed price based on a company valuation of USD 4 million.
-4. What happens to unexercised options on a Good Leaver or termination without Cause; whether acceleration is needed.
-5. Concrete Authority Matrix limits: up to what amount the CEO acts alone, and which transactions require approval.
-6. The amount of severance / termination compensation where the CEO's powers are terminated without Cause.
-9. The Fair Market Value formula and the independent valuation procedure for a buyout of the CEO's stake.
-10. The mechanism securing payment of the buyout before or simultaneously with the termination of the CEO's powers.
-11. The rules for survival of the CEO's commissions on instalment deals or projects started before his departure.
-12. The conditions for participation of the CEO and his DevelopmentCo/SPV in their own projects on the territory of Cyber Valley.
-13. Whether a separate dividend policy / profit distribution policy for shareholders is needed.
+1. Concrete Authority Matrix limits: up to what amount the CEO acts alone, and which transactions require approval.
+2. The conditions for participation of the CEO and his DevelopmentCo/SPV in their own projects on the territory of Cyber Valley.

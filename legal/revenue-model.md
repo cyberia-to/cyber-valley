@@ -1,19 +1,19 @@
 ---
 tags: cyber valley, cyberia, legal, cybernomics, draft, dzin
-alias: revenue model, compensation model, revenue and compensation model
+alias: revenue model, cyber valley revenue model
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "💰"
 ---
-# Cyber Valley Revenue and Compensation Model
+# Cyber Valley Revenue Model
 
 Translated from the Russian working document `Модель доходов и распределения вознаграждений Cyber Valley`.
 
-> Status. Working model for discussion. Items rendered in italics were marked in the source as requiring separate discussion and approval.
+> Status. Working model for discussion. Items rendered in italics were marked in the source as requiring separate discussion and approval. CEO remuneration was carried here in the source and now lives in [[ceo-compensation-schedule]].
 
-Purpose of the document: to fix the principal revenue sources of PT Cyber Valley Estate and the holding, the principles for distributing cash flow, and the remuneration of the CEO.
+Purpose of the document: to fix the principal revenue sources of PT Cyber Valley Estate and the holding, and the principles for distributing cash flow.
 
-Part of the [[dzin]] corporate pack. The commission arithmetic here feeds the Compensation Schedule referred to in [[ceo-agreement-terms]]; the distribution waterfall sits under Articles 18 and 19 of the [[articles-of-association]].
+Part of the [[dzin]] corporate pack. The distribution waterfall in §2 sits under Articles 18 and 19 of the [[articles-of-association]]; the vocabulary in §5 governs every percentage in [[ceo-compensation-schedule]].
 
 ## 1. Core revenue model
 
@@ -101,48 +101,7 @@ Recommended order of distribution:
 
 ## 3. CEO compensation model
 
-The CEO's remuneration is to be documented in a separate Compensation Schedule appended to the CEO Agreement.
-
-For each type of remuneration the following are to be defined:
-
-- the calculation base;
-- the moment the right to a commission arises;
-- the payment deadline;
-- the payment procedure under instalment sales;
-- who counts as the source of the deal / referral;
-- whether the right to a commission survives the end of the CEO's term of office.
-
-### 3.1. Sale of first-phase plots
-
-*Proposed: the CEO receives 10% on sales of first-phase plots — Sinwood and Cofe.*
-
-### 3.2. Sale of remaining plots
-
-*Proposed: the CEO receives 5% on sales of the remaining plots of the project.*
-
-### 3.3. Stewardship of a deal introduced by someone other than the CEO
-
-Where the buyer was introduced by someone other than the CEO, but the CEO in fact runs the deal — meetings, viewings, agreement of boundaries, documents, payments and closing — the CEO receives a separate transaction management fee.
-
-*Proposed range for discussion: 2–3% of the agreed transaction base.*
-
-### 3.4. Referral of sub-projects
-
-Where the CEO independently brought an entrepreneur or sub-project onto the territory of Cyber Valley, the CEO receives a referral fee out of the holding's income from that sub-project.
-
-*Proposed: 10% of the corresponding revenue share / fee actually received by the holding.*
-
-### 3.5. Administration and stewardship of sub-projects
-
-Where the CEO or his team carries out ongoing administration, coordination and stewardship of a sub-project, additional recurring compensation is provided for.
-
-*Proposed: a further 10% of the corresponding revenue share / administration income actually received by the holding.*
-
-*The referral fee and the administration fee may apply simultaneously where the CEO both introduced the project and continues to steward it.*
-
-### 3.6. Attraction of investment into the project
-
-*Proposed starting model for discussion: 5% of the amount actually raised and received by the company, on a full origination and closing of the investment transaction.*
+Moved to [[ceo-compensation-schedule]], which holds every figure of CEO remuneration in one place: land commissions, sub-project referral and administration fees, the investment fee, salary, KPI bonuses, equity and the option ladder, and the exit economics. This page keeps the holding's revenue sources and the distribution waterfall; the schedule keeps the CEO's share of them.
 
 ## 4. Future and strategic revenue streams
 
@@ -166,7 +125,7 @@ In the medium term Cyber Valley may earn income from licensing the brand, know-h
 
 ## 5. Principles for calculation
 
-A single vocabulary is to be used for all percentage payments and revenue share across the agreements.
+A single vocabulary is to be used for all percentage payments and revenue share across the agreements, including every commission in [[ceo-compensation-schedule]]. This section owns the definitions; other documents use them unchanged.
 
 The following are to be defined in advance:
 
@@ -185,33 +144,14 @@ Where possible, commissions and revenue share are to be calculated from objectiv
 
 ## 6. Questions for discussion and approval
 
-Numbering follows the source, including its gaps.
+Holding-level questions. Everything touching CEO remuneration moved to [[ceo-compensation-schedule]] §14.
 
 *1. On income arriving in the company: 50% goes to dividend distribution, 50% into the project treasury for operations.*
 
-*2. Confirm the CEO land commission:*
-   *• 10% — first phase, Sinwood / Cofe;*
-   *• 5% — remaining plots;*
-   *• 2–3% — running the deal where the buyer was introduced by someone other than the CEO.*
+*2. What revenue share independent Cyber Valley sub-projects pay: 5%, 10% — details to be written out.*
 
-*3. CEO commissions on land sales are calculated from cash actually received.*
+*3. What base the sub-project revenue share is calculated from: Gross Revenue, Net Revenue or another figure?*
 
-*4. How the CEO's commission is spread under an instalment sale: pro rata to each payment actually received, or otherwise?*
+*4. Whether charges for water, electricity and other infrastructure are to be levied separately from revenue share.*
 
-*5. What revenue share independent Cyber Valley sub-projects pay: 5%, 10% — details to be written out.*
-
-*6. What base the sub-project revenue share is calculated from: Gross Revenue, Net Revenue or another figure?*
-
-*7. Whether charges for water, electricity and other infrastructure are to be levied separately from revenue share.*
-
-*8. Confirm the CEO referral fee: 10% of the income actually received by the holding on a sub-project introduced by the CEO.*
-
-*9. Confirm the CEO administration fee: a further 10% of the income actually received by the holding on a sub-project the CEO stewards on an ongoing basis.*
-
-*10. Confirm that the referral fee and administration fee may be received simultaneously.*
-
-*11. Confirm the commission model for investment and grants: 5% on a full origination and closing.*
-
-*13. What minimum cash reserve the company must retain before distributing dividends.*
-
-*14. Which payments to the CEO continue after the end of his term of office where the deal was introduced or concluded during his tenure but the money arrives later.*
+*5. What minimum cash reserve the company must retain before distributing dividends.*
