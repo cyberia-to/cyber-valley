@@ -86,7 +86,7 @@ Paid on the shares held by the CEO, pro rata, when declared. Distribution occurs
 
 ## 9. Equity and options
 
-9.1 Entry. On taking office the CEO acquires 1% of the shares — 80 shares of the 8,040 issued, at par value Rp 200,000,000.00, transferred from Alisa Voinova under [[shareholders-agreement]] preamble paragraph 2.
+9.1 Entry. On taking office the CEO acquires 1% of the shares — 80 shares of the 8,040 issued, at par value Rp 200,000,000.00, transferred from Alisa Voinova under [[shareholders-agreement]] preamble paragraph 2. The sale at par is a deliberate discount to the agreed company value of USD 4,000,000, granted in consideration of accepting the office of Director and the personal responsibilities attaching to it, including the tax responsibility under [[articles-of-association]] Pasal 12(6). The discount is protected by the Bad Leaver repurchase at acquisition cost under [[shareholders-agreement]] Article 4.
 
 9.2 Option ladder. The CEO holds an option right to acquire additional shares:
 
@@ -96,7 +96,18 @@ Paid on the shares held by the CEO, pro rata, when declared. Distribution occurs
 | 5% | 5 years | same |
 | 10% | 10 years | same |
 
-9.3 Legal form. Option rights are to be secured as exercisable rights of the CEO, defining: the exercise period, survival on the end of the CEO's term of office, anti-dilution protection, and the mechanism on a Change of Control. Issue of new shares to satisfy an exercise engages the pre-emption right in [[articles-of-association]] Article 4(3) and the approval gate in Pasal 12(3)(e) — the mechanism must clear both.
+9.3 Source of the option shares. The whole authorised capital is issued and paid in kind, so the Company holds no shares in treasury. The option is satisfied by sale from Alisa Voinova's own holding of 3,940 shares:
+
+| tranche | shares | strike | exercisable within |
+|---|---|---|---|
+| 5% | 402 | USD 200,000 | 2 years |
+| 5% | 402 | USD 200,000 | 5 years |
+| 10% | 804 | USD 400,000 | 10 years |
+| total | 1,608 | USD 800,000 | |
+
+No capital increase, no amendment of the Articles and no GMS approval are required — the transferee is already a shareholder, so [[articles-of-association]] Pasal 7(8) does not apply. Delivery is within 30 days of notice of exercise and payment of the strike, by notarial share sale deed. The pre-emption right of the other shareholder under Pasal 7(3)–(4) and Article 1 of the [[shareholders-agreement]] is waived in advance for these 1,608 shares — see [[ceo-terms-decisions]] Д2, which also sets out the resulting shareholdings.
+
+9.3.1 Legal form. Option rights are to be secured as exercisable rights of the CEO, defining: the exercise period, survival on the end of the CEO's term of office, anti-dilution protection, and the mechanism on a Change of Control.
 
 9.4 Anti-dilution and value protection. The CEO is protected against: unjustified dilution; artificial reduction of company value ahead of a buyout or dismissal; non-arm's-length transfer of land, projects or other assets to related companies; creation of artificial obligations or debt; and other acts circumventing the economic rights in this schedule.
 
@@ -144,11 +155,18 @@ Consolidated from both source documents; numbering is this schedule's own.
 14. Whether a separate dividend policy / profit distribution policy for shareholders is needed.
 15. The KPI table itself.
 
-## 15. Conflicts surfaced by consolidation
+## 15. Points settled and points open
 
-Bringing the figures into one place exposes three points where the documents disagree, and one blocking omission. Proposed resolutions with variants and a recommendation are in [[ceo-terms-decisions]] — Д1 to Д4, drafted for agreement between the three shareholders.
+Consolidation exposed three disagreements between the documents and one omission. All four are worked out in [[ceo-terms-decisions]] as Д1 to Д4, with operative wording for the notary.
 
-Blocking omission — no source for the option shares. [[articles-of-association]] Article 4(2) records the whole authorised capital as issued and paid: 8,040 shares of 8,040. There are no shares in reserve. The 20% ladder is 1,608 shares that have nowhere to come from unless existing shareholders transfer them or the authorised capital is increased. Until that is settled the option is a declaration rather than a right. See [[ceo-terms-decisions]] Д2.
+| point | where | status |
+|---|---|---|
+| entry at par against the option strike | Д1 | settled — the sale is at a deliberate discount, stated in the SHA preamble |
+| source of the option shares | Д2 | settled — sold from Voinova's holding; one waiver of pre-emption required |
+| call option against the right to remain | Д3 | drafted — Article 4 of the SHA replaced in full |
+| fair value floor | Д4 | recommendation given, awaiting agreement |
+
+Deferred to the next round: the IDR/USD rate at which the discount is expressed, and the instrument securing payment of a buyout.
 
 Entry price against option strike. The CEO acquires the first 1% at par — Rp 200,000,000, roughly USD 12,000 at current rates — while the option ladder prices every further 1% at USD 40,000 on a USD 4,000,000 valuation. Entry is therefore at a discount of about a third of the option strike. If that discount is intended, say so in the agreement; if the intent was one valuation throughout, the entry price and the ladder are inconsistent.
 
