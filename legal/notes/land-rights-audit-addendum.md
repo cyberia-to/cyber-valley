@@ -1,122 +1,122 @@
 ---
 tags: cyber valley, cyberia, legal, audit
-alias: аудит дополнение, transfer and title protection
+alias: audit addendum, transfer and title protection
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "🔍"
 ---
-# Дополнение к аудиту: передача лиза и защита от прежних прав
+# Audit addendum: transfer of a lease and protection against prior rights
 
-Дата: 2026-08-13 · дополняет `land-rights-audit.md` · основание: получен устав — Anggaran Dasar / Articles of Association PT. Cyber Valley Estate, билингва ID-EN, 12 августа 2026, Akta Pendirian No. 01 от 04-01-2022, PKR No. 13 от 14-04-2025, PKR No. 02 от 01-07-2025
+Date: 2026-08-13 · supplements `land-rights-audit.md` · occasion: the Articles were received — Anggaran Dasar / Articles of Association PT. Cyber Valley Estate, bilingual ID-EN, 12 August 2026, Akta Pendirian No. 01 of 04-01-2022, PKR No. 13 of 14-04-2025, PKR No. 02 of 01-07-2025
 
 ---
 
-## часть I — ответ на два вопроса из сообщения
+## Part I — answers to the two questions raised
 
-### Вопрос 1: может ли человек продать и передать свой договор аренды
+### Question 1: can a person sell and transfer his lease
 
-Есть, но наполовину. §2.5 черновика даёт право уступки через `akta cessie` / `akta pengalihan hak sewa` при письменном уведомлении, с присоединением приобретателя к Design Code и Community Rules, без теста на резидентство. Направление верное.
+Half of it exists. §2.5 of the draft grants a right of assignment through an `akta cessie` / `akta pengalihan hak sewa` on written notice, with the acquirer acceding to the Design Code and Community Rules, and with no residency test. The direction is right.
 
-Чего в §2.5 нет, и без чего вторичный рынок не заработает:
+What §2.5 lacks, and without which no secondary market will work:
 
-| чего нет | почему это ломает продажу |
+| what is missing | why it breaks the sale |
 |---|---|
-| справки эстейта для покупателя | покупатель не может проверить остаточный срок, долги, статус PBG/SLF, обременения мастер-титула. Никто не платит за вещь, состояние которой нельзя подтвердить |
-| выбора между ROFR и платой за передачу | скобка `[right of first refusal / transfer fee of __%]` не закрыта. Преимущественное право эстейта обваливает цену перепродажи: внешний покупатель не станет торговаться, зная, что его перебьют по его же цене |
-| сроков для действий эстейта | нет дедлайна и нет молчаливого согласия. Эстейт может задушить сделку просто медленным ответом |
-| неделимости пакета | §5.4 отдаёт Improvements держателю, но §2.5 не говорит, что они уходят вместе с правом. Право отдельно от дома — не товар |
-| переноса аннекса CX | T7 индекса прямо говорит, что аннекс переживает уступку с теми же количествами qᵢ; договор этого не повторяет, значит приобретатель не знает, какую ставку покупает |
-| наследования | смерть держателя — самый частый переход права за 25 лет. В договоре его нет вообще |
-| залога права | без возможности обременить лиз покупатель не получит финансирование, и рынок сжимается до тех, кто платит наличными |
-| членства в Association при уступке | §2.5 требует присоединения к Design Code и Community Rules, но не к Association из §8 |
-| налогов при уступке | §12 покрывает BPHTB и PPh при переходе титула, про уступку hak sewa молчит |
-| связи с реестром лизов и токенизацией | устав девелопмента §10 ставит деривативы жилых лизов вторым шагом токенизации; в договоре нет ни реестра, ни правила приоритета |
+| an Estate Certificate for the buyer | the buyer cannot verify the remaining term, arrears, PBG/SLF status or encumbrances on the master title. Nobody pays for a thing whose condition cannot be confirmed |
+| a choice between a ROFR and a transfer fee | the bracket `[right of first refusal / transfer fee of __%]` is open. An Estate right of first refusal collapses the resale price: an outside buyer will not bid knowing he can be matched at his own price |
+| deadlines for the Estate's actions | there is no time limit and no deemed consent. The Estate can strangle a deal simply by answering slowly |
+| indivisibility of the bundle | §5.4 gives the Improvements to the Holder, but §2.5 does not say they travel with the right. A right separated from the house is not a product |
+| carry-over of the CX annex | index thesis T7 says expressly that the annex survives assignment with the same quantities qᵢ; the agreement does not repeat this, so the acquirer does not know what rate he is buying |
+| succession | the death of the Holder is the most frequent transfer of the right over 25 years. The agreement does not mention it at all |
+| charging the right | without the ability to encumber a lease the buyer cannot obtain financing, and the market shrinks to those paying cash |
+| Association membership on assignment | §2.5 requires accession to the Design Code and Community Rules, but not to the Association of §8 |
+| taxes on assignment | §12 covers BPHTB and PPh on a transfer of title and is silent on the assignment of a hak sewa |
+| the link to the lease register and tokenisation | development charter §10 puts derivatives of residential leases second in the tokenisation queue; the agreement has neither a register nor a rule of priority |
 
-### Вопрос 2: защита, если земля была обременена, сдана или отягощена обязательствами
+### Question 2: protection where the land was encumbered, let, or burdened with obligations
 
-Практически нет. Есть заверение в §9: «valid title, no encumbrances beyond those disclosed, zoning permits the intended use, KKPR status disclosed». Дальше — пусто.
+Practically none. There is a representation in §9: "valid title, no encumbrances beyond those disclosed, zoning permits the intended use, KKPR status disclosed". After that, nothing.
 
-Три дыры, каждая из которых по отдельности обнуляет спокойствие покупателя:
+Three holes, each of which on its own destroys the buyer's peace of mind:
 
-1. Возмещения в пользу держателя не существует. Единственная статья об indemnity — §5A.8 — работает в обратную сторону: держатель возмещает владельцу земли. Обратной статьи в документе нет ни одной. Заверение без возмещения — это фраза, из которой не следует денег.
+1. An indemnity in favour of the Holder does not exist. The only indemnity article — §5A.8 — runs the other way: the Holder indemnifies the landowner. There is no reciprocal article anywhere in the document. A representation without an indemnity is a sentence from which no money follows.
 
-2. Нет запрета на залог, и устав прямо разрешает залог. Anggaran Dasar Pasal 12(3)(b) позволяет компании закладывать и обременять hak tanggungan своё имущество, «включая землю и любые права на землю, в частности Hak Guna Bangunan и Hak Pakai», с согласия Dewan Komisaris и RUPS. То есть корпоративный документ прямо предусматривает, что земля под лизами может быть заложена. Держатель незарегистрированного hak sewa при обращении взыскания оказывается ни с чем: его права нет в сертификате, и приобретатель с торгов им не связан. В договоре ни негативного обязательства, ни соглашения с залогодержателем о непрепятствовании, ни даже обязанности уведомить.
+2. There is no negative pledge, and the Articles expressly permit charging. Anggaran Dasar Pasal 12(3)(b) allows the Company to pledge and encumber its property with hak tanggungan, "including land and any rights over land, in particular Hak Guna Bangunan and Hak Pakai", with the consent of the Dewan Komisaris and the RUPS. In other words the corporate document expressly contemplates that the land beneath the leases may be charged. A Holder of an unregistered hak sewa is left with nothing on enforcement: his right is not on the certificate, and a purchaser at auction is not bound by it. The agreement contains neither a negative pledge, nor a non-disturbance agreement with the secured party, nor even a duty to notify.
 
-3. Нет обеспечения возврата денег. §10 упоминает «refund formula» при утрате мастер-титула как нерешённый пункт, но обещание вернуть предоплату стоит ровно столько, сколько у компании есть чем платить. Ни эскроу, ни банковской гарантии, ни гарантии акционера.
+3. There is no security for the return of money. §10 mentions a "refund formula" on loss of the master title as an unresolved item, but a promise to return a prepayment is worth exactly as much as the Company has to pay it with. No escrow, no bank guarantee, no shareholder guarantee.
 
-Плюс мелкие, но существенные пробелы: нет гарантии, что участок не сдан ранее и не обещан по PPJB; нет гарантий об отсутствии ареста (sita), споров, претензий adat, subak и desa; нет пакета due diligence, передаваемого покупателю до подписания; нет обязательства не выдавать конкурирующие права на тот же участок — классический риск двойной сдачи именно для незарегистрированного права; нет ковенанта quiet enjoyment как обязательства (он упомянут только как условие в §9A.3); гарантии даются один раз при подписании и не повторяются.
+Plus smaller but material gaps: no warranty that the plot has not been previously let or promised under a PPJB; no warranties as to the absence of attachment (sita), disputes, or adat, subak and desa claims; no due diligence pack delivered to the buyer before signing; no obligation to refrain from granting competing rights over the same plot — the classic double-letting risk precisely for an unregistered right; no quiet enjoyment covenant as an obligation (it appears only as a condition in §9A.3); and warranties given once at signing and never repeated.
 
 ---
 
-## часть II — предлагаемый текст
+## Part II — proposed text
 
-Ниже — формулировки под вставку. Русская и английская колонки рабочие, индонезийский текст дан как sense-text для нотариуса, по той же логике, что уже применена в §2.7 черновика: окончательная редакция и точные ссылки на статьи — через PPAT.
+Below are formulations for insertion. The English column is the working one; the Indonesian text is given as sense-text for the notary, on the same logic already applied in §2.7 of the draft: final wording and exact article references go through the PPAT.
 
-### §2.5 в новой редакции — передача права
+### §2.5 restated — transfer of the right
 
-2.5.1 Свободная уступка. Держатель вправе уступить право по настоящему договору целиком любому лицу без согласия владельца земли, при соблюдении 2.5.3–2.5.8.
+2.5.1 Free assignment. The Holder may assign the whole of its right under this agreement to any person without the landowner's consent, subject to 2.5.3–2.5.8.
 
-2.5.2 Неделимость пакета. Уступается единый пакет: право hak sewa на участок, право собственности на Improvements, членство в Association, аннекс century index с теми же количествами qᵢ, все начисленные права и обязанности. Раздельная уступка любого элемента запрещена.
+2.5.2 Indivisibility of the bundle. What is assigned is one bundle: the hak sewa over the plot, ownership of the Improvements, membership of the Association, the century index annex with the same quantities qᵢ, and all accrued rights and obligations. Separate assignment of any element is prohibited.
 
-2.5.3 Форма и уведомление. Нотариальный `akta pengalihan hak sewa`; письменное уведомление владельцу земли с копией акта в течение 7 дней.
+2.5.3 Form and notice. A notarial `akta pengalihan hak sewa`; written notice to the landowner with a copy of the deed within 7 days.
 
-2.5.4 Условия к приобретателю. Письменное присоединение к Design Code, Community Rules и Association; заверения об отсутствии номинальной структуры и об источнике средств; тест на резидентство не применяется.
+2.5.4 Conditions on the acquirer. Written accession to the Design Code, the Community Rules and the Association; representations as to the absence of a nominee structure and as to source of funds; no residency test applies.
 
-2.5.5 Плата за передачу. __% от цены сделки, но не более __, уплачивается при подаче уведомления. Рекомендация: только плата, без преимущественного права. Если преимущественное право всё же нужно — ограничить его волной 1 и периодом действия обязательства построить, и зеркалить механику Pasal 7 устава для акций: цена и условия в уведомлении, 30 дней на ответ, право отозвать предложение по истечении срока.
+2.5.5 Transfer fee. __% of the transaction price, capped at __, payable on delivery of the notice. Recommendation: a fee only, with no right of first refusal. If a right of first refusal is nonetheless required, limit it to wave 1 and to the period of the build obligation, and mirror the mechanics of Pasal 7 of the Articles for shares: price and terms in the notice, 30 days to respond, and a right to withdraw the offer once the period expires.
 
-2.5.6 Справка эстейта. По письменному запросу держателя владелец земли в течение 10 рабочих дней выдаёт справку, содержащую: остаточный срок; подтверждение оплаты и отсутствия задолженности; количества qᵢ и последний инвойс по индексу; статус PBG и SLF; перечень неустранённых нарушений Design Code или подтверждение их отсутствия; статус мастер-титула и его обременений на дату справки. Справка действительна 30 дней и является заверением, на которое вправе полагаться приобретатель.
+2.5.6 Estate Certificate. On the Holder's written request the landowner issues, within 10 working days, a certificate stating: the remaining term; confirmation of payment and absence of arrears; the quantities qᵢ and the latest invoice under the index; PBG and SLF status; a list of unremedied Design Code breaches or confirmation that there are none; the status of the master title and its encumbrances at the date of the certificate. The certificate is valid for 30 days and is a representation on which the acquirer may rely.
 
-2.5.7 Сроки и молчаливое согласие. Любое действие владельца земли по настоящей статье — 10 рабочих дней. Пропуск срока означает согласие и подтверждение.
+2.5.7 Deadlines and deemed consent. Any act of the landowner under this article falls due within 10 working days. Failure to act within the period constitutes consent and confirmation.
 
-2.5.8 Реестр лизов. Владелец земли ведёт реестр; запись в нём — доказательство прав держателя. Он-чейн представление записи допускается; при расхождении приоритет у нотариального акта и реестра, по образцу тезиса T8 century index.
+2.5.8 Register of leases. The landowner maintains a register; an entry in it is evidence of the Holder's rights. An on-chain representation of the entry is permitted; on divergence the notarial deed and the register prevail, on the model of thesis T8 of the century index.
 
-2.5.9 Наследование. При смерти держателя право переходит к наследникам без платы за передачу; наследники присоединяются к Community Rules в течение 12 месяцев.
+2.5.9 Succession. On the death of the Holder the right passes to the heirs with no transfer fee; the heirs accede to the Community Rules within 12 months.
 
-2.5.10 Обременение права. Держатель вправе передать право в обеспечение с уведомлением владельца земли. Владелец земли выдаёт залогодержателю справку 2.5.6 и уведомляет его о существенном нарушении до расторжения, предоставив право излечения. ⚠ Допустимость залога hak sewa подтвердить у нотариуса до включения.
+2.5.10 Charging the right. The Holder may transfer the right by way of security on notice to the landowner. The landowner issues the 2.5.6 certificate to the secured party and notifies it of any material breach before terminating, granting a right to cure. ⚠ The admissibility of charging a hak sewa is to be confirmed with the notary before inclusion.
 
-2.5.11 Частичная уступка и раздел участка — только с письменного согласия и при соблюдении зонирования.
+2.5.11 Partial assignment and subdivision of the plot — only with written consent and in compliance with the zoning.
 
-*Sense-text ID для 2.5.1 и 2.5.6:*
+*Indonesian sense-text for 2.5.1 and 2.5.6:*
 
 > Pemegang Hak berhak mengalihkan seluruh haknya berdasarkan Perjanjian ini kepada pihak lain tanpa memerlukan persetujuan Pemilik Tanah, sepanjang ketentuan Pasal 2.5.3 sampai dengan 2.5.8 dipenuhi. Pengalihan dilakukan dengan akta pengalihan hak sewa di hadapan Notaris, dan pemberitahuan tertulis beserta salinan akta disampaikan kepada Pemilik Tanah dalam waktu 7 (tujuh) hari.
 >
 > Atas permintaan tertulis Pemegang Hak, Pemilik Tanah wajib menerbitkan surat keterangan estate dalam waktu 10 (sepuluh) hari kerja, yang memuat sisa jangka waktu, status pembayaran dan tunggakan, kuantitas indeks (qᵢ) serta tagihan terakhir, status PBG dan SLF, ada atau tidaknya pelanggaran yang belum diselesaikan, serta status dan pembebanan sertifikat induk. Surat keterangan berlaku 30 (tiga puluh) hari dan merupakan pernyataan yang dapat diandalkan oleh calon penerima pengalihan.
 
-### Новый §9B — гарантии титула, негативное обязательство, возмещение
+### A new §9B — title warranties, negative pledge, indemnity
 
-9B.1 Гарантии владельца земли, даваемые на дату подписания и повторяемые на каждую годовщину и на дату каждой уступки в пользу приобретателя:
+9B.1 Warranties of the landowner, given at the date of signature and repeated on each anniversary and on the date of each assignment in favour of the acquirer:
 
-- компания надлежаще учреждена и существует, уставный капитал оплачен, NIB действует;
-- мастер-титул действителен, его тип, срок и остаток раскрыты в Schedule A;
-- участок свободен от hak tanggungan, ареста (sita) и иных обременений; ранее не сдан и не обещан по договору аренды, PPJB, опциону или иному обязательству; не находится в фактическом владении третьих лиц;
-- отсутствуют судебные, административные и арбитражные производства, а также заявленные претензии adat, subak и desa в отношении участка;
-- зонирование и KKPR допускают предполагаемое использование; участок не имеет статуса LP2B и не попадает в sempadan;
-- PBB уплачен, задолженности нет;
-- цепочка правоустанавливающих документов раскрыта.
+- the company is duly incorporated and subsisting, its issued capital is paid, its NIB is valid;
+- the master title is valid, and its type, term and remaining period are disclosed in Schedule A;
+- the plot is free of hak tanggungan, attachment (sita) and other encumbrances; has not previously been let or promised under a lease, PPJB, option or other obligation; and is not in the actual possession of a third party;
+- there are no judicial, administrative or arbitral proceedings, and no asserted adat, subak or desa claims, in respect of the plot;
+- zoning and KKPR permit the intended use; the plot carries no LP2B status and does not fall within a sempadan;
+- PBB is paid and there are no arrears;
+- the chain of title documents is disclosed.
 
-9B.2 Пакет due diligence как приложение к договору: заверенная копия сертификата мастер-титула, Surat Ukur, NIB, квитанции PBB, справка BPN об отсутствии обременений давностью не более 30 дней на дату подписания, документ KKPR.
+9B.2 A due diligence pack as an annex to the agreement: a certified copy of the master title certificate, Surat Ukur, NIB, PBB receipts, a BPN non-encumbrance search no more than 30 days old at the date of signature, and the KKPR document.
 
-9B.3 Негативное обязательство. Владелец земли без письменного согласия держателя не вправе: обременять участок hak tanggungan или иным обеспечением; выдавать конкурирующие права на тот же участок; отчуждать участок иначе как с сохранением обязательности настоящего договора для приобретателя.
+9B.3 Negative pledge. The landowner shall not, without the Holder's written consent: encumber the plot with hak tanggungan or other security; grant competing rights over the same plot; or dispose of the plot otherwise than on terms binding the acquirer to this agreement.
 
-⚠ Прямой стык с уставом. Anggaran Dasar Pasal 12(3)(b) разрешает компании обременять землю и права на неё с согласия Dewan Komisaris, а по букве (a), (b), (f) — также с согласия RUPS. Пока негативного обязательства в лизе нет, устав позволяет заложить землю под держателями, и держатель об этом даже не узнает.
+⚠ A direct seam with the Articles. Anggaran Dasar Pasal 12(3)(b) permits the Company to encumber land and rights over it with the consent of the Dewan Komisaris, and under letters (a), (b), (f) also with the consent of the RUPS. Until a negative pledge sits in the lease, the Articles allow the land beneath the Holders to be charged without the Holder ever finding out.
 
-9B.4 Соглашение о непрепятствовании. Если обременение всё же выдаётся, оно допускается только при условии, что залогодержатель письменно подтверждает: настоящий договор сохраняет силу при обращении взыскания и связывает приобретателя с торгов. Держатель уведомляется не позднее чем за 30 дней до выдачи обременения.
+9B.4 Non-disturbance agreement. If an encumbrance is nonetheless granted, it is permitted only where the secured party confirms in writing that this agreement survives enforcement and binds a purchaser at auction. The Holder is notified no later than 30 days before the encumbrance is granted.
 
-9B.5 Возмещение в пользу держателя — зеркало §5A.8. Владелец земли возмещает держателю убытки, расходы, штрафы и разумные юридические издержки, возникшие из: недостоверности гарантий 9B.1; прав третьих лиц, существовавших на дату подписания; обращения взыскания на участок; утраты или непродления мастер-титула не по вине держателя; невозможности получить PBG или SLF по причинам, относящимся к титулу или лицензиям владельца земли.
+9B.5 Indemnity in favour of the Holder — the mirror of §5A.8. The landowner indemnifies the Holder against loss, cost, penalty and reasonable legal expense arising from: inaccuracy of the warranties in 9B.1; third-party rights subsisting at the date of signature; enforcement of security over the plot; loss or non-renewal of the master title through no fault of the Holder; and inability to obtain PBG or SLF for reasons attributable to the landowner's title or licences.
 
-9B.6 Лестница средств защиты при дефекте титула:
+9B.6 Ladder of remedies on a title defect:
 
-| ситуация | средство |
+| situation | remedy |
 |---|---|
-| дефект устраним за 90 дней, пользование не затронуто | устранение за счёт владельца земли; сроки §6 приостанавливаются, права продлеваются день в день |
-| держатель лишён пользования более 90 дней подряд | пропорциональное снижение платы за период |
-| лишение более 180 дней или дефект неустраним | расторжение по вине владельца земли с выплатой: неамортизированная предоплата по Schedule E, плюс документированная стоимость Improvements по независимой оценке, плюс прямые убытки |
+| defect curable within 90 days, use unaffected | cure at the landowner's cost; §6 deadlines suspended and rights extended day for day |
+| Holder deprived of use for more than 90 consecutive days | proportionate reduction of the payment for the period |
+| deprivation exceeding 180 days, or an incurable defect | termination for the landowner's default with payment of: unamortised prepayment under Schedule E, plus the documented value of the Improvements at independent valuation, plus direct loss |
 
-9B.7 Обеспечение выплаты. ⚠ Без этого 9B.5 и 9B.6 остаются бумагой. Выбрать: эскроу части предоплаты до ввода объекта; банковская гарантия; корпоративная гарантия акционера; обеспечение в пользу пула держателей. Здесь же учесть Anggaran Dasar Pasal 12(4): выплата с основного счёта требует двух ролей — директор инициирует, комиссар авторизует, один человек обе роли по одной операции нести не может. Сроки платежей в договоре обязаны это вмещать, иначе эстейт нарушит собственный договор из-за собственного банковского мандата.
+9B.7 Security for payment. ⚠ Without this, 9B.5 and 9B.6 remain paper. Choose between: escrow of part of the prepayment until completion; a bank guarantee; a shareholder corporate guarantee; security in favour of a pool of Holders. Account here for Anggaran Dasar Pasal 12(4): a disbursement from the principal account requires two roles — the Director initiates, a Commissioner authorises, and one person cannot hold both roles for the same transaction. Payment deadlines in the agreement must accommodate this, or the Estate will breach its own contract because of its own bank mandate.
 
-9B.8 Объём гарантий. Гарантии даются без оговорки «насколько известно», кроме прямо помеченных. Срок предъявления по 9B.5 — __ лет после прекращения договора.
+9B.8 Scope of the warranties. The warranties are given without a knowledge qualification save where expressly marked. The limitation period for claims under 9B.5 is __ years after termination.
 
-*Sense-text ID для 9B.3 и 9B.5:*
+*Indonesian sense-text for 9B.3 and 9B.5:*
 
 > Pemilik Tanah tidak akan, tanpa persetujuan tertulis Pemegang Hak, membebani Bidang Tanah dengan hak tanggungan atau jaminan lain, memberikan hak yang bersaing atas Bidang Tanah kepada pihak ketiga, atau mengalihkan Bidang Tanah kecuali dengan tetap mengikat penerima pengalihan pada Perjanjian ini. Apabila pembebanan tetap dilakukan, pembebanan tersebut hanya berlaku apabila pemegang jaminan menandatangani perjanjian non-disturbance yang menyatakan bahwa Perjanjian ini tetap berlaku dan mengikat pembeli lelang.
 >
@@ -124,58 +124,58 @@ icon: "🔍"
 
 ---
 
-## часть III — что устав меняет в основном аудите
+## Part III — what the Articles change in the main audit
 
-Получение Anggaran Dasar закрывает часть развилок и открывает четыре новых пункта.
+Receiving the Anggaran Dasar closes some forks and opens four new points.
 
-### У1. Лицензии: список KBLI теперь известен и он шире, чем в черновике
+### A1. Licences: the KBLI list is now known and it is wider than in the draft
 
-Pasal 3(1) устава: 68111 real estate собственный или арендованный · 68200 real estate за вознаграждение или по контракту · 55199 прочее краткосрочное размещение · 56101 ресторан · 96122 SPA · 82302 организация специальных событий · 55192 кемпинги и караванные площадки · 93299 прочие развлечения и рекреация.
+Pasal 3(1) of the Articles: 68111 real estate owned or leased · 68200 real estate on a fee or contract basis · 55199 other short-term accommodation · 56101 restaurant · 96122 SPA · 82302 special event organiser · 55192 campgrounds and caravan parks · 93299 other amusement and recreation.
 
-§9A.1 черновика гарантирует только 68111. Гарантию надо расширить до полного перечня Pasal 3 с указанием локационного охвата по каждому коду — и это же снимает открытый вопрос черновика про несовпадающий индекс у 68111.
+§9A.1 of the draft warrants only 68111. The warranty must be widened to the full list in Pasal 3, stating the locational scope for each code — and that also disposes of the draft's open question about the mismatched index on 68111.
 
-### У2. Спор «рельсы или управляющая компания» решается в пользу эстейта — для коротких горизонтов
+### A2. The "rails or management company" dispute resolves in favour of the Estate — for short horizons
 
-В основном аудите я пометил это как противоречие П2. Устав его разрешает фактами: краткосрочное размещение и кемпинг — это 55199 и 55192, и они у компании. У иностранного держателя-физлица их нет и в норме быть не может.
+In the main audit this was flagged as contradiction C2. The Articles resolve it on the facts: short-term accommodation and camping are 55199 and 55192, and the Company holds them. A foreign individual Holder does not hold them and normally cannot.
 
-Отсюда прямое следствие для §2.6 и §9A.7: пересдача на горизонте суток с проживанием идёт под лицензией компании, то есть это операция эстейта, а не голые рельсы. Формулировка страницы `hak sewa` про «not a management commission» остаётся верной только для длинных горизонтов и голой земли без услуги размещения. Развилку надо описать честно: два разных продукта с разной экономикой, а не один.
+The direct consequence for §2.6 and §9A.7: re-letting on a daily horizon with occupation runs under the Company's licence, making it an Estate operation rather than bare rails. The `hak sewa` page's formulation about "not a management commission" stays true only for long horizons and bare land with no accommodation service. The fork must be described honestly: two different products with different economics, not one.
 
-### У3. Association в уставе не существует
+### A3. The Association does not exist in the Articles
 
-Устав знает три органа: RUPS, Direksi, Dewan Komisaris. Никакого residents' body в нём нет. При этом мукадимах и Pasal 3(3) дважды повторяют, что жители живут «под условиями и ценностями, устанавливаемыми компанией».
+The Articles know three organs: RUPS, Direksi, Dewan Komisaris. There is no residents' body in them. Meanwhile the preamble and Pasal 3(3) twice repeat that residents live "under the terms and values set by the Company".
 
-Значит: §7 черновика с вариантом изменения Design Code «Association supermajority» уставу не соответствует; §8 с уставом, кворумом и голосованием описывает орган без правовой формы; governance-слой из стратегии §10 с DAO в уставе тоже отсутствует.
+It follows that: §7 of the draft, with its variant of amending the Design Code by "Association supermajority", does not match the Articles; §8, with a charter, quorum and voting, describes an organ with no legal form; and the governance layer from strategy §10 with a DAO is likewise absent from the Articles.
 
-Решение нужно до шаблона: Association — это отдельное юрлицо (perkumpulan), или чисто договорная конструкция без права менять Design Code, или изменение устава. Сейчас в трёх документах три разные модели управления.
+A decision is needed before the template: the Association is either a separate legal entity (perkumpulan), or a purely contractual construction with no power to amend the Design Code, or an amendment of the Articles. At present three documents carry three different models of governance.
 
-### У4. Полномочия на подписание — в блок подписей шаблона
+### A4. Signing authority — into the signature block of the template
 
-- Pasal 12(2)(c): директор подписывает договоры аренды и передачи прав на землю в рамках 68111 и 68200 без предварительного согласия. Базовый лиз подписывается директором — это подтверждено уставом.
-- Pasal 12(3)(b): обременение земли — согласие Dewan Komisaris и RUPS. Основание для §9B.3.
-- Pasal 12(3)(d): отчуждение основных средств вне деятельности Pasal 3 — согласие Dewan Komisaris.
-- Pasal 12(3)(e): создание нового бизнеса или участие в другой компании — согласие Dewan Komisaris. Инструмент C (joint venture) без резолюции комиссаров не заключается: это отлагательное условие в шаблоне JV.
-- Pasal 12(4): maker и authorizer при выплатах. Учитывать в сроках возвратов, разблокировки удержания по §5A.5 и выплат по §9A.4.
-- Pasal 1: домициль Gesing, Banjar, Buleleng. Это подтверждает выбор PN Singaraja в §11 и согласуется с Pasal 10(1)(f) устава.
+- Pasal 12(2)(c): the Director signs lease agreements and land-rights transfer agreements within 68111 and 68200 without prior consent. The base lease is signed by the Director — confirmed by the Articles.
+- Pasal 12(3)(b): encumbrance of land — consent of the Dewan Komisaris and the RUPS. The basis for §9B.3.
+- Pasal 12(3)(d): disposal of fixed assets outside the activities in Pasal 3 — consent of the Dewan Komisaris.
+- Pasal 12(3)(e): establishing a new business or participating in another company — consent of the Dewan Komisaris. Instrument C (joint venture) is not concluded without a commissioners' resolution: that is a condition precedent in the JV template.
+- Pasal 12(4): maker and authorizer on disbursements. To be reflected in the timing of refunds, the release of retention under §5A.5 and payments under §9A.4.
+- Pasal 1: domicile Gesing, Banjar, Buleleng. This confirms the choice of PN Singaraja in §11 and is consistent with Pasal 10(1)(f) of the Articles.
 
-### У5. Мукадимах как норма — это опора для ковенанта
+### A5. The preamble as a norm — the anchor for a covenant
 
-Pasal 3(3) прямо привязывает деятельность компании к цели из преамбулы: жилой общинный квартал, оптимизирующий использование энергии и ресурсов, с условиями и ценностями, установленными компанией для каждого жителя. Это корпоративное основание для того, чтобы зонинг-код и Community Rules были обязательствами уровня компании, а не только условиями договора. Рекомендую: процитировать преамбулу в рецитале лиза и принимать Community Rules решением органа компании, чтобы их изменение было прослеживаемым.
-
----
-
-## сводка изменений в списке решений
-
-К пятнадцати развилкам основного аудита добавляются четыре:
-
-16. Плата за передачу или преимущественное право — и если право, то в какой волне и на какой срок.
-17. Форма Association: perkumpulan, договорная конструкция или поправка в устав.
-18. Негативное обязательство по залогу: полный запрет, запрет с согласия держателей или механизм non-disturbance по умолчанию.
-19. Чем обеспечен возврат по 9B.6: эскроу, банковская гарантия, гарантия акционера или обеспечение в пользу пула.
-
-Развилка 7 основного аудита (рельсы или управляющая компания) переформулируется: не выбрать одно из двух, а разделить на два продукта по горизонту и по наличию услуги размещения.
+Pasal 3(3) ties the Company's activity directly to the purpose in the preamble: a residential community estate optimising the use of energy and resources, with terms and values set by the Company for every resident. This is the corporate basis for treating the zoning code and the Community Rules as company-level obligations rather than merely contractual terms. Recommendation: quote the preamble in the recitals of the lease, and adopt the Community Rules by a resolution of a company organ, so that their amendment is traceable.
 
 ---
 
-## оговорка
+## Summary of changes to the decision list
 
-Это не юридическая консультация. Формулировки выше — рабочий материал для нотариуса и PPAT. Индонезийские тексты даны как sense-text: смысл зафиксирован, окончательная редакция и ссылки на конкретные статьи — за нотариусом. Допустимость залога hak sewa (2.5.10) и точная нумерация статей KUHPerdata в §2.7 черновика подтверждаются до подписания, а не после.
+Four forks are added to the fifteen of the main audit:
+
+16. A transfer fee or a right of first refusal — and if a right, in which wave and for how long.
+17. The form of the Association: perkumpulan, contractual construction, or an amendment of the Articles.
+18. The negative pledge on charging: a full prohibition, a prohibition subject to Holder consent, or a non-disturbance mechanism by default.
+19. What secures the refund under 9B.6: escrow, a bank guarantee, a shareholder guarantee, or security in favour of a pool.
+
+Fork 7 of the main audit (rails or management company) is restated: not a choice between two, but a split into two products by horizon and by the presence of an accommodation service.
+
+---
+
+## Reservation
+
+This is not legal advice. The formulations above are working material for the notary and the PPAT. The Indonesian texts are given as sense-text: the meaning is fixed, and the final wording and references to specific articles rest with the notary. The admissibility of charging a hak sewa (2.5.10) and the exact numbering of the KUHPerdata articles in §2.7 of the draft are confirmed before signature rather than after.

@@ -1,95 +1,95 @@
 ---
 tags: cyber valley, cyberia, legal, audit
-alias: verification report, проверка титулов и зонирования
+alias: verification report, title and zoning verification
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "🔎"
 ---
-# Проверка: титулы, зонирование, залог, статьи кодекса, KBLI
+# Verification: titles, zoning, security, code articles, KBLI
 
-Дата: 2026-08-13 · четыре запрошенные проверки · источники названы у каждой
+Date: 2026-08-13 · four requested checks · sources named against each
 
 ---
 
-## 1. Остаточный срок мастер-титула
+## 1. Remaining term of the master title
 
-Ответ: определить нечем, и сам термин неверен.
+Answer: there is nothing to determine it from, and the term itself is wrong.
 
-Источник: таблица `land` в Google Drive (изменена 06.08.2026, владелец jooyyrocket@gmail.com), 21 позиция.
+Source: the `land` spreadsheet in Google Drive (modified 06.08.2026, owner jooyyrocket@gmail.com), 21 rows.
 
-Мастер-титула в единственном числе не существует. Эстейт собран из 21 приобретения у разных прежних владельцев:
+A master title in the singular does not exist. The Estate is assembled from 21 acquisitions from different previous owners:
 
-| категория | позиций | площадь | доля |
+| category | rows | area | share |
 |---|---|---|---|
-| HGB с номером сертификата | 18 | 3 193 ара (31,93 га) | 86,0% |
-| без сертификата HGB | 3 | 518 ар (5,18 га) | 14,0% |
-| всего | 21 | 3 711 ар (37,11 га) | 100% |
+| HGB with a certificate number | 18 | 3,193 are (31.93 ha) | 86.0% |
+| without an HGB certificate | 3 | 518 are (5.18 ha) | 14.0% |
+| total | 21 | 3,711 are (37.11 ha) | 100% |
 
-Три позиции без титула: №13 — 450 ар, тип владения `Pipil`, статус wait; №0 — 64 ара, сертификат `wait`; №3.1 — 4 ара, тип владения `agreement`. Pipil — не сертификат права, а налогово-адатный документ; участок на Pipil в лиз не сдаётся до конверсии. Это 12% площади эстейта одним куском.
+The three rows without title: №13 — 450 are, holding type `Pipil`, status wait; №0 — 64 are, certificate `wait`; №3.1 — 4 are, holding type `agreement`. Pipil is a tax and customary document rather than a certificate of right; a plot on Pipil is not let until conversion. That is 12% of the Estate's area in a single block.
 
-Дат выдачи и окончания HGB нет ни в этой таблице, ни где-либо ещё в доступных данных. Остаточный срок берётся только из самих сертификатов — их 18, и их надо прочитать. Ставить сюда число без сертификата нельзя.
+Grant and expiry dates for the HGB appear neither in this spreadsheet nor anywhere else in the available data. The remaining term comes only from the certificates themselves — there are 18 of them and they have to be read. Putting a number here without the certificates is not permissible.
 
-Что можно сказать без сертификатов, структурно. Приобретения датированы 2022–2024 (по датам PPJB и авторизаций в таблице). HGB по PP 18/2021 — 30 лет, продление 20, возобновление 30. Даже при отсчёте от 2022 первые два цикла заканчиваются около 2072–2074. Лиз 25+25, подписанный в 2026, идёт до 2076. Продукт структурно выходит за пределы первых двух циклов и опирается на третий, который не гарантирован.
+What can be said structurally, without the certificates. The acquisitions are dated 2022–2024 (from the PPJB dates and authorisations in the spreadsheet). An HGB under PP 18/2021 runs 30 years, with an extension of 20 and a renewal of 30. Even counting from 2022, the first two cycles end around 2072–2074. A 25+25 lease signed in 2026 runs to 2076. The product structurally exceeds the first two cycles and relies on a third that is not guaranteed.
 
-Что меняется в документе: формулировка «master title» в единственном числе заменена на «Title» — конкретный сертификат, на котором стоит участок; Annex A становится таблицей по одной строке на титул с датами и остатком; в преамбулу лиза выносится остаточный срок цифрой; добавлено отлагательное условие — участок не предлагается, если он не на сертифицированном HGB.
+What changes in the document: the wording "master title" in the singular is replaced by "Title" — the specific certificate on which the plot sits; Annex A becomes a table with one row per title, with dates and remaining term; the remaining term goes into the recitals of the lease as a number; and a condition precedent is added — a plot is not offered unless it sits on a certificated HGB.
 
-## 2. ITR и RDTR Buleleng
+## 2. ITR and RDTR Buleleng
 
-Ответ: земля по RTRW — сельскохозяйственная зона; путь к застройке — KKPR по каждому участку; больше половины эстейта его не имеет.
+Answer: under the RTRW the land is an agricultural zone; the route to building is a KKPR for each plot; more than half the Estate does not have one.
 
-Официальный статус RDTR по Bali публикует `tarubali.baliprov.go.id` на странице «Update Status RTRW dan RDTR se-Provinsi Bali». Из этой сессии страница не открылась — robots.txt по таймауту. Это надо добрать вручную или через юриста.
+The official RDTR status for Bali is published by `tarubali.baliprov.go.id` on the page "Update Status RTRW dan RDTR se-Provinsi Bali". The page did not open from this session — robots.txt timed out. This has to be obtained manually or through counsel.
 
-Что дают собственные документы группы:
+What the group's own documents give:
 
-- `cyber-valley/districts/bridge/ad.md` фиксирует по RTRW для соседнего участка 4,8 га в том же Gesing: `Kawasan Pertanian` (сельскохозяйственная), граничит с `Kawasan Lindung` (защитная зелёная зона), и прямо пишет: покупатель получает KKPR, застраиваемая площадь подтверждается на этапе KKPR.
-- таблица `land` содержит колонку PKKPR. Заполнена она у 7 позиций из 21: 200, 400, 28, 445, 445, 88, 88 ар — итого 1 694 ара, 16,94 га.
+- `cyber-valley/districts/bridge/ad.md` records, under the RTRW for a neighbouring 4.8 ha plot in the same Gesing: `Kawasan Pertanian` (agricultural), adjoining `Kawasan Lindung` (protective green zone), and states expressly that the buyer obtains the KKPR and that the buildable area is confirmed at the KKPR stage.
+- the `land` spreadsheet has a PKKPR column. It is filled for 7 rows out of 21: 200, 400, 28, 445, 445, 88, 88 are — 1,694 are in total, 16.94 ha.
 
-| PKKPR | площадь | доля эстейта |
+| PKKPR | area | share of the Estate |
 |---|---|---|
-| оформлен | 1 694 ара (16,94 га) | 45,6% |
-| не оформлен | 2 017 ар (20,17 га) | 54,4% |
+| obtained | 1,694 are (16.94 ha) | 45.6% |
+| not obtained | 2,017 are (20.17 ha) | 54.4% |
 
-Открытый пункт стратегии №3 назван «highest-priority verification, gates the entire subdivision plan». Данные говорят, что он не закрыт: больше половины площади без PKKPR, при базовом статусе земли `Kawasan Pertanian`.
+Open item 3 of the strategy is called "highest-priority verification, gates the entire subdivision plan". The data say it is not closed: more than half the area is without a PKKPR, on land whose base status is `Kawasan Pertanian`.
 
-Отсюда два следствия для договора, оба внесены. Заверение о зонировании и KKPR даётся по конкретному участку, а не по эстейту в целом. И добавлено отлагательное условие: участок без PKKPR под заявленное использование не предлагается и не оценивается.
+Two consequences for the agreement follow, both made. The warranty on zoning and KKPR is given for the specific plot rather than for the Estate as a whole. And a condition precedent is added: a plot without a PKKPR for the stated use is neither offered nor priced.
 
-Отдельно: в зоне `Kawasan Pertanian` вопрос LP2B (защищённые сельхозугодья) перестаёт быть теоретическим и проверяется по каждому участку до нарезки.
+Separately: in a `Kawasan Pertanian` zone the LP2B question (protected agricultural land) stops being theoretical and is checked for each plot before subdivision.
 
-## 3. Допустимость залога hak sewa
+## 3. Admissibility of charging a hak sewa
 
-Ответ: залог невозможен. Конструкция заменена на уступку в обеспечение.
+Answer: a charge is impossible. The construction is replaced by an assignment by way of security.
 
-Позиция: `UU 4/1996` о Hak Tanggungan, Pasal 4 перечисляет объекты обременения — Hak Milik, Hak Guna Usaha, Hak Guna Bangunan (ayat 1) и Hak Pakai над государственной землёй, подлежащее регистрации и передаваемое (ayat 2). Hak sewa untuk bangunan по UUPA Pasal 44–45 в этот перечень не входит и в BPN не регистрируется, а регистрируемость и есть условие обременения.
+Position: `UU 4/1996` on Hak Tanggungan, Pasal 4 lists the objects that may be encumbered — Hak Milik, Hak Guna Usaha, Hak Guna Bangunan (ayat 1) and Hak Pakai over state land that is registrable and transferable (ayat 2). Hak sewa untuk bangunan under UUPA Pasal 44–45 is not in that list and is not registered at BPN, and registrability is the condition of encumbrance.
 
-Честно о происхождении этой позиции: первичный текст из этой сессии открыть не удалось — `peraturan.bpk.go.id` отдал 403, `jdih.atrbpn.go.id` показывает только метаданные без статей, страница hukumonline по этому вопросу молчит. Позиция изложена по знанию, не по извлечённому источнику. Подтверждается у нотариуса по JDIH одним вопросом: входит ли hak sewa в перечень Pasal 4 UU 4/1996.
+Honestly on the provenance of this position: the primary text could not be opened from this session — `peraturan.bpk.go.id` returned 403, `jdih.atrbpn.go.id` shows only metadata without articles, and the hukumonline page is silent on this question. The position is stated from knowledge rather than from a retrieved source. It is confirmed with the notary against JDIH with one question: is hak sewa within the list in Pasal 4 of UU 4/1996.
 
-Что внесено в §2.9 вместо залога: уступка права в обеспечение (`cessie tot zekerheid`) нотариальным актом с уведомлением эстейта; эстейт признаёт обеспечительного кредитора, выдаёт ему Estate Certificate и уведомляет его о существенном нарушении до расторжения, давая тот же срок на излечение, что и держателю; при обращении взыскания кредитор получает весь пакет по 2.5.2 и присоединяется по 2.5.4, платы за передачу нет — она берётся при его последующей продаже.
+What went into §2.9 in place of a charge: assignment of the right by way of security (`cessie tot zekerheid`) by notarial deed on notice to the Estate; the Estate acknowledges the secured creditor, issues it the Estate Certificate, and notifies it of a material breach before terminating, granting the same cure period as the Holder; on enforcement the creditor takes the whole bundle under 2.5.2 and accedes under 2.5.4, with no transfer fee — the fee is taken on its subsequent sale.
 
-И это усиливает аргумент за негативное обязательство. Асимметрия названа прямо: компания вправе заложить землю по `Pasal 12(3)(b)` устава, держатель не вправе заложить своё право вообще. Односторонняя возможность обременения без non-disturbance — не тот баланс, который можно продавать.
+This also strengthens the argument for a negative pledge. The asymmetry is named directly: the Company may charge the land under `Pasal 12(3)(b)` of the Articles, while the Holder may not charge his right at all. A one-sided power of encumbrance without non-disturbance is not a balance that can be sold.
 
-## 4a. Нумерация статей KUHPerdata в §2.7
+## 4a. Numbering of the KUHPerdata articles in §2.7
 
-Ответ: не подтверждена. Проверить из этой сессии не удалось.
+Answer: not confirmed. It could not be verified from this session.
 
-Wikisource недоступен из окружения, индонезийские первичные источники отдают 403 или только метаданные, поисковый индекс по этому запросу выдаёт английские акты XVI века.
+Wikisource is unavailable from the environment, Indonesian primary sources return 403 or metadata only, and the search index returns sixteenth-century English statutes for this query.
 
-Что известно структурно и что не является доказательством: Buku III KUHPerdata, глава `Bab VII Sewa Menyewa` занимает примерно статьи 1548–1600, то есть 1588–1592 попадают в главу об аренде, а не о купле-продаже. Для клаузулы об аренде участка это скорее аргумент за корректность ссылки, чем против. «Скорее» — не основание для подписи.
+What is known structurally and does not amount to proof: Buku III KUHPerdata, chapter `Bab VII Sewa Menyewa`, occupies roughly articles 1548–1600, so 1588–1592 fall within the chapter on leases rather than on sale. For a clause about leasing a plot that is an argument for the reference being correct rather than against it. "Rather" is not a basis for signature.
 
-Точный вопрос нотариусу, одним абзацем: подтвердить, что Pasal 1588–1592 KUHPerdata регулируют аренду земли с указанием площади и последствия расхождения фактической площади с указанной; что они диспозитивны; и что отказ от них допустим при объективно определимых границах. Если статьи не те — §2.7 пуст, и вся конструкция per aversionem держится на пустом месте.
+The precise question for the notary, in one paragraph: confirm that Pasal 1588–1592 KUHPerdata govern the lease of land stated by area and the consequences of a divergence between actual and stated area; that they are dispositive; and that waiving them is permissible where the boundaries are objectively determinable. If the articles are the wrong ones, §2.7 is empty and the whole per aversionem construction rests on nothing.
 
-Пункт добавлен в открытые вопросы документа.
+The item has been added to the document's open questions.
 
-## 4b. Локационный охват KBLI из Pasal 3 устава
+## 4b. Locational scope of the KBLI in Pasal 3 of the Articles
 
-Ответ: в уставе этих данных нет, они в NIB. Структура внесена в Annex A.
+Answer: this data is not in the Articles, it is in the NIB. The structure has been entered into Annex A.
 
-Устав даёт восемь кодов: 68111 недвижимость собственная или арендованная · 68200 недвижимость за вознаграждение или по контракту · 55199 прочее краткосрочное размещение · 56101 ресторан · 96122 SPA · 82302 организация специальных событий · 55192 кемпинги и караванные площадки · 93299 прочие развлечения и рекреация.
+The Articles give eight codes: 68111 real estate owned or leased · 68200 real estate on a fee or contract basis · 55199 other short-term accommodation · 56101 restaurant · 96122 SPA · 82302 special event organiser · 55192 campgrounds and caravan parks · 93299 other amusement and recreation.
 
-Локационный охват в уставе не указывается вообще: он живёт в NIB в системе OSS RBA, где каждая позиция KBLI привязана к адресу ведения деятельности, классу риска и статусу разрешения. Доступа к OSS у меня нет.
+Locational scope is not stated in the Articles at all: it lives in the NIB in the OSS RBA system, where each KBLI entry is tied to a business address, a risk class and a permit status. I have no access to OSS.
 
-Что нужно выгрузить и положить в Annex A — по одной строке на пару KBLI × адрес:
+What needs to be exported and placed into Annex A — one row per KBLI × address pair:
 
-| KBLI | наименование | alamat usaha | skala usaha | класс риска | статус perizinan berusaha | PB-UMKU | покрываемые участки Annex A |
+| KBLI | name | alamat usaha | skala usaha | risk class | perizinan berusaha status | PB-UMKU | Annex A plots covered |
 |---|---|---|---|---|---|---|---|
 | 68111 | | | | | | | |
 | 68200 | | | | | | | |
@@ -100,24 +100,24 @@ Wikisource недоступен из окружения, индонезийск�
 | 55192 | | | | | | | |
 | 93299 | | | | | | | |
 
-Порядок получения: OSS RBA → аккаунт компании → cetak NIB → daftar kegiatan usaha; по каждой строке снять адрес, скалу, риск и статус; сверить адреса с перечнем титулов Annex A.
+How to obtain it: OSS RBA → company account → cetak NIB → daftar kegiatan usaha; take the address, scale, risk and status for each row; reconcile the addresses against the list of titles in Annex A.
 
-Проверять первым делом расхождение, отмеченное ещё в v0.3: NIB показывает для 68111 иной адрес, чем для остальных кодов. 68111 — код, под которым выдаются лизы. Если его локация не покрывает участок, заверение §9A.1 по этому участку неверно, а `Pasal 12(2)(c)` устава даёт директору право подписывать лизы именно в рамках 68111 и 68200.
+Check first of all the discrepancy already noted at v0.3: the NIB shows a different address for 68111 than for the other codes. 68111 is the code under which leases are granted. If its location does not cover the plot, the warranty in §9A.1 is untrue for that plot — and `Pasal 12(2)(c)` of the Articles gives the Director authority to sign leases precisely within 68111 and 68200.
 
-Второе, что вытекает из перечня и уже внесено в §2.6: 55199 и 55192 есть у компании и не могут быть у иностранного держателя-физлица. Сублиз с проживанием идёт под лицензией компании, голая земля без услуги размещения — под ответственностью держателя.
+The second consequence of the list, already entered into §2.6: 55199 and 55192 are held by the Company and cannot be held by a foreign individual Holder. A sublet with occupation runs under the Company's licence; bare land with no accommodation service runs under the Holder's responsibility.
 
 ---
 
-## сводка
+## Summary
 
-| проверка | результат | что дальше |
+| check | result | next step |
 |---|---|---|
-| остаточный срок титула | не определяется; мастер-титул один — миф, титулов 18, ещё 14% площади без титула | прочитать 18 сертификатов, заполнить Annex A |
-| ITR / RDTR Buleleng | RTRW — Kawasan Pertanian; PKKPR у 45,6% площади | добрать PKKPR, проверить LP2B по каждому участку |
-| залог hak sewa | невозможен по UU 4/1996 Pasal 4; заменён на cessie tot zekerheid | подтвердить конструкцию у нотариуса |
-| KUHPerdata 1588–1592 | не подтверждено, источники недоступны | один вопрос нотариусу по JDIH |
-| охват KBLI | нет в уставе, есть в NIB; таблица заведена в Annex A | выгрузить из OSS RBA, начать с 68111 |
+| remaining term of the title | not determinable; a single master title is a myth, there are 18 titles, and a further 14% of the area has none | read the 18 certificates, fill in Annex A |
+| ITR / RDTR Buleleng | RTRW is Kawasan Pertanian; PKKPR covers 45.6% of the area | obtain the missing PKKPR, check LP2B for each plot |
+| charging a hak sewa | impossible under UU 4/1996 Pasal 4; replaced by cessie tot zekerheid | confirm the construction with the notary |
+| KUHPerdata 1588–1592 | unconfirmed, sources unavailable | one question to the notary against JDIH |
+| KBLI scope | absent from the Articles, present in the NIB; the table is set up in Annex A | export from OSS RBA, starting with 68111 |
 
-Это не юридическая консультация. Два пункта — залог и нумерация статей — изложены по знанию, а не по извлечённому первоисточнику, и помечены как требующие подтверждения. Числа по площадям и PKKPR посчитаны из таблицы `land` и воспроизводимы.
+This is not legal advice. Two items — the charge and the article numbering — are stated from knowledge rather than from a retrieved primary source, and are marked as requiring confirmation. The figures for areas and PKKPR are computed from the `land` spreadsheet and are reproducible.
 
 Sources: [UU No. 4 Tahun 1996 — JDIH BPK RI](https://peraturan.bpk.go.id/Details/46093/uu-no-4-tahun-1996) · [UU No. 4 Tahun 1996 — JDIH ATR/BPN](https://jdih.atrbpn.go.id/peraturan/detail/31/undang-undang-nomor-4-tahun-1996) · [Update Status RTRW dan RDTR se-Provinsi Bali](https://tarubali.baliprov.go.id/update-status-rtrw-dan-rdtr-se-provinsi-bali/) · [Categories of Property Rights in Indonesia — SSEK](https://www.ssek.com/blog/categories-of-property-rights-in-indonesia/) · [Jenis-jenis Hak atas Tanah — Klinik Hukumonline](https://www.hukumonline.com/klinik/a/jenis-jenis-hak-atas-tanah-dan-yang-dapat-menjadi-pemegangnya-lt5eeb3b383296d/)

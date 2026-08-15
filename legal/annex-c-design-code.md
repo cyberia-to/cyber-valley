@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, draft
-alias: annex c, design code, дизайн-код
+alias: annex c, design code
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "📐"

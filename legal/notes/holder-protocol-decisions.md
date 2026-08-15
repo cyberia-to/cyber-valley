@@ -1,258 +1,260 @@
 ---
 tags: cyber valley, cyberia, legal, strategy
-alias: протокол держателя, holder protocol, лист согласования
+alias: holder protocol, holder protocol decisions, decision sheet
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "🤝"
 ---
-# Протокол держателя — решения на согласование
+# Holder protocol — decisions for agreement
 
-Дата: 2026-08-13 · вход: `land-rights-audit.md`, `land-rights-audit-addendum.md`, Anggaran Dasar PT CVE от 12.08.2026 · выход: 12 решений, каждое с вариантами и рекомендацией
+Date: 2026-08-13 · input: `land-rights-audit.md`, `land-rights-audit-addendum.md`, Anggaran Dasar PT CVE of 12.08.2026 · output: 12 decisions, each with variants and a recommendation
 
 ---
 
-## принцип
+## Principle
 
-Мукадимах устава задаёт рамку: жилой общинный квартал на земле, управляемой компанией, где каждый житель живёт по условиям и ценностям, установленным компанией; среда, оптимизирующая использование энергии и ресурсов; жители объединены в одно сообщество и общий граф знаний.
+The preamble of the Articles sets the frame: a residential community estate on land administered by the Company, where every resident lives under the terms and values set by the Company; an environment that optimises the use of energy and resources; residents united in one community and one shared knowledge graph.
 
-Отсюда следует форма всех решений ниже. Компания сохраняет владение и ответственность — иначе она не может отвечать за среду. Житель получает не долю в управлении, а нечто более ценное для него: проверяемость, несносимость и свободу выхода. Это ровно девиз стека, применённый к земле:
+The shape of every decision below follows from that. The Company keeps ownership and responsibility — without them it cannot answer for the environment. The Holder receives something more valuable to him than a share in governance: verifiability, indestructibility and freedom of exit. This is the motto of the stack applied to land:
 
-| девиз | страх держателя | механизм | что получает эстейт |
+| motto | the Holder's fear | mechanism | what the Estate gets |
 |---|---|---|---|
-| don't trust | «мне рассказали, а проверить нечем» | всё состояние сделки публикуется и пересчитывается: реестр лизов в графе, справка эстейта, аннекс индекса, показатели почвы и воды | ликвидная вторичка поднимает цену первички; прозрачность — сам по себе маркетинг |
-| don't fear | «однажды придут и отберут» | негативное обязательство, non-disturbance, гарантийный фонд в century index, компенсация по оценке | доступ к залоговому финансированию сохраняется, но становится продаваемым, а не пугающим |
-| don't beg | «выход только через разрешение» | уступка без согласия, молчаливое согласие по срокам, сублиз как право | оборот вторички облагается тонкой платой на большом объёме вместо толстой на малом |
+| don't trust | "I was told, and I have nothing to check it with" | the whole state of the deal is published and recomputable: the register of leases in the graph, the Estate Certificate, the index annex, soil and water readings | a liquid secondary market lifts the price of the primary; transparency is marketing in itself |
+| don't fear | "one day they will come and take it" | negative pledge, non-disturbance, guarantee fund in the century index, compensation at valuation | access to secured financing survives, and becomes sellable rather than frightening |
+| don't beg | "the exit runs through permission" | assignment without consent, deemed consent on deadlines, sublet as of right | secondary turnover carries a thin fee on large volume instead of a thick fee on small |
 
-Ни одно из решений ниже не отнимает у компании ни одного полномочия из Pasal 12 устава. Все они добавляют компании обязанность быть проверяемой — а это то, чем манифест уже назвал безопасность: truth as security, рынки верификации делают ложь невыгодной.
+No decision below takes a single power away from the Company under Pasal 12 of the Articles. Each of them adds an obligation to be verifiable — which is what the manifesto already called security: truth as security, verification markets making lying unprofitable.
 
 ---
 
-## Р1 · Свобода выхода и плата за вклад
+## D1 · Freedom of exit and a fee for contribution
 
-Проблема: §2.5 не закрыт, вторички нет, ROFR обваливает цену перепродажи.
+Problem: §2.5 is unresolved, there is no secondary market, and a ROFR collapses the resale price.
 
-Решение. Уступка свободна, без согласия. Плата за передачу — 2% от цены сделки, и она снижается за вклад:
+Decision. Assignment is free, without consent. The transfer fee is 2% of the transaction price, reduced for contribution:
 
-| условие держателя | плата |
+| the Holder's position | fee |
 |---|---|
-| базовая | 2.0% |
-| построил в срок, объект введён по SLF | 1.5% |
-| ноль неустранённых нарушений Design Code за весь срок | 1.0% |
-| показатели почвы и воды публикуются в ledger без пропусков | 0.5% |
-| привёл резидентов по рефералу (порог задаётся) | 0% |
-| наследование | 0% |
+| base | 2.0% |
+| built within time, SLF issued | 1.5% |
+| no unremedied Design Code breach for the whole term | 1.0% |
+| soil and water readings published to the ledger without gaps | 0.5% |
+| referred residents above the threshold | 0% |
+| succession | 0% |
 
-Преимущественное право эстейта существует только в волне 1 и только до исполнения обязательства построить. После SLF оно исчезает навсегда.
+The Estate's right of first refusal exists only in Wave 1 and only until the build obligation is discharged. After SLF it disappears permanently.
 
-Почему win-win. Эстейт получает контроль ровно там, где он нужен — на ранней фазе, где решается тон и социальное доказательство. Держатель получает ликвидность ровно там, где он уже вложился. Спекулянт платит полную ставку, строитель — нулевую: это принцип 6 манифеста, награда за вклад, переведённый в деньги. И ликвидная вторичка поднимает первичку — Гонконг стоит на этом с 1889 года.
+Why win-win. The Estate keeps control exactly where it is needed — in the early phase, where the tone and the social proof are decided. The Holder gets liquidity exactly where he has already invested. The speculator pays the full rate, the builder pays nothing: principle 6 of the manifesto, reward for contribution translated into money. And a liquid secondary market lifts the primary — Hong Kong has stood on this since 1889.
 
-Варианты: (а) как выше · (б) плоские 2% без шкалы, проще администрировать · (в) 0% всегда, эстейт зарабатывает только на area tax.
+Variants: (a) as above · (b) flat 2% with no scale, simpler to administer · (c) 0% always, the Estate earning only on the area tax.
 
-Рекомендую (а).
+Recommending (a).
 
-## Р2 · Реестр лизов как подграф
+## D2 · The register of leases as a subgraph
 
-Проблема: покупателю вторички нечем проверить, что он покупает.
+Problem: a secondary buyer has nothing with which to check what he is buying.
 
-Решение. Каждый лиз — particle в cybergraph. Уступка — cyberlink. Справка эстейта выдаётся за 10 рабочих дней бесплатно и содержит остаточный срок, задолженность, количества qᵢ и последний инвойс, статус PBG и SLF, открытые нарушения, статус и обременения мастер-титула. Действует 30 дней, приобретатель вправе на неё полагаться. При расхождении графа и нотариального акта приоритет у акта и реестра — тот же порядок, что тезис T8 индекса.
+Decision. Every lease is a particle in cybergraph. An assignment is a cyberlink. The Estate Certificate is issued within 10 working days free of charge and states the remaining term, arrears, the quantities qᵢ and the latest invoice, PBG and SLF status, open breaches, and the status and encumbrances of the master title. It is valid for 30 days and the acquirer may rely on it. Where the graph and the notarial deed diverge, the deed and the register prevail — the same ordering as thesis T8 of the index.
 
-Почему win-win. Держатель продаёт быстрее и дороже. Эстейт получает первое реальное применение графа к физическому активу — миссия «единый граф знаний» перестаёт быть декларацией и становится тем, что поднимает цену его собственной земли.
+Why win-win. The Holder sells faster and higher. The Estate gets the first real application of the graph to a physical asset: the mission of a single knowledge graph stops being a declaration and becomes the thing that lifts the price of its own land.
 
-Варианты: (а) публичный реестр с приватностью персональных данных, состояние лиза видно, личность нет · (б) реестр только по запросу справкой · (в) полностью публичный.
+Variants: (a) public register with personal data kept private, the state of a lease visible and the identity not · (b) register disclosed only on request through a certificate · (c) fully public.
 
-Рекомендую (а).
+Recommending (a).
 
-## Р3 · Залог без страха
+## D3 · Security over land without fear
 
-Проблема: `Pasal 12(3)(b)` устава прямо разрешает компании закладывать HGB и Hak Pakai. Незарегистрированный hak sewa при обращении взыскания сгорает.
+Problem: `Pasal 12(3)(b)` of the Articles expressly permits the Company to charge HGB and Hak Pakai. An unregistered hak sewa is extinguished on enforcement.
 
-Решение. Право залога у компании остаётся — оно нужно для инфраструктуры фазы 1. Но обременение допускается только при трёх условиях: залогодержатель письменно подтверждает, что лизы сохраняют силу и связывают приобретателя с торгов; держатели уведомлены за 30 дней; запись появляется в реестре. Плюс: на период действия залога area tax для держателей снижается на оговорённый шаг — премия за принятый риск.
+Decision. The Company keeps the right to charge — it is needed for phase 1 infrastructure. But an encumbrance is permitted only on three conditions: the secured party confirms in writing that the leases survive and bind a purchaser at auction; Holders are notified 30 days in advance; the entry appears in the register. In addition, for the period the encumbrance subsists, the area tax for Holders is reduced by an agreed step — a premium for the risk accepted.
 
-Почему win-win. Банк идёт на non-disturbance легко: арендный поток и есть то, что делает залог ценным, а банк, сносящий лизы, уничтожает актив, под который кредитует. Компания сохраняет доступ к финансированию и платит за него из будущего потока, а не из кэша. Держатель перестаёт бояться того, чего он больше всего боится.
+Why win-win. A bank accepts non-disturbance readily: the rental flow is what makes the security valuable, and a bank that destroys the leases destroys the asset it lends against. The Company keeps access to financing and pays for it out of future flow rather than out of cash. The Holder stops fearing the thing he fears most.
 
-Варианты: (а) как выше · (б) полный запрет залога — дёшево для держателя, дорого для города: закрывает канал финансирования инфраструктуры · (в) залог с согласия супербольшинства держателей.
+Variants: (a) as above · (b) a full prohibition on charging — cheap for the Holder, expensive for the city, since it closes the channel that finances infrastructure · (c) charging with the consent of a supermajority of Holders.
 
-Рекомендую (а).
+Recommending (a).
 
-## Р4 · Гарантийный фонд — одна копилка на две задачи
+## D4 · The guarantee fund — one pot for two tasks
 
-Проблема: обещание вернуть предоплату при дефекте титула ничем не обеспечено.
+Problem: the promise to return a prepayment on a title defect is secured by nothing.
 
-Решение. 5% каждого платежа по инструментам A и B уходит в резерв, номинированный в century index. Тот самый резерв, который стратегия §9 уже описала правилом «tithes off the top» и §11 назвала war chest под второй город. Ему назначается вторая функция: он же обеспечение выплат держателям по лестнице средств защиты. Баланс фонда и его адрес публикуются. Расходование — по правилу устава `Pasal 12(4)`: директор инициирует, комиссар авторизует.
+Decision. 5% of every payment under instruments A and B goes into a reserve denominated in the century index. It is the same reserve that strategy §9 already described under the rule of tithes off the top and that §11 called the war chest for the second city. It is given a second function: security for payments to Holders along the ladder of remedies. The balance of the fund and its address are published. Disbursement follows the rule in `Pasal 12(4)`: the Director initiates, a Commissioner authorises.
 
-Почему win-win. Компания не замораживает капитал на банковской гарантии и не платит за неё комиссию — деньги остаются внутри контура и работают как военный сундук. Держатель получает адрес, по которому можно посмотреть, чем обеспечено обещание. Один механизм закрывает две задачи вместо двух механизмов на одну каждый.
+Why win-win. The Company does not freeze capital in a bank guarantee and does not pay a fee for one — the money stays inside the perimeter and works as a war chest. The Holder gets an address at which he can see what the promise is backed by. One mechanism closes two tasks instead of two mechanisms closing one each.
 
-Варианты: (а) как выше, 5% · (б) банковская гарантия на фазу до SLF · (в) корпоративная гарантия акционера · (г) комбинация: фонд плюс гарантия акционера сверх лимита фонда.
+Variants: (a) as above, 5% · (b) a bank guarantee for the phase up to SLF · (c) a shareholder corporate guarantee · (d) a combination: the fund plus a shareholder guarantee above the fund's limit.
 
-Рекомендую (а), с переходом к (г) при сумме обязательств выше порога фонда.
+Recommending (a), moving to (d) where aggregate obligations exceed the fund's threshold.
 
-## Р5 · Правда вместо слова «registered»
+## D5 · The truth in place of the word "registered"
 
-Проблема: витрина продаёт «registered lease», §2.2 договора честно говорит, что hak sewa в BPN не регистрируется.
+Problem: the product pages sell a "registered lease", while §2.2 of the agreement says honestly that hak sewa is not registered at BPN.
 
-Решение. Слово убирается, обещание — усиливается. Продаётся то, что действительно есть, и объясняется, почему это работает:
+Decision. The word goes, and the promise is strengthened. What is sold is what actually exists, with an explanation of why it works:
 
-- нотариальный акт и запись в реестре эстейта,
-- негативное обязательство и non-disturbance — договорный эквивалент того, что регистрация даёт по закону,
-- обязательность договора для любого приобретателя земли,
-- лестница вверх: после ввода объекта — hak pakai с настоящей регистрацией в BPN для держателя с KITAS, hak milik для WNI.
+- the notarial deed and the entry in the Estate's register,
+- the negative pledge and non-disturbance — the contractual equivalent of what registration gives by law,
+- the agreement binding any acquirer of the land,
+- the ladder upward: after the building is completed, hak pakai with real BPN registration for a Holder with a KITAS, hak milik for an Indonesian citizen.
 
-То есть продаётся не подмена слова, а лестница: контракт с гарантиями сегодня, регистрируемый титул после стройки.
+What is sold is not a substituted word but a ladder: a contract with guarantees today, a registrable title after construction.
 
-Почему win-win. Держатель перестаёт узнавать неприятное после подписания — а именно после подписания такие вещи и разрушают репутацию города. Эстейт получает то, что манифест называет главным оружием: устойчивость к обману как продукт. Честное раскрытие — это ещё и единственная защита от иска о недействительности по недостоверности заверений.
+Why win-win. The Holder stops learning unpleasant things after signing — and it is precisely after signing that such things destroy a city's reputation. The Estate gets what the manifesto calls the principal weapon: resistance to deception as a product. Honest disclosure is also the only defence against a claim of invalidity for misrepresentation.
 
-Варианты: (а) как выше · (б) оставить «registered» с оговоркой мелким шрифтом.
+Variants: (a) as above · (b) keep "registered" with a qualification in small print.
 
-Рекомендую (а). Вариант (б) считаю неприемлемым: это ровно тот случай, когда «выглядит правильно» подменяет «правильно».
+Recommending (a). Variant (b) is unacceptable: it is exactly the case where "looks right" replaces "is right".
 
-## Р6 · Коридор вместо иллюзии фиксации
+## D6 · A corridor in place of the illusion of a fix
 
-Проблема: страница B обещает «fixed yearly rent, locked on day one», индекс так не работает.
+Problem: page B promises "fixed yearly rent, locked on day one", and the index does not work that way.
 
-Решение. Три шага:
+Decision. Three steps:
 
-1. Сказать, что зафиксировано на самом деле: количества qᵢ, коллар +35/−15 в год, двойной пол. Показать в калькуляторе исторический путь из бэктеста, а не только гладкую экспоненту.
-2. Продать опцию «узкий коридор»: держатель может купить сужение годового коллара за надбавку к R₀. Эстейт продаёт страховку, держатель покупает спокойствие.
-3. Дать право досрочного погашения: держатель B в любой момент доплачивает остаток по формуле и становится A.
+1. State what is actually fixed: the quantities qᵢ, the collar of +35/−15 per year, the double floor. Show the historical path from the backtest in the calculator, rather than only a smooth exponential.
+2. Sell the narrow-corridor option: the Holder may buy a narrowing of the annual collar for a premium on R₀. The Estate sells insurance, the Holder buys calm.
+3. Grant a right of early redemption: a Holder on B may at any time pay the remainder under the formula and become an A.
 
-Почему win-win. Эстейт получает новый продукт и досрочные деньги. Держатель получает выбор между дешевле-с-риском и дороже-со-спокойствием вместо обещания, которое не выдержит первого же года.
+Why win-win. The Estate gets a new product and early money. The Holder gets a choice between cheaper-with-risk and dearer-with-calm, instead of a promise that will not survive the first year.
 
-Варианты: (а) все три шага · (б) только шаг 1 · (в) шаги 1 и 3.
+Variants: (a) all three steps · (b) step 1 only · (c) steps 1 and 3.
 
-Рекомендую (а).
+Recommending (a).
 
-## Р7 · Рынок плотности
+## D7 · A market in density
 
-Проблема: зонинг не говорит, считаются ли 10% пятна и 40% полога на участок или на район.
+Problem: the zoning does not say whether the 10% footprint and 40% canopy are measured per plot or per district.
 
-Решение. По умолчанию на участок — просто, проверяемо, никто не спорит. Плюс: неиспользованная доля пятна переуступается соседу внутри своего района через реестр, с проверкой эстейта на соблюдение баланса района. Появляется рынок плотности вместо административного распределения.
+Decision. Per plot by default — simple, verifiable, and nobody argues. In addition: an unused share of the footprint may be assigned to a neighbour within the same district through the register, subject to the Estate's check that the district balance is maintained. A market in density appears in place of administrative allocation.
 
-Почему win-win. Район в целом держит экологический баланс — это и есть цель зонинга. Отдельный держатель получает гибкость: кто хочет большой дом, покупает право у того, кто хочет сад. Эстейт берёт тонкий сеттлмент-фи и сохраняет контроль через зонинг. Логика та же, что в самом зонинге: загрязнение — ресурс не на своём месте; здесь плотность — ресурс, который можно переместить туда, где он нужнее.
+Why win-win. The district as a whole holds its ecological balance — which is the purpose of the zoning. The individual Holder gains flexibility: whoever wants a large house buys the right from whoever wants a garden. The Estate takes a thin settlement fee and keeps control through the zoning. The logic is the same as in the zoning itself: pollution is a resource in the wrong place; here density is a resource that can be moved to where it is needed more.
 
-Варианты: (а) как выше · (б) жёстко на участок, без торговли · (в) среднее по району без индивидуальных лимитов — отвергаю: первые застройщики выберут квоту, последние получат ничего.
+Variants: (a) as above · (b) strictly per plot, with no trading · (c) a district average with no individual limits — rejected: the first builders would take the quota and the last would get nothing.
 
-Рекомендую (а), с оговоркой: торговля открывается со второй волны, когда есть кому торговать.
+Recommending (a), with the qualification that trading opens from the second wave, when there is somebody to trade with.
 
-## Р8 · Налог на замедление вместо конфискации
+## D8 · A tax on delay in place of confiscation
 
-Проблема: реверсия обещана в стратегии, в договоре не выбрана; 36 месяцев шире обещанных 2–3 лет.
+Problem: reversion is promised in the strategy and not chosen in the agreement; 36 months is wider than the 2–3 years promised.
 
-Решение. Три уровня, по нарастающей:
+Decision. Three tiers, escalating:
 
-1. Просрочка — растущий холдинг-платёж, который идёт не в прибыль эстейта, а в биосферный и desa тайтинги. Город теряет от замедления, туда деньги и идут.
-2. Через оговорённый срок эстейт обязан предложить выкуп по формуле: неамортизированная предоплата плюс независимая оценка выполненного.
-3. Реверсия — только после отказа держателя от выкупа.
+1. Overrun — a rising holding charge, paid into the biosphere and desa tithes rather than into the Estate's profit. The city loses from the delay, so that is where the money goes.
+2. After an agreed period the Estate is obliged to offer a buy-back at a formula price: unamortised prepayment plus an independent valuation of the work completed.
+3. Reversion — only after the Holder declines the buy-back.
 
-Почему win-win. Лендбанкинг перестаёт быть выгодным, но никто не просыпается без денег и без земли. Эстейт получает деньги туда, где реально просел, а не карательный инструмент, который страшно применять и который отпугивает покупателей на этапе продажи.
+Why win-win. Land banking stops being profitable, and nobody wakes up without money and without land. The Estate gets money directed where the loss actually fell, rather than a punitive instrument that is frightening to apply and that scares buyers off at the point of sale.
 
-Варианты: (а) как выше · (б) чистая реверсия без выкупа · (в) только холдинг-платёж без реверсии.
+Variants: (a) as above · (b) plain reversion with no buy-back · (c) a holding charge only, with no reversion.
 
-Рекомендую (а).
+Recommending (a).
 
-## Р9 · Продление по праву
+## D9 · Renewal as of right
 
-Проблема: конец срока не решён, мастер-титул короче суммы 25+25, стратегия обещает, что здания и права торгуются, а земля нет.
+Problem: the end of term is unresolved, the master title is shorter than the sum of 25+25, and the strategy promises that buildings and use-rights trade while land does not.
 
-Решение.
+Decision.
 
-- Продление — право держателя, а не переговоры: цена только по формуле индекса, отказ эстейта невозможен, пока действует мастер-титул.
-- Статус мастер-титула и хода его продления публикуется в реестре ежегодно. Страх лечится видимостью.
-- Если HGB не продлён не по вине держателя — компенсация: неамортизированная предоплата плюс независимая оценка Improvements, обеспеченная фондом Р4.
-- Судьба Improvements при естественном истечении без продления — вариант (c) черновика, переход с компенсацией по оценке. Вариант «безвозмездно» противоречит §10 стратегии.
+- Renewal is the Holder's right rather than a negotiation: the price follows the index formula alone, and the Estate cannot refuse while the master title subsists.
+- The status of the master title and the progress of its renewal are published in the register annually. The fear is cured by visibility.
+- Where the HGB is not renewed through no fault of the Holder — compensation: unamortised prepayment plus an independent valuation of the Improvements, secured by the D4 fund.
+- The fate of Improvements on natural expiry without renewal — variant (c) of the draft, transfer against compensation at valuation. The free-of-charge variant contradicts §10 of the strategy.
 
-Почему win-win. Эстейт получает предсказуемый рентный поток на второй срок без переговорных издержек по каждому держателю. Держатель получает актив, который можно закладывать, продавать и передавать по наследству, потому что у него есть горизонт.
+Why win-win. The Estate gets a predictable rental flow for the second term with no negotiating cost per Holder. The Holder gets an asset that can be charged, sold and inherited, because he has a horizon.
 
-Варианты: (а) как выше · (б) продление по праву, но компенсация только предоплаты без оценки зданий · (в) продление по согласованию.
+Variants: (a) as above · (b) renewal as of right, but compensation limited to the prepayment with no valuation of buildings · (c) renewal by agreement.
 
-Рекомендую (а).
+Recommending (a).
 
-## Р10 · Два продукта сублиза вместо одного спорного
+## D10 · Two sublet products in place of one contested product
 
-Проблема: страница обещает голые рельсы, стратегия обещает управляющую компанию, устав даёт компании KBLI 55199 и 55192, которых у иностранного держателя быть не может.
+Problem: the product page promises bare rails, the strategy promises a management company, and the Articles give the Company KBLI 55199 and 55192, which a foreign Holder cannot hold.
 
-Решение. Разделить по горизонту и по наличию услуги:
+Decision. Split by horizon and by the presence of a service:
 
-| продукт | что это | лицензия | экономика эстейта |
+| product | what it is | licence | Estate economics |
 |---|---|---|---|
-| land-time | сутки–сезон, голая земля, без услуги размещения | держатель | area tax 10% или 5% плюс сеттлмент-фи 1–3% |
-| stay | проживание с услугой размещения | эстейт, KBLI 55199 и 55192 | комиссия управления, эстейт оператор |
+| land-time | day to season, bare land, no accommodation service | the Holder | area tax of 10% or 5%, plus a settlement fee of 1–3% |
+| stay | occupation with an accommodation service | the Estate, KBLI 55199 and 55192 | management fee, the Estate operating |
 
-Держатель выбирает канал сам. Расчёт по обоим — в IDR по JISDOR на дату инвойса, как требует `UU 7/2011` и тезис T6 индекса; USDT остаётся единицей счёта и рельсом агентского спроса, а не средством платежа внутри Индонезии.
+The Holder chooses the channel. Both settle in IDR at JISDOR on the invoice date, as `UU 7/2011` and thesis T6 of the index require; USDT remains a unit of account and a rail for agent demand rather than a means of payment inside Indonesia.
 
-Почему win-win. Эстейт берёт лицензионную ренту там, где несёт лицензионный риск, и не берёт лишнего там, где не несёт. Держатель платит за то, что реально получает. И формула страницы `hak sewa` — эстейт зарабатывает на активности города, а не на охране двери — становится правдой для land-time, вместо того чтобы быть натяжкой для обоих случаев.
+Why win-win. The Estate takes licence rent where it carries licence risk, and takes nothing extra where it does not. The Holder pays for what he actually receives. And the formula of the `hak sewa` page — the Estate earns on the activity of the city rather than on guarding a door — becomes true for land-time, instead of being a stretch for both cases.
 
-Варианты: (а) как выше · (б) всё через эстейт · (в) всё через рельсы — отвергаю, лицензионный риск ложится на держателя, который его не закроет.
+Variants: (a) as above · (b) everything through the Estate · (c) everything through the rails — rejected, since licence risk lands on the Holder, who cannot close it.
 
-Рекомендую (а).
+Recommending (a).
 
-## Р11 · Право вето вместо права управления
+## D11 · A right of veto in place of a right to govern
 
-Проблема: Association в уставе не существует; мукадимах говорит, что условия устанавливает компания; черновик даёт Association право менять Design Code; стратегия строит DAO.
+Problem: the Association does not exist in the Articles; the preamble says the Company sets the terms; the draft gives the Association the right to amend the Design Code; the strategy builds a DAO.
 
-Решение. Не создавать орган, у которого нет корпоративной силы. Дать держателям два права, вписанных прямо в договор и потому исковых:
+Decision. Do not create an organ that has no corporate force. Give Holders two rights written directly into the agreement and therefore actionable:
 
-1. Вето на изменение Design Code, ухудшающее уже построенное. Grandfathering плюс супербольшинство держателей.
-2. Право инициативы: предложение, набравшее порог в графе, обязано быть рассмотрено Direksi с публикуемым мотивированным ответом в 30 дней. Молчание — согласие с предложением.
+1. A veto on an amendment to the Design Code that worsens what is already built. Grandfathering plus a supermajority of Holders.
+2. A right of initiative: a proposal reaching a threshold in the graph must be considered by the Direksi, with a reasoned answer published within 30 days. Silence is consent to the proposal.
 
-Вес голоса — по стейку в графе, а не по головам: это governance is computation из манифеста и то же, что architecture.md уже описал как stake-weighted. Community Council существует как договорная конструкция; отдельное юрлицо (perkumpulan) создаётся в фазе 3 под владение общей инфраструктурой, когда стратегия §10 разворачивает community land trust.
+Voting weight follows stake in the graph rather than heads: this is governance as computation from the manifesto, and the same thing `architecture.md` already described as stake-weighted. The Community Council exists as a contractual construction; a separate legal vehicle (perkumpulan) is created in phase 3 to hold shared infrastructure, when strategy §10 unfolds the community land trust.
 
-Почему win-win. Компания не теряет ни одного полномочия Pasal 12 и остаётся тем, кто отвечает за среду — как и требует мукадимах. Держатель получает то, что реально ценит: невозможность ухудшить его актив задним числом и обязательный ответ вместо тишины. Это дешевле для компании, чем настоящее совместное управление, и полезнее для держателя, чем декоративный совет.
+Why win-win. The Company loses no power under Pasal 12 and remains the party answerable for the environment, as the preamble requires. The Holder gets what he actually values: the impossibility of his asset being worsened retroactively, and a mandatory answer in place of silence. This is cheaper for the Company than genuine joint governance, and more useful to the Holder than a decorative council.
 
-Варианты: (а) как выше · (б) perkumpulan сразу · (в) поправка в устав с закреплением органа жителей.
+Variants: (a) as above · (b) a perkumpulan immediately · (c) an amendment to the Articles establishing a residents' organ.
 
-Рекомендую (а).
+Recommending (a).
 
-## Р12 · Возмещение как зеркало
+## D12 · Indemnity as a mirror
 
-Проблема: единственный indemnity в договоре — §5A.8 — работает только в сторону компании.
+Problem: the only indemnity in the agreement — §5A.8 — runs towards the Company alone.
 
-Решение. §9B зеркалит §5A.8: компания возмещает держателю убытки из недостоверности гарантий титула, прав третьих лиц на дату подписания, обращения взыскания, утраты мастер-титула не по вине держателя, невозможности получить PBG или SLF по причинам на стороне компании. Обеспечено фондом Р4. Гарантии повторяются на каждую годовщину и на дату каждой уступки в пользу приобретателя.
+Decision. §9B mirrors §5A.8: the Company indemnifies the Holder against loss arising from inaccuracy of the title warranties, third-party rights subsisting at signing, enforcement of security, loss of the master title through no fault of the Holder, and inability to obtain PBG or SLF for reasons on the Company's side. Secured by the D4 fund. The warranties are repeated on each anniversary and on the date of each assignment in favour of the acquirer.
 
-Почему win-win. Симметрия — не уступка, а условие продаваемости. Односторонний indemnity читается покупателем как сигнал, и цена, которую эстейт за этот сигнал платит на переговорах по каждой сделке, выше, чем цена самого риска. Взаимное возмещение закрывает вопрос один раз для всех.
+Why win-win. Symmetry is a condition of sellability rather than a concession. A one-sided indemnity reads to a buyer as a signal, and the price the Estate pays for that signal in negotiation on every deal is higher than the price of the risk itself. A mutual indemnity closes the question once for everyone.
 
-Варианты: (а) полное зеркало · (б) зеркало с потолком в размере уплаченного · (в) зеркало с потолком и сроком давности.
+Variants: (a) a full mirror · (b) a mirror capped at the amount paid · (c) a mirror with a cap and a limitation period.
 
-Рекомендую (в): потолок в размере уплаченного плюс оценка Improvements, срок давности после прекращения — обсуждаем.
+Recommending (c): a cap at the amount paid plus the valuation of Improvements, with the limitation period after termination to be discussed.
 
 ---
 
-## лист согласования
+## Sign-off sheet
 
-| # | решение | рекомендация | согласовано | изменить | отклонить |
+| # | decision | recommendation | agreed | amend | reject |
 |---|---|---|---|---|---|
-| Р1 | свобода выхода, плата за передачу по шкале вклада | (а) 2% со скидками до 0% | ☐ | ☐ | ☐ |
-| Р2 | реестр лизов как подграф, справка эстейта | (а) состояние публично, личность нет | ☐ | ☐ | ☐ |
-| Р3 | залог с non-disturbance и уведомлением | (а) право сохраняется под условиями | ☐ | ☐ | ☐ |
-| Р4 | гарантийный фонд 5% в century index | (а), переход к (г) выше порога | ☐ | ☐ | ☐ |
-| Р5 | убрать «registered», продавать лестницу | (а) | ☐ | ☐ | ☐ |
-| Р6 | коридор, опция сужения коллара, досрочное погашение | (а) все три шага | ☐ | ☐ | ☐ |
-| Р7 | 10% на участок плюс рынок плотности | (а) с открытием со второй волны | ☐ | ☐ | ☐ |
-| Р8 | холдинг-платёж → выкуп → реверсия | (а) | ☐ | ☐ | ☐ |
-| Р9 | продление по праву, компенсация по оценке | (а) | ☐ | ☐ | ☐ |
-| Р10 | land-time и stay как два продукта | (а) | ☐ | ☐ | ☐ |
-| Р11 | вето и инициатива вместо органа управления | (а) | ☐ | ☐ | ☐ |
-| Р12 | зеркальное возмещение | (в) с потолком и давностью | ☐ | ☐ | ☐ |
+| D1 | freedom of exit, transfer fee on a contribution scale | (a) 2% with reductions to 0% | ☐ | ☐ | ☐ |
+| D2 | register of leases as a subgraph, Estate Certificate | (a) state public, identity not | ☐ | ☐ | ☐ |
+| D3 | charging with non-disturbance and notice | (a) the right survives, under conditions | ☐ | ☐ | ☐ |
+| D4 | guarantee fund of 5% in the century index | (a), moving to (d) above the threshold | ☐ | ☐ | ☐ |
+| D5 | drop "registered", sell the ladder | (a) | ☐ | ☐ | ☐ |
+| D6 | corridor, collar-narrowing option, early redemption | (a) all three steps | ☐ | ☐ | ☐ |
+| D7 | 10% per plot plus a market in density | (a), opening from the second wave | ☐ | ☐ | ☐ |
+| D8 | holding charge → buy-back → reversion | (a) | ☐ | ☐ | ☐ |
+| D9 | renewal as of right, compensation at valuation | (a) | ☐ | ☐ | ☐ |
+| D10 | land-time and stay as two products | (a) | ☐ | ☐ | ☐ |
+| D11 | veto and initiative in place of a governing organ | (a) | ☐ | ☐ | ☐ |
+| D12 | mirrored indemnity | (c) with a cap and a limitation period | ☐ | ☐ | ☐ |
 
-Числа в шкалах и порогах — 2%, 5%, 30 дней, 10 рабочих дней — поставлены как рабочие значения, чтобы конструкцию было видно целиком. Меняются одним движением, конструкция от этого не ломается.
+The figures in the scales and thresholds — 2%, 5%, 30 days, 10 working days — are set as working values so that the construction is visible as a whole. They change in one move, and the construction does not break when they do.
 
----
-
-## что это даёт как продукт
-
-Три обещания, которые после согласования можно печатать на витрине, и каждое из них будет правдой:
-
-- выйти можно без разрешения — уступка свободна, срок ответа эстейта конечен, молчание считается согласием;
-- проверить можно всё — реестр в графе, справка эстейта, аннекс индекса, показатели среды, статус титула и его обременений;
-- отобрать нельзя — негативное обязательство, non-disturbance, продление по праву, компенсация по оценке, обеспеченная фондом с публичным адресом.
-
-Ни один балийский лизхолд сегодня не даёт третьего пункта, и почти ни один — второго. Это и есть позиционирование: город продаёт не землю, а форму права, которую можно проверить и нельзя выключить.
-
-## что дальше
-
-После отметок в листе согласования собираю базовый акт hak sewa RU-EN-ID с закрытыми скобками там, где решение принято, и явными метками там, где решение отложено. Открытые вопросы черновика (14 чекбоксов) выношу отдельным файлом, чтобы они не уехали в подписываемый текст.
-
-Остаются вне этого листа и требуют внешнего подтверждения, а не решения: остаточный срок мастер-титула, статус ITR и RDTR Buleleng, отсутствие LP2B, допустимость залога hak sewa, нумерация статей KUHPerdata в §2.7, локационный охват каждого KBLI из `Pasal 3` устава.
+⚠ The decision map in [[land-rights-agreement]] also cites D13 → 7.4, the Design Envelope lock introduced at v0.4.1. That decision postdates this sheet and is not written up here; it needs adding before the sheet is treated as complete.
 
 ---
 
-Это не юридическая консультация. Конструкции выше проверяются нотариусом и PPAT до включения в подписываемый текст.
+## What this gives as a product
+
+Three promises that can be printed on the product pages once agreed, each of them true:
+
+- you can exit without permission — assignment is free, the Estate's response time is finite, and silence counts as consent;
+- you can check everything — the register in the graph, the Estate Certificate, the index annex, the environmental readings, the status of the title and its encumbrances;
+- it cannot be taken away — negative pledge, non-disturbance, renewal as of right, compensation at valuation secured by a fund with a public address.
+
+No Bali leasehold today gives the third of these, and almost none gives the second. That is the positioning: the city sells not land but a form of right that can be verified and cannot be switched off.
+
+## What comes next
+
+After the sign-off sheet is marked, the base hak sewa deed is assembled in RU-EN-ID with closed brackets where a decision is taken and explicit markers where one is deferred. The draft's open questions are carried out into a separate file so that they do not travel into the signable text.
+
+Outside this sheet, and requiring external confirmation rather than a decision: the remaining term of the master title, the ITR and RDTR status for Buleleng, the absence of LP2B, the admissibility of charging a hak sewa, the article numbering of KUHPerdata in §2.7, and the locational scope of each KBLI under `Pasal 3` of the Articles.
+
+---
+
+This is not legal advice. The constructions above are verified by the notary and PPAT before they enter any signable text.

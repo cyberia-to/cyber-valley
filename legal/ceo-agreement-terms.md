@@ -7,7 +7,7 @@ icon: "🧭"
 ---
 # CEO Agreement — Terms and Theses
 
-Translated from the Russian working document `Условия и тезисы для договора с CEO`.
+Translated from the Russian working document "CEO agreement — terms and theses", held on Drive under its original title `Условия и тезисы для договора с CEO`.
 
 > Status. Negotiating position for the CEO contract, written to be handed to counsel. Nothing here is executed. Blanks in the source (`______`) and the author's inline queries are preserved as they stand.
 

@@ -1,267 +1,269 @@
 ---
 tags: cyber valley, cyberia, legal, audit
-alias: land rights audit, аудит договора лизхолда
+alias: land rights audit, leasehold agreement audit
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "🔍"
 ---
-# Аудит land rights agreement v0.3
+# Audit of the land rights agreement v0.3
 
-Дата: 2026-08-13 · предмет: `cyber-valley/legal/land-rights-agreement.md` (v0.3, коммит fdb8ab2 от 2026-08-11)
+Date: 2026-08-13 · subject: `cyber-valley/legal/land-rights-agreement.md` (v0.3, commit fdb8ab2 of 2026-08-11)
 
-## что взято за норму
+Label scheme: B for blockers, M for mismatches against the strategy and the zoning, C for contradictions inside the sources themselves.
 
-| слой | документ | статус сверки |
+## What was taken as the standard
+
+| layer | document | reconciliation |
 |---|---|---|
-| устав девелопмента | `cyber-valley/strategy/README.md` v2.0, август 2026 | сверено |
-| правила землепользования | `cyber-valley/policies/zoning system.md` (alias: land usage policy) + шесть policy-страниц | сверено |
-| публичные обещания продукта | `hak sewa`, `leasehold upfront`, `annual leasehold`, `hak pakai`, `hak milik`, `joint venture` | сверено |
-| индексация | `cyberia/protocol/century-index.md`, тезисы T1–T8 | сверено |
-| конституционный слой | `cyberia/foundation/`: manifesto, org, architecture, strategy | сверено частично |
-| «новый устав» из чата Cyberia legal compliance | — | не получен |
+| development charter | `cyber-valley/strategy/README.md` v2.0, August 2026 | reconciled |
+| land use rules | `cyber-valley/policies/zoning system.md` (alias: land usage policy) plus six policy pages | reconciled |
+| public product promises | `hak sewa`, `leasehold upfront`, `annual leasehold`, `hak pakai`, `hak milik`, `joint venture` | reconciled |
+| indexation | `cyberia/protocol/century-index.md`, theses T1–T8 | reconciled |
+| constitutional layer | `cyberia/foundation/`: manifesto, org, architecture, strategy | partly reconciled |
+| the "new charter" from the Cyberia legal compliance chat | — | not received |
 
-Чат `Cyberia legal compliance` мне недоступен: `ListAgents` не видит ни одной достижимой сессии, в Google Drive и в гранченных папках `~/cyber` документа с таким названием нет. Аудит ниже построен на том, что лежит в репозитории. Если в том чате есть текст устава, отличный от strategy v2.0, — пришлите файлом или текстом, я прогоню отдельный проход и обновлю разделы 2 и 3.
+The `Cyberia legal compliance` chat is not reachable from here: `ListAgents` sees no reachable session, and no document under that name exists in Google Drive or in the granted `~/cyber` folders. The audit below is built on what is in the repository. If that chat holds a charter text differing from strategy v2.0, send it as a file or as text and sections 2 and 3 will be re-run and updated.
 
-## вердикт
+## Verdict
 
-Документ хороший как скелет и честный там, где касается индонезийского права: билингва, нотариальная форма, анти-номинал, подчинённость сроку HGB, PBG на титульного владельца, цепочка BAST, режим Licence Event. Это сильные части, их надо сохранить.
+The document is good as a skeleton and honest where it touches Indonesian law: bilingual execution, notarial form, anti-nominee, subordination to the HGB term, PBG in the name of the title holder, the BAST chain, the Licence Event regime. Those are the strong parts and they should be kept.
 
-Как шаблон договора он не готов, и главная проблема не юридическая, а сшивочная: устав и продуктовые страницы обещают покупателю вещи, которых в договоре нет, а в трёх случаях обещают прямо противоположное тому, что договор говорит. Пока эти три противоречия живы, любой подписанный экземпляр — это письменное доказательство расхождения между рекламой и сделкой.
+As a contract template it is not ready, and the principal problem is one of stitching rather than of law: the charter and the product pages promise the buyer things the agreement does not contain, and in three cases promise the exact opposite of what the agreement says. While those three contradictions live, any executed counterpart is written evidence of a divergence between the advertising and the deal.
 
-Считаю: 3 блокера, 9 расхождений с уставом и зонированием, 4 внутренних противоречия источников, 11 отсутствующих клаузул, 5 отсутствующих инструментов.
-
----
-
-## 1. блокеры — до их снятия ничего не подписывается и не продаётся
-
-### Б1. «registered lease» против §2.2
-
-Продуктовые страницы и устав говорят покупателю, что он получает зарегистрированное право:
-
-- `leasehold upfront`: «registered 25y term + extension pre-agreed»
-- strategy §6.1, инструмент A: «Full payment at signing, registered lease (25y + pre-agreed extensions)»
-
-Договор §2.2 говорит обратное и говорит правильно: hak sewa — договорное право, оно не регистрируется в BPN и не появляется в сертификате.
-
-Одно из двух утверждений ложно, и ложно то, что напечатано на витрине. Для покупателя, который платит 100% вперёд, разница между registered right и договором с PT PMA — это вся разница. Правка: убрать слово registered со страниц A и B и из strategy §6.1, оставить формулировку `hak sewa`-страницы («it is a right, not a title»), и вынести это в преамбулу договора, а не в §2.2 в середине текста.
-
-### Б2. «locked on day one» против механики century index
-
-`annual leasehold`: «the rest is a fixed yearly rent for 25 years — locked on day one, not renegotiated at market»; приложение B: «rent path still fixed at signing». Калькулятор рисует гладкую кривую при CX 6% и land 3%.
-
-Century index §2 и §4: платёж — это фиксированный набор количеств, а не число; ставка ежегодно пересчитывается по TWAP, коллар +35% / −15% в сатоши, двойной пол. Год может дать +35%.
-
-Зафиксирована формула и количества qᵢ, а не сумма. Страница продаёт предсказуемость платежа, спека продаёт предсказуемость правила. Правка: на странице сказать, чем вещь является — «фиксированы количества, а не сумма; сумма движется вместе с корзиной, годовой шаг ограничен коллером +35/−15», и показать в калькуляторе исторический путь из бэктеста (1.00 → 1.80 → 1.00 → 2.16 → 4.07 → 3.54), а не только гладкую экспоненту. В договоре — отдельная статья «что именно зафиксировано» плюс один просчитанный инвойс в приложении, как требует T1.
-
-### Б3. hak pakai: две несовместимые конструкции
-
-- договор §3.2: конверсия из подлежащего титула на имя Holder, срок 30 + 20 + 30, требуется `pemecahan` участка из мастер-титула. Это hak pakai atas tanah — участок уходит из PT PMA.
-- страница `hak pakai`: «applies to built assets — a finished, certified villa — not raw land; the underlying parcel stays with PT PMA».
-
-Участок не может одновременно отделиться и остаться. Пока не выбрано одно, инструмент D продавать нельзя: это ровно тот случай, когда покупатель платит 100% при переводе и получает не то, что понял. Правка: выбрать конструкцию, описать её на странице теми же словами, что в §3, и переписать §3.3 trade-offs под выбранное.
+Count: 3 blockers, 9 mismatches against the charter and the zoning, 4 internal contradictions between sources, 11 missing clauses, 5 missing instruments.
 
 ---
 
-## 2. расхождения с уставом (strategy v2.0)
+## 1. Blockers — nothing is signed or sold until these are cleared
 
-### Р1. Century index не является операционной клаузулой
+### B1. "registered lease" against §2.2
 
-Устав, стрим 4: аренда индексируется через CX. Страницы A и B: «extension pre-agreed and priced on the century index — the renewal cost is fixed by the index at signing, never renegotiated at market».
+The product pages and the charter tell the buyer he receives a registered right:
 
-Договор упоминает CX один раз в §2.3 отсылкой, а §2.4 отправляет цену продления в «формулу Schedule E» и сам же предупреждает, что «to be agreed» — главный дефект балийских лизов. Schedule E пуст. То есть договор в текущем виде содержит ровно тот дефект, от которого предостерегает.
+- `leasehold upfront`: "registered 25y term + extension pre-agreed"
+- strategy §6.1, instrument A: "Full payment at signing, registered lease (25y + pre-agreed extensions)"
 
-Правка: Schedule E — это аннекс CX по T1 (веса, цены t₀, количества qᵢ, источники фиксов с фолбэками, коллар, пол, один просчитанный инвойс), плюс перенос в тело договора T5 (право пересчёта арендатором за 30 дней, пересчёт имеет приоритет), T6 (расчёт в IDR по JISDOR на дату инвойса, UU 7/2011), T7 (аннекс переживает уступку, сублиз, наследование), T8 (приоритет расчёта из публичных фиксов над он-чейн фиксом). Формула продления: L(T) = L₀ · I(T)/I(t₀).
+Agreement §2.2 says the opposite, and says it correctly: hak sewa is a contractual right, it is not registered at BPN and does not appear on the certificate.
 
-### Р2. Зонинг-код не является ковенантом
+One of the two statements is false, and the false one is what is printed on the shopfront. For a buyer paying 100% up front, the difference between a registered right and a contract with a PT PMA is the whole difference. Fix: remove the word registered from pages A and B and from strategy §6.1, keep the formulation of the `hak sewa` page ("it is a right, not a title"), and move this into the recitals of the agreement rather than leaving it at §2.2 in the middle of the text.
 
-Страницы A, B и E говорят: зонинг-код идёт с землёй как ковенант — footprint caps, species density, pollution policies. Для hak milik — «as recorded covenants».
+### B2. "locked on day one" against the mechanics of the century index
 
-Договор §7 описывает Design Code как Schedule C и упоминает policy-стек одной ⚠-ремаркой. Ни одного числа из `zoning system` в договоре нет.
+`annual leasehold`: "the rest is a fixed yearly rent for 25 years — locked on day one, not renegotiated at market"; annex B: "rent path still fixed at signing". The calculator draws a smooth curve at CX 6% and land 3%.
 
-Числа, которые обязаны попасть в Schedule C, потому что они определяют, что человек вообще может построить:
+Century index §2 and §4: the payment is a fixed set of quantities rather than a number; the rate is recomputed annually on TWAP, with a collar of +35% / −15% in satoshi and a double floor. A single year can produce +35%.
 
-- пятно застройки максимум 10% участка, ×2 при двух этажах
-- световой баланс: поглотители 1–10%, водные объекты 1–10%, прозрачные поверхности 2–10%, газон/покров ≤5%, травы/кустарник ≥30%, карлики/полог ≥40%, сумма 100%
-- биоразнообразие: 20 видов растений на гектар
-- звук: 55 dB(A) день / 40 ночь на границе жилой зоны, 45/35 в лесных и заповедных, тишина в окно 05:00–07:00, уведомление за 48 ч соседям в 300 м
-- вода: только PPR-трубы, серые стоки до BOD < 30 мг/л, чёрные — закрытое компостирование или биодигестер, буфер источника 15 м
-- свет: 2200 K и теплее, полная отсечка вверх, выключение неосновного к 23:00, буфер заповедника 0 люкс
-- воздух: запрет открытого сжигания синтетики, дизель-генератор только резерв максимум 4 ч/сутки, отделка нулевого VOC
-- почва: безусловный запрет синтетических пестицидов, гербицидов, минеральных удобрений; голая почва не дольше 30 дней; биочар от 0.5 т/га/год в пищевых зонах
+What is fixed is the formula and the quantities qᵢ, not the amount. The page sells predictability of the payment, the specification sells predictability of the rule. Fix: say on the page what the thing is — quantities are fixed, the amount is not; the amount moves with the basket, and the annual step is bounded by a collar of +35/−15 — and show the historical path from the backtest in the calculator (1.00 → 1.80 → 1.00 → 2.16 → 4.07 → 3.54) rather than only a smooth exponential. In the agreement: a separate article on what exactly is fixed, plus one worked invoice in the annex, as T1 requires.
 
-Отдельно: обязанность публиковать в cyberia ledger — квартальный мониторинг сбросов и годовой анализ почвы по участку. Это обязанность Holder, у неё есть стоимость и должны быть последствия за неисполнение. В договоре её нет вообще.
+### B3. hak pakai: two incompatible constructions
 
-### Р3. 10% пятна — на участок или на район?
+- agreement §3.2: conversion from the underlying title into the Holder's name, a term of 30 + 20 + 30, requiring `pemecahan` of the plot out of the master title. This is hak pakai atas tanah — the plot leaves the PT PMA.
+- the `hak pakai` page: "applies to built assets — a finished, certified villa — not raw land; the underlying parcel stays with PT PMA".
 
-`zoning system` не говорит, на какой площади считается 10% и 40% полога. На участке 500 м² это 50 м² пятна, 100 м² в двух этажах, плюс требование 40% под полог на том же участке. Для покупателя это главное число во всей сделке — оно определяет, что он вообще сможет построить.
+The plot cannot both separate and remain. Until one is chosen, instrument D cannot be sold: this is precisely the case where the buyer pays 100% on conversion and receives something other than what he understood. Fix: choose the construction, describe it on the page in the same words as in §3, and rewrite the §3.3 trade-offs to match.
 
-Это блокирующее решение перед Schedule C: считаем per plot (жёстко, честно, легко проверяется) или per district со средним по зоне (мягче для покупателя, но тогда нужен механизм учёта квоты и запрет её исчерпания первыми застройщиками). Пока не решено — Design Code написать нельзя.
+---
 
-### Р4. Build obligation: реверсия обещана, в договоре её нет
+## 2. Mismatches against the charter (strategy v2.0)
 
-Устав, risk register: «Build obligations + reversion clauses on all early-phase sales». Страница A: «reversion if nothing stands in 2–3 years». Strategy §6.2, волна 1: «A + build obligation».
+### M1. The century index is not an operative clause
 
-Договор §6: начать за 12 месяцев, закончить за 36, средство защиты — «[escalating holding charge / Landowner's option to repurchase]». Реверсия не выбрана, скобка открыта, срок 36 месяцев шире обещанных 2–3 лет.
+Charter, stream 4: rent is indexed through CX. Pages A and B: "extension pre-agreed and priced on the century index — the renewal cost is fixed by the index at signing, never renegotiated at market".
 
-### Р5. Экономика эстейта отсутствует в операционных клаузулах
+The agreement mentions CX once in §2.3 by reference, while §2.4 sends the renewal price to "the formula in Schedule E" and itself warns that "to be agreed" is the principal defect of Bali leases. Schedule E is empty. As it stands the agreement contains exactly the defect it warns against.
 
-Устав §8 — пять постоянных потоков. В договоре из них нет ни одного как обязательства:
+Fix: Schedule E becomes the CX annex under T1 (weights, t₀ prices, quantities qᵢ, fix sources with fallbacks, collar, floor, one worked invoice), plus the migration into the body of the agreement of T5 (the tenant's right to recompute within 30 days, the recomputation prevailing), T6 (settlement in IDR at JISDOR on the invoice date, UU 7/2011), T7 (the annex surviving assignment, sublease and succession), T8 (the computation from public fixes prevailing over the on-chain fix). Renewal formula: L(T) = L₀ · I(T)/I(t₀).
 
-| поток | где в уставе | где в договоре |
+### M2. The zoning code is not a covenant
+
+Pages A, B and E say the zoning code runs with the land as a covenant — footprint caps, species density, pollution policies. For hak milik, "as recorded covenants".
+
+Agreement §7 describes the Design Code as Schedule C and mentions the policy stack in a single ⚠ remark. Not one number from `zoning system` appears in the agreement.
+
+The numbers that must reach Schedule C, because they determine what a person can build at all:
+
+- building footprint at most 10% of the plot, ×2 across two storeys
+- light balance: absorbers 1–10%, water bodies 1–10%, transparent surfaces 2–10%, lawn or ground cover ≤5%, grasses and shrubs ≥30%, dwarf trees and canopy ≥40%, totalling 100%
+- biodiversity: 20 plant species per hectare
+- sound: 55 dB(A) day / 40 night at the boundary of a residential zone, 45/35 in forest and conservation zones, silence in the window 05:00–07:00, 48 hours' notice to neighbours within 300 m
+- water: PPR pipes only, greywater to BOD < 30 mg/l, blackwater to closed composting or a biodigester, a 15 m buffer around any source
+- light: 2200 K and warmer, full cut-off upward, non-essential lighting off by 23:00, 0 lux at the conservation buffer
+- air: no open burning of synthetics, a diesel generator only as backup for at most 4 h/day, zero-VOC finishes
+- soil: an unconditional ban on synthetic pesticides, herbicides and mineral fertilisers; bare soil for no longer than 30 days; biochar from 0.5 t/ha/year in food zones
+
+Separately: the duty to publish to the cyberia ledger — quarterly monitoring of discharges and an annual soil analysis for the plot. This is a Holder obligation, it has a cost, and it should carry consequences for non-performance. The agreement does not contain it at all.
+
+### M3. The 10% footprint — per plot or per district?
+
+`zoning system` does not say over what area the 10% and the 40% canopy are measured. On a 500 m² plot that is 50 m² of footprint, 100 m² across two storeys, plus a requirement of 40% under canopy on the same plot. For the buyer this is the single most important number in the whole deal — it determines what he can build at all.
+
+This is a blocking decision ahead of Schedule C: per plot (strict, honest, easily verified) or per district on a zone average (softer for the buyer, but then a quota accounting mechanism is needed, along with a bar on the first builders exhausting it). Until it is decided, the Design Code cannot be written.
+
+### M4. Build obligation: reversion is promised, and absent from the agreement
+
+Charter, risk register: "Build obligations + reversion clauses on all early-phase sales". Page A: "reversion if nothing stands in 2–3 years". Strategy §6.2, wave 1: "A + build obligation".
+
+Agreement §6: commence within 12 months, complete within 36, remedy "[escalating holding charge / Landowner's option to repurchase]". Reversion is not selected, the bracket is open, and 36 months is wider than the promised 2–3 years.
+
+### M5. The estate economics are absent from the operative clauses
+
+Charter §8 sets out five recurring streams. Not one of them appears in the agreement as an obligation:
+
+| stream | in the charter | in the agreement |
 |---|---|---|
-| тарифы за энергию, воду, связь, отходы | §8.1 | нет |
-| доля с выручки бизнеса на участке (participation rent) | §8.2 | нет |
-| доля с сублиза | §8.3 | §2.6, отсылкой в скобках |
-| индексированная аренда | §8.4 | §2.3, отсылкой |
-| право лиза «бесплатно» в обмен на 2 и 3 | §8.5 | нет |
+| tariffs for energy, water, connectivity, waste | §8.1 | absent |
+| share of revenue of a business on the plot (participation rent) | §8.2 | absent |
+| share of sublet | §8.3 | §2.6, by reference in brackets |
+| indexed rent | §8.4 | §2.3, by reference |
+| the lease right "free" in exchange for 2 and 3 | §8.5 | absent |
 
-Для доли с сублиза договор ссылается на страницу `hak sewa` (10%, или 5% в самодостаточном районе, плюс сеттлмент-фи 1–3%). Ссылка на вики-страницу не является договорным обязательством. Нужны определения: что такое revenue, кто и как удостоверяет статус net exporter по энергии, воде и еде, с какой периодичностью статус пересматривается, есть ли апелляция, права аудита, срок отчётности, последствия занижения.
+For the sublet share the agreement points at the `hak sewa` page (10%, or 5% in a self-sufficient district, plus a settlement fee of 1–3%). A reference to a wiki page is not a contractual obligation. Definitions are needed: what revenue means, who certifies net exporter status for energy, water and food and how, how often the status is reviewed, whether there is an appeal, audit rights, reporting deadlines, and the consequences of understatement.
 
-### Р6. Зоны Z1–Z8 не существуют в договоре
+### M6. Zones Z1–Z8 do not exist in the agreement
 
-Устав строит всё на зонах с разными инструментами и разными условиями: Z3 — почти нулевая аренда плюс participation rent после безубыточности, deed restrictions и реверсия при смене функции; Z5 — земля за долю, лиз ×0.2 за 2–5% equity, истекающие опционы; Z6 — годовая аренда плюс участие в выручке фермы; Z4 — слот как микроактив на 25 лет.
+The charter builds everything on zones with different instruments and different terms: Z3 — near-zero rent plus participation rent after break-even, deed restrictions and reversion on a change of use; Z5 — land for equity, lease ×0.2 for 2–5% equity, expiring options; Z6 — annual rent plus participation in farm revenue; Z4 — a slot as a 25-year micro-asset.
 
-Договор — один универсальный жилой лиз. Schedule G («permitted-use matrix by Holder class and track») — заглушка. Один документ на всё это не натянуть: нужен базовый акт плюс зональные аннексы.
+The agreement is one universal residential lease. Schedule G ("permitted-use matrix by Holder class and track") is a stub. One document cannot be stretched across all of this: a base deed plus zonal annexes is needed.
 
-### Р7. Car-free ядро не раскрыто
+### M7. The car-free core is not disclosed
 
-Устав §5: «The core is car-free. Vehicles stop at the Z4 mobility hub on the perimeter». Это фундаментальное ограничение пользования: человек покупает участок, к которому нельзя подъехать. В договоре нет ни слова о доступе, парковке, логистике стройматериалов и вывоза, о правах на e-mobility и шаттл.
+Charter §5: "The core is car-free. Vehicles stop at the Z4 mobility hub on the perimeter". This is a fundamental restriction on use: a person buys a plot that cannot be driven to. The agreement says nothing about access, parking, construction logistics and removal, or rights to e-mobility and the shuttle.
 
-### Р8. Мост PT PMA ↔ Cyberia DAO не заложен
+### M8. The PT PMA ↔ Cyberia DAO bridge is not laid
 
-Устав §10 называет DAO-side representations of PT PMA lease registry entries «единственной самой важной задачей юридического инжиниринга фазы 0–1». Токенизация: сначала парковочные слоты, потом деривативы жилых лизов. В договоре нет ни реестра лизов, ни клаузулы о он-чейн представлении права, ни правила приоритета при расхождении реестра и он-чейн записи — при том что для CX такое правило уже написано (T8) и его можно взять как образец.
+Charter §10 calls DAO-side representations of PT PMA lease registry entries "the single most important legal engineering task of phase 0–1". Tokenisation: parking slots first, then derivatives of residential leases. The agreement contains neither a register of leases, nor a clause on the on-chain representation of the right, nor a rule of priority where the register and the on-chain entry diverge — even though such a rule already exists for CX (T8) and can be taken as the model.
 
-### Р9. Долгосрочная модель земли против §10 договора
+### M9. The long-term land model against §10 of the agreement
 
-Устав §10: «Buildings and use-rights trade; the land itself does not», тренд к community land trust. Договор §10 оставляет судьбу Improvements открытой: (a) снос, (b) переход к Landowner безвозмездно, (c) переход с компенсацией.
+Charter §10: "Buildings and use-rights trade; the land itself does not", trending towards a community land trust. Agreement §10 leaves the fate of Improvements open: (a) demolition, (b) transfer to the Landowner free of charge, (c) transfer against compensation.
 
-Вариант (b) противоречит тезису устава: если стоимость зданий принадлежит держателям, безвозмездный переход в конце срока её изымает. Связано с Б2: обещание «extension pre-agreed» экономически и есть ответ — при гарантированном продлении вопрос конца срока почти не возникает; но если мастер-титул не продлён, вопрос возникает мгновенно и ответа нет.
-
----
-
-## 3. противоречия внутри самих источников
-
-Их надо снять до правки договора, иначе договор унаследует развилку.
-
-### П1. «The lease right — free» против волновой кривой
-
-Устав §8, поток 5: «Entry costs nothing as such: the right to hold a lease is granted in exchange for 2 and 3. The estate earns from the city's activity, not from gatekeeping the door».
-
-Устав §6.2: волна 1 — ×0.4 за ар, волна 2 — ×0.7, волна 3 — ×1.0–1.3, резерв ×2+. Страница A: оплата 100% при подписании. Страница B: 30% депозит плюс 25 лет аренды.
-
-Вход стоит денег, и немалых. Формулировка потока 5 в текущем виде — неправда о собственном продукте. Либо она описывает будущее состояние и должна быть помечена как таковое, либо её надо убрать.
-
-### П2. Сублиз: рельсы или управляющая компания
-
-- `hak sewa`: доля эстейта — «not a management commission», эстейт даёт рельсы и разрешение, 10%/5% плюс 1–3%, всего ≈11–13%.
-- устав §6.1: «All leases include sublease rights through the estate management company, enabling a rental pool for absentee owners».
-
-Через управляющую компанию — это ровно management commission. Выбрать одно.
-
-### П3. Размер участка
-
-- договор §4.3: участки 500–600 м², чтобы влезть в упрощённый режим конверсии в hak milik.
-- устав §5: «plots of 5–15 are», то есть 500–1500 м².
-- устав §13, открытый пункт 1: 5 ар против 10 ар — не решено, «gates Wave 1 marketing».
-
-Участок больше 600 м² выбивает индонезийского покупателя из упрощённого маршрута и требует constatering. Плюс декларация о не более чем 5 участках или 5000 м² в совокупности. Решение о нарезке — это одновременно решение о том, работает ли инструмент E.
-
-### П4. Расчёт в USDT
-
-`hak sewa`: маркетплейс «settles in USDT». Century index T6 честно фиксирует обратное для аренды: UU 7/2011 требует расчёта в рупиях по JISDOR.
-
-Сублиз земли внутри Индонезии между сторонами на территории Индонезии — это платёжное обязательство в юрисдикции, где криптоактив не является средством платежа. Продукт описан так, что его расчётный слой конфликтует с валютным законом. Нужна развилка: либо USDT — только единица счёта с обязательным расчётом в IDR, либо расчёт выносится за периметр, и тогда надо честно сказать, кто и где сторона.
-
-Смежное, того же класса: страница `hak sewa` продаёт пересдачу земли на горизонте «час, день, неделя» через маркетплейс. Короткий горизонт с проживанием — это размещение, а не аренда голой земли: лицензирование, региональные требования Buleleng, местный налог на размещение. §2.6 говорит «Holder must operate under the applicable accommodation licensing» и этим ограничивается. Между «правом сублиза», которое продаётся как безусловное, и лицензированием, которое покупатель обязан получить сам и часто не может (pondok wisata — канал WNI), лежит разрыв, который надо раскрыть на продуктовой странице, а не в §2.6.
+Variant (b) contradicts the charter's thesis: if the value of the buildings belongs to the Holders, a free transfer at the end of the term expropriates it. Related to B2: the promise of "extension pre-agreed" is economically the answer — under guaranteed renewal the question of the end of term barely arises; but if the master title is not renewed, the question arises instantly and there is no answer.
 
 ---
 
-## 4. отсутствующие клаузулы
+## 3. Contradictions inside the sources themselves
 
-Помимо перечисленного выше, в скелете нет:
+These must be cleared before the agreement is amended, or the agreement will inherit the fork.
 
-1. Форс-мажор. Участок на склоне вулкана Sanghyang, 1200–1500 м, сезон дождей, оползневые уклоны. Сейсмика и вулканическая активность не упомянуты ни разу.
-2. Страхование после стройки. §5A.4 закрывает период строительства и обрывается на вводе.
-3. Quiet enjoyment. Названо в §9A.3 как условие, но самого обязательства нет.
-4. Обременение права. Может ли Holder заложить hak sewa — вопрос финансирования покупателя, ответа нет.
-5. Наследование и смерть Holder. Для 25+25 лет это не редкий случай.
-6. Адат. Для балийского эстейта отсутствие субака, banjar, awig-awig desa adat, церемониальных проходов и обязательств — крупный пробел. `sempadan sungai` и subak упомянуты один раз в §2.7 как чужой риск. Устав при этом тратит 10% рекуррентного дохода на desa share и называет это гардрейлом тона.
-7. PPN. §12 перечисляет PPh, BPHTB, нотариальные, PBB. НДС на аренду земли и строений не упомянут — уточнить с консультантом ставку и базу, а также кто её несёт.
-8. Валюта счёта против валюты платежа. Прямой клаузулы нет.
-9. KYC и происхождение средств. §9 даёт заверение, процедуры нет.
-10. Служебные статьи: уведомления, целостность договора, экземпляры и электронная подпись, язык уведомлений и переписки, частичная недействительность.
-11. Персональные данные. Публикация в cyberia ledger результатов анализов по участку — это раскрытие, привязанное к идентифицируемому лицу; нужна база обработки и объём.
+### C1. "The lease right — free" against the wave curve
 
-## 5. отсутствующие инструменты
+Charter §8, stream 5: "Entry costs nothing as such: the right to hold a lease is granted in exchange for 2 and 3. The estate earns from the city's activity, not from gatekeeping the door".
 
-Продаётся сейчас или в фазе 0 — шаблона нет:
+Charter §6.2: wave 1 — ×0.4 per are, wave 2 — ×0.7, wave 3 — ×1.0–1.3, reserve ×2+. Page A: 100% payment at signing. Page B: a 30% deposit plus 25 years of rent.
 
-| продукт | где обещан | статус |
+Entry costs money, and a good deal of it. Stream 5 as currently worded is untrue about its own product. Either it describes a future state and must be marked as such, or it should be removed.
+
+### C2. Sublet: rails or a management company
+
+- `hak sewa`: the estate's share is "not a management commission"; the estate provides rails and permission, 10%/5% plus 1–3%, roughly 11–13% in total.
+- charter §6.1: "All leases include sublease rights through the estate management company, enabling a rental pool for absentee owners".
+
+Through a management company is precisely a management commission. Choose one.
+
+### C3. Plot size
+
+- agreement §4.3: plots of 500–600 m², to stay within the simplified route for conversion to hak milik.
+- charter §5: "plots of 5–15 are", that is 500–1500 m².
+- charter §13, open item 1: 5 are against 10 are — undecided, "gates Wave 1 marketing".
+
+A plot above 600 m² takes an Indonesian buyer out of the simplified route and requires a constatering report. Add the declaration of no more than 5 parcels or 5,000 m² in aggregate. The decision on the grain is simultaneously a decision on whether instrument E works at all.
+
+### C4. Settlement in USDT
+
+`hak sewa`: the marketplace "settles in USDT". Century index T6 honestly fixes the opposite for rent: UU 7/2011 requires settlement in rupiah at JISDOR.
+
+A sublet of land inside Indonesia between parties on Indonesian territory is a payment obligation in a jurisdiction where a crypto asset is not a means of payment. The product is described so that its settlement layer conflicts with currency law. A fork is needed: either USDT is a unit of account only with mandatory settlement in IDR, or settlement is moved outside the perimeter, in which case it must be stated honestly who the party is and where.
+
+Adjacent, and of the same class: the `hak sewa` page sells re-letting of land on an "hour, day, week" horizon through a marketplace. A short horizon with occupation is accommodation rather than a lease of bare land: licensing, Buleleng regional requirements, local accommodation tax. §2.6 says "Holder must operate under the applicable accommodation licensing" and stops there. Between a sublet right sold as unconditional and licensing that the buyer must obtain himself and often cannot (pondok wisata being an Indonesian-citizen channel) lies a gap that must be disclosed on the product page rather than at §2.6.
+
+---
+
+## 4. Missing clauses
+
+Beyond the above, the skeleton lacks:
+
+1. Force majeure. The site is on the slope of Mount Sanghyang at 1,200–1,500 m, with a rainy season and landslide gradients. Seismic and volcanic activity are not mentioned once.
+2. Insurance after construction. §5A.4 covers the construction period and stops at completion.
+3. Quiet enjoyment. Named in §9A.3 as a condition, but the covenant itself is absent.
+4. Encumbrance of the right. Whether the Holder may charge a hak sewa is a question of buyer financing, and there is no answer.
+5. Succession and the death of the Holder. Over 25+25 years this is not a rare event.
+6. Adat. For a Balinese estate the absence of subak, banjar, awig-awig desa adat, ceremonial passage and customary obligations is a large gap. `sempadan sungai` and subak are mentioned once in §2.7 as somebody else's risk. The charter meanwhile spends 10% of recurring income on the desa share and calls it a guardrail on tone.
+7. VAT. §12 lists PPh, BPHTB, notarial fees and PBB. VAT on the lease of land and buildings is not mentioned — confirm the rate and base with an adviser, and who bears it.
+8. Currency of account against currency of payment. There is no express clause.
+9. KYC and source of funds. §9 gives a representation, with no procedure.
+10. Boilerplate: notices, entire agreement, counterparts and electronic signature, the language of notices and correspondence, severability.
+11. Personal data. Publishing plot analysis results to the cyberia ledger is a disclosure tied to an identifiable person; a processing basis and a scope are needed.
+
+## 5. Missing instruments
+
+Being sold now or in phase 0, with no template:
+
+| product | where promised | status |
 |---|---|---|
-| парковочный слот, 25 лет, $1k / $5k, гарантия минимальной аренды 2 года | устав §6.2 Z4, транш 1 в фазе 0 ≈ $1M | шаблона нет |
-| опцион на волну 2, истекающий | устав §7 фаза 0, §6.2 Z5 | шаблона нет |
-| land-for-equity, ×0.2 за 2–5% | устав §6.2 Z5 | шаблона нет |
-| JV-аннекс, сплит 40–60% | инструмент C | шаблона нет |
-| Z3 с deed restrictions и реверсией при смене функции | устав §6.2 Z3 | шаблона нет |
+| parking slot, 25 years, $1k / $5k, minimum-rent guarantee for 2 years | charter §6.2 Z4, tranche 1 in phase 0 ≈ $1M | no template |
+| expiring option on wave 2 | charter §7 phase 0, §6.2 Z5 | no template |
+| land-for-equity, ×0.2 for 2–5% | charter §6.2 Z5 | no template |
+| JV annex, 40–60% split | instrument C | no template |
+| Z3 with deed restrictions and reversion on change of use | charter §6.2 Z3 | no template |
 
-Слот в фазе 0 — самый близкий к продаже и самый уязвимый: низкий чек, много покупателей, обещанная доходность с оговоркой «assumes Phase 2+ traffic», гарантия от управляющей компании и заявленная первая очередь на токенизацию. Это розничный продукт с элементами инвестиционного предложения. Ему нужен собственный документ с раскрытием рисков, а не строчка в стратегии.
+The phase 0 slot is closest to sale and the most exposed: a low ticket, many buyers, a promised yield qualified by "assumes Phase 2+ traffic", a guarantee from the management company, and a declared first place in the tokenisation queue. That is a retail product with elements of an investment offering. It needs its own document with risk disclosure rather than a line in the strategy.
 
-## 6. гигиена документа
+## 6. Document hygiene
 
-- Версия неоднозначна: заголовок говорит v0.3, чейнджлог в той же строке перечисляет v0.3 → v0.2 → v0.1 → v0.3.1. Порядок нарушен, старшая версия в списке не совпадает с заголовком.
-- 283 строки — в пределах правила ≤500.
-- Жирный шрифт используется широко, тогда как правило графа запрещает его: эмфаза — заголовок, frontmatter или wiki-link. Для юридического текста лидеры статей жирным — обычная конвенция, поэтому либо явно вывести `legal/` из-под правила в CLAUDE.md, либо перевести лидеры в нумерованные заголовки. Сейчас правило просто нарушено молча.
-- Ссылки на зонинг непоследовательны: в §7 `[[zoning system]]`, на продуктовых страницах `[[cyber-valley/policies/zoning system|zoning code]]`. Аналогично `[[rent index]]` в strategy §6.1 против `[[century index]]` везде.
-- §2.7 опирается на диспозитивность статей 1588–1592 KUHPerdata. Это единственная опора клаузулы, и нумерацию надо подтвердить у нотариуса до того, как формулировка уйдёт в шаблон: если статьи не те, клаузула пустая. В открытых вопросах этого пункта нет.
-- Открытые вопросы (14 чекбоксов) — сильная часть документа, их надо сохранить и в шаблоне, вынеся в отдельный файл, чтобы не уехали в подписываемый текст.
+- The version is ambiguous: the heading says v0.3 while the changelog on the same line runs v0.3 → v0.2 → v0.1 → v0.3.1. The order is broken and the highest version in the list does not match the heading.
+- 283 lines — within the ≤500 rule.
+- Bold is used widely, whereas the graph rule bans it: emphasis is a heading, frontmatter or a wiki-link. For legal text, bold clause leaders are a normal convention, so either exempt `legal/` from the rule in CLAUDE.md explicitly or convert the leaders into numbered headings. As things stand the rule is simply broken in silence.
+- Zoning references are inconsistent: `[[zoning system]]` in §7 against `[[cyber-valley/policies/zoning system|zoning code]]` on the product pages. Likewise `[[rent index]]` in strategy §6.1 against `[[century index]]` everywhere else.
+- §2.7 rests on the dispositive character of Arts. 1588–1592 KUHPerdata. That is the clause's only support, and the numbering must be confirmed with the notary before the wording goes into a template: if the articles are the wrong ones, the clause is empty. This item is missing from the open questions.
+- The open questions (14 checkboxes) are a strong part of the document; keep them in the template too, carried into a separate file so that they do not travel into the signable text.
 
-## 7. что нужно решить до шаблона
+## 7. What has to be decided before the template
 
-Пятнадцать развилок. Без ответов шаблон будет набором скобок.
+Fifteen forks. Without answers the template will be a set of brackets.
 
-1. Б1 — правим витрину или конструкцию: убираем «registered» или строим регистрируемое право.
-2. Б2 — как формулируем предсказуемость аренды на странице B.
-3. Б3 — hak pakai на землю с pemecahan или на строение при сохранении участка за PT PMA.
-4. Р3 — 10% пятна и 40% полога считаются на участок или на район.
-5. П3 — нарезка Z1: 5 ар, 10 ар или диапазон 5–15; и следом — сохраняем ли упрощённый маршрут hak milik.
-6. Р4 — реверсия или удерживающий платёж; 2–3 года или 12/36 месяцев.
-7. П2 — сублиз через рельсы маркетплейса или через управляющую компанию.
-8. П4 — валюта расчёта сублиза и его лицензионный периметр.
-9. Р5 — определение revenue, орган и процедура подтверждения статуса net exporter для ставки 5%.
-10. Р9 — судьба Improvements в конце срока: (a), (b) или (c), и раздельно для трёх сценариев прекращения.
-11. §0 — какова фактическая остаточная длина HGB и что происходит с 25+25, если она короче суммы.
-12. §2.6 — сублиз как право или как право с согласия.
-13. §8 — Association: кто учредитель, каков кворум, и как она соотносится с DAO-слоем.
-14. Р8 — форма он-чейн представления лиза и правило приоритета при расхождении.
-15. Формат билингвы: RU-EN-ID выбран, но нужен ответ, какой язык превалирует при расхождении и кто отвечает за индонезийский текст — переводчик или сам нотариус.
+1. B1 — fix the shopfront or the construction: remove "registered" or build a registrable right.
+2. B2 — how predictability of rent is formulated on page B.
+3. B3 — hak pakai over land with pemecahan, or over the structure with the plot retained by the PT PMA.
+4. M3 — the 10% footprint and 40% canopy measured per plot or per district.
+5. C3 — the Z1 grain: 5 are, 10 are or the 5–15 range; and consequently whether the simplified hak milik route is preserved.
+6. M4 — reversion or a holding charge; 2–3 years or 12/36 months.
+7. C2 — sublet through marketplace rails or through a management company.
+8. C4 — the settlement currency of a sublet and its licensing perimeter.
+9. M5 — the definition of revenue, and the body and procedure confirming net exporter status for the 5% rate.
+10. M9 — the fate of Improvements at the end of term: (a), (b) or (c), and separately for the three termination scenarios.
+11. §0 — the actual remaining length of the HGB, and what happens to 25+25 if it is shorter than the sum.
+12. §2.6 — sublet as a right, or as a right subject to consent.
+13. §8 — the Association: who incorporates it, what the quorum is, and how it relates to the DAO layer.
+14. M8 — the form of on-chain representation of a lease and the rule of priority on divergence.
+15. The bilingual format: RU-EN-ID is chosen, but an answer is needed on which language prevails on discrepancy and who is answerable for the Indonesian text — a translator or the notary.
 
-## 8. предлагаемая структура пакета v0.4
+## 8. Proposed structure of the v0.4 package
 
-Один файл на всё не годится: правило ≤500 строк и зональные различия ломают его уже сейчас.
+One file for everything does not work: the ≤500 line rule and the zonal differences break it already.
 
 ```
 legal/
-  land-rights-agreement.md      открытые вопросы, принципы, карта пакета (остаётся как есть, чистится)
-  deed-hak-sewa.md              базовый акт, RU-EN-ID, три колонки
-  annex-a-estate.md             мастер-титул, кадастр, зонирование, KKPR
-  annex-b-plot.md               границы, патоки, соседи, GPS/UTM, peta bidang
-  annex-c-design-code.md        зонинг-код числами, из policies/*
-  annex-d-community-rules.md    правила сообщества, тон, car-free, адат
-  annex-e-century-index.md      аннекс CX по T1 с просчитанным инвойсом
-  annex-f-utilities.md          доступ, подключения, тарифы
-  annex-g-permitted-use.md      матрица использования по зонам и классам
-  annex-h-condition.md          состояние на передаче площадки, база для BAST №6
-  zone-z3-community.md          аннекс: deed restrictions, реверсия при смене функции
-  zone-z5-innovation.md         аннекс: land-for-equity, опционы
-  zone-z6-agro.md               аннекс: участие в выручке фермы
-  instrument-parking-slot.md    отдельный документ на слот с раскрытием рисков
-  instrument-option.md          опцион на волну
+  land-rights-agreement.md      open questions, principles, package map (stays, cleaned up)
+  deed-hak-sewa.md              base deed, RU-EN-ID, three columns
+  annex-a-estate.md             master title, cadastre, zoning, KKPR
+  annex-b-plot.md               boundaries, patok, neighbours, GPS/UTM, peta bidang
+  annex-c-design-code.md        the zoning code as numbers, from policies/*
+  annex-d-community-rules.md    community rules, tone, car-free, adat
+  annex-e-century-index.md      the CX annex under T1 with a worked invoice
+  annex-f-utilities.md          access, connections, tariffs
+  annex-g-permitted-use.md      use matrix by zone and class
+  annex-h-condition.md          condition at site handover, the baseline for BAST #6
+  zone-z3-community.md          annex: deed restrictions, reversion on change of use
+  zone-z5-innovation.md         annex: land-for-equity, options
+  zone-z6-agro.md               annex: participation in farm revenue
+  instrument-parking-slot.md    a separate document for the slot, with risk disclosure
+  instrument-option.md          the wave option
 ```
 
-Базовый акт пишу сразу тремя параллельными колонками RU-EN-ID, как вы выбрали. Индонезийская колонка пишется вместе с русской и английской, а не переводом после — расхождения языков рождаются именно на этапе позднего перевода, и именно они потом решают спор, потому что по UU 24/2009 приоритет обычно у индонезийского текста.
+The base deed is written in three parallel columns RU-EN-ID from the start, as chosen. The Indonesian column is written alongside the Russian and English rather than translated afterwards — divergences between languages are born precisely at the stage of late translation, and it is those divergences that later decide the dispute, because under UU 24/2009 priority usually lies with the Indonesian text.
 
 ---
 
-## оговорка
+## Reservation
 
-Это не юридическая консультация. Каждое утверждение об индонезийском праве в этом аудите — либо цитата из самого черновика, либо пункт, помеченный как требующий подтверждения. Проверяется у нотариуса и PPAT, желательно не только у того, которого предложил владелец земли, и до подписания — по актуальным редакциям регулирования и по фактическому мастер-титулу.
+This is not legal advice. Every statement about Indonesian law in this audit is either a quotation from the draft itself or an item marked as requiring confirmation. It is verified with a notary and a PPAT — preferably not only the one proposed by the landowner — before signing, against the current editions of the regulations and against the actual master title.

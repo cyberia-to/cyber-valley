@@ -7,7 +7,7 @@ icon: "💰"
 ---
 # Cyber Valley Revenue Model
 
-Translated from the Russian working document `Модель доходов и распределения вознаграждений Cyber Valley`.
+Translated from the Russian working document "Cyber Valley revenue and compensation distribution model", held on Drive under its original title `Модель доходов и распределения вознаграждений Cyber Valley`.
 
 > Status. Working model for discussion. Items rendered in italics were marked in the source as requiring separate discussion and approval. CEO remuneration was carried here in the source and now lives in [[ceo-compensation-schedule]].
 

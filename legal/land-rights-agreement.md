@@ -484,7 +484,7 @@ Moved to [[open-questions]] (`legal/notes/open-questions.md`) so that they canno
 
 ## Decision map
 
-▲ clauses implement `holder-protocol-decisions.md`: Р1 → 2.5.1–2.5.5 · Р2 → 2.5.6–2.5.8 · Р3 → 9B.3–9B.4 · Р4 → 9B.7 · Р5 → 2.2 · Р6 → 2.3 · Р7 → 7.1–7.2 · Р8 → 6.2 · Р9 → 2.4, 10.2, 10.3 · Р10 → 2.6 · Р11 → 8.1–8.3 · Р12 → 9B.5 · Р13 → 7.4. Recommended variants are drafted; changing a decision changes only the clauses listed against it.
+▲ clauses implement `holder-protocol-decisions.md`: D1 → 2.5.1–2.5.5 · D2 → 2.5.6–2.5.8 · D3 → 9B.3–9B.4 · D4 → 9B.7 · D5 → 2.2 · D6 → 2.3 · D7 → 7.1–7.2 · D8 → 6.2 · D9 → 2.4, 10.2, 10.3 · D10 → 2.6 · D11 → 8.1–8.3 · D12 → 9B.5 · D13 → 7.4. Recommended variants are drafted; changing a decision changes only the clauses listed against it.
 
 ## Notes for counsel / PPAT
 
