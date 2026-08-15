@@ -38,7 +38,7 @@ Moved out of the framework at v0.4.2.
 ## Licences and characterisation
 
 - [ ] Threshold at which the aggregate activity may be characterised as *perumahan*, triggering the housing-law regime
-- [ ] Verify locational scope of each KBLI in Pasal 3 of the [[articles-of-association]] across all intended parcels
+- [ ] Verify locational scope of each KBLI in Pasal 3 of the [[articles of association]] across all intended parcels
 - [ ] Confirm with counsel that §9A survives a challenge under Art. 1320 KUHPerdata (lawful cause)
 - [ ] Decide whether the Community Council, rather than each Holder individually, is the counterparty for Licence Event reporting
 - [ ] Settle the licensing route for stay activity and the regional accommodation tax treatment under §2.6

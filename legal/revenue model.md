@@ -10,9 +10,9 @@ icon: "💰"
 
 > Status. Working model for discussion. Section 6 lists what still needs approval; everything outside it is settled enough to build on.
 
-Purpose of the document: to fix the principal revenue sources of PT Cyber Valley Estate and the holding, and the principles for distributing cash flow. CEO remuneration lives in [[ceo-compensation-schedule]].
+Purpose of the document: to fix the principal revenue sources of PT Cyber Valley Estate and the holding, and the principles for distributing cash flow. CEO remuneration lives in [[ceo compensation schedule]].
 
-Part of the [[dzin]] corporate pack. The distribution waterfall in §2 sits under Articles 18 and 19 of the [[articles-of-association]]; the vocabulary in §4 governs every percentage in [[ceo-compensation-schedule]].
+Part of the [[dzin]] corporate pack. The distribution waterfall in §2 sits under Articles 18 and 19 of the [[articles of association]]; the vocabulary in §4 governs every percentage in [[ceo compensation schedule]].
 
 ## 1. Core revenue model
 
@@ -53,7 +53,7 @@ Cash received by the company passes through the waterfall below before any of it
 5. the company's minimum cash reserve;
 6. distributable cash: dividends and other payments to shareholders.
 
-The split of distributable cash between dividends and reinvestment is set by the General Meeting under [[articles-of-association]] Article 18, and the proportion is item 1 of §6.
+The split of distributable cash between dividends and reinvestment is set by the General Meeting under [[articles of association]] Article 18, and the proportion is item 1 of §6.
 
 ## 3. Future and strategic revenue streams
 
@@ -75,7 +75,7 @@ In the medium term Cyber Valley earns from licensing the brand, know-how and ope
 
 ## 4. Principles for calculation
 
-One vocabulary governs every percentage payment and revenue share across the agreements, including every commission in [[ceo-compensation-schedule]]. This section owns the definitions; other documents use them unchanged.
+One vocabulary governs every percentage payment and revenue share across the agreements, including every commission in [[ceo compensation schedule]]. This section owns the definitions; other documents use them unchanged.
 
 The terms defined in advance are: Gross Revenue, Net Revenue, Profit, Transaction Value, Cash Received, Referral, Closing, Direct Costs, Taxes, and Refunds and cancellations.
 
@@ -83,7 +83,7 @@ Commissions and revenue share are calculated from objectively verifiable figures
 
 ## 5. Relation to CEO remuneration
 
-The holding's revenue sources and the waterfall live here. The CEO's share of them — land commissions, sub-project referral and administration fees, the investment fee, salary, KPI bonuses, equity and exit economics — lives in [[ceo-compensation-schedule]], the single source of truth for every figure of CEO remuneration.
+The holding's revenue sources and the waterfall live here. The CEO's share of them — land commissions, sub-project referral and administration fees, the investment fee, salary, KPI bonuses, equity and exit economics — lives in [[ceo compensation schedule]], the single source of truth for every figure of CEO remuneration.
 
 ## 6. Open items
 

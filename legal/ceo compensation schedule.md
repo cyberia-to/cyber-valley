@@ -10,7 +10,7 @@ icon: "🧾"
 
 Annex to the CEO Agreement · draft for discussion · consolidated 15 August 2026
 
-> Status. Single source of truth for the economics of the CEO relationship. Every number, percentage, formula and base definition touching CEO remuneration lives here and nowhere else. Consolidated from [[ceo-agreement-terms]] §§2, 3, 15–18 and [[revenue-model]] §3, which previously carried overlapping versions of the same figures.
+> Status. Single source of truth for the economics of the CEO relationship. Every number, percentage, formula and base definition touching CEO remuneration lives here and nowhere else. Consolidated from [[ceo agreement terms]] §§2, 3, 15–18 and [[revenue model]] §3, which previously carried overlapping versions of the same figures.
 
 Part of the [[dzin]] corporate pack.
 
@@ -19,12 +19,12 @@ Part of the [[dzin]] corporate pack.
 | document | owns |
 |---|---|
 | this schedule | every number, percentage, formula and calculation base of CEO remuneration |
-| [[ceo-agreement-terms]] | role, authority, information rights, indemnification, the triggers and procedure for termination |
-| [[revenue-model]] | the holding's revenue sources and the distribution waterfall ahead of dividends |
-| [[shareholders-agreement]] | share transfer, tag-along, and the put/call option over the Director's shares |
-| [[articles-of-association]] | authorised capital, pre-emption, and the approval gates in Pasal 12 |
+| [[ceo agreement terms]] | role, authority, information rights, indemnification, the triggers and procedure for termination |
+| [[revenue model]] | the holding's revenue sources and the distribution waterfall ahead of dividends |
+| [[shareholders agreement]] | share transfer, tag-along, and the put/call option over the Director's shares |
+| [[articles of association]] | authorised capital, pre-emption, and the approval gates in Pasal 12 |
 
-Where this schedule and any of the above state the same figure differently, this schedule governs as between the parties, save that the [[articles-of-association]] prevail on anything binding the Company towards third parties, and the [[shareholders-agreement]] prevails on the mechanics of share transfer.
+Where this schedule and any of the above state the same figure differently, this schedule governs as between the parties, save that the [[articles of association]] prevail on anything binding the Company towards third parties, and the [[shareholders agreement]] prevails on the mechanics of share transfer.
 
 ## 1. Components
 
@@ -45,7 +45,7 @@ Where this schedule and any of the above state the same figure differently, this
 
 ## 2. Fixed salary
 
-The CEO receives a fixed monthly salary. Its amount and the date payment starts are set by the resolution of the General Meeting appointing the Director, under [[articles-of-association]] Article 11(4), and are recorded in the CEO Agreement by reference to that resolution. Salary is independent of the commissions in §§3–5 and stands alongside them.
+The CEO receives a fixed monthly salary. Its amount and the date payment starts are set by the resolution of the General Meeting appointing the Director, under [[articles of association]] Article 11(4), and are recorded in the CEO Agreement by reference to that resolution. Salary is independent of the commissions in §§3–5 and stands alongside them.
 
 ## 3. Land commissions
 
@@ -61,7 +61,7 @@ Base: cash actually received by the company under the relevant sale, as defined 
 
 ## 4. Sub-project fees
 
-Base: the revenue share or community fee actually received by the holding from the sub-project, as defined in [[revenue-model]] §1.5 and §10 below.
+Base: the revenue share or community fee actually received by the holding from the sub-project, as defined in [[revenue model]] §1.5 and §10 below.
 
 4.1 Referral fee. 10% of the corresponding revenue share or fee actually received by the holding, where the CEO independently brought the entrepreneur or sub-project onto the territory.
 
@@ -75,7 +75,7 @@ Base: the revenue share or community fee actually received by the holding from t
 
 ## 6. KPI bonuses
 
-Payable under a separately approved KPI table, appended to this schedule when settled. Results and KPI are assessed against the resources the company actually provided: the approved budget, access to land, permits, the team, and timely corporate decisions. Failure to meet KPI caused by the company's failure to provide those resources produces no reduction and is outside the definition of Cause in [[ceo-agreement-terms]] §14.
+Payable under a separately approved KPI table, appended to this schedule when settled. Results and KPI are assessed against the resources the company actually provided: the approved budget, access to land, permits, the team, and timely corporate decisions. Failure to meet KPI caused by the company's failure to provide those resources produces no reduction and is outside the definition of Cause in [[ceo agreement terms]] §14.
 
 ## 7. Expense reimbursement
 
@@ -83,13 +83,13 @@ Agreed expenses incurred in the interests of the company, reimbursed at cost.
 
 ## 8. Dividends
 
-Paid on the shares held by the CEO, pro rata, when declared. Distribution occurs only after the waterfall in [[revenue-model]] §2 and the reserve requirement in [[articles-of-association]] Article 19 are satisfied.
+Paid on the shares held by the CEO, pro rata, when declared. Distribution occurs only after the waterfall in [[revenue model]] §2 and the reserve requirement in [[articles of association]] Article 19 are satisfied.
 
 ## 9. Equity and options
 
-9.1 Entry. On taking office the CEO acquires 1% of the shares — 80 shares of the 8,040 issued, at par value Rp 200,000,000.00, transferred from Alisa Voinova under [[shareholders-agreement]] preamble paragraph 2. The sale at par is a deliberate discount to the agreed company value of USD 4,000,000, granted in consideration of accepting the office of Director and the personal responsibilities attaching to it, including the tax responsibility under [[articles-of-association]] Pasal 12(6). The discount is protected by the Bad Leaver repurchase at acquisition cost under [[shareholders-agreement]] Article 4.
+9.1 Entry. On taking office the CEO acquires 1% of the shares — 80 shares of the 8,040 issued, at par value Rp 200,000,000.00, transferred from Alisa Voinova under [[shareholders agreement]] preamble paragraph 2. The sale at par is a deliberate discount to the agreed company value of USD 4,000,000, granted in consideration of accepting the office of Director and the personal responsibilities attaching to it, including the tax responsibility under [[articles of association]] Pasal 12(6). The discount is protected by the Bad Leaver repurchase at acquisition cost under [[shareholders agreement]] Article 4.
 
-9.2 Option ladder. Proposed, not agreed. The figures below come from the CEO's own negotiating document and have not been accepted by the shareholders; see [[ceo-terms-decisions]] D2, where the ladder is an open question.
+9.2 Option ladder. Proposed, not agreed. The figures below come from the CEO's own negotiating document and have not been accepted by the shareholders; see [[ceo terms decisions]] D2, where the ladder is an open question.
 
 | tranche | exercisable within | strike basis |
 |---|---|---|
@@ -97,13 +97,13 @@ Paid on the shares held by the CEO, pro rata, when declared. Distribution occurs
 | 5% | 5 years | same |
 | 10% | 10 years | same |
 
-Two defects to settle before any of this is drafted: the third tranche runs 10 years against a 5-year term of office under [[articles-of-association]] Article 11(4), and the USD 4,000,000 valuation carries no date, method or basis.
+Two defects to settle before any of this is drafted: the third tranche runs 10 years against a 5-year term of office under [[articles of association]] Article 11(4), and the USD 4,000,000 valuation carries no date, method or basis.
 
-9.3 Source of the option shares. Open — see [[ceo-terms-decisions]] D2. The whole authorised capital is issued and paid in kind as land, so the Company holds no shares in treasury, and Alisa Voinova sells 80 shares only. Four routes are on the table: no option at all; an issue of new shares; a sale by the other shareholder; or the ladder being set by resolution of the General Meeting rather than fixed in the CEO Agreement.
+9.3 Source of the option shares. Open — see [[ceo terms decisions]] D2. The whole authorised capital is issued and paid in kind as land, so the Company holds no shares in treasury, and Alisa Voinova sells 80 shares only. Four routes are on the table: no option at all; an issue of new shares; a sale by the other shareholder; or the ladder being set by resolution of the General Meeting rather than fixed in the CEO Agreement.
 
 Whichever route is taken, the ladder is expressed in shares rather than percentages. The same percentage yields different numbers under a sale and under an issue, because an issue enlarges the denominator, so a percentage alone gives two answers to the same question at the moment of exercise. The number is filled from the resolution that approves the ladder.
 
-Where a pre-emptive right would absorb the tranche — [[articles-of-association]] Article 4(3) on an issue, Article 7(3)–(4) on a sale — it is disapplied by [[preemption-waiver-letter]], a side letter annexed to the deed and kept out of the Articles themselves.
+Where a pre-emptive right would absorb the tranche — [[articles of association]] Article 4(3) on an issue, Article 7(3)–(4) on a sale — it is disapplied by [[preemption waiver letter]], a side letter annexed to the deed and kept out of the Articles themselves.
 
 9.3.1 Legal form. Option rights are to be secured as exercisable rights of the CEO, defining: the exercise period, survival on the end of the CEO's term of office, anti-dilution protection, and the mechanism on a Change of Control.
 
@@ -111,7 +111,7 @@ Where a pre-emptive right would absorb the tranche — [[articles-of-association
 
 ## 10. Calculation base — the vocabulary
 
-The defined terms — Gross Revenue, Net Revenue, Profit, Transaction Value, Cash Received, Referral, Closing, Direct Costs, Taxes, Refunds and cancellations — are settled once in [[revenue-model]] §5 and used here unchanged. That vocabulary governs both the holding's revenue share and every percentage in this schedule, so that the two are never computed on different bases.
+The defined terms — Gross Revenue, Net Revenue, Profit, Transaction Value, Cash Received, Referral, Closing, Direct Costs, Taxes, Refunds and cancellations — are settled once in [[revenue model]] §5 and used here unchanged. That vocabulary governs both the holding's revenue share and every percentage in this schedule, so that the two are never computed on different bases.
 
 For each component of §1 the agreement states: the calculation base; the moment the right arises; the payment deadline; the treatment under instalment sales; who counts as the source of the deal or referral; and whether the right survives the end of the CEO's term of office.
 
@@ -127,11 +127,11 @@ Commissions and other economic rights that were earned, or that arise from trans
 
 12.3 Relation to severance. The buyout stands separately from severance / termination compensation, which is a distinct amount to be settled under §14 item 6.
 
-12.4 Leaver status under the Shareholders' Agreement. [[shareholders-agreement]] Article 4 sets the price of the put and call over the same shares: Fair Market Value on a Good Leaver, acquisition cost of Rp 200,000,000.00 on a Bad Leaver, with the valuer appointed by agreement or, failing that, by the Chairman of KADIN Bali, and payment within 12 months of valuation.
+12.4 Leaver status under the Shareholders' Agreement. [[shareholders agreement]] Article 4 sets the price of the put and call over the same shares: Fair Market Value on a Good Leaver, acquisition cost of Rp 200,000,000.00 on a Bad Leaver, with the valuer appointed by agreement or, failing that, by the Chairman of KADIN Bali, and payment within 12 months of valuation.
 
 ## 13. Change of control
 
-On a sale of the company, a controlling stake, a significant part of the land assets or a key project, the CEO's economic rights are: tag-along under [[shareholders-agreement]] Article 2; retention or exercise of equity and options; possible acceleration of options; payment of accrued commissions and bonuses; and cash-out on comparable economic terms where applicable.
+On a sale of the company, a controlling stake, a significant part of the land assets or a key project, the CEO's economic rights are: tag-along under [[shareholders agreement]] Article 2; retention or exercise of equity and options; possible acceleration of options; payment of accrued commissions and bonuses; and cash-out on comparable economic terms where applicable.
 
 ## 14. Open items
 
@@ -155,7 +155,7 @@ Consolidated from both source documents; numbering is this schedule's own.
 
 ## 15. Points settled and points open
 
-Consolidation exposed three disagreements between the documents and one omission. All four are worked out in [[ceo-terms-decisions]] as D1 to D4, with operative wording for the notary.
+Consolidation exposed three disagreements between the documents and one omission. All four are worked out in [[ceo terms decisions]] as D1 to D4, with operative wording for the notary.
 
 | point | where | status |
 |---|---|---|
@@ -166,4 +166,4 @@ Consolidation exposed three disagreements between the documents and one omission
 
 Deferred to the next round: the IDR/USD rate at which the discount is expressed, and the instrument securing payment of a buyout.
 
-The full statement of each point, the routes and the operative wording are in [[ceo-terms-decisions]], which also carries the agenda for the call and a table separating the figures that are facts from the figures derived from proposals not yet agreed.
+The full statement of each point, the routes and the operative wording are in [[ceo terms decisions]], which also carries the agenda for the call and a table separating the figures that are facts from the figures derived from proposals not yet agreed.

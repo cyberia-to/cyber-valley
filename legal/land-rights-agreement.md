@@ -9,7 +9,7 @@ icon: "⚖️"
 
 v0.4.3 · working skeleton, not an executable document
 
-*Changelog: v0.1 initial skeleton · v0.2 §9A Licence Event regime · v0.3 §5A construction control, BAST handover chain and indemnity · v0.3.1 §2.7 plot as per aversionem (ad corpus) · v0.4 holder protocol folded in — §2.5 free assignability and the Register, §9B title warranties, negative pledge, non-disturbance and mirror indemnity, §2.4 renewal by right, §2.6 split into land-time and stay, §6 three-tier build remedy, §8 veto and initiative in place of an Association, §9A full KBLI list from the Articles of Association, §10A force majeure, §10B adat, §2.8 succession, §13 general provisions; Design Code moved to Annex C; clause leaders unbolded per the graph style rule · v0.4.1 §7.4 Design Envelope lock — the signing-to-SLF window, with the Landowner's cure right and exit in both fault and no-fault cases · v0.4.2 §6.0 conditions precedent and the Commencement Certificate — the construction clock starts there, stops when a condition falls away, and carries a long stop; 9B.2 adds pengecekan sertifikat on the day of signing; 9B.7 rewritten as a choice of real security instruments; open questions moved to `legal/notes/open-questions.md` · v0.4.3 §2.1 term derived from the Title with automatic extension, 2.1.1–2.1.2 where the term lives and the offer of record, 9B.9 duty to extend Titles in time.*
+*Changelog: v0.1 initial skeleton · v0.2 §9A Licence Event regime · v0.3 §5A construction control, BAST handover chain and indemnity · v0.3.1 §2.7 plot as per aversionem (ad corpus) · v0.4 holder protocol folded in — §2.5 free assignability and the Register, §9B title warranties, negative pledge, non-disturbance and mirror indemnity, §2.4 renewal by right, §2.6 split into land-time and stay, §6 three-tier build remedy, §8 veto and initiative in place of an Association, §9A full KBLI list from the Articles of Association, §10A force majeure, §10B adat, §2.8 succession, §13 general provisions; Design Code moved to Annex C; clause leaders unbolded per the graph style rule · v0.4.1 §7.4 Design Envelope lock — the signing-to-SLF window, with the Landowner's cure right and exit in both fault and no-fault cases · v0.4.2 §6.0 conditions precedent and the Commencement Certificate — the construction clock starts there, stops when a condition falls away, and carries a long stop; 9B.2 adds pengecekan sertifikat on the day of signing; 9B.7 rewritten as a choice of real security instruments; open questions moved to `legal/notes/open questions.md` · v0.4.3 §2.1 term derived from the Title with automatic extension, 2.1.1–2.1.2 where the term lives and the offer of record, 9B.9 duty to extend Titles in time.*
 
 > Status. Structural draft for discussion with an Indonesian notary (PPAT) and counsel. Nothing here is legal advice. Every clause marked ⚠ carries a known Indonesian-law constraint that must be verified against the current regulations and the actual master title before any version of this is signed. Every clause marked ▲ implements a decision from `holder-protocol-decisions.md` and reverts cleanly if that decision is changed.
 
@@ -22,7 +22,7 @@ Related product pages: [[hak sewa]], [[leasehold upfront]], [[annual leasehold]]
 | document | contents |
 |---|---|
 | this file | framework and operative structure |
-| `legal/notes/open-questions.md` | release gate and every open item, deliberately outside the signable text |
+| `legal/notes/open questions.md` | release gate and every open item, deliberately outside the signable text |
 | Annex A | Estate: one row per land title — certificate number, area, grant and expiry dates, remaining term, RTRW classification, PKKPR number or its absence, LP2B status; plus the KBLI × location table under §9A.1 |
 | Annex B | Plot: boundaries (*patok*, adjoining owners, GPS/UTM), indicative area, *peta bidang* |
 | [[annex-c-design-code\|Annex C]] | Design Code — the zoning code as numbers |
@@ -480,7 +480,7 @@ Notices and their language · personal data, covering publication of monitoring 
 
 ## Open drafting questions
 
-Moved to [[open-questions]] (`legal/notes/open-questions.md`) so that they cannot travel into a signable text. Nothing is drafted for execution while an item there is open against the clause being drafted.
+Moved to [[open questions]] (`legal/notes/open questions.md`) so that they cannot travel into a signable text. Nothing is drafted for execution while an item there is open against the clause being drafted.
 
 ## Decision map
 

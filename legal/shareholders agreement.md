@@ -8,7 +8,7 @@ icon: "🤝"
 ---
 # Shareholders' Agreement — PT. Cyber Valley Estate
 
-English text · supplementary to Articles 5 and 7 of the [[articles-of-association]] · CVE/SHA/2026-01 · 14 August 2026
+English text · supplementary to Articles 5 and 7 of the [[articles of association]] · CVE/SHA/2026-01 · 14 August 2026
 
 > Source: bilingual edition `CVEShareholdersAgreementIDEN`. The Bahasa Indonesia text prevails on any discrepancy. This page carries the English column only.
 

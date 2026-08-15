@@ -12,7 +12,7 @@ English text of the Anggaran Dasar, 12 August 2026 · Akta Pendirian No. 01, 04-
 
 > Source: bilingual edition `cveanggarandasarIDEN`. The Bahasa Indonesia text prevails on any discrepancy (Law No. 24/2009). This page carries the English column only, for reading and reference; the executable instrument is the notarial deed.
 
-Part of the [[dzin]] corporate pack. Companion instruments: [[shareholders-agreement]], [[ceo-agreement-terms]], [[revenue-model]]. Land instruments derive their corporate authority from these Articles — see [[land-rights-agreement]].
+Part of the [[dzin]] corporate pack. Companion instruments: [[shareholders agreement]], [[ceo agreement terms]], [[revenue model]]. Land instruments derive their corporate authority from these Articles — see [[land-rights-agreement]].
 
 ## Preamble
 

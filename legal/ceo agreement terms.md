@@ -1,16 +1,16 @@
 ---
 tags: cyber valley, cyberia, legal, draft, dzin
-alias: ceo agreement terms, ceo contract theses, ceo terms
+alias: ceo agreement terms, ceo heads of terms, ceo terms
 crystal-type: entity
 crystal-domain: socio
 crystal-size: deep
 icon: "🧭"
 ---
-# CEO Agreement — Terms and Theses
+# CEO Agreement — Heads of Terms
 
 > Status. Negotiating position for the CEO contract, written to be handed to counsel. Nothing here is executed.
 
-Part of the [[dzin]] corporate pack. This page owns the role, the authority and the procedure; every figure of remuneration sits in [[ceo-compensation-schedule]], the annex to this agreement. Reads together with [[shareholders-agreement]] (the equity the same person holds as a Shareholder) and [[articles-of-association]] (the authority the same person holds as Director).
+Part of the [[dzin]] corporate pack. This page owns the role, the authority and the procedure; every figure of remuneration sits in [[ceo compensation schedule]], the annex to this agreement. Reads together with [[shareholders agreement]] (the equity the same person holds as a Shareholder) and [[articles of association]] (the authority the same person holds as Director).
 
 ## 1. Role and area of responsibility of the CEO
 
@@ -20,13 +20,13 @@ The CEO's results and KPI are to be assessed against the resources the company a
 
 ## 2. CEO remuneration
 
-Every figure — salary, land commissions, sub-project referral and administration fees, the investment fee, KPI bonuses, dividends and expense reimbursement — lives in [[ceo-compensation-schedule]], which is the annex to this agreement.
+Every figure — salary, land commissions, sub-project referral and administration fees, the investment fee, KPI bonuses, dividends and expense reimbursement — lives in [[ceo compensation schedule]], which is the annex to this agreement.
 
 The Schedule defines, for each type of remuneration: the calculation base, the moment the right arises, the payment procedure under instalment sales, referral attribution, and the survival of already-earned commissions after the CEO's term of office ends.
 
 ## 3. Equity and options
 
-The entry stake, the option ladder and the strike basis are set out in [[ceo-compensation-schedule]] §9. The share transfer that creates the entry stake is executed under [[shareholders-agreement]].
+The entry stake, the option ladder and the strike basis are set out in [[ceo compensation schedule]] §9. The share transfer that creates the entry stake is executed under [[shareholders agreement]].
 
 The option rights are to be secured in law as exercisable rights of the CEO, defining the exercise period, the conditions under which the option survives the end of the CEO's term of office, anti-dilution protection, and the mechanism on a Change of Control.
 
@@ -150,21 +150,21 @@ Strategic disagreement, loss of confidence absent a proven material breach, and 
 
 ## 15. Protection of the CEO on termination without Cause
 
-The CEO elects either to remain a shareholder or to be bought out; the valuation basis, the floor at the sum invested, the security for payment and the relation to severance are in [[ceo-compensation-schedule]] §12. Counsel is to propose the most reliable mechanism for the payment principle that is permissible under Indonesian law.
+The CEO elects either to remain a shareholder or to be bought out; the valuation basis, the floor at the sum invested, the security for payment and the relation to severance are in [[ceo compensation schedule]] §12. Counsel is to propose the most reliable mechanism for the payment principle that is permissible under Indonesian law.
 
-⚠ The election in favour of the CEO is presently defeated by the call option in [[shareholders-agreement]] Article 4(2), which lets the Company and the other shareholders take those shares on a Good Leaver regardless. See [[ceo-compensation-schedule]] §15.
+⚠ The election in favour of the CEO is presently defeated by the call option in [[shareholders agreement]] Article 4(2), which lets the Company and the other shareholders take those shares on a Good Leaver regardless. See [[ceo compensation schedule]] §15.
 
 ## 16. Protection of equity and company value
 
-The anti-dilution and value-protection covenants are in [[ceo-compensation-schedule]] §9.4.
+The anti-dilution and value-protection covenants are in [[ceo compensation schedule]] §9.4.
 
 ## 17. Change of control — sale of the company or of material assets
 
-The CEO's rights on a change of control — tag-along, retention or exercise of equity and options, acceleration, accrued commissions, cash-out — are in [[ceo-compensation-schedule]] §13, and the tag-along itself is granted by [[shareholders-agreement]] Article 2.
+The CEO's rights on a change of control — tag-along, retention or exercise of equity and options, acceleration, accrued commissions, cash-out — are in [[ceo compensation schedule]] §13, and the tag-along itself is granted by [[shareholders agreement]] Article 2.
 
 ## 18. Survival of earned commissions after departure
 
-See [[ceo-compensation-schedule]] §11.
+See [[ceo compensation schedule]] §11.
 
 ## 19. Protection after termination
 
@@ -176,7 +176,7 @@ The CEO observes reasonable confidentiality obligations. Any non-compete or non-
 
 ## Questions for discussion and approval
 
-Non-economic questions. Everything touching remuneration, equity and exit economics moved to [[ceo-compensation-schedule]] §14.
+Non-economic questions. Everything touching remuneration, equity and exit economics moved to [[ceo compensation schedule]] §14.
 
 1. Concrete Authority Matrix limits: up to what amount the CEO acts alone, and which transactions require approval.
 2. The conditions for participation of the CEO and his DevelopmentCo/SPV in their own projects on the territory of Cyber Valley.

@@ -8,7 +8,7 @@ icon: "🤝"
 ---
 # CEO terms — decisions for agreement
 
-Date: 2026-08-15 · input: [[ceo-compensation-schedule]] §15, [[ceo-agreement-terms]], [[shareholders-agreement]], [[articles-of-association]] · output: 4 decisions and an agenda
+Date: 2026-08-15 · input: [[ceo compensation schedule]] §15, [[ceo agreement terms]], [[shareholders agreement]], [[articles of association]] · output: 4 decisions and an agenda
 
 Parties to the agreement: Alisa Voinova (President Commissioner), Dmitry Starodubtsev (Commissioner), Oleksandr Fedorov (Director). Nothing here is legal advice; final wording goes through the notary.
 
@@ -49,8 +49,8 @@ Where the numbers come from. The earlier analysis mixed facts from executed docu
 | figure | source | standing |
 |---|---|---|
 | 8,040 shares, nominal Rp 2,500,000, capital Rp 20.1 bn contributed as land | Articles Article 4 | fact |
-| 3,940 Voinova, 4,020 Starodubtsev, 80 Fedorov | [[shareholders-agreement]] preamble | fact |
-| company valuation USD 4,000,000, 1% = USD 40,000, ladder 5% / 5% / 10% | CEO theses | one side's proposal, not agreed |
+| 3,940 Voinova, 4,020 Starodubtsev, 80 Fedorov | [[shareholders agreement]] preamble | fact |
+| company valuation USD 4,000,000, 1% = USD 40,000, ladder 5% / 5% / 10% | CEO heads of terms | one side's proposal, not agreed |
 | 1,608 shares, tranches 402 / 402 / 804, strike USD 800,000 | arithmetic on the ladder | derived from the unagreed |
 
 No figure in the third or fourth row is a decision. Until the ladder is approved, any number of option shares stays conditional.
@@ -59,17 +59,17 @@ Starting point. Articles Article 4(2): the whole capital is issued and paid, all
 
 The question is therefore whether the option exists at all and who provides for it.
 
-Route (a). No option. The ladder is not accepted and remuneration stays monetary — commissions, referral and administration fees under [[ceo-compensation-schedule]]. The CEO's stake is the 1% acquired on entry.
+Route (a). No option. The ladder is not accepted and remuneration stays monetary — commissions, referral and administration fees under [[ceo compensation schedule]]. The CEO's stake is the 1% acquired on entry.
 
 Route (b). New issue. Nobody sells: the Company issues the shares and the strike is paid into the Company. For a land-owning company with capital contributed in kind and no free cash, that means money for development rather than a payment to a selling shareholder. It requires an increase of the authorised capital — an amendment of the Articles through the GMS, a notarial deed and registration with Kemenkumham — which rides on the same deed as the other amendments. Payment is above nominal value; the excess stays in the Company as share premium.
 
 Route (c). The shares come from Dmitry Starodubtsev's holding. His decision, not prejudged here.
 
-Route (d). The ladder is set by the General Meeting. Size, timing, source and price are established by GMS resolution rather than fixed in advance in the CEO Agreement. The option part of the CEO theses is then not accepted as a term but carried onto the meeting's agenda.
+Route (d). The ladder is set by the General Meeting. Size, timing, source and price are established by GMS resolution rather than fixed in advance in the CEO Agreement. The option part of the CEO heads of terms is then not accepted as a term but carried onto the meeting's agenda.
 
 True under every route: the ladder is fixed in shares rather than percentages. "5% within 2 years" does not say 5% of what, measured when. Under a sale that is 402 shares out of 8,040; under an issue the same 402 shares give a smaller percentage because the denominator has grown. One text, two answers, and the argument arrives at the moment of exercise. The number of shares is filled in from whichever resolution approves the ladder.
 
-Pre-emption. Arises only under routes (b) and (c), and only once the size is set. On an issue, Articles Article 4(3) gives the existing shareholders the right to subscribe within 14 days in proportion to their holdings; on a sale, Pasal 7(3)–(4) obliges the seller to offer the shares to the other shareholder first. In both cases, absent an advance waiver, the tranche being issued or sold can be taken up by them and the option becomes undeliverable while the Articles are fully observed. Closed by a separate letter annexed to the deed — [[preemption-waiver-letter]], scoped by purpose so that it covers whatever number the approving resolution sets. The construction is kept out of the body of the Articles.
+Pre-emption. Arises only under routes (b) and (c), and only once the size is set. On an issue, Articles Article 4(3) gives the existing shareholders the right to subscribe within 14 days in proportion to their holdings; on a sale, Pasal 7(3)–(4) obliges the seller to offer the shares to the other shareholder first. In both cases, absent an advance waiver, the tranche being issued or sold can be taken up by them and the option becomes undeliverable while the Articles are fully observed. Closed by a separate letter annexed to the deed — [[preemption waiver letter]], scoped by purpose so that it covers whatever number the approving resolution sets. The construction is kept out of the body of the Articles.
 
 ⚠ Separately, outside this sheet: the capital was contributed as land (37 ha). The contribution documents — the independent appraisal and the deeds transferring title to the Company — belong in the Annex I due diligence pack under 9B.2 of [[land-rights-agreement]].
 
@@ -77,7 +77,7 @@ Pre-emption. Arises only under routes (b) and (c), and only once the size is set
 
 ## D3 · The call option against the right to remain — operative text
 
-Problem. The CEO theses §15 give him a choice on termination without Cause: remain a shareholder or be bought out. SHA Article 4(2) gives the Company and the other shareholders a call over those same shares on a Good Leaver, exercisable within 90 days. As drafted, the call defeats the choice.
+Problem. The CEO heads of terms §15 give him a choice on termination without Cause: remain a shareholder or be bought out. SHA Article 4(2) gives the Company and the other shareholders a call over those same shares on a Good Leaver, exercisable within 90 days. As drafted, the call defeats the choice.
 
 Solution. Article 4 of the SHA is replaced in full. Three requirements on the text: the categories are defined exhaustively and are mutually exclusive; the absence of a call on a Good Leaver is stated in words rather than inferred from silence; and the status of the shares after departure is not described at all — rights attaching to the office end with the office under the Articles, and the shares remain ordinary shares.
 
@@ -124,11 +124,11 @@ Liquidity is not impaired: if Fedorov decides to sell, the right of first refusa
 
 ## D4 · The fair value floor
 
-Problem. The theses set a floor on the buyout at the amount invested; SHA Article 4(1) gives plain fair value with no floor. Where fair value falls below the amount invested, the two documents produce different numbers for the same transaction.
+Problem. The heads of terms set a floor on the buyout at the amount invested; SHA Article 4(1) gives plain fair value with no floor. Where fair value falls below the amount invested, the two documents produce different numbers for the same transaction.
 
 Solution. The floor was written against one fear — that the company is stripped of value before the exit. Let it work against that fear and nothing else.
 
-The valuer is appointed by agreement or, failing agreement within 14 days, by the Chairman of KADIN Bali. The valuer is instructed to produce two figures: actual fair value at the date of exit, and the but-for value — what it would have been had the acts listed in [[ceo-compensation-schedule]] §9.4 not occurred: depressing value ahead of a buyout, moving land, projects and assets to related companies on non-arm's-length terms, and creating artificial obligations or debt.
+The valuer is appointed by agreement or, failing agreement within 14 days, by the Chairman of KADIN Bali. The valuer is instructed to produce two figures: actual fair value at the date of exit, and the but-for value — what it would have been had the acts listed in [[ceo compensation schedule]] §9.4 not occurred: depressing value ahead of a buyout, moving land, projects and assets to related companies on non-arm's-length terms, and creating artificial obligations or debt.
 
 | cause of the fall in value | buyout price |
 |---|---|
@@ -169,13 +169,13 @@ I propose tying the tranches to terms of office rather than to the calendar — 
 
 ### 4. The USD 4,000,000 valuation — as at what date
 
-The valuation comes from the CEO theses with no date, no method and no statement of what it covers. The Company owns 37 ha contributed to capital at a nominal Rp 20.1 bn.
+The valuation comes from the CEO heads of terms with no date, no method and no statement of what it covers. The Company owns 37 ha contributed to capital at a nominal Rp 20.1 bn.
 
 I propose fixing the valuation through an independent appraiser as at the date of the resolution, rather than adopting a figure from a negotiating document. If an independent appraisal of the land comes out higher, the strike in the theses turns into a discount on top of a discount.
 
 ### 5. D4 — the fair value floor
 
-I propose route (a): two valuations, floor only on the acts under [[ceo-compensation-schedule]] §9.4. You do not underwrite the market, and he is protected against value being destroyed deliberately.
+I propose route (a): two valuations, floor only on the acts under [[ceo compensation schedule]] §9.4. You do not underwrite the market, and he is protected against value being destroyed deliberately.
 
 ### 6. D3 — confirm the replacement of Article 4
 
@@ -183,13 +183,13 @@ The text is ready, six paragraphs in two languages. Confirmation needed that the
 
 ### 7. CEO commissions
 
-[[ceo-compensation-schedule]] §14 carries fifteen open items on commissions: calculation base, when the right arises, instalments, survival after departure. That is a separate conversation, not this call.
+[[ceo compensation schedule]] §14 carries fifteen open items on commissions: calculation base, when the right arises, instalments, survival after departure. That is a separate conversation, not this call.
 
-I propose a separate meeting, and before it, settling the calculation vocabulary in [[revenue-model]] §5, since every percentage depends on it at once.
+I propose a separate meeting, and before it, settling the calculation vocabulary in [[revenue model]] §5, since every percentage depends on it at once.
 
 ### 8. Sinwood and Cofe
 
-In [[revenue-model]] these are first-phase plots carrying a 10% commission, and nothing else is recorded about them. Which title in the register they sit on, what area, whether a PKKPR exists — unknown.
+In [[revenue model]] these are first-phase plots carrying a 10% commission, and nothing else is recorded about them. Which title in the register they sit on, what area, whether a PKKPR exists — unknown.
 
 I propose tying them to rows of Annex A in [[land-rights-agreement]] before a commission is signed against them.
 
@@ -209,10 +209,10 @@ The IDR/USD rate for expressing the discount, and the instrument securing paymen
 
 | decision | document | change |
 |---|---|---|
-| D1 | [[shareholders-agreement]] preamble | the sale at nominal value is named as a deliberate discount to the USD 4,000,000 valuation, for accepting the office |
+| D1 | [[shareholders agreement]] preamble | the sale at nominal value is named as a deliberate discount to the USD 4,000,000 valuation, for accepting the office |
 | D2 | — | open: the edits depend on the route chosen and are not made until it is |
-| D2 | [[preemption-waiver-letter]] | template ready, share count blank; signed once the ladder is approved |
-| D3 | [[shareholders-agreement]] Article 4 | replaced in full by the text in D3 |
-| D3 | [[ceo-agreement-terms]] §15 | the warning about the conflict with the call is removed |
-| D4 | [[shareholders-agreement]] Article 4A | two valuations and the but-for basis |
-| D4 | [[ceo-compensation-schedule]] §12 | definition of the amount invested, and the price table |
+| D2 | [[preemption waiver letter]] | template ready, share count blank; signed once the ladder is approved |
+| D3 | [[shareholders agreement]] Article 4 | replaced in full by the text in D3 |
+| D3 | [[ceo agreement terms]] §15 | the warning about the conflict with the call is removed |
+| D4 | [[shareholders agreement]] Article 4A | two valuations and the but-for basis |
+| D4 | [[ceo compensation schedule]] §12 | definition of the amount invested, and the price table |
