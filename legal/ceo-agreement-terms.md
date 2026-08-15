@@ -7,8 +7,6 @@ icon: "🧭"
 ---
 # CEO Agreement — Terms and Theses
 
-Translated from the Russian working document "CEO agreement — terms and theses", held on Drive under its original title `Условия и тезисы для договора с CEO`.
-
 > Status. Negotiating position for the CEO contract, written to be handed to counsel. Nothing here is executed. Blanks in the source (`______`) and the author's inline queries are preserved as they stand.
 
 Part of the [[dzin]] corporate pack. This page owns the role, the authority and the procedure; every figure of remuneration sits in [[ceo-compensation-schedule]], the annex to this agreement. Reads together with [[shareholders-agreement]] (the equity the same person holds as a Shareholder) and [[articles-of-association]] (the authority the same person holds as Director).
