@@ -88,7 +88,7 @@ Paid on the shares held by the CEO, pro rata, when declared. Distribution occurs
 
 9.1 Entry. On taking office the CEO acquires 1% of the shares — 80 shares of the 8,040 issued, at par value Rp 200,000,000.00, transferred from Alisa Voinova under [[shareholders-agreement]] preamble paragraph 2. The sale at par is a deliberate discount to the agreed company value of USD 4,000,000, granted in consideration of accepting the office of Director and the personal responsibilities attaching to it, including the tax responsibility under [[articles-of-association]] Pasal 12(6). The discount is protected by the Bad Leaver repurchase at acquisition cost under [[shareholders-agreement]] Article 4.
 
-9.2 Option ladder. The CEO holds an option right to acquire additional shares:
+9.2 Option ladder. Proposed, not agreed. The figures below come from the CEO's own negotiating document and have not been accepted by the shareholders; see [[ceo-terms-decisions]] Д2, where the ladder is an open question.
 
 | tranche | exercisable within | strike basis |
 |---|---|---|
@@ -96,18 +96,13 @@ Paid on the shares held by the CEO, pro rata, when declared. Distribution occurs
 | 5% | 5 years | same |
 | 10% | 10 years | same |
 
-9.3 Source of the option shares. Open — see [[ceo-terms-decisions]] Д2. The whole authorised capital is issued and paid in kind, so the Company holds no shares in treasury, and Alisa Voinova sells 80 shares only. The ladder therefore has no source until one is chosen: no option at all, an issue of new shares, or a sale by the other shareholder. The recommendation is an issue, under which the strike is paid into the Company rather than to a selling shareholder.
+Two defects to settle before any of this is drafted: the third tranche runs 10 years against a 5-year term of office under [[articles-of-association]] Article 11(4), and the USD 4,000,000 valuation carries no date, method or basis.
 
-The ladder is fixed in shares rather than percentages, because the same percentage yields different numbers under a sale and under an issue:
+9.3 Source of the option shares. Open — see [[ceo-terms-decisions]] Д2. The whole authorised capital is issued and paid in kind as land, so the Company holds no shares in treasury, and Alisa Voinova sells 80 shares only. Four routes are on the table: no option at all; an issue of new shares; a sale by the other shareholder; or the ladder being set by resolution of the General Meeting rather than fixed in the CEO Agreement.
 
-| tranche | shares | strike | exercisable within |
-|---|---|---|---|
-| first | 402 | USD 200,000 | 2 years |
-| second | 402 | USD 200,000 | 5 years |
-| third | 804 | USD 400,000 | 10 years |
-| total | 1,608 | USD 800,000 | |
+Whichever route is taken, the ladder is expressed in shares rather than percentages. The same percentage yields different numbers under a sale and under an issue, because an issue enlarges the denominator, so a percentage alone gives two answers to the same question at the moment of exercise. The number is filled from the resolution that approves the ladder.
 
-Under an issue the pre-emptive right of both existing shareholders under [[articles-of-association]] Article 4(3) would absorb the tranche; it is disapplied by [[preemption-waiver-letter]], a side letter annexed to the deed of amendment and kept out of the Articles themselves.
+Where a pre-emptive right would absorb the tranche — [[articles-of-association]] Article 4(3) on an issue, Article 7(3)–(4) on a sale — it is disapplied by [[preemption-waiver-letter]], a side letter annexed to the deed and kept out of the Articles themselves.
 
 9.3.1 Legal form. Option rights are to be secured as exercisable rights of the CEO, defining: the exercise period, survival on the end of the CEO's term of office, anti-dilution protection, and the mechanism on a Change of Control.
 
