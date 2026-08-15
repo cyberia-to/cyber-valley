@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, draft, dzin
-alias: preemption waiver letter, surat pernyataan pelepasan hak, письмо об отказе от преимущественного права
+alias: preemption waiver letter, surat pernyataan pelepasan hak
 crystal-type: entity
 crystal-domain: cyberia
 icon: "✉️"
@@ -11,7 +11,7 @@ Template · annexed to the deed of amendment of the [[articles-of-association]],
 
 > Status. A standalone declaration signed by the existing shareholders and handed to the notary together with the amendment. It stays out of the Articles: the Articles carry the general rule, this letter disapplies it once, for a named tranche and a named purpose.
 >
-> The number of shares is left as [N] deliberately. No option ladder has been agreed, so no figure is available to insert — see [[ceo-terms-decisions]] Д2. [N] is filled from the resolution that approves the ladder, and until then this letter is not signed.
+> The number of shares is left as [N] deliberately. No option ladder has been agreed, so no figure is available to insert — see [[ceo-terms-decisions]] D2. [N] is filled from the resolution that approves the ladder, and until then this letter is not signed.
 
 Why it exists. Where an option over shares is satisfied by an issue of new shares, [[articles-of-association]] Article 4(3) gives shareholders on the register a pre-emptive right to subscribe within 14 days in proportion to their holdings. Where it is satisfied by a sale, Article 7(3)–(4) obliges the selling shareholder to offer the shares to the other shareholder first, with 30 days to take them up. Either right, exercised over this tranche, would absorb the very shares meant for the option, and the option would fail while the Articles were fully observed.
 

@@ -1,97 +1,95 @@
 ---
 tags: cyber valley, cyberia, legal, strategy, dzin
-alias: решения по CEO, ceo terms decisions, лист согласования CEO
+alias: ceo terms decisions, ceo decision sheet, ceo open points
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "🤝"
 ---
-# Условия CEO — решения на согласование
+# CEO terms — decisions for agreement
 
-Дата: 2026-08-15 · вход: [[ceo-compensation-schedule]] §15, [[ceo-agreement-terms]], [[shareholders-agreement]], [[articles-of-association]] · выход: 4 решения
+Date: 2026-08-15 · input: [[ceo-compensation-schedule]] §15, [[ceo-agreement-terms]], [[shareholders-agreement]], [[articles-of-association]] · output: 4 decisions and an agenda
 
-Стороны согласования: Алиса Воинова (Комиссар-президент), Дмитрий Стародубцев (Комиссар), Александр Фёдоров (Директор). Ничто ниже не является юридической консультацией; финальные формулировки — через нотариуса.
+Parties to the agreement: Alisa Voinova (President Commissioner), Dmitry Starodubtsev (Commissioner), Oleksandr Fedorov (Director). Nothing here is legal advice; final wording goes through the notary.
 
-Отложено до следующего этапа: курс IDR/USD для пересчёта скидки и инструмент обеспечения выплат. Оба помечены в тексте.
-
----
-
-## принцип
-
-Компания сохраняет всё, что защищает её от недобросовестного директора: дешёвый выкуп при Bad Leaver и одобрения по Pasal 12. CEO получает то, без чего роль не имеет смысла: доставляемый опцион и невозможность быть вытесненным с капитала за добросовестную работу. Ни одно решение не забирает у компании полномочие из устава.
+Deferred to the next round: the IDR/USD rate at which the discount is expressed, and the instrument securing payment. Both are marked in the text.
 
 ---
 
-## Д1 · Вход по номиналу — продажа со скидкой
+## Principle
 
-Решено. Акции продаются новому участнику со скидкой, и это фиксируется прямо.
+The Company keeps everything that protects it from a director acting in bad faith: the cheap repurchase on a Bad Leaver and the approval gates in Pasal 12. The CEO gets what the role is worthless without: an option that can actually be delivered, and protection against being pushed off the register for working in good faith. No decision here takes a single power away from the Articles.
 
-Входной пакет — 80 акций по номиналу Rp 2 500 000, всего Rp 200 000 000, что составляет 1% капитала. Опционная лестница оценивает компанию в USD 4 000 000, то есть 1% в USD 40 000. Продажа по номиналу является намеренной скидкой к согласованной оценке, предоставленной в качестве вознаграждения за принятие должности Директора и связанного с ней личного риска — в частности ответственности за исчисление, удержание, уплату и отчётность по налогам компании по уставу Pasal 12(6).
+---
 
-Формулировка в преамбулу SHA:
+## D1 · Entry at par — a sale at a discount
+
+Settled. The shares are sold to the new participant at a discount, and that is stated in terms.
+
+The entry stake is 80 shares at the nominal value of Rp 2,500,000, Rp 200,000,000 in total, being 1% of the capital. The option ladder values the company at USD 4,000,000, so 1% at USD 40,000. The sale at nominal value is a deliberate discount to the agreed valuation, granted in consideration of accepting the office of Director and the personal risk attaching to it — in particular the responsibility for computing, withholding, paying and reporting the Company's taxes under Articles Pasal 12(6).
+
+Wording for the SHA preamble:
 
 > Para Pihak menegaskan bahwa pemindahan 80 saham dengan nilai nominal dilakukan dengan diskon yang disengaja terhadap nilai Perseroan yang disepakati sebesar USD 4.000.000, sebagai imbalan atas kesediaan Oleksandr Fedorov menjabat sebagai Direktur dan menanggung tanggung jawab pribadi yang melekat pada jabatan tersebut.
 
 > The Shareholders record that the transfer of 80 shares at nominal value is made at a deliberate discount to the agreed company value of USD 4,000,000, in consideration of Oleksandr Fedorov accepting the office of Director and the personal responsibilities attaching to that office.
 
-Скидка уже защищена: по SHA Article 4(3) при Bad Leaver те же акции выкупаются обратно по цене приобретения Rp 200 000 000. Новой конструкции не требуется.
+The discount is already protected: under SHA Article 4(3) the same shares are bought back at the acquisition cost of Rp 200,000,000 on a Bad Leaver. No new construction is needed.
 
-Страйк опциона остаётся фиксированным на USD 40 000 за 1% по всем трём траншам, с механической корректировкой только при дроблении и консолидации акций.
-
-Отложено. Числовое отношение скидки к страйку зависит от курса IDR/USD и фиксируется по JISDOR на дату подписания.
+Deferred. The numerical relation between the discount and the strike depends on the IDR/USD rate and is fixed at JISDOR on the date of signature.
 
 ---
 
-## Д2 · Источник акций под опцион
+## D2 · Source of the option shares
 
-Исходное. Устав Article 4(2): размещено и оплачено 100% капитала, все 8 040 акций, внесённые в виде земли. Акций в казне нет, выпускать нечего. Опционная лестница 5/5/10 из тезисов CEO — это 1 608 акций.
+Status: open. There is no decision here and no recommendation.
 
-Установлено 15.08.2026. Воинова продаёт 80 акций входного пакета и более ничего. Её пакет источником опциона не является.
+Where the numbers come from. The earlier analysis mixed facts from executed documents with arithmetic built on an unagreed proposal. Separated once and for all:
 
-Статус: открытый вопрос. Решения в этом листе нет и рекомендации нет.
-
-Откуда берутся числа. Разбор ниже смешивал факты из подписанных документов с арифметикой поверх несогласованного предложения. Разделяю раз и навсегда:
-
-| величина | источник | статус |
+| figure | source | standing |
 |---|---|---|
-| 8 040 акций, номинал Rp 2 500 000, капитал Rp 20,1 млрд, внесён землёй | устав Article 4 | факт |
-| 3 940 Воинова, 4 020 Стародубцев, 80 Фёдоров | преамбула [[shareholders-agreement]] | факт |
-| оценка компании USD 4 000 000, 1% = USD 40 000, лестница 5% / 5% / 10% | тезисы CEO | предложение одной стороны, не согласовано |
-| 1 608 акций, транши 402 / 402 / 804, страйк USD 800 000 | арифметика поверх лестницы | производное от несогласованного |
+| 8,040 shares, nominal Rp 2,500,000, capital Rp 20.1 bn contributed as land | Articles Article 4 | fact |
+| 3,940 Voinova, 4,020 Starodubtsev, 80 Fedorov | [[shareholders-agreement]] preamble | fact |
+| company valuation USD 4,000,000, 1% = USD 40,000, ladder 5% / 5% / 10% | CEO theses | one side's proposal, not agreed |
+| 1,608 shares, tranches 402 / 402 / 804, strike USD 800,000 | arithmetic on the ladder | derived from the unagreed |
 
-Ни одна цифра из третьей и четвёртой строк не является решением. Пока лестница не утверждена, любое число акций под опцион остаётся условным.
+No figure in the third or fourth row is a decision. Until the ladder is approved, any number of option shares stays conditional.
 
-Вариант (а). Опциона нет. Лестница не принимается, вознаграждение остаётся денежным — комиссии, referral и administration fee по [[ceo-compensation-schedule]]. Доля CEO — 1%, полученный на входе.
+Starting point. Articles Article 4(2): the whole capital is issued and paid, all 8,040 shares, contributed as land. There are no shares in treasury and nothing to issue. Alisa Voinova sells the 80 shares of the entry stake and nothing further; her holding is not a source for the option.
 
-Вариант (б). Новая эмиссия. Акции никто не продаёт: компания выпускает их, страйк платится в компанию. Для землевладеющей компании без свободных денег это означает деньги на развитие вместо выплаты продающему акционеру. Требует увеличения уставного капитала, то есть изменения устава через РУПС, нотариального акта и регистрации в Kemenkumham; проходит тем же актом, что и прочие изменения. Оплата выше номинала, разница остаётся в компании как эмиссионный доход.
+The question is therefore whether the option exists at all and who provides for it.
 
-Вариант (в). Источником выступает пакет Стародубцева. Его решение, в этом листе не предрешается.
+Route (a). No option. The ladder is not accepted and remuneration stays monetary — commissions, referral and administration fees under [[ceo-compensation-schedule]]. The CEO's stake is the 1% acquired on entry.
 
-Вариант (г). Лестницу определяет общее собрание участников. Размер, сроки, источник и цена устанавливаются решением РУПС, а не фиксируются заранее в договоре с CEO. Тезисы CEO в части опциона тогда не принимаются как условие, а переносятся в повестку собрания.
+Route (b). New issue. Nobody sells: the Company issues the shares and the strike is paid into the Company. For a land-owning company with capital contributed in kind and no free cash, that means money for development rather than a payment to a selling shareholder. It requires an increase of the authorised capital — an amendment of the Articles through the GMS, a notarial deed and registration with Kemenkumham — which rides on the same deed as the other amendments. Payment is above nominal value; the excess stays in the Company as share premium.
 
-Что верно при любом варианте: лестница фиксируется в штуках, а не в процентах. «5% в течение 2 лет» не говорит, 5% от чего и на какой момент. При продаже это 402 акции от 8 040; при эмиссии те же 402 акции дают меньший процент, потому что знаменатель вырос. Один текст даёт два разных результата, и спор возникнет в момент exercise. Число акций подставляется из того решения, которым лестница будет утверждена.
+Route (c). The shares come from Dmitry Starodubtsev's holding. His decision, not prejudged here.
 
-Преимущественное право. Возникает только в вариантах (б) и (в) и только после того, как размер определён. При эмиссии устав Article 4(3) даёт действующим акционерам право подписки на новые акции в течение 14 дней пропорционально пакетам; при продаже Pasal 7(3)–(4) обязывает сначала предложить другому акционеру. В обоих случаях без предварительного отказа выпускаемый или продаваемый транш может быть разобран, и опцион окажется неисполнимым при полном соблюдении устава. Закрывается отдельным письмом, прилагаемым к акту, — шаблон в [[preemption-waiver-letter]], число акций в нём не проставлено. В тело устава конструкция не вносится.
+Route (d). The ladder is set by the General Meeting. Size, timing, source and price are established by GMS resolution rather than fixed in advance in the CEO Agreement. The option part of the CEO theses is then not accepted as a term but carried onto the meeting's agenda.
 
-⚠ Отдельно, вне этого листа: капитал внесён в виде земли (37 га). Документы о внесении — оценка независимого оценщика и акты передачи титулов компании — относятся к пакету due diligence Annex I по 9B.2 [[land-rights-agreement]] и должны быть в нём.
+True under every route: the ladder is fixed in shares rather than percentages. "5% within 2 years" does not say 5% of what, measured when. Under a sale that is 402 shares out of 8,040; under an issue the same 402 shares give a smaller percentage because the denominator has grown. One text, two answers, and the argument arrives at the moment of exercise. The number of shares is filled in from whichever resolution approves the ladder.
+
+Pre-emption. Arises only under routes (b) and (c), and only once the size is set. On an issue, Articles Article 4(3) gives the existing shareholders the right to subscribe within 14 days in proportion to their holdings; on a sale, Pasal 7(3)–(4) obliges the seller to offer the shares to the other shareholder first. In both cases, absent an advance waiver, the tranche being issued or sold can be taken up by them and the option becomes undeliverable while the Articles are fully observed. Closed by a separate letter annexed to the deed — the template is [[preemption-waiver-letter]], with the share count left blank. The construction is kept out of the body of the Articles.
+
+⚠ Separately, outside this sheet: the capital was contributed as land (37 ha). The contribution documents — the independent appraisal and the deeds transferring title to the Company — belong in the Annex I due diligence pack under 9B.2 of [[land-rights-agreement]].
 
 ---
 
-## Д3 · Call и право остаться — операционный текст
+## D3 · The call option against the right to remain — operative text
 
-Проблема. Тезисы CEO §15 дают ему выбор при прекращении полномочий без Cause: остаться акционером либо получить выкуп. SHA Article 4(2) даёт компании и другим акционерам call на те же акции при Good Leaver в течение 90 дней. Как написано, call перебивает выбор.
+Problem. The CEO theses §15 give him a choice on termination without Cause: remain a shareholder or be bought out. SHA Article 4(2) gives the Company and the other shareholders a call over those same shares on a Good Leaver, exercisable within 90 days. As drafted, the call defeats the choice.
 
-Решение. Article 4 SHA переписывается целиком. Три требования к тексту: категории определены исчерпывающе и взаимоисключающе, отсутствие call при Good Leaver сказано словами, а не выведено из умолчания, и статус акций после ухода не описывается вовсе — права, связанные с должностью, прекращаются вместе с должностью по уставу, а акции остаются обыкновенными.
+Solution. Article 4 of the SHA is replaced in full. Three requirements on the text: the categories are defined exhaustively and are mutually exclusive; the absence of a call on a Good Leaver is stated in words rather than inferred from silence; and the status of the shares after departure is not described at all — rights attaching to the office end with the office under the Articles, and the shares remain ordinary shares.
 
-Категории. Закрытым списком определяется только Bad Leaver; Good Leaver определяется как всё остальное. Так ни одно основание прекращения не остаётся неклассифицированным.
+Categories. Only Bad Leaver is defined as a closed list; Good Leaver is defined as everything else. No cause of termination is then left unclassified.
 
-| основание прекращения полномочий | категория | put у Фёдорова | call у компании и акционеров |
+| cause of the ending of the tenure | category | put held by Fedorov | call held by the Company and shareholders |
 |---|---|---|---|
-| существенное нарушение фидуциарных обязанностей | Bad Leaver | нет | да, Rp 200 000 000 |
-| преступление во вред компании | Bad Leaver | нет | да, Rp 200 000 000 |
-| существенное нарушение устава или SHA, не устранённое в 30 дней после уведомления | Bad Leaver | нет | да, Rp 200 000 000 |
-| любое иное основание, включая отставку, истечение срока без переизбрания, смерть, утрату дееспособности и отстранение без Cause | Good Leaver | да, по справедливой стоимости | нет |
+| serious breach of fiduciary duty | Bad Leaver | none | yes, Rp 200,000,000 |
+| criminal act to the detriment of the Company | Bad Leaver | none | yes, Rp 200,000,000 |
+| material breach of the Articles or the SHA, uncured within 30 days of notice | Bad Leaver | none | yes, Rp 200,000,000 |
+| any other cause, including resignation, expiry of the term without reappointment, death, incapacity and removal without Cause | Good Leaver | yes, at fair value | none |
 
-Операционный текст на замену Article 4:
+Operative text replacing Article 4:
 
 > 1. Untuk keperluan Pasal ini, "Bad Leaver" berarti berakhirnya jabatan Oleksandr Fedorov sebagai Direktur yang disebabkan oleh salah satu dari tiga hal berikut, dan hanya tiga hal tersebut: (a) pelanggaran berat terhadap tugas fidusia; (b) tindak pidana yang merugikan Perseroan; atau (c) pelanggaran material terhadap Anggaran Dasar atau Perjanjian ini yang tidak diperbaiki dalam 30 hari setelah pemberitahuan tertulis. Setiap sebab berakhirnya jabatan selain ketiga hal tersebut merupakan "Good Leaver", termasuk pengunduran diri, tidak diangkat kembali, berakhirnya masa jabatan, meninggal dunia, dan pemberhentian oleh RUPS tanpa sebab sebagaimana dimaksud dalam huruf (a) sampai (c).
 
@@ -117,101 +115,103 @@ icon: "🤝"
 
 > 6. The put and call options in this Article do not apply to Alisa Voinova or Dmitry Starodubtsev.
 
-Почему это закрывает двойное толкование. Пункт 1 не оставляет неклассифицированных оснований: список Bad Leaver закрыт словами «и только эти три», всё прочее отнесено к Good Leaver прямо. Пункт 4 говорит об отсутствии call утвердительно и добавляет запрет на принудительный выкуп любым иным способом — это снимает попытку прийти к тому же результату через другую конструкцию. Пункт 5 убирает вопрос о статусе оставшегося пакета, отсылая к общим правилам.
+Why this closes the double reading. Paragraph 1 leaves no cause unclassified: the Bad Leaver list is closed by the words "and those three matters only", and everything else is assigned to Good Leaver expressly. Paragraph 4 states the absence of a call affirmatively and adds a prohibition on compulsory acquisition by any other means, which removes the route to the same result through a different construction. Paragraph 5 disposes of the question of what the retained holding is, by pointing at the general rules.
 
-Ликвидность акционеров не страдает: если Фёдоров решит продавать, преимущественное право по SHA Article 1 и уставу Pasal 7 даёт им первую руку по цене третьего лица.
+Liquidity is not impaired: if Fedorov decides to sell, the right of first refusal under SHA Article 1 and Articles Pasal 7 gives the others first call at the third party's price.
 
 ---
 
-## Д4 · Пол по справедливой стоимости
+## D4 · The fair value floor
 
-Проблема. Тезисы ставят нижнюю границу выкупа на уровне вложенного; SHA Article 4(1) даёт чистую справедливую стоимость без пола. Если стоимость окажется ниже вложенного, документы дают разные суммы за одну сделку.
+Problem. The theses set a floor on the buyout at the amount invested; SHA Article 4(1) gives plain fair value with no floor. Where fair value falls below the amount invested, the two documents produce different numbers for the same transaction.
 
-Решение. Пол писался против одного страха — что компанию обесценят перед выходом. Пусть работает против него и только против него.
+Solution. The floor was written against one fear — that the company is stripped of value before the exit. Let it work against that fear and nothing else.
 
-Оценщик назначается по соглашению сторон, а при недостижении в 14 дней — председателем KADIN Бали. Ему ставится задача дать две величины: фактическую справедливую стоимость на дату выхода и стоимость but-for — какой она была бы, если бы не совершались действия, перечисленные в [[ceo-compensation-schedule]] §9.4: занижение стоимости перед выкупом, вывод земли, проектов и активов на связанные компании по нерыночным условиям, создание искусственных обязательств и долга.
+The valuer is appointed by agreement or, failing agreement within 14 days, by the Chairman of KADIN Bali. The valuer is instructed to produce two figures: actual fair value at the date of exit, and the but-for value — what it would have been had the acts listed in [[ceo-compensation-schedule]] §9.4 not occurred: depressing value ahead of a buyout, moving land, projects and assets to related companies on non-arm's-length terms, and creating artificial obligations or debt.
 
-| причина падения стоимости | цена выкупа |
+| cause of the fall in value | buyout price |
 |---|---|
-| рынок, внешние обстоятельства, обычный ход дел | фактическая справедливая стоимость, пола нет |
-| действия из §9.4 | стоимость but-for, и не ниже фактически вложенного |
+| the market, external circumstances, the ordinary course | actual fair value, no floor |
+| acts under §9.4 | but-for value, and no less than the amount actually invested |
 
-Вложенное определяется закрыто: цена подписки, фактически уплаченная за акции, плюс займы, фактически выданные компании. Зарплата, комиссии и бонусы в состав вложенного не входят.
+The amount invested is defined as a closed set: the subscription price actually paid for the shares, plus loans actually made to the Company. Salary, commissions and bonuses fall outside it.
 
-Почему win-win. Акционеры перестают страховать рыночный риск: если земля в Булеленге подешевела, выкупать выше рынка они не обязаны. Фёдоров получает защиту ровно там, где она писалась.
+Why this is win-win. The shareholders stop underwriting market risk: if land in Buleleng falls, they are not obliged to buy above the market. Fedorov keeps protection exactly where it was written.
 
-Отложено. Срок и обеспечение выплаты выкупа — SHA даёт 12 месяцев без обеспечения. Инструмент обсуждается следующим этапом вместе с 9B.7 [[land-rights-agreement]], чтобы не строить две конструкции под одну задачу.
+Deferred. The period and security for payment of the buyout — the SHA gives 12 months with no security. The instrument is settled in the next round together with 9B.7 of [[land-rights-agreement]], so that two constructions are not built for one task.
 
-Варианты: (а) двойная оценка, пол только при действиях из §9.4 · (б) пол всегда · (в) пола нет никогда.
+Options: (a) two valuations, floor only on acts under §9.4 · (b) floor always · (c) no floor ever.
 
-Рекомендую (а).
+Recommending (a).
 
 ---
 
-## вопросы на созвон
+## Agenda for the call
 
-Каждый пункт: вопрос, что я предлагаю, почему. Решения ни по одному не приняты.
+Each item: the question, what I propose, and why. Nothing here is decided.
 
-### 1. Опцион существует или нет
+### 1. Does the option exist at all
 
-Вопрос принципиальный и предшествует размеру: удерживаем CEO долей в капитале или только деньгами.
+The question is one of principle and comes before size: is the CEO held by equity or by money alone.
 
-Предлагаю решить сначала «да или нет», и лишь потом размер и источник. Смешивание двух вопросов и привело к тому, что арифметика поверх непринятой лестницы поехала по трём документам.
+I propose settling "yes or no" first, and only then size and source. Conflating the two is what let arithmetic built on an unapproved ladder travel across three documents.
 
-### 2. Если да — кто устанавливает лестницу
+### 2. If yes — who sets the ladder
 
-Предлагаю вариант (г): размер, сроки, цену и источник устанавливает РУПС отдельным решением, а договор с CEO ссылается на это решение. Тогда лестница не вмораживается в двусторонний договор на десять лет вперёд и меняется тем же органом, который её принял. В договоре остаётся только обязанность компании исполнить принятое решение.
+I propose route (d): size, timing, price and source set by a separate GMS resolution, with the CEO Agreement referring to that resolution. The ladder is then not frozen into a bilateral contract ten years ahead, and is changed by the same organ that adopted it. What stays in the agreement is the Company's obligation to give effect to what was resolved.
 
-### 3. Разрыв в десять лет
+### 3. The ten-year gap
 
-Третий транш лестницы — 10 лет. Срок полномочий директора по уставу Article 11(4) — 5 лет. Опцион, срок которого вдвое длиннее срока полномочий, означает, что человек может исполнять его, давно не работая в компании.
+The third tranche of the ladder runs 10 years. The term of office of a director under Articles Article 11(4) is 5 years. An option twice as long as the term of office means it can be exercised by someone who left the company long ago.
 
-Предлагаю привязать сроки траншей к сроку полномочий, а не к календарю: транши открываются по итогам первого и второго срока. Либо явно записать, что третий транш сгорает при прекращении полномочий.
+I propose tying the tranches to terms of office rather than to the calendar — tranches opening on completion of the first and second terms — or stating expressly that the third tranche lapses when the tenure ends.
 
-### 4. Оценка USD 4 000 000 — на какую дату
+### 4. The USD 4,000,000 valuation — as at what date
 
-Оценка взята из тезисов CEO без указания даты, метода и того, что в неё входит. Компания владеет 37 га земли, внесёнными в капитал по номиналу Rp 20,1 млрд.
+The valuation comes from the CEO theses with no date, no method and no statement of what it covers. The Company owns 37 ha contributed to capital at a nominal Rp 20.1 bn.
 
-Предлагаю зафиксировать оценку через независимого оценщика на дату решения, а не принимать цифру из переговорного документа. Если независимая оценка земли окажется выше, страйк по тезисам CEO окажется скидкой к скидке.
+I propose fixing the valuation through an independent appraiser as at the date of the resolution, rather than adopting a figure from a negotiating document. If an independent appraisal of the land comes out higher, the strike in the theses turns into a discount on top of a discount.
 
-### 5. Д4 — пол по справедливой стоимости
+### 5. D4 — the fair value floor
 
-Предлагаю вариант (а): двойная оценка, пол только при действиях из [[ceo-compensation-schedule]] §9.4. Рынок вы не страхуете, от рукотворного обесценивания он защищён.
+I propose route (a): two valuations, floor only on the acts under [[ceo-compensation-schedule]] §9.4. You do not underwrite the market, and he is protected against value being destroyed deliberately.
 
-### 6. Д3 — подтвердить замену Article 4
+### 6. D3 — confirm the replacement of Article 4
 
-Текст готов, шесть пунктов на двух языках. Нужно подтверждение, что закрытый список Bad Leaver именно из трёх оснований, и что при Good Leaver call снимается полностью.
+The text is ready, six paragraphs in two languages. Confirmation needed that the closed Bad Leaver list is exactly those three grounds, and that the call falls away entirely on a Good Leaver.
 
-### 7. Комиссии CEO
+### 7. CEO commissions
 
-В [[ceo-compensation-schedule]] §14 пятнадцать открытых пунктов по комиссиям: база расчёта, момент возникновения права, рассрочка, выживание после ухода. Это отдельный разговор, не на этот созвон.
+[[ceo-compensation-schedule]] §14 carries fifteen open items on commissions: calculation base, when the right arises, instalments, survival after departure. That is a separate conversation, not this call.
 
-Предлагаю отдельную встречу и до неё — определить словарь расчёта в [[revenue-model]] §5, потому что от него зависят все проценты сразу.
+I propose a separate meeting, and before it, settling the calculation vocabulary in [[revenue-model]] §5, since every percentage depends on it at once.
 
-### 8. Sinwood и Cofe
+### 8. Sinwood and Cofe
 
-В [[revenue-model]] это участки первой фазы с комиссией 10%, и больше о них ничего нет. К какому титулу из реестра они относятся, какая площадь, есть ли PKKPR — неизвестно.
+In [[revenue-model]] these are first-phase plots carrying a 10% commission, and nothing else is recorded about them. Which title in the register they sit on, what area, whether a PKKPR exists — unknown.
 
-Предлагаю привязать их к строкам Annex A [[land-rights-agreement]] до того, как под них подписывается комиссия.
+I propose tying them to rows of Annex A in [[land-rights-agreement]] before a commission is signed against them.
 
-### 9. Документы о внесении земли в капитал
+### 9. Documents for the contribution of land to capital
 
-37 га внесены в уставный капитал. Оценка независимого оценщика при внесении и акты передачи титулов компании нужны в пакете due diligence Annex I по 9B.2.
+37 ha were contributed to the authorised capital. The independent appraisal made at the time of contribution and the deeds transferring title to the Company belong in the Annex I due diligence pack under 9B.2.
 
-Предлагаю проверить, что они есть, до первой продажи участка.
+I propose confirming they exist before the first plot is sold.
 
-### 10. Отложено сознательно
+### 10. Deferred deliberately
 
-Курс IDR/USD для выражения скидки и инструмент обеспечения выплат. Второй имеет смысл решать вместе с 9B.7 [[land-rights-agreement]], чтобы не строить две конструкции под одну задачу.
+The IDR/USD rate for expressing the discount, and the instrument securing payments. The second is worth settling together with 9B.7 of [[land-rights-agreement]], so that two constructions are not built for one task.
 
-## что меняется в документах
+---
 
-| решение | документ | правка |
+## What changes in the documents
+
+| decision | document | change |
 |---|---|---|
-| Д1 | [[shareholders-agreement]] преамбула | продажа по номиналу названа намеренной скидкой к оценке USD 4 000 000 за принятие должности |
-| Д2 | — | открыто: правки зависят от выбранного варианта, до решения не вносятся |
-| Д2 | [[preemption-waiver-letter]] | шаблон готов, число акций не проставлено; подписывается после утверждения лестницы |
-| Д3 | [[shareholders-agreement]] Article 4 | заменяется целиком текстом из Д3 |
-| Д3 | [[ceo-agreement-terms]] §15 | снимается предупреждение о конфликте с call |
-| Д4 | [[shareholders-agreement]] Article 4A | двойная оценка и but-for |
-| Д4 | [[ceo-compensation-schedule]] §12 | определение вложенного, таблица расчёта |
+| D1 | [[shareholders-agreement]] preamble | the sale at nominal value is named as a deliberate discount to the USD 4,000,000 valuation, for accepting the office |
+| D2 | — | open: the edits depend on the route chosen and are not made until it is |
+| D2 | [[preemption-waiver-letter]] | template ready, share count blank; signed once the ladder is approved |
+| D3 | [[shareholders-agreement]] Article 4 | replaced in full by the text in D3 |
+| D3 | [[ceo-agreement-terms]] §15 | the warning about the conflict with the call is removed |
+| D4 | [[shareholders-agreement]] Article 4A | two valuations and the but-for basis |
+| D4 | [[ceo-compensation-schedule]] §12 | definition of the amount invested, and the price table |

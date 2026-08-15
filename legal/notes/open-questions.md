@@ -1,6 +1,6 @@
 ---
 tags: cyber valley, cyberia, legal, audit
-alias: open questions, release gate, открытые вопросы
+alias: open questions, release gate
 crystal-type: pattern
 crystal-domain: cyberia
 icon: "🚧"
