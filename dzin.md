@@ -19,6 +19,8 @@ The corporate pack of PT. Cyber Valley Estate: the constituent documents and the
 
 [[revenue-model]]: revenue sources of the holding, the distribution waterfall ahead of dividends, and the calculation vocabulary that every percentage in the pack is computed on.
 
+[[ceo-terms-decisions]]: the open points between the CEO terms and the Shareholders' Agreement, drafted as four decisions with variants and a recommendation — the entry discount against the option strike, the missing source for the option shares, the call option against the right to remain, and the fair-value floor. For agreement between the three shareholders before the notary.
+
 Corporate authority for the land instruments runs through the Articles — see [[land-rights-agreement]] and [[annex-c-design-code]].
 
 ## Standing of the texts

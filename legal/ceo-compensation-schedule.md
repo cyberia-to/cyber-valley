@@ -146,7 +146,9 @@ Consolidated from both source documents; numbering is this schedule's own.
 
 ## 15. Conflicts surfaced by consolidation
 
-Bringing the figures into one place exposes three points where the documents disagree. Each needs a decision before anything is signed.
+Bringing the figures into one place exposes three points where the documents disagree, and one blocking omission. Proposed resolutions with variants and a recommendation are in [[ceo-terms-decisions]] — Д1 to Д4, drafted for agreement between the three shareholders.
+
+Blocking omission — no source for the option shares. [[articles-of-association]] Article 4(2) records the whole authorised capital as issued and paid: 8,040 shares of 8,040. There are no shares in reserve. The 20% ladder is 1,608 shares that have nowhere to come from unless existing shareholders transfer them or the authorised capital is increased. Until that is settled the option is a declaration rather than a right. See [[ceo-terms-decisions]] Д2.
 
 Entry price against option strike. The CEO acquires the first 1% at par — Rp 200,000,000, roughly USD 12,000 at current rates — while the option ladder prices every further 1% at USD 40,000 on a USD 4,000,000 valuation. Entry is therefore at a discount of about a third of the option strike. If that discount is intended, say so in the agreement; if the intent was one valuation throughout, the entry price and the ladder are inconsistent.
 
