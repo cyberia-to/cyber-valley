@@ -1,8 +1,9 @@
 ---
 tags: cyber valley, cyberia, legal, cybernomics, draft, dzin
 alias: ceo compensation schedule, compensation schedule, ceo economics
-crystal-type: pattern
-crystal-domain: cyberia
+crystal-type: entity
+crystal-domain: socio
+crystal-size: deep
 icon: "🧾"
 ---
 # CEO Compensation Schedule
@@ -29,7 +30,7 @@ Where this schedule and any of the above state the same figure differently, this
 
 | component | amount | trigger | section |
 |---|---|---|---|
-| fixed salary | [amount] | monthly, subject to the condition in §2 | §2 |
+| fixed salary | set by the GMS resolution appointing the Director | monthly | §2 |
 | land commission, first phase | 10% | cash actually received | §3.1 |
 | land commission, remaining plots | 5% | cash actually received | §3.2 |
 | transaction management fee | 2–3% | deal run by the CEO, buyer introduced by another | §3.3 |
@@ -44,7 +45,7 @@ Where this schedule and any of the above state the same figure differently, this
 
 ## 2. Fixed salary
 
-A fixed monthly salary of [amount], payable subject to the condition that ______ (blank in the source; to be settled). Salary is independent of the commissions in §§3–5 and stands alongside them.
+The CEO receives a fixed monthly salary. Its amount and the date payment starts are set by the resolution of the General Meeting appointing the Director, under [[articles-of-association]] Article 11(4), and are recorded in the CEO Agreement by reference to that resolution. Salary is independent of the commissions in §§3–5 and stands alongside them.
 
 ## 3. Land commissions
 
@@ -70,7 +71,7 @@ Base: the revenue share or community fee actually received by the holding from t
 
 ## 5. Investment raising
 
-5% of the amount actually raised and received by the company, on a full origination and closing of the investment transaction. Whether the same rate applies to grants is open — see §14 item 11.
+5% of the amount actually raised and received by the company, on a full origination and closing of the investment transaction. Whether the same rate applies to grants is open — see §14 item 8.
 
 ## 6. KPI bonuses
 
@@ -136,7 +137,7 @@ On a sale of the company, a controlling stake, a significant part of the land as
 
 Consolidated from both source documents; numbering is this schedule's own.
 
-1. The amount of the fixed salary and the condition governing when its payment starts or changes — the blank in §2.
+1. The amount of the fixed salary and the date its payment starts, to be carried by the appointing resolution under §2.
 2. Confirmation of the land commission set: 10% first phase Sinwood / Cofe, 5% remaining plots, 2–3% for running a deal introduced by another.
 3. Confirmation that land commissions are calculated from cash actually received.
 4. How the commission is spread under an instalment sale: pro rata to each payment received, or otherwise.

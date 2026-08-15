@@ -2,7 +2,8 @@
 tags: cyber valley, cyberia, legal, dzin
 alias: articles of association, anggaran dasar, cve articles, company charter
 crystal-type: entity
-crystal-domain: cyberia
+crystal-domain: socio
+crystal-size: deep
 icon: "📜"
 ---
 # Articles of Association — PT. Cyber Valley Estate

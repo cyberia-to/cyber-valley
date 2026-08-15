@@ -2,7 +2,8 @@
 tags: cyber valley, cyberia, legal, dzin
 alias: dzin, dzin pack, cve corporate pack
 crystal-type: entity
-crystal-domain: cyberia
+crystal-domain: socio
+crystal-size: article
 icon: "🗂"
 ---
 # dzin

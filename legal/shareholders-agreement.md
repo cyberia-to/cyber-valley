@@ -2,7 +2,8 @@
 tags: cyber valley, cyberia, legal, dzin
 alias: shareholders agreement, perjanjian pemegang saham, sha, cve sha
 crystal-type: entity
-crystal-domain: cyberia
+crystal-domain: socio
+crystal-size: article
 icon: "🤝"
 ---
 # Shareholders' Agreement — PT. Cyber Valley Estate

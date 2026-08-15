@@ -1,8 +1,9 @@
 ---
 tags: cyber valley, cyberia, legal, audit
 alias: open questions, release gate
-crystal-type: pattern
-crystal-domain: cyberia
+crystal-type: entity
+crystal-domain: socio
+crystal-size: article
 icon: "🚧"
 ---
 # Open drafting questions — release gate

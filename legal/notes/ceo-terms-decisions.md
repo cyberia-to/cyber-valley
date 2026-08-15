@@ -1,8 +1,9 @@
 ---
 tags: cyber valley, cyberia, legal, strategy, dzin
 alias: ceo terms decisions, ceo decision sheet, ceo open points
-crystal-type: pattern
-crystal-domain: cyberia
+crystal-type: entity
+crystal-domain: socio
+crystal-size: deep
 icon: "🤝"
 ---
 # CEO terms — decisions for agreement
@@ -68,7 +69,7 @@ Route (d). The ladder is set by the General Meeting. Size, timing, source and pr
 
 True under every route: the ladder is fixed in shares rather than percentages. "5% within 2 years" does not say 5% of what, measured when. Under a sale that is 402 shares out of 8,040; under an issue the same 402 shares give a smaller percentage because the denominator has grown. One text, two answers, and the argument arrives at the moment of exercise. The number of shares is filled in from whichever resolution approves the ladder.
 
-Pre-emption. Arises only under routes (b) and (c), and only once the size is set. On an issue, Articles Article 4(3) gives the existing shareholders the right to subscribe within 14 days in proportion to their holdings; on a sale, Pasal 7(3)–(4) obliges the seller to offer the shares to the other shareholder first. In both cases, absent an advance waiver, the tranche being issued or sold can be taken up by them and the option becomes undeliverable while the Articles are fully observed. Closed by a separate letter annexed to the deed — the template is [[preemption-waiver-letter]], with the share count left blank. The construction is kept out of the body of the Articles.
+Pre-emption. Arises only under routes (b) and (c), and only once the size is set. On an issue, Articles Article 4(3) gives the existing shareholders the right to subscribe within 14 days in proportion to their holdings; on a sale, Pasal 7(3)–(4) obliges the seller to offer the shares to the other shareholder first. In both cases, absent an advance waiver, the tranche being issued or sold can be taken up by them and the option becomes undeliverable while the Articles are fully observed. Closed by a separate letter annexed to the deed — [[preemption-waiver-letter]], scoped by purpose so that it covers whatever number the approving resolution sets. The construction is kept out of the body of the Articles.
 
 ⚠ Separately, outside this sheet: the capital was contributed as land (37 ha). The contribution documents — the independent appraisal and the deeds transferring title to the Company — belong in the Annex I due diligence pack under 9B.2 of [[land-rights-agreement]].
 

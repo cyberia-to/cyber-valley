@@ -1,13 +1,14 @@
 ---
 tags: cyber valley, cyberia, legal, draft, dzin
 alias: ceo agreement terms, ceo contract theses, ceo terms
-crystal-type: pattern
-crystal-domain: cyberia
+crystal-type: entity
+crystal-domain: socio
+crystal-size: deep
 icon: "🧭"
 ---
 # CEO Agreement — Terms and Theses
 
-> Status. Negotiating position for the CEO contract, written to be handed to counsel. Nothing here is executed. Blanks in the source (`______`) and the author's inline queries are preserved as they stand.
+> Status. Negotiating position for the CEO contract, written to be handed to counsel. Nothing here is executed.
 
 Part of the [[dzin]] corporate pack. This page owns the role, the authority and the procedure; every figure of remuneration sits in [[ceo-compensation-schedule]], the annex to this agreement. Reads together with [[shareholders-agreement]] (the equity the same person holds as a Shareholder) and [[articles-of-association]] (the authority the same person holds as Director).
 
@@ -19,7 +20,7 @@ The CEO's results and KPI are to be assessed against the resources the company a
 
 ## 2. CEO remuneration
 
-Every figure — salary, land commissions, sub-project referral and administration fees, the investment fee, KPI bonuses, dividends and expense reimbursement — lives in [[ceo-compensation-schedule]], which is the annex to this agreement. The source document carried an inline query against the KPI bonus line (Dima?), preserved there.
+Every figure — salary, land commissions, sub-project referral and administration fees, the investment fee, KPI bonuses, dividends and expense reimbursement — lives in [[ceo-compensation-schedule]], which is the annex to this agreement.
 
 The Schedule defines, for each type of remuneration: the calculation base, the moment the right arises, the payment procedure under instalment sales, referral attribution, and the survival of already-earned commissions after the CEO's term of office ends.
 
