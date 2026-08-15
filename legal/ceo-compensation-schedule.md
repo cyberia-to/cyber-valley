@@ -96,16 +96,18 @@ Paid on the shares held by the CEO, pro rata, when declared. Distribution occurs
 | 5% | 5 years | same |
 | 10% | 10 years | same |
 
-9.3 Source of the option shares. The whole authorised capital is issued and paid in kind, so the Company holds no shares in treasury. The option is satisfied by sale from Alisa Voinova's own holding of 3,940 shares:
+9.3 Source of the option shares. Open — see [[ceo-terms-decisions]] Д2. The whole authorised capital is issued and paid in kind, so the Company holds no shares in treasury, and Alisa Voinova sells 80 shares only. The ladder therefore has no source until one is chosen: no option at all, an issue of new shares, or a sale by the other shareholder. The recommendation is an issue, under which the strike is paid into the Company rather than to a selling shareholder.
+
+The ladder is fixed in shares rather than percentages, because the same percentage yields different numbers under a sale and under an issue:
 
 | tranche | shares | strike | exercisable within |
 |---|---|---|---|
-| 5% | 402 | USD 200,000 | 2 years |
-| 5% | 402 | USD 200,000 | 5 years |
-| 10% | 804 | USD 400,000 | 10 years |
+| first | 402 | USD 200,000 | 2 years |
+| second | 402 | USD 200,000 | 5 years |
+| third | 804 | USD 400,000 | 10 years |
 | total | 1,608 | USD 800,000 | |
 
-No capital increase, no amendment of the Articles and no GMS approval are required — the transferee is already a shareholder, so [[articles-of-association]] Pasal 7(8) does not apply. Delivery is within 30 days of notice of exercise and payment of the strike, by notarial share sale deed. The pre-emption right of the other shareholder under Pasal 7(3)–(4) and Article 1 of the [[shareholders-agreement]] is waived in advance for these 1,608 shares — see [[ceo-terms-decisions]] Д2, which also sets out the resulting shareholdings.
+Under an issue the pre-emptive right of both existing shareholders under [[articles-of-association]] Article 4(3) would absorb the tranche; it is disapplied by [[preemption-waiver-letter]], a side letter annexed to the deed of amendment and kept out of the Articles themselves.
 
 9.3.1 Legal form. Option rights are to be secured as exercisable rights of the CEO, defining: the exercise period, survival on the end of the CEO's term of office, anti-dilution protection, and the mechanism on a Change of Control.
 
@@ -162,7 +164,7 @@ Consolidation exposed three disagreements between the documents and one omission
 | point | where | status |
 |---|---|---|
 | entry at par against the option strike | Д1 | settled — the sale is at a deliberate discount, stated in the SHA preamble |
-| source of the option shares | Д2 | settled — sold from Voinova's holding; one waiver of pre-emption required |
+| source of the option shares | Д2 | open — Voinova sells 80 shares only; issue recommended, variants on the table |
 | call option against the right to remain | Д3 | drafted — Article 4 of the SHA replaced in full |
 | fair value floor | Д4 | recommendation given, awaiting agreement |
 
