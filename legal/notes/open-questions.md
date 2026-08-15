@@ -24,8 +24,7 @@ Moved out of the framework at v0.4.2.
 - [ ] Set the minimum remaining term under §2.1 below which a Plot is not offered under Part A at all
 - [ ] Settle any already-known area shortfall before locking pure per aversionem under §2.7; then fix ad corpus going forward in the same addendum
 - [ ] Choose full bilateral waiver of Arts. 1588–1592 vs asymmetric floor (e.g. no claim above [850] m²; pro-rata reduction below)
-- [ ] Verify the article numbering of Arts. 1588–1592 KUHPerdata and their dispositive character — §2.7 rests on this alone
-- [ ] Verify the article numbering of Arts. 1588–1592 KUHPerdata against JDIH before §2.7 is relied on
+- [ ] Verify the article numbering of Arts. 1588–1592 KUHPerdata and their dispositive character against JDIH before §2.7 is relied on — §2.7 rests on this alone
 - [ ] Run boundary description and *Berita Acara Persetujuan Batas* plan with adjoining owners before relying on §2.7
 
 ## Upgrade tracks
