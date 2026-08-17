@@ -121,30 +121,39 @@ KPI = **real distribution of founder equity** at **real prices**, until founders
 
 Exact split of Package 1 vs 2 is a living capitalisation plan; the **invariant** is founders → **~10%** with valuation discipline below.
 
-### Exponential ladder (approximate · not linear)
+### Exponential ladder → **$1B** (cash = **this step**, not cumulative)
 
-Linear ($1M valuation step per 10% sold) underpays early risk and over-constrains late stages. Ladder below is **steeper later** — cheap early proof, expensive late majority.
+Each step after the seed is roughly **+10 pp** of DS+AV sold (not “90% in one go”).
 
-| cumulative DS+AV sold | min company valuation (USD) | cash if sold at that val (sold × val) |
-|---|---:|---:|
-| **1%** | **4,000,000** | 40,000 |
-| **10%** | **8,000,000** | 800,000 |
-| **20%** | **15,000,000** | 3,000,000 |
-| **30%** | **28,000,000** | 8,400,000 |
-| **40%** | **50,000,000** | 20,000,000 |
-| **50%** | **90,000,000** | 45,000,000 |
-| **60%** | **160,000,000** | 96,000,000 |
-| **70%** | **280,000,000** | 196,000,000 |
-| **80%** | **480,000,000** | 384,000,000 |
-| **90%** | **800,000,000** | 720,000,000 |
+| | meaning |
+|---|---|
+| **sold (cum.)** | cumulative DS+AV founder equity sold so far |
+| **valuation** | min **company** valuation on deals that clear this step |
+| **cash (step)** | cash for **this step only** ≈ **size of step × valuation** · for 10% steps → **10% × val** · for the 1% seed → **1% × val** |
+
+Wrong (old): cash = cumulative% × val (as if the whole stack sold at once).  
+Right: at the 50% row you sell the **next ~10%** at $80M → cash **$8M**, not $45M.
+
+| sold (cum.) | step size | min valuation (USD) | **cash this step** (USD) |
+|---:|---:|---:|---:|
+| **1%** | 1% | **4,000,000** | **40,000** |
+| **10%** | ~9–10% | **6,000,000** | **600,000** |
+| **20%** | 10% | **10,000,000** | **1,000,000** |
+| **30%** | 10% | **18,000,000** | **1,800,000** |
+| **40%** | 10% | **30,000,000** | **3,000,000** |
+| **50%** | 10% | **50,000,000** | **5,000,000** |
+| **60%** | 10% | **100,000,000** | **10,000,000** |
+| **70%** | 10% | **200,000,000** | **20,000,000** |
+| **80%** | 10% | **400,000,000** | **40,000,000** |
+| **90%** | 10% | **1,000,000,000** | **100,000,000** |
 
 **How to read.**  
-- Row = “at least this much founder equity has been sold, and the **last qualifying deals** cleared at **not below** this company valuation.”  
-- Intermediate points: interpolate in log-space between rows (exponential between steps).  
-- Miss on valuation → that tranche does **not** count until a deal clears the floor (or founders waive in writing).  
-- **Gross-up** for CEO cut: KPI valuation floor × **1.10** on the deal sheet (§7 cut rule).
-
-**Shape (vs old linear).** Early 1–20% stays near the $4–15M band (build proof). Mid 30–50% steps hard. Late 60–90% is city-scale capitalisation — not “+10M per 10%”.
+- Early (1–30%): soft — proof of model, not a unicorn ask.  
+- Mid (40–60%): real capitalisation.  
+- Late (70–90%): city-scale → **$1B** at full founder decentralisation (~10% left with founders).  
+- Intermediate closes: log-interpolate valuation between rows.  
+- Miss the floor → step does not count (or founders waive in writing).  
+- **Gross-up** for CEO cut: KPI valuation on the deal sheet ≥ **floor × 1.10** (§7: CEO takes 10% of **shares sold in that deal**).
 
 ---
 
