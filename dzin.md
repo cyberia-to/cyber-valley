@@ -14,7 +14,6 @@ Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on exec
 
 **One document:** [[cve/ceo]] — offer, agreement, options, KPI ladder.
 
-Old paths [[ceo agreement terms]], [[ceo compensation schedule]], [[ceo terms decisions]] are stubs only.
 
 ## Company constitution
 
