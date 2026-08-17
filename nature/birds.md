@@ -1,21 +1,25 @@
 ---
 icon: 🐦
 alias: bird, birds research
-tags: cyb.land
+tags: cyber valley, nature, birds
 crystal-type: entity
 crystal-domain: biology
 ---
+# birds
+
+Birds of Cyber Valley (Gesing / Sanghyang). Species pages restored from the pre-split cyber graph (moved out **2026-02-13** to `~/git/cloud-forest`, commit `0644730b`).
+
 [birds observation by urban biologist 2024](https://ipfs.io/ipfs/QmUQWE2PB5bDkCCRJ6imBbsdMCRWD6p1nyya9yxvBhUAWA)
 
-handy
+## handy
 
-- [[pycnotus aurigaster]]: [[ptich]]
+- [[pycnotus aurigaster]] — [[ptich]]
 
-domesticated
+## domesticated
 
 - [[gallus gallus domesticus]]: 5
 
-wild
+## wild
 
 - [[nisaetus cirrhatus]]: 1
 - [[gallus gallus]]: 3
@@ -67,3 +71,7 @@ wild
 - [[surniculus lugubris]]: 1
 - [[brachypteryx leucophris]]: 1
 - [[zosterops japonicus]]: 1
+
+## species pages
+
+Full descriptions, images (IPFS), and voice links live under [[nature/birds/]] as one page per scientific name.
