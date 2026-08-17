@@ -52,7 +52,22 @@ This Agreement is made on 14 August 2026 by and between: (1) ALISA VOINOVA, Pres
 3. If Fedorov's tenure ends through removal for cause — comprising serious breach of fiduciary duty, a criminal act to the Company's detriment, or a material breach of the Articles of Association or this Agreement not cured within 30 days of notice (a "Bad Leaver") — the put and call options over his shares are exercised at his acquisition cost (Rp 200,000,000.00), not fair market value.
 4. The put and call options referred to in this Article do not apply to Alisa Voinova or Dmitry Starodubtsev, unless later agreed in writing by the Shareholders.
 
-## Article 5 — Miscellaneous
+## Article 5 — Distribution of cash and profit
+
+Cash received by the Company is applied in the following order before any amount becomes available to Shareholders:
+
+1. taxes and mandatory payments;
+2. direct costs of the relevant transaction or project;
+3. the approved operating budget (including the operational account under [[cve/ceo]]);
+4. development and infrastructure reserve;
+5. the Company's minimum cash reserve (amount set by GMS);
+6. **distributable cash** — dividends or other distributions to Shareholders.
+
+The split of distributable cash between **dividends** and **retained project treasury** is decided by the GMS under [[articles of association]] Articles 18–19. Working proposal (not binding until GMS resolves): **50/50**.
+
+This Article does not set CEO compensation — that is [[cve/ceo]] only.
+
+## Article 6 — Miscellaneous
 
 1. This Agreement takes effect once signed by all Shareholders and continues to bind every transferee of shares who has acceded to it under Article 5(2) of the Articles of Association.
 2. Amendments to this Agreement are valid only if made in writing and signed by all Shareholders.

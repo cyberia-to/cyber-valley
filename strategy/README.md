@@ -220,6 +220,21 @@ The business model — five permanent revenue streams after Phase 2:
 
 The structural goal: by end of Phase 2, recurring streams cover 100% of estate opex, making land sales pure capital events rather than survival necessities. That is the definition of a bootstrapped city.
 
+### 8.1 Revenue map (what the estate actually sells)
+
+| source | what it is | where in this strategy |
+|---|---|---|
+| **Land rights** | sale of plots / [[hak sewa]] (upfront or instalments), [[leasehold upfront]], [[annual leasehold]], [[hak pakai]], [[hak milik]] | §6 instruments, §7 waves |
+| **Visit economy** | trails, short stays, events, temporary use | §3 rungs 1–3 |
+| **Infra & utilities** | water, power, connectivity, waste, parking slots — tariff margin retained | §6 Z4, §8 stream 1 |
+| **Participation / revenue share** | on-site operators (spa, F&B, farms, glamping, villas) pay share of activity | §8 streams 2–3; Z2 JV |
+| **Company-run ops** | businesses PT PMA or subs run itself | residual operating profit |
+| **Later layers** | grants (earmarked, not distributable), carbon/biodiversity, franchise/playbook, tokens | §7 Phase 3+, §10–11 |
+
+Instalment land sales: down payment, term, default and reversion live in the deal model per instrument — not restated here.
+
+**How cash is split among shareholders after the city is funded** is **not** strategy — it is shareholder law: see [[shareholders agreement]] (cash waterfall). Strategy owns **what earns**; SHA owns **who gets residual cash**.
+
 ---
 
 ## 9. Spending Strategy
