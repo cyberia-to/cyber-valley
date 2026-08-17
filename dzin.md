@@ -10,18 +10,26 @@ icon: "🗂"
 
 Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on executed deeds (Law No. 24/2009).
 
-## CEO
+## Closing order — CEO entry
 
-**One document:** [[cve/ceo]] — offer, agreement, options, KPI ladder.
+**One condition package** (same day):
 
+| # | document | what |
+|---|---|---|
+| 1 | [[gms director appointment]] | GMS appoints Director — **effective only at Closing** |
+| 2 | [[share sale entry]] | founder sells **1% (80 shares) at par** to Director — **only at Closing** |
+| 3 | [[cve/ceo]] | how CEO runs ops + options + KPI ladder after entry |
+| 4 | [[shareholders agreement]] | ROFR, tag-along, consent list, leaver put/call among shareholders |
+
+**Rule:** buy 1% ↔ become Director. No buy → no appointment. No appointment → no sale.
 
 ## Company constitution
 
 | page | what |
 |---|---|
-| [[articles of association]] | Anggaran Dasar — capital, pre-emption, GMS, director authority |
-| [[shareholders agreement]] | admission, ROFR, tag-along, leaver among shareholders |
-| [[preemption waiver letter]] | side letter if still needed for a specific transfer |
+| [[articles of association]] | Anggaran Dasar — capital, pre-emption, GMS powers, director authority |
+| [[shareholders agreement]] | ongoing rules between shareholders after admission |
+| [[preemption waiver letter]] | if a specific transfer still needs waiver |
 | [[revenue model]] | holding revenue vocabulary (ops reporting) |
 
 ## Land
