@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/redjun](https://ebird.org/species/redjun)
 
 ![image](https://ipfs.io/ipfs/QmNvWinDUhj7gyg9uQuhk6QDaFmWWxjqFwUHpawsG7GoCu)
+
 ## general description
 
 the red junglefowl is a medium-sized bird with strikingly colorful plumage, especially in males.

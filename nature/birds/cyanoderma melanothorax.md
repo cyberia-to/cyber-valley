@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/crcbab1](https://ebird.org/species/crcbab1)
 
 ![image](https://ipfs.io/ipfs/QmP1Lou3jwJBLY6eymQnB2LH1h1TmtvdGWBjdHL5hdpcAc)
+
 ## general description
 
 the javan babbler is a small, stocky bird with a distinctive appearance.

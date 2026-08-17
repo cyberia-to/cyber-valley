@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/nutman](https://ebird.org/species/nutman)
 
 ![image](https://ipfs.io/ipfs/QmR1nSrtX1usSmFZUDrWhiQnrL4tisySaMa7qNRfp9gwci)
+
 ## general description
 
 the scaly-breasted munia is a small, sparrow-sized bird with a distinctive scaly pattern on its breast and belly.

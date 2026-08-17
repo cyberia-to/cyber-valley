@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/flfbar1](https://ebird.org/species/flfbar1)
 
 ![image](https://ipfs.io/ipfs/Qman31a9XZ3i56arQgo6a9EfM6Sxo6PHz7Vbtn5Uyo963G)
+
 ## general description
 
 the flame-fronted barbet is a small to medium-sized bird with vivid and striking plumage.

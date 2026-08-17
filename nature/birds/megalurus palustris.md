@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/strgra1](https://ebird.org/species/strgra1)
 
 ![image](https://ipfs.io/ipfs/QmRKNoVRQhqAS1fmxsPBwmhqZ2ZHY2NYUWE1x2s2c7Xhp3)
+
 ## general description
 
 the striate prinia is a small, brownish bird with streaked plumage.

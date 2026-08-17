@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/blbqua1](https://ebird.org/species/blbqua1)
 
 ![image](https://ipfs.io/ipfs/QmQfHCp2xYaCKJRPhxJyba5Z7aCZvc2fooo1yPfmCYqgFh)
+
 ## general description
 
 the blue-breasted quail is a small, plump bird with a rounded body and short tail.

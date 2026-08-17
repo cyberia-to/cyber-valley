@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/placuc1](https://ebird.org/species/placuc1)
 
 ![image](https://ipfs.io/ipfs/QmeRUuRaH19eWViBMLdAZBJKUhoh3bnbizx52kCJfupRKQ)
+
 ## general description
 
 the plaintive cuckoo is a small to medium-sized bird with a slender body and long tail.

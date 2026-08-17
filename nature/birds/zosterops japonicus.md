@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/warwhe1](https://ebird.org/species/warwhe1)
 
 ![image](https://ipfs.io/ipfs/QmRGcVLWuW52RjQijKU53d18Y2SN5GnCooff2mXRFSa7rD)
+
 ## general description
 
 the japanese white-eye is a small, delicate bird with bright, attractive plumage.

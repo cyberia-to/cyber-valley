@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/javkin1](https://ebird.org/species/javkin1)
 
 ![image](https://ipfs.io/ipfs/QmUNqGWst2dkMiaNgQ3tmRidHS2X83G51kZ2cWz3MUbA2L)
+
 ## general description
 
 the javan kingfisher is a medium-sized bird with striking and vibrant plumage.

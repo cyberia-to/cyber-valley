@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/litbar1](https://ebird.org/species/litbar1)
 
 ![image](https://ipfs.io/ipfs/QmfFRUb4pNZVz2uhMA14ktiuzyC2xok5sQqYiK42sAMYHY)
+
 ## general description
 
 the yellow-eared barbet is a medium-sized bird with predominantly green plumage.

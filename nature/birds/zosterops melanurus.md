@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/sanwhe2](https://ebird.org/species/sanwhe2)
 
 ![image](https://ipfs.io/ipfs/QmaqQdvmBcfJt51WT122PUUbvTcr6QKUwPj2RZbfwTxSFL)
+
 ## general description
 
 the cape white-eye is a small, olive-green bird with a distinctive white eye-ring, giving it its name.

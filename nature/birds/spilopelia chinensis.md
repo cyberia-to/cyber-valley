@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/spodov](https://ebird.org/species/spodov)
 
 ![image](https://ipfs.io/ipfs/QmRCcVvcz5h4HEVNEZcyuU5touzWdBFjp91pes4ovshstU)
+
 ## general description
 
 the spotted dove is a medium-sized bird with a distinctive spotted pattern on its neck, which consists of white spots on a black background.

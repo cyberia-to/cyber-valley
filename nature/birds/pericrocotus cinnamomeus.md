@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/smamin1](https://ebird.org/species/smamin1)
 
 ![image](https://ipfs.io/ipfs/Qmc4xgT4ohpL83SEiBCMomfdBvPdxp2rnFCpTPf8aEaRo7)
+
 ## general description
 
 the small minivet is a brightly colored, small bird with striking sexual dimorphism.

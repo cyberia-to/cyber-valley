@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/copbar1](https://ebird.org/species/copbar1)
 
 ![image](https://ipfs.io/ipfs/QmUgESVRGh1t2HgJGeSQ2jejT1mTS4bGKdn845TxzGhLXu)
+
 ## general description
 
 the coppersmith barbet is a small to medium-sized bird with vibrant and colorful plumage.

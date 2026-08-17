@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/lotshr1](https://ebird.org/species/lotshr1)
 
 ![image](https://ipfs.io/ipfs/QmZCBmkcqCJNw13cTVUS9xmjZwMQKLiSDPxBSDKBfT9JJY)
+
 ## general description
 
 **appearance:** the long-tailed shrike has a distinctive long tail and a strong, hooked beak. its plumage generally features a black mask across the eyes, rufous (reddish-brown) back and sides, and white or grey underparts. the wings are usually black with a white patch visible during flight.

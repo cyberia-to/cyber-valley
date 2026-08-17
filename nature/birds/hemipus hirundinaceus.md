@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/bwfshr2](https://ebird.org/species/bwfshr2)
 
 ![image](https://ipfs.io/ipfs/QmatC2T2pUBLmH5Nh2Au2Xn6AFzNqyn8ZQ3iK548YRxMNu)
+
 ## general description
 
 the bar-winged flycatcher-shrike is a small bird with a slender build and a distinctive plumage.

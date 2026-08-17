@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/olbtai1](https://ebird.org/species/olbtai1)
 
 ![image](https://ipfs.io/ipfs/QmRg44BKp95vy9tMPJUTQk3yR1bDwrDMoF9RkQM5yyWkJj)
+
 ## general description
 
 the javan tailorbird is a small, slender bird with a distinctive, pointed bill.

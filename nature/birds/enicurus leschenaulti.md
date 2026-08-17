@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/whcfor1](https://ebird.org/species/whcfor1)
 
 ![image](https://ipfs.io/ipfs/Qmbuw6Yob8XZ2vd99J5WPKRqn9gaM5ZND9G4uoDNktv6qA)
+
 ## general description
 
 the white-crowned forktail is a medium-sized bird with striking black and white plumage.

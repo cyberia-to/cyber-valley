@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/linbar1](https://ebird.org/species/linbar1)
 
 ![image](https://ipfs.io/ipfs/QmSu1gcVb8cJWrsF1cGYTXfcdZaKNVsH3oyM8cBiavMZMU)
+
 ## general description
 
 the lineated barbet is a medium-sized bird with a robust body and a large head.

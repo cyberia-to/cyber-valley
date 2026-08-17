@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://ebird.org/species/piebus1](https://ebird.org/species/piebus1)
 
 ![image](https://ipfs.io/ipfs/QmRQexh5KoughDAsVsFxAPhsps87mrav1ob7xopUVxPAoE)
+
 ## general description
 
 the pied bush chat is a small, compact bird with striking sexual dimorphism.

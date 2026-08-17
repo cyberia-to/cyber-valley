@@ -11,6 +11,7 @@ crystal-domain: biology
 **voice:** [https://avibase.bsc-eoc.org/species.jsp?avibaseid=8C91ADCBD3FA353B](https://avibase.bsc-eoc.org/species.jsp?avibaseid=8C91ADCBD3FA353B)
 
 ![image](https://ipfs.io/ipfs/QmZMX8PQCeSJR74DUagjbvhFZA45abZKQZpd19pQia82Wk)
+
 ## general description
 
 the javan bush warbler is a small, nondescript bird with brownish upperparts and paler underparts.
