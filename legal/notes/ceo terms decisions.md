@@ -8,7 +8,4 @@ icon: "🤝"
 ---
 # CEO terms — decisions
 
-> **Superseded.** Remaining decisions only: [[cve/ceo/open]].  
-> Full thin pack: [[cve/ceo]].
-
-Old multi-route decision sheet retired for commercial terms.
+> **Superseded.** Single document: [[cve/ceo]]. No open-items sheet.
