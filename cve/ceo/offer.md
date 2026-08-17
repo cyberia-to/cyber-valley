@@ -104,56 +104,65 @@ Options are **not** the KPI ladder in §7; they are the personal upside for sitt
 
 KPI = **real distribution of founder equity** at **real prices**, until founders sit at ~**10%**.
 
-### CEO cut on each sale
+### CEO cut on each sale (in the numbers, not a footnote)
 
-- On every qualifying sale of DS/AV shares, CEO receives **10% of the shares sold in that deal** (from the sold package).  
-- That cut is **priced into the deal**: the **headline valuation used for the KPI check is 10% higher** than the valuation that would apply to the net block after the CEO cut.  
-  - Example: ladder asks “10% sold at $8M” → deal is structured so **gross valuation ≥ $8M × 1.10**, and CEO takes 10% of the **sold** shares.
+On every qualifying sale of DS/AV shares:
+
+| | |
+|---|---|
+| **Package** | founders transfer **step size** of company equity in that deal |
+| **CEO** | gets **10% of the package** → equity, not cash (`CEO step = 0.10 × step`) |
+| **Buyers** | get **90% of the package** and pay cash (`buyer step = 0.90 × step`) |
+| **Cash (step)** | **buyer step × valuation** = `0.90 × step × val` (seed: `0.90 × 1% × val`) |
+| **Valuation floor** | company valuation on the deal sheet ≥ table below (already the KPI bar) |
+
+CEO equity from the ladder is **separate from options (§6)**. Options are extra.
 
 ### Target end-state of ownership
 
 | block | target hands |
 |---|---|
-| **Package 1** | **Indonesian** holders |
-| **Package 2** | **Foreign** holders via **Cyberia holding** |
-| **Residual ~10%** | **Founders** |
-| **CEO** | Options (§6) + 10% of each sold package (§7) + any residual the CEO allocates by deal design |
+| **Package 1** | **Indonesian** holders (buyer side of steps) |
+| **Package 2** | **Foreign** holders via **Cyberia holding** (buyer side) |
+| **Residual ~10%** | **Founders** (DS+AV after ~90% sold) |
+| **CEO** | **~9.1%** from ladder cuts (table) **+** options up to 10% @ $4M (§6) |
 
-Exact split of Package 1 vs 2 is a living capitalisation plan; the **invariant** is founders → **~10%** with valuation discipline below.
+Exact split of Package 1 vs 2 is a living capitalisation plan; invariant: founders → **~10%**, with valuation discipline.
 
-### Exponential ladder → **$1B** (cash = **this step**, not cumulative)
+### Exponential ladder → **$1B**
 
-Each step after the seed is roughly **+10 pp** of DS+AV sold (not “90% in one go”).
+Each step after the seed is **+10 pp** of DS+AV sold (not “90% in one go”).
 
-| | meaning |
+| col | meaning |
 |---|---|
-| **sold (cum.)** | cumulative DS+AV founder equity sold so far |
-| **valuation** | min **company** valuation on deals that clear this step |
-| **cash (step)** | cash for **this step only** ≈ **size of step × valuation** · for 10% steps → **10% × val** · for the 1% seed → **1% × val** |
+| **sold cum.** | cumulative DS+AV **package** sold (founders → buyers+CEO) |
+| **step** | package size this step |
+| **val** | min **company** valuation |
+| **CEO step** | `10% × step` — CEO equity **this step** |
+| **CEO cum.** | cumulative CEO equity from the ladder |
+| **cash step** | external cash = `90% × step × val` |
 
-Wrong (old): cash = cumulative% × val (as if the whole stack sold at once).  
-Right: at the 50% row you sell the **next ~10%** at $80M → cash **$8M**, not $45M.
+| sold cum. | step | val (USD) | **CEO step** | **CEO cum.** | **cash step** (USD) |
+|---:|---:|---:|---:|---:|---:|
+| **1%** | 1% | **4,000,000** | **0.10%** | **0.10%** | **36,000** |
+| **10%** | 9% | **6,000,000** | **0.90%** | **1.00%** | **486,000** |
+| **20%** | 10% | **10,000,000** | **1.00%** | **2.00%** | **900,000** |
+| **30%** | 10% | **18,000,000** | **1.00%** | **3.00%** | **1,620,000** |
+| **40%** | 10% | **30,000,000** | **1.00%** | **4.00%** | **2,700,000** |
+| **50%** | 10% | **50,000,000** | **1.00%** | **5.00%** | **4,500,000** |
+| **60%** | 10% | **100,000,000** | **1.00%** | **6.00%** | **9,000,000** |
+| **70%** | 10% | **200,000,000** | **1.00%** | **7.00%** | **18,000,000** |
+| **80%** | 10% | **400,000,000** | **1.00%** | **8.00%** | **36,000,000** |
+| **90%** | 10% | **1,000,000,000** | **1.00%** | **9.00%** | **90,000,000** |
 
-| sold (cum.) | step size | min valuation (USD) | **cash this step** (USD) |
-|---:|---:|---:|---:|
-| **1%** | 1% | **4,000,000** | **40,000** |
-| **10%** | ~9–10% | **6,000,000** | **600,000** |
-| **20%** | 10% | **10,000,000** | **1,000,000** |
-| **30%** | 10% | **18,000,000** | **1,800,000** |
-| **40%** | 10% | **30,000,000** | **3,000,000** |
-| **50%** | 10% | **50,000,000** | **5,000,000** |
-| **60%** | 10% | **100,000,000** | **10,000,000** |
-| **70%** | 10% | **200,000,000** | **20,000,000** |
-| **80%** | 10% | **400,000,000** | **40,000,000** |
-| **90%** | 10% | **1,000,000,000** | **100,000,000** |
+**Check on the 50% row:** package **10%** of company @ $50M → CEO **1%** equity · buyers **9%** · cash **$4.5M** (not $5M).  
+
+**At 90% sold:** founders residual **~10%** · CEO ladder **~9.0%** (seed 0.1% + nine steps; table uses 9% after aligning the 1→10% step as 9%) · buyers **~81%** of company in Package 1+2.
 
 **How to read.**  
-- Early (1–30%): soft — proof of model, not a unicorn ask.  
-- Mid (40–60%): real capitalisation.  
-- Late (70–90%): city-scale → **$1B** at full founder decentralisation (~10% left with founders).  
-- Intermediate closes: log-interpolate valuation between rows.  
-- Miss the floor → step does not count (or founders waive in writing).  
-- **Gross-up** for CEO cut: KPI valuation on the deal sheet ≥ **floor × 1.10** (§7: CEO takes 10% of **shares sold in that deal**).
+- Early (1–30%): soft proof. Mid: real capital. Late → **$1B**.  
+- Intermediate closes: log-interpolate **val** between rows; CEO cut always **10% of that deal’s package**.  
+- Miss the val floor → step does not count (or founders waive in writing).
 
 ---
 
