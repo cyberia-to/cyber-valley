@@ -87,17 +87,18 @@ Paid on the shares held by the CEO, pro rata, when declared. Distribution occurs
 
 ## 9. Equity and options
 
-9.1 Entry. On taking office the CEO acquires 1% of the shares — 80 shares of the 8,040 issued, at par value Rp 200,000,000.00, transferred from Alisa Voinova under [[shareholders agreement]] preamble paragraph 2. The sale at par is a deliberate discount to the agreed company value of USD 4,000,000, granted in consideration of accepting the office of Director and the personal responsibilities attaching to it, including the tax responsibility under [[articles of association]] Pasal 12(6). The discount is protected by the Bad Leaver repurchase at acquisition cost under [[shareholders agreement]] Article 4.
+9.1 Entry. On taking office the CEO acquires 1% of the shares — 80 shares of the 8,040 issued, at par value Rp 200,000,000.00, transferred from Alisa Voinova under [[shareholders agreement]] preamble paragraph 2. The company is valued at its authorised and fully paid capital of Rp 20,100,000,000 under [[articles of association]] Article 4(1), which is Rp 2,500,000 per share. The entry price equals that value: the sale is at valuation rather than at a discount to it.
 
-9.2 Option ladder. Proposed, not agreed. The figures below come from the CEO's own negotiating document and have not been accepted by the shareholders; see [[ceo terms decisions]] D2, where the ladder is an open question.
+9.2 Option ladder. Proposed, not agreed. The tranche sizes come from the CEO's own negotiating document and have not been accepted by the shareholders; see [[ceo terms decisions]] D2, where the ladder is an open question. Priced on the same Rp 20,100,000,000 valuation, 1% is Rp 201,000,000 and the strike per share is par:
 
-| tranche | exercisable within | strike basis |
-|---|---|---|
-| 5% | 2 years | company valuation USD 4,000,000 → 1% = USD 40,000 |
-| 5% | 5 years | same |
-| 10% | 10 years | same |
+| tranche | shares | strike | exercisable within |
+|---|---|---|---|
+| 5% | 402 | Rp 1,005,000,000 | 2 years |
+| 5% | 402 | Rp 1,005,000,000 | 5 years |
+| 10% | 804 | Rp 2,010,000,000 | 10 years |
+| total | 1,608 | Rp 4,020,000,000 | |
 
-Two defects to settle before any of this is drafted: the third tranche runs 10 years against a 5-year term of office under [[articles of association]] Article 11(4), and the USD 4,000,000 valuation carries no date, method or basis.
+Two defects to settle before any of this is drafted. The third tranche runs 10 years against a 5-year term of office under [[articles of association]] Article 11(4). And the authorised capital is a book figure: it records what was contributed, not what 37 ha in Buleleng is worth today, so an option struck on it hands over future appreciation at cost.
 
 9.3 Source of the option shares. Open — see [[ceo terms decisions]] D2. The whole authorised capital is issued and paid in kind as land, so the Company holds no shares in treasury, and Alisa Voinova sells 80 shares only. Four routes are on the table: no option at all; an issue of new shares; a sale by the other shareholder; or the ladder being set by resolution of the General Meeting rather than fixed in the CEO Agreement.
 
@@ -145,7 +146,7 @@ Consolidated from both source documents; numbering is this schedule's own.
 6. The amount of severance / termination compensation on termination without Cause.
 7. Confirmation of the referral fee at 10% and the administration fee at a further 10%, and of their simultaneous application.
 8. Confirmation of the 5% investment fee, and whether grants are inside or outside it.
-9. Confirmation of the option model: 1% on entry plus 5% / 5% / 10% on a USD 4,000,000 valuation.
+9. Confirmation of the option model: 1% on entry plus 5% / 5% / 10%, priced on the Rp 20,100,000,000 capital valuation.
 10. What happens to unexercised options on a Good Leaver or termination without Cause, and whether acceleration applies.
 11. The Fair Market Value formula and the independent valuation procedure.
 12. The mechanism securing payment of the buyout before or simultaneously with termination of the CEO's powers.
@@ -159,11 +160,11 @@ Consolidation exposed three disagreements between the documents and one omission
 
 | point | where | status |
 |---|---|---|
-| entry at par against the option strike | D1 | settled — the sale is at a deliberate discount, stated in the SHA preamble |
+| the valuation the entry and the ladder are priced on | D1 | settled — the capital figure of Rp 20,100,000,000, so entry is at value |
 | source of the option shares | D2 | open — Voinova sells 80 shares only; four routes on the table, no recommendation |
 | call option against the right to remain | D3 | drafted — Article 4 of the SHA replaced in full |
 | fair value floor | D4 | recommendation given, awaiting agreement |
 
-Deferred to the next round: the IDR/USD rate at which the discount is expressed, and the instrument securing payment of a buyout.
+Deferred to the next round: the instrument securing payment of a buyout.
 
 The full statement of each point, the routes and the operative wording are in [[ceo terms decisions]], which also carries the agenda for the call and a table separating the figures that are facts from the figures derived from proposals not yet agreed.

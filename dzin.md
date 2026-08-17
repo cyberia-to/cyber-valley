@@ -16,11 +16,11 @@ The corporate pack of PT. Cyber Valley Estate: the constituent documents and the
 
 [[ceo agreement terms]]: negotiating position for the CEO contract — role, Authority Matrix, information rights, indemnification, termination triggers and leaver protection.
 
-[[ceo compensation schedule]]: the annex that owns every figure of CEO economics — salary, land commissions, sub-project referral and administration fees, the investment fee, the 1% entry stake and the 5/5/10% option ladder on a USD 4M valuation, exit economics. Consolidated from the CEO terms and the revenue model, which each carried their own version of the same numbers.
+[[ceo compensation schedule]]: the annex that owns every figure of CEO economics — salary, land commissions, sub-project referral and administration fees, the investment fee, the 1% entry stake and the 5/5/10% option ladder priced on the Rp 20.1 bn capital, exit economics. Consolidated from the CEO terms and the revenue model, which each carried their own version of the same numbers.
 
 [[revenue model]]: revenue sources of the holding, the distribution waterfall ahead of dividends, and the calculation vocabulary that every percentage in the pack is computed on.
 
-[[ceo terms decisions]]: the open points between the CEO terms and the Shareholders' Agreement, drafted as four decisions with variants and a recommendation — the entry discount against the option strike, the missing source for the option shares, the call option against the right to remain, and the fair-value floor. For agreement between the three shareholders before the notary.
+[[ceo terms decisions]]: the open points between the CEO terms and the Shareholders' Agreement, drafted as four decisions with variants and a recommendation — the valuation the entry and the ladder are priced on, the missing source for the option shares, the call option against the right to remain, and the fair-value floor. For agreement between the three shareholders before the notary.
 
 Corporate authority for the land instruments runs through the Articles — see [[land-rights-agreement]] and [[annex-c-design-code]].
 

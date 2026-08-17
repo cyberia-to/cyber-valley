@@ -12,7 +12,7 @@ Date: 2026-08-15 · input: [[ceo compensation schedule]] §15, [[ceo agreement t
 
 Parties to the agreement: Alisa Voinova (President Commissioner), Dmitry Starodubtsev (Commissioner), Oleksandr Fedorov (Director). Nothing here is legal advice; final wording goes through the notary.
 
-Deferred to the next round: the IDR/USD rate at which the discount is expressed, and the instrument securing payment. Both are marked in the text.
+Deferred to the next round: the instrument securing payment. It is marked in the text.
 
 ---
 
@@ -22,21 +22,21 @@ The Company keeps everything that protects it from a director acting in bad fait
 
 ---
 
-## D1 · Entry at par — a sale at a discount
+## D1 · The valuation the entry and the ladder are priced on
 
-Settled. The shares are sold to the new participant at a discount, and that is stated in terms.
+Settled. The company is valued at its authorised and fully paid capital under Articles Article 4(1): Rp 20,100,000,000 for 8,040 shares, which is Rp 2,500,000 per share and Rp 201,000,000 per one percent.
 
-The entry stake is 80 shares at the nominal value of Rp 2,500,000, Rp 200,000,000 in total, being 1% of the capital. The option ladder values the company at USD 4,000,000, so 1% at USD 40,000. The sale at nominal value is a deliberate discount to the agreed valuation, granted in consideration of accepting the office of Director and the personal risk attaching to it — in particular the responsibility for computing, withholding, paying and reporting the Company's taxes under Articles Pasal 12(6).
+At that valuation the entry price equals value. The entry stake is 80 shares at par, Rp 200,000,000, being 0.995% of the capital — the same Rp 2,500,000 per share the valuation gives. There is no discount to record, and the earlier discount language falls away with the USD 4,000,000 figure it was built on.
 
 Wording for the SHA preamble:
 
-> Para Pihak menegaskan bahwa pemindahan 80 saham dengan nilai nominal dilakukan dengan diskon yang disengaja terhadap nilai Perseroan yang disepakati sebesar USD 4.000.000, sebagai imbalan atas kesediaan Oleksandr Fedorov menjabat sebagai Direktur dan menanggung tanggung jawab pribadi yang melekat pada jabatan tersebut.
+> Para Pihak menegaskan bahwa nilai Perseroan yang disepakati adalah sebesar modal ditempatkan dan disetor penuh, yaitu Rp 20.100.000.000,00 untuk 8.040 saham, sehingga harga per saham sama dengan nilai nominal Rp 2.500.000,00. Pemindahan 80 saham dengan nilai nominal dilakukan sesuai nilai tersebut.
 
-> The Shareholders record that the transfer of 80 shares at nominal value is made at a deliberate discount to the agreed company value of USD 4,000,000, in consideration of Oleksandr Fedorov accepting the office of Director and the personal responsibilities attaching to that office.
+> The Shareholders record that the agreed value of the Company is its issued and fully paid capital of Rp 20,100,000,000.00 for 8,040 shares, so that the price per share equals the nominal value of Rp 2,500,000.00. The transfer of 80 shares at nominal value is made at that value.
 
-The discount is already protected: under SHA Article 4(3) the same shares are bought back at the acquisition cost of Rp 200,000,000 on a Bad Leaver. No new construction is needed.
+The Bad Leaver repurchase at acquisition cost under SHA Article 4(3) continues to operate unchanged; with entry at value it now returns exactly what was paid rather than clawing back a discount.
 
-Deferred. The numerical relation between the discount and the strike depends on the IDR/USD rate and is fixed at JISDOR on the date of signature.
+⚠ What this valuation is. The capital figure records what was contributed to the Company — 37 ha of land taken in at Rp 20.1 bn — rather than what that land is worth today. Pricing the ladder on it means the CEO buys future appreciation at historic cost. That is a choice, and it should be a deliberate one; agenda item 4 carries it.
 
 ---
 
@@ -50,8 +50,8 @@ Where the numbers come from. The earlier analysis mixed facts from executed docu
 |---|---|---|
 | 8,040 shares, nominal Rp 2,500,000, capital Rp 20.1 bn contributed as land | Articles Article 4 | fact |
 | 3,940 Voinova, 4,020 Starodubtsev, 80 Fedorov | [[shareholders agreement]] preamble | fact |
-| company valuation USD 4,000,000, 1% = USD 40,000, ladder 5% / 5% / 10% | CEO heads of terms | one side's proposal, not agreed |
-| 1,608 shares, tranches 402 / 402 / 804, strike USD 800,000 | arithmetic on the ladder | derived from the unagreed |
+| ladder 5% / 5% / 10% | CEO heads of terms | one side's proposal, not agreed |
+| 1,608 shares, tranches 402 / 402 / 804, strike Rp 4,020,000,000 | arithmetic on the ladder at the capital valuation | derived from the unagreed |
 
 No figure in the third or fourth row is a decision. Until the ladder is approved, any number of option shares stays conditional.
 
@@ -167,11 +167,11 @@ The third tranche of the ladder runs 10 years. The term of office of a director 
 
 I propose tying the tranches to terms of office rather than to the calendar — tranches opening on completion of the first and second terms — or stating expressly that the third tranche lapses when the tenure ends.
 
-### 4. The USD 4,000,000 valuation — as at what date
+### 4. Book value or market value
 
-The valuation comes from the CEO heads of terms with no date, no method and no statement of what it covers. The Company owns 37 ha contributed to capital at a nominal Rp 20.1 bn.
+The valuation is now the capital figure, Rp 20,100,000,000. That is a book number: it records the 37 ha as contributed, not as they stand today. An option struck on it transfers future appreciation to the CEO at historic cost, and the Estate has been buying since 2022.
 
-I propose fixing the valuation through an independent appraiser as at the date of the resolution, rather than adopting a figure from a negotiating document. If an independent appraisal of the land comes out higher, the strike in the theses turns into a discount on top of a discount.
+I propose deciding this deliberately rather than by default. Either keep the capital figure and treat the ladder as a straightforward incentive priced at book, or fix the valuation by independent appraisal as at the date of the resolution and strike the ladder on that. Both are defensible; drifting into the first without noticing it is not.
 
 ### 5. D4 — the fair value floor
 
@@ -201,7 +201,7 @@ I propose confirming they exist before the first plot is sold.
 
 ### 10. Deferred deliberately
 
-The IDR/USD rate for expressing the discount, and the instrument securing payments. The second is worth settling together with 9B.7 of [[land-rights-agreement]], so that two constructions are not built for one task.
+The instrument securing payments. It is worth settling together with 9B.7 of [[land-rights-agreement]], so that two constructions are not built for one task.
 
 ---
 
@@ -209,7 +209,7 @@ The IDR/USD rate for expressing the discount, and the instrument securing paymen
 
 | decision | document | change |
 |---|---|---|
-| D1 | [[shareholders agreement]] preamble | the sale at nominal value is named as a deliberate discount to the USD 4,000,000 valuation, for accepting the office |
+| D1 | [[shareholders agreement]] preamble | the agreed company value is the capital figure Rp 20,100,000,000, so entry at par is entry at value |
 | D2 | — | open: the edits depend on the route chosen and are not made until it is |
 | D2 | [[preemption waiver letter]] | template ready, share count blank; signed once the ladder is approved |
 | D3 | [[shareholders agreement]] Article 4 | replaced in full by the text in D3 |
