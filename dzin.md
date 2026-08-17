@@ -8,26 +8,35 @@ icon: "🗂"
 ---
 # dzin
 
-The corporate pack of PT. Cyber Valley Estate: the constituent documents and the instruments admitting a new member of the company. English text, translated from the bilingual and Russian originals held on Drive.
+Corporate pack of PT. Cyber Valley Estate. English text; Bahasa prevails on executed deeds (Law No. 24/2009).
 
-[[articles of association]]: Anggaran Dasar, 12 August 2026. 20 articles — capital of Rp 20,100,000,000 in 8,040 shares, pre-emption on issue, transfer regime, GMS quorum and circular resolutions, the maker/authorizer split on the revenue account, reserves at 20% of paid-up capital.
+## CEO (read this first)
 
-[[shareholders agreement]]: CVE/SHA/2026-01, 14 August 2026. The admission itself — 80 shares from Alisa Voinova to Oleksandr Fedorov at par (Rp 200,000,000), plus right of first refusal, tag-along, a closed list of grounds for refusing consent to a transfer, and a put/call option keyed to the Director's leaver status.
+Thin pack under [[cve/ceo]]:
 
-[[cve/ceo/offer]]: **short commercial offer** (role, dual accounts, land limits, options 5%+5% @ $4M, exponential DS/AV KPI ladder). Read this first; legal forms come after.
+| page | what |
+|---|---|
+| [[cve/ceo/offer]] | commercial offer |
+| [[cve/ceo/agreement]] | role, dual accounts, commissioner gate, land limits, exit |
+| [[cve/ceo/economics]] | options 5%+5% @ $4M · KPI ladder → $1B · CEO 10% of package |
+| [[cve/ceo/open]] | only open notary items |
 
-[[ceo agreement terms]]: long negotiating draft for the CEO contract (authority matrix, indemnification, leaver). Being thinned; commercial numbers live in the offer and later a short schedule.
+Old long CEO drafts: [[ceo agreement terms]], [[ceo compensation schedule]], [[ceo terms decisions]] — **stubs only**, superseded.
 
-[[ceo compensation schedule]]: historical annex of commissions / fees / old option ladder (incl. figures once priced on the Rp 20.1 bn capital) — superseded for commercial terms by [[cve/ceo/offer]] until counsel issues a short binding schedule.
+## Company constitution
 
-[[revenue model]]: revenue sources of the holding, the distribution waterfall ahead of dividends, and the calculation vocabulary that every percentage in the pack is computed on.
+| page | what |
+|---|---|
+| [[articles of association]] | Anggaran Dasar — capital, pre-emption, GMS, director authority |
+| [[shareholders agreement]] | admission, ROFR, tag-along, leaver put/call |
+| [[preemption waiver letter]] | side letter where options/issues need waiver |
+| [[revenue model]] | holding revenue vocabulary (if still used for ops reporting) |
 
-[[ceo terms decisions]]: the open points between the CEO terms and the Shareholders' Agreement, drafted as four decisions with variants and a recommendation — the valuation the entry and the ladder are priced on, the missing source for the option shares, the call option against the right to remain, and the fair-value floor. For agreement between the three shareholders before the notary.
+## Land
 
-Corporate authority for the land instruments runs through the Articles — see [[land-rights-agreement]] and [[annex-c-design-code]].
-
-## Standing of the texts
-
-The Bahasa Indonesia column prevails over the English on any discrepancy (Law No. 24/2009). The Articles and the Shareholders' Agreement pages carry the English column of documents already drafted bilingually; the CEO terms and the revenue model are translations of Russian working documents and remain drafts for discussion.
+| page | what |
+|---|---|
+| [[land-rights-agreement]] | land instruments authority |
+| [[annex-c-design-code]] | design code annex |
 
 {{query (and [[dzin]])}}

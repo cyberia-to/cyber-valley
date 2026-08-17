@@ -8,10 +8,13 @@ icon: "🧭"
 ---
 # cve / ceo
 
-CEO track for PT Cyber Valley Estate — short commercial offer first; binding docs only after the offer holds.
+Thin CEO pack for PT Cyber Valley Estate. **Read in order.**
 
-| page | what |
-|---|---|
-| [[cve/ceo/offer]] | **CEO offer** — role, dual accounts, commissioner gates, land limits, options, exponential KPI ladder |
+| # | page | what |
+|---|---|---|
+| 1 | [[cve/ceo/offer]] | commercial offer (intent) |
+| 2 | [[cve/ceo/agreement]] | agreement terms — role, accounts, gates, land, exit |
+| 3 | [[cve/ceo/economics]] | options + KPI ladder + CEO cut |
+| 4 | [[cve/ceo/open]] | only remaining decisions |
 
-Related pack (longer legal drafts, not the offer): [[dzin]], [[ceo agreement terms]], [[ceo compensation schedule]].
+Part of [[dzin]]. Old long drafts under `legal/ceo *` are **superseded** for commercial terms.
