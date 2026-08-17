@@ -106,15 +106,17 @@ KPI = **real distribution of founder equity** at **real prices**, until founders
 
 ### CEO cut on each sale (in the numbers, not a footnote)
 
-On every qualifying sale of DS/AV shares:
+On every qualifying sale of DS/AV shares **except the seed step**:
 
 | | |
 |---|---|
 | **Package** | founders transfer **step size** of company equity in that deal |
 | **CEO** | gets **10% of the package** → equity, not cash (`CEO step = 0.10 × step`) |
 | **Buyers** | get **90% of the package** and pay cash (`buyer step = 0.90 × step`) |
-| **Cash (step)** | **buyer step × valuation** = `0.90 × step × val` (seed: `0.90 × 1% × val`) |
-| **Valuation floor** | company valuation on the deal sheet ≥ table below (already the KPI bar) |
+| **Cash (step)** | **buyer step × valuation** = `0.90 × step × val` |
+| **Valuation floor** | company valuation on the deal sheet ≥ table below |
+
+**Seed (1% @ $4M):** no CEO cut — 100% of the package to the buyer, cash = `1% × val`. Feels wrong to take equity on the first proof cheque.
 
 CEO equity from the ladder is **separate from options (§6)**. Options are extra.
 
