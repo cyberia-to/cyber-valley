@@ -6,4 +6,4 @@ crystal-domain: cyberia
 ---
 # cyber valley story
 
-→ **[[edge city residency/cyber valley story]]** (moved with [[edge city residency]] course pack)
+→ **[[edge city patagonia 2025/cyber valley story]]** (moved with [[edge city patagonia 2025]] course pack)

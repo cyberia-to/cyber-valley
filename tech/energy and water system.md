@@ -6,4 +6,4 @@ crystal-domain: energy
 ---
 # energy and water system
 
-→ **[[edge city residency/energy and water system]]** (moved with [[edge city residency]] course pack)
+→ **[[edge city patagonia 2025/energy and water system]]** (moved with [[edge city patagonia 2025]] course pack)
