@@ -116,7 +116,9 @@ On every qualifying sale of DS/AV shares **except the seed step**:
 | **Cash (step)** | **buyer step × valuation** = `0.90 × step × val` |
 | **Valuation floor** | company valuation on the deal sheet ≥ table below |
 
-**Seed (1% @ $4M):** no CEO cut — 100% of the package to the buyer, cash = `1% × val`. Feels wrong to take equity on the first proof cheque.
+**Seed (1% @ $4M):** no CEO cut — 100% of the package to the buyer, cash = `1% × val`. Not part of the CEO ladder.
+
+**First CEO sale:** the **10%** row — valuation floor **$10M**. Commission and cash rules above apply from that step on.
 
 CEO equity from the ladder is **separate from options (§6)**. Options are extra.
 
