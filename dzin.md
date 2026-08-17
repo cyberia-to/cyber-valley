@@ -14,9 +14,11 @@ The corporate pack of PT. Cyber Valley Estate: the constituent documents and the
 
 [[shareholders agreement]]: CVE/SHA/2026-01, 14 August 2026. The admission itself — 80 shares from Alisa Voinova to Oleksandr Fedorov at par (Rp 200,000,000), plus right of first refusal, tag-along, a closed list of grounds for refusing consent to a transfer, and a put/call option keyed to the Director's leaver status.
 
-[[ceo agreement terms]]: negotiating position for the CEO contract — role, Authority Matrix, information rights, indemnification, termination triggers and leaver protection.
+[[cve/ceo/offer]]: **short commercial offer** (role, dual accounts, land limits, options 5%+5% @ $4M, exponential DS/AV KPI ladder). Read this first; legal forms come after.
 
-[[ceo compensation schedule]]: the annex that owns every figure of CEO economics — salary, land commissions, sub-project referral and administration fees, the investment fee, the 1% entry stake and the 5/5/10% option ladder priced on the Rp 20.1 bn capital, exit economics. Consolidated from the CEO terms and the revenue model, which each carried their own version of the same numbers.
+[[ceo agreement terms]]: long negotiating draft for the CEO contract (authority matrix, indemnification, leaver). Being thinned; commercial numbers live in the offer and later a short schedule.
+
+[[ceo compensation schedule]]: historical annex of commissions / fees / old option ladder (incl. figures once priced on the Rp 20.1 bn capital) — superseded for commercial terms by [[cve/ceo/offer]] until counsel issues a short binding schedule.
 
 [[revenue model]]: revenue sources of the holding, the distribution waterfall ahead of dividends, and the calculation vocabulary that every percentage in the pack is computed on.
 
