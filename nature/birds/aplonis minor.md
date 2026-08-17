@@ -16,13 +16,17 @@ the short-tailed starling, scientifically known as aplonis minor, is a bird spec
 ## general description
 
 **appearance:** the short-tailed starling has a glossy black or dark brown plumage, which can appear iridescent in good light.
+
 the eyes are typically a striking pale yellow or white, which contrasts sharply with the dark feathers.
+
 as the name suggests, it has a relatively short tail compared to other starlings. the bill and legs are black.
+
 **size:** this starling is relatively small, measuring about 19-20 cm in length.
 
 ## habitat
 
 **range:** the short-tailed starling is found in various parts of southeast ssia and the pacific, including Indonesia, new guinea, and the surrounding islands.
+
 **environment:** they inhabit a range of environments, including lowland forests, forest edges, mangroves, plantations, and sometimes urban areas. they are adaptable birds that can thrive in both primary and secondary forests.
 
 ## diet
@@ -32,6 +36,7 @@ their diet primarily consists of fruits and berries. they also consume insects a
 ## breeding
 
 **nesting:** short-tailed starlings typically nest in tree cavities, often using natural hollows or abandoned nests of other birds. they may also nest in crevices in buildings or other structures.
+
 **reproduction:** they lay 2-4 eggs per clutch. both parents share the responsibilities of incubating the eggs and feeding the chicks. the incubation period and fledging times are not well-documented, but they are similar to other starling species.
 
 ## conservation status
@@ -40,7 +45,7 @@ their diet primarily consists of fruits and berries. they also consume insects a
 
 ## interesting facts
 
-the short-tailed starling is known for its sociable behavior, often forming flocks with other starlings and fruit-eating birds.
-their vocalizations include a variety of whistles, chattering, and squawks, typical of starling species.
-these starlings play an important role in their ecosystems as seed dispersers due to their fruit-based diet.
-the short-tailed starling's adaptability to various habitats and its role in seed dispersal make it an important species within its range. its social nature and striking appearance contribute to its visibility and presence in its native regions.
+- the short-tailed starling is known for its sociable behavior, often forming flocks with other starlings and fruit-eating birds.
+- their vocalizations include a variety of whistles, chattering, and squawks, typical of starling species.
+- these starlings play an important role in their ecosystems as seed dispersers due to their fruit-based diet.
+- the short-tailed starling's adaptability to various habitats and its role in seed dispersal make it an important species within its range. its social nature and striking appearance contribute to its visibility and presence in its native regions.
