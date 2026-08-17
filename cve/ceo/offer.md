@@ -127,7 +127,7 @@ CEO equity from the ladder is **separate from options (§6)**. Options are extra
 | **Package 1** | **Indonesian** holders (buyer side of steps) |
 | **Package 2** | **Foreign** holders via **Cyberia holding** (buyer side) |
 | **Residual ~10%** | **Founders** (DS+AV after ~90% sold) |
-| **CEO** | **~9.1%** from ladder cuts (table) **+** options up to 10% @ $4M (§6) |
+| **CEO** | **~8.9%** from ladder cuts (table; no cut on seed) **+** options up to 10% @ $4M (§6) |
 
 Exact split of Package 1 vs 2 is a living capitalisation plan; invariant: founders → **~10%**, with valuation discipline.
 
@@ -146,24 +146,26 @@ Each step after the seed is **+10 pp** of DS+AV sold (not “90% in one go”).
 
 | sold cum. | step | val (USD) | **CEO step** | **CEO cum.** | **cash step** (USD) |
 |---:|---:|---:|---:|---:|---:|
-| **1%** | 1% | **4,000,000** | **0.10%** | **0.10%** | **36,000** |
-| **10%** | 9% | **6,000,000** | **0.90%** | **1.00%** | **486,000** |
-| **20%** | 10% | **10,000,000** | **1.00%** | **2.00%** | **900,000** |
-| **30%** | 10% | **18,000,000** | **1.00%** | **3.00%** | **1,620,000** |
-| **40%** | 10% | **30,000,000** | **1.00%** | **4.00%** | **2,700,000** |
-| **50%** | 10% | **50,000,000** | **1.00%** | **5.00%** | **4,500,000** |
-| **60%** | 10% | **100,000,000** | **1.00%** | **6.00%** | **9,000,000** |
-| **70%** | 10% | **200,000,000** | **1.00%** | **7.00%** | **18,000,000** |
-| **80%** | 10% | **400,000,000** | **1.00%** | **8.00%** | **36,000,000** |
-| **90%** | 10% | **1,000,000,000** | **1.00%** | **9.00%** | **90,000,000** |
+| **1%** | 1% | **4,000,000** | **—** | **0%** | **40,000** |
+| **10%** | 9% | **6,000,000** | **0.90%** | **0.90%** | **486,000** |
+| **20%** | 10% | **10,000,000** | **1.00%** | **1.90%** | **900,000** |
+| **30%** | 10% | **18,000,000** | **1.00%** | **2.90%** | **1,620,000** |
+| **40%** | 10% | **30,000,000** | **1.00%** | **3.90%** | **2,700,000** |
+| **50%** | 10% | **50,000,000** | **1.00%** | **4.90%** | **4,500,000** |
+| **60%** | 10% | **100,000,000** | **1.00%** | **5.90%** | **9,000,000** |
+| **70%** | 10% | **200,000,000** | **1.00%** | **6.90%** | **18,000,000** |
+| **80%** | 10% | **400,000,000** | **1.00%** | **7.90%** | **36,000,000** |
+| **90%** | 10% | **1,000,000,000** | **1.00%** | **8.90%** | **90,000,000** |
 
-**Check on the 50% row:** package **10%** of company @ $50M → CEO **1%** equity · buyers **9%** · cash **$4.5M** (not $5M).  
+**Seed:** no CEO cut · cash **$40k** (full 1% × $4M).  
 
-**At 90% sold:** founders residual **~10%** · CEO ladder **~9.0%** (seed 0.1% + nine steps; table uses 9% after aligning the 1→10% step as 9%) · buyers **~81%** of company in Package 1+2.
+**Check on the 50% row:** package **10%** @ $50M → CEO **1%** · buyers **9%** · cash **$4.5M**.  
+
+**At 90% sold:** founders residual **~10%** · CEO ladder **8.90%** · buyers **~81.1%** (Package 1+2).
 
 **How to read.**  
 - Early (1–30%): soft proof. Mid: real capital. Late → **$1B**.  
-- Intermediate closes: log-interpolate **val** between rows; CEO cut always **10% of that deal’s package**.  
+- Intermediate closes: log-interpolate **val** between rows; CEO cut **10% of package** from the 10% step on (not on seed).  
 - Miss the val floor → step does not count (or founders waive in writing).
 
 ---
