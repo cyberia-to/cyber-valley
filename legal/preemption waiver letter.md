@@ -12,7 +12,7 @@ Annexed to the deed of amendment of the [[articles of association]], outside its
 
 > Status. A standalone declaration signed by the existing shareholders and handed to the notary together with the amendment. It stays out of the Articles: the Articles carry the general rule, this letter disapplies it once, for one purpose.
 
-Why it exists. Where an option over shares is satisfied by an issue of new shares, [[articles of association]] Article 4(3) gives shareholders on the register a pre-emptive right to subscribe within 14 days in proportion to their holdings. Where it is satisfied by a sale, Article 7(3)–(4) obliges the selling shareholder to offer the shares to the other shareholder first, with 30 days to take them up. Either right, exercised over the tranche, would absorb the very shares meant for the option, and the option would fail while the Articles were fully observed.
+Why it exists. Where an option over shares is satisfied by an issue of new shares, [[articles of association]] Article 4(3) gives shareholders on the register a pre-emptive right to subscribe within 14 days in proportion to their holdings. Where it is satisfied by a sale, Article 7(3)–(4) obliges the selling shareholder to offer the shares to the other shareholder first, with 3 days to take them up. Either right, exercised over the tranche, would absorb the very shares meant for the option, and the option would fail while the Articles were fully observed.
 
 The waiver is scoped by purpose rather than by a share count. It covers whatever number the approving resolution sets and reaches nothing else, so the letter stays correct at every tranche and needs no amendment once the ladder is settled. Size and source remain open — see [[ceo terms decisions]] D2.
 
