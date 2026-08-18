@@ -13,7 +13,7 @@ alias: cv, about, cyber valley
 > The highland pole of Bali: nature × technology, mountain tourism × a life worth staying for.
 
 ~37 ha in [[gesing]], Buleleng — slope of [Sanghyang](https://maps.app.goo.gl/CdD8vRYHrWkpTGYj6).  
-first city of [[cyberia]]: highland settlement where deep tech and a beautiful life share the same ground.
+first city of [[cyberia]].
 
 started 2021 · first off-grid home 2023 · [[citadel]] (~30 ha) under construction.
 
