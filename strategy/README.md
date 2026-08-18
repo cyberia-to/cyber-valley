@@ -87,7 +87,9 @@ Full nation-level funnel (VISIT → STAY → SETTLE → BELONG): [[ladder]].
 
 ## 4. Upside
 
-Indicative HGB asks (USD / are; mid-2025/26 listings — not appraisals):
+A rare invest window: first batches of Bali North Star at **~$5k / are** — roughly **10–20×** below south Bali and Ubud, with cool highland climate and a real settlement instead of another beach suburb. Pioneer price only; later waves do not stay there.
+
+Market context (HGB, USD / are — rough asks, 2025–26):
 
 | band | min | max | note |
 |------|-----|-----|------|
@@ -98,9 +100,7 @@ Indicative HGB asks (USD / are; mid-2025/26 listings — not appraisals):
 | Nuanu | 100k | 100k+ | gated ocean creative |
 | Cyber Valley first batches | 5k | 5k | highland city pioneer |
 
-This is a rare window. At **$5k / are**, early waves sit roughly **10–20×** below Seminyak, Canggu, Ubud, Uluwatu, and Nuanu — while offering what those bands cannot: cool highland climate and a city built for life, not only for a weekend. That discount is not a permanent feature of the product; it is the pioneer price. As the settlement works, later batches leave $5k behind.
-
-The deeper bet is not a bump from five to six. Globally, **premium mountain prices like beachfront — or higher**: climate, silence, view, and scarce buildable slope. Bali’s south already cleared that bar; the highlands have not. Bali North Star is how Gesing and Munduk stop trading as cheap dirt and start trading as **destination land** — catching the beachfront band from below, once, while the window is still open.
+The deeper bet is mountain repricing. Globally, **premium mountain prices like beachfront — or higher**: climate, silence, view, scarce buildable slope. Bali’s south already cleared that bar; the highlands have not. Bali North Star is how Gesing and Munduk stop trading as cheap dirt and start trading as **destination land** — catching the beachfront band from below while the window is open.
 
 ---
 
