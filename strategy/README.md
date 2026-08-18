@@ -253,13 +253,18 @@ Starting allocation of recurring income, reviewed at every phase gate: **40% run
 
 ---
 
-## 10. Governance and the Cyberia Layer
+## 10. The Cyberia Layer (software)
 
-**Corporate:** PT PMA holds land rights and infrastructure; Cyberia DAO LLC (Marshall Islands) holds the coordination and token layer. The legal bridge — DAO-side representations of PT PMA lease registry entries — is the single most important legal engineering task of Phase 0–1.
+The valley runs on [[cyberia]] software — not as a slide, as the operating system of daily life.
 
-**Tokenization sequencing:** parking slots first (small ticket, simple rights, high volume — the ideal pilot), residential lease derivatives second, participation-rent streams third. Each step only after the off-chain enforceability of the previous one is proven.
+| layer | what it does here |
+|-------|-------------------|
+| [[sensor network]] | air, water, energy, soil — quality of life made measurable |
+| [[ladder]] | VISIT → STAY → SETTLE → BELONG — who can call which Skills |
+| [[marketplace]] / [[erp-core]] | land rights, stays, events, utilities — one price surface |
+| [[century index]] | long-horizon value that does not rot with local currency |
 
-**Long-term land model:** the permanent holdings (Z6/Z7, infrastructure, commons) trend toward a community land trust structure — land value accrues to the network rather than to speculators, which is both the Georgist position and the Cyberia thesis. Buildings and use-rights trade; the land itself does not.
+Corporate / legal wrappers (PT PMA, DAO, deeds) live under [[cyberia]] · [[cve]] · [[dzin]] — strategy here cares that the **graph and the meters** are live before tokens are sold.
 
 ---
 
