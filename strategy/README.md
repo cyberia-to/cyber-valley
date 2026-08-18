@@ -261,7 +261,8 @@ The valley runs on [[cyberia]] software — not as a slide, as the operating sys
 |-------|-------------------|
 | [[sensor network]] | air, water, energy, soil — quality of life made measurable |
 | [[ladder]] | VISIT → STAY → SETTLE → BELONG — who can call which Skills |
-| [[marketplace]] / [[erp-core]] | land rights, stays, events, utilities — one price surface |
+| [[marketplace]] | land rights, stays, events, utilities — one price surface |
+| [[orgs]] | entities, roles, skills — who can act in the city |
 | [[century index]] | long-horizon value that does not rot with local currency |
 
 Corporate / legal wrappers (PT PMA, DAO, deeds) live under [[cyberia]] · [[cve]] · [[dzin]] — strategy here cares that the **graph and the meters** are live before tokens are sold.
