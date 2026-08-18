@@ -20,15 +20,6 @@ computing fortress + living biome. modular homes, off-grid energy/water, communi
 | [[etherland]] | west tower + pasture — soft amenity / workspace edge |
 | [[frontier]] | outer rim — canyon-facing plots, lower premium, more room to build |
 
-### [[rockets]] estates
-
-| hold | note |
-|------|------|
-| [[asgard]] | residential hold in rockets (~8 people design) |
-| [[carrot]] | founders house — private homestead |
-| [[edem]] | experimental [[magic forest]] — 240+ genus, genetics & food supplier |
-| [[baikal]] | pond hold — water feature estate |
-
 ## [[gesing]]
 
 | zone | note |
