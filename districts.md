@@ -17,7 +17,7 @@ computing fortress + living biome. modular homes, off-grid energy/water, communi
 | [[sinwood]] | 4 | bioluminescent forest — night spectacle, new-moon peak |
 | [[avalon]] | 2 | water / pond hold — high zone premium |
 | [[rockets]] | 1.5 | family estate cluster |
-| [[etherland]] | 2 | west tower + pasture — soft amenity / workspace edge |
+| [[etherland]] | 2 | west tower + open grass — soft amenity / workspace edge |
 | [[frontier]] | 19 | outer rim — canyon-facing plots, lower premium, more room to build |
 
 ## [[gesing]]

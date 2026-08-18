@@ -9,7 +9,7 @@ icon: 🚀
 
 **1.5 ha** family estate cluster inside [[citadel]] — the first inhabited cells of the valley. fiber coverage started on this estate and grows outward.
 
-four named holds:
+named holds:
 
 | hold | note |
 |------|------|
@@ -17,5 +17,6 @@ four named holds:
 | [[carrot]] | founders house — privacy first |
 | [[edem]] | high-labour [[magic forest]] lab |
 | [[baikal]] | pond hold |
+| [[pasture]] | пастбище — grazing / open grass for animals |
 
-visitor paths (sinwood, trails) pass the edge; the holds themselves stay residential.
+visitor paths (sinwood, trails) pass the edge; the holds themselves stay residential / working land.
