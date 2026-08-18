@@ -21,7 +21,7 @@ alias: development, city development strategy, master plan, tone, the tone
 
 Cyber Valley can own a niche that works on the Indonesian market *and* the Asian / global market — because the product is the same: a high-quality highland city at human scale.
 
-**The scale math.** 37 ha at ~10% footprint, two floors + basement ≈ **~100,000 m²** of built space. That is enough for a settlement of **~2–3,000 people** — large enough to support real education, medicine, markets, and culture; small enough to keep silence, air, and the sacred core intact.
+**The scale math.** 37 ha at ~10% footprint, two floors + basement ≈ **~100,000 m²** of built space. That is enough for a settlement of **~2k–3k people** — large enough to support real education, medicine, markets, and culture; small enough to keep silence, air, and the sacred core intact.
 
 **Three principles.**
 
