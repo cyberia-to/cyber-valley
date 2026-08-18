@@ -7,7 +7,7 @@ icon: 🏰
 ---
 # citadel
 
-~**22 ha** autonomous community on the Gesing plateau — a modern take on the [citadel legend](https://www.reddit.com/r/Bitcoin/comments/1lfobc/i_am_a_timetraveler_from_the_future_here_to_beg/): a computing fortress with perfect autonomy.
+~**22 ha** autonomous community on the Gesing slope — a modern take on the [citadel legend](https://www.reddit.com/r/Bitcoin/comments/1lfobc/i_am_a_timetraveler_from_the_future_here_to_beg/): a computing fortress with perfect autonomy.
 
 **status:** under construction.
 

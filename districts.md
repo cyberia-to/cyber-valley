@@ -6,7 +6,7 @@ crystal-domain: cyberia
 ---
 # districts
 
-how [[cyber valley]] is cut — two geographies: the **[[citadel]]** plateau (autonomous city under build) and **[[gesing]]** (village edge + public bridge land).
+how [[cyber valley]] is cut — two geographies: the **[[citadel]]** slope (autonomous city under build) and **[[gesing]]** (village edge + public bridge land).
 
 ## [[citadel]] · ~22 ha · under construction
 
