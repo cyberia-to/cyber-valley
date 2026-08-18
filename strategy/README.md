@@ -47,7 +47,8 @@ The funnel starts with the Indonesian mountain gap, then opens to the world.
 
 | layer | who | what they buy |
 |-------|-----|----------------|
-| **days** | Indonesian families, Bali tourists, hikers | mountain tourism — trails, sunrise, glow, picnic |
+| **hours** | Indonesian families & friends | picnics + short mountain walks — a huge domestic fashion |
+| **days** | Indonesian families, Bali tourists, hikers | mountain tourism — trails, sunrise, glow, overnight |
 | **week** | retreat hosts, teams, communities | events — camps, markets, festivals, programs |
 | **month** | nomads, remote workers, builders between cycles | temporary belonging — bed, desk, quiet, network |
 | **residency / ownership** | foreign investors · affluent Indonesians (upper-middle+) | time-bound land rights, homes, stakes in the city |
@@ -64,7 +65,8 @@ Ordered by length of stay. Each rung feeds the next.
 
 | stay | product | role |
 |------|---------|------|
-| **days** | mountain tourism — trails, sunrise, Sinwood, glamping | discovery · local love · OTA · cash for ops |
+| **hours** | picnics & short hikes — Indonesian families | discovery · local love · legitimacy · volume |
+| **days** | mountain tourism — trails, sunrise, Sinwood, glamping | overnight · OTA · cash for ops |
 | **week** | retreats & events — camps, markets, festivals | multiplier · content · high-intent guests |
 | **month** | nomad / coliving — beds, cowork, wellness | backbone revenue · funnel into leases |
 | **residency & ownership** | leaseholds, Hak Pakai, Hak Milik (WNI) | the city itself — foreign investors + affluent Indonesians |
