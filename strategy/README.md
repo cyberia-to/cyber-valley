@@ -6,88 +6,84 @@ alias: development, city development strategy, master plan, tone, the tone
 ---
 # Cyber Valley City Development Strategy
 
-**Asset:** 37 ha, Gesing, Buleleng, Bali · 1,200–1,500 m elevation · cloud forest / permaculture
-**Holding structure:** PT PMA Cyber Valley Estate (HGB/Hak Pakai capable) · Cyberia DAO LLC (Marshall Islands)
-**Version:** 2.0 · August 2026
+**Asset:** 37 ha · [[gesing]], Buleleng, Bali · 1,200–1,500 m · cloud forest  
+**Holding:** PT PMA Cyber Valley Estate · Cyberia DAO LLC (Marshall Islands)  
+**Version:** 3.0 · August 2026
 
-This document is public by design. The pricing curve, wave caps, and reserve rule are commitments, not negotiating positions: a buyer who can verify the curve in advance can trust the discipline behind it.
+Public by design. The curve and the caps are commitments, not talking points.
 
 ---
 
 ## 1. Strategic Intent
 
-Cyber Valley is the physical layer of the Cyberia stack: a prototype settlement demonstrating that a self-funding, self-governing city can be bootstrapped from raw land without external debt or loss of founding control — and city #1 of a network (§11).
+[[cyber valley]] is city #1 of [[cyberia]]: a highland settlement where deep tech and a beautiful life share the same ground.
 
-The master developer thesis is simple: **land is the capital, infrastructure is the bottleneck, sequencing is the strategy.** Early transactions must finance infrastructure without giving away the upside; infrastructure then multiplies the value of everything sold later. The proof is not in freehold empires — it is in cities built on exactly our kind of tenure, time-bound land rights:
+**The gap.** Indonesia has mountains, volcanoes, cool air — and almost no *quality* mountain settlements. South Bali is overbuilt and hot. The highlands are under-served: families drive up for a day, retreats hunt for venues, and there is nowhere good enough to stay for a week, a month, or a life. That absence is the demand engine.
 
-- **[Hong Kong](https://www.landsd.gov.hk/en/resources/land-info-stat/land-tenure-system-land-policy.html)** runs the world's most valuable CBD on 100% state leasehold — [Hongkong Land](https://en.wikipedia.org/wiki/Hongkong_Land) has been Central's largest landlord since 1889 and manages over US$50B without owning a square metre of freehold. Wealth lives in the income streams and renewal rights, not the fee.
-- **[BSD City](https://en.wikipedia.org/wiki/BSD_City)** is the domestic proof on our exact instrument: 6,000 ha and half a million residents, built on HGB since 1984 — the legal rail this strategy runs on carries townships at 160× our size.
-- **[Emaar's Downtown Dubai](https://gulfnews.com/business/property/emaar-shatters-records-dh355b-in-revenue-dh70b-sales-in-2024-1.500036183)** is the master-developer accelerator: raw land, anchor built first (Burj Khalifa, Dubai Mall), district value multiplies, and the income assets never sell — US$2.8B a year of recurring revenue at 98% mall occupancy. Sales fund the phases; the retained estate is the business.
-- **[The Maldives](https://www.state.gov/reports/2025-investment-climate-statements/maldives)** built the highest-margin destination industry on earth where the constitution bans foreign freehold outright: every resort stands on a 50-year state lease with a 50-year extension — time-bound tenure, tone-first, capacity-capped, exactly the physics of our visit-to-residency ladder.
-- **[MTR rail-plus-property](https://en.wikipedia.org/wiki/MTR)** canonized principle 2: infrastructure ownership is the machine that pays for the city.
+**Two markets, one place.**
 
-Every pillar of this strategy has a running precedent an order of magnitude larger — none of them needed freehold.
+| market | what they seek here |
+|--------|---------------------|
+| **Indonesia** | clean mountain life without leaving the country — weekends, retreats, second homes, residency for the affluent |
+| **International** | cool climate, fast networks, quiet — nomads, founders, investors who want time and belonging, not another beach villa |
 
-Three non-negotiable principles govern every decision in this document:
+Cyber Valley can own a niche that works on the Indonesian market *and* the Asian / global market — because the product is the same: a high-quality highland city at human scale.
 
-1. **The landscape is capital, not inventory.** 46% of the estate (agroforestry and cloud forest) is never sold. It is the amenity engine that prices everything else.
-2. **Infrastructure ownership never leaves the developer.** Operations can be delegated; ownership and tariff-setting cannot.
-3. **Scarcity is manufactured through discipline, not marketing.** Each sales wave is capped, and the best land sells last, at the highest price.
+**The scale math.** 37 ha at ~10% footprint, two floors + basement ≈ **~100,000 m²** of built space. That is enough for a settlement of **~2–3,000 people** — large enough to support real education, medicine, markets, and culture; small enough to keep silence, air, and the sacred core intact.
 
-### The Tone
+**Three principles.**
 
-The valley is wild, sacred, nature-first — glowing rather than loud, priced and filtered rather than mass-market, for people who respect land. Tone is an asset with named holders: founders, guardians, retreat leaders, key early guests, long-term partners, approved visual media.
+1. **Landscape is capital, not inventory.** Forest and productive land are the amenity engine; they are not sold for cash.
+2. **Infrastructure stays with the developer.** Operations can be delegated; ownership and tariffs cannot.
+3. **Scarcity by discipline.** Waves are capped; the best land sells last.
 
-Demand-side place magnets: [[attractors]]. Citadel thesis: [[citadel strategy]].
-
-Four guardrails protect it:
-
-1. **Price and filter.** No chasing the cheap market early, no budget-tour channels pushing clients, no low-quality parties.
-2. **Cap the sacred.** Volume limits in sacred zones; cars and noise stay at the perimeter; Sinwood never overloads past the sacred feeling.
-3. **Guardians hold the culture.** They train every guide — no drift into taxi-driver attitude; desa share stays strong, protecting sacredness locally.
-4. **Curate the image.** All visual media approved, no ugly mass promotion; storytelling capacity — guides, signage, materials — is budgeted, not hoped for.
+**Tone.** Wild, sacred, nature-first — glowing rather than loud, priced and filtered rather than mass-market. Guardrails: price and filter · cap the sacred · guardians hold culture · curate the image. Place magnets: [[attractors]]. Citadel thesis: [[citadel strategy]].
 
 ---
 
 ## 2. For Whom
 
-Demand is a pyramid: a wide warm base that pays for today and a narrow apex that the city is actually for. The strategy serves both and never confuses them.
+The funnel starts with the Indonesian mountain gap, then opens to the world.
 
-**The macro pool.** ~900M adults want to leave where they live; 25–35M actually move each year. Inside that flow sit ~40M global nomads, decomposed by awareness in the [[migration market model]]: N0 asleep ~28M · N1 hurting ~8M · N2 seeking ~2–3M · N3 building ~300k. The apex product targets N2–N3: founders and engineers between cycles, writers and researchers needing quiet, families homeschooling on the road, builders of villages, co-ops, and network states.
+| layer | who | what they buy |
+|-------|-----|----------------|
+| **days** | Indonesian families, Bali tourists, hikers | mountain tourism — trails, sunrise, glow, picnic |
+| **week** | retreat hosts, teams, communities | events — camps, markets, festivals, programs |
+| **month** | nomads, remote workers, builders between cycles | temporary belonging — bed, desk, quiet, network |
+| **residency / ownership** | foreign investors · affluent Indonesians (upper-middle+) | time-bound land rights, homes, stakes in the city |
 
-**Two stories of demand.** The visitor economy — Indonesian families and Bali tourists, roughly three quarters of heads at $5–220 tickets — is fuel: traffic, local legitimacy, reviews, content, F&B margin. The resident economy — nomads month+, event hosts, builders: a few percent of heads but over half of revenue — is the product. The brand leads with the visceral (forest, volcano, glow); the cyber layer reveals itself post-arrival. Fuel is never mistaken for product, and neither is starved.
+Indonesia is not “fuel for the real product.” It is half of the demand story: legitimacy, volume at the perimeter, and a deep pool of residents who never needed a passport to arrive. International nomads and investors are the other half. Neither is starved; they are zoned so volume and sacredness do not occupy the same hectare at the same hour.
 
-**What the apex actually buys.** Nomads move sideways — they do not want classic rooting; they want belonging that survives relocation. So this site sells time and membership, not soil: VISIT → STAY → SETTLE happen here (§3 products, §6 instruments); BELONG is a network product (§11).
-
-**Tone versus volume, resolved by zoning.** Volume lives at the perimeter — trails, picnic grounds, the mobility hub; the sacred core is capacity-capped and price-filtered. The two demand stories never occupy the same hectare at the same hour.
+What the top of the local ladder buys here: **VISIT → STAY → SETTLE** (see [[ladder]] in the cyberia protocol). **BELONG** is a network product — portable across cities — not something Indonesia’s land law can sell as freehold to foreigners.
 
 ---
 
 ## 3. Products: The Ladder
 
-Five operating products, ordered by length of stay. Each rung feeds the next, and the ladder converts into land instruments (§6):
+Ordered by length of stay. Each rung feeds the next.
 
-| # | product | stay | ticket | role |
-|---|---|---|---|---|
-| 1 | **Picnics & trails** — Indonesian families and groups | hours | $2–15 | traffic, local love, the license to operate |
-| 2 | **Mountain tourism hub** — trails, sunrise, waterfalls, glamping | 1–2 days | $35–220 | overnight economics, the OTA channel |
-| 3 | **Event platform** — retreats, camps, markets, festivals | day–week | $400+/host × participants | the multiplier: one event = a hundred rung-1/2 visits, content, high-intent guests |
-| 4 | **Nomad hub** — coliving 40–80 beds, cowork, wellness | month+ | ~$1.8k/mo | the revenue backbone and the funnel into leases |
-| 5 | **Farm-to-table epicenter** — nandu → restaurant → spa products | horizontal | F&B attach at every rung | the margin layer of rungs 1–4 and a destination magnet in its own right |
+| stay | product | role |
+|------|---------|------|
+| **days** | mountain tourism — trails, sunrise, Sinwood, glamping | discovery · local love · OTA · cash for ops |
+| **week** | retreats & events — camps, markets, festivals | multiplier · content · high-intent guests |
+| **month** | nomad / coliving — beds, cowork, wellness | backbone revenue · funnel into leases |
+| **residency & ownership** | leaseholds, Hak Pakai, Hak Milik (WNI) | the city itself — foreign investors + affluent Indonesians |
 
-Rules of the ladder:
+**Rules.**
 
-- **Each rung is measured by its own metric.** Rung 1's product is legitimacy and content — measured in local NPS, reviews, organic share, never raw revenue; priced to stay full. Rungs 2–4 are measured on contribution margin and conversion to the next rung.
-- **Conversion is the strategy.** Picnic → story → overnight; event → "lived a week here" → monthly plan; nomad → residency → [[annual leasehold]]. Repeat/referral target: 10% → 25%.
-- **Capacity is the bottleneck, not demand.** Sinwood concurrent load, trail load, and event-day parking are modeled before any marketing push — bottleneck-first capex (§9) buys capacity at the constraining rung.
+- **Conversion is the strategy.** Day → overnight → week → month → residency. Measure each rung on its own job (legitimacy, margin, or conversion) — not one vanity metric.
+- **Capacity before marketing.** Sinwood load, trail load, parking — model the bottleneck before you push demand.
+- **Indonesia first in discovery; world in depth.** Brand leads with forest, volcano, glow; the cyber layer reveals itself after arrival.
+
+Full nation-level funnel (VISIT → STAY → SETTLE → BELONG): [[ladder]].
 
 ---
 
 ## 4. The Asset and Its Position
 
-37 hectares of highland cloud forest and productive land at 1,200–1,500 m — a climate band that stays temperate year-round, an increasingly scarce asset as lowland tropical heat intensifies.
+37 hectares of highland cloud forest and productive land at 1,200–1,500 m — temperate year-round, scarce as lowland heat intensifies.
 
-Competitive position: the Munduk–Bedugul highland corridor is the last under-developed premium band on Bali. Lowland leasehold prices (Canggu, Ubud) have inflated beyond the reach of the exact demographic Cyber Valley targets — builders, founders, and long-horizon residents rather than short-stay tourists. The highland discount will not persist once road access and utilities normalize; the strategy is to be the party that normalizes them and captures the repricing.
+Competitive position: the Munduk–Bedugul corridor is still under-built for *quality* settlement. South Bali is expensive and hot; the highlands lack a serious city-scale product. At 10% footprint and three levels (~100k m²), this site can house 2–3k people — enough density for school, clinic, and markets without becoming another lowland suburb. The strategy is to be the party that normalizes access and captures the highland repricing.
 
 ---
 
