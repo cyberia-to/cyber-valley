@@ -7,10 +7,9 @@ alias: bali north star, Bali North Star, development, city development strategy,
 # City Development Strategy
 
 > **Bali North Star**
->
-> The highland pole of Bali: nature × technology, mountain tourism × a life worth staying for.
 
-Strategy for [[cyber valley]], city #1 of [[cyberia]].
+Strategy for [[cyber valley]], city #1 of [[cyberia]].  
+The highland pole of Bali: nature × technology, mountain tourism × a life worth staying for.
 
 ## 1. Strategic Intent
 

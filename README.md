@@ -9,11 +9,10 @@ alias: cv, about, cyber valley
 # cyber valley
 
 > **Bali North Star**
->
-> The highland pole of Bali: nature × technology, mountain tourism × a life worth staying for.
 
 ~37 ha in [[gesing]], Buleleng — slope of [Sanghyang](https://maps.app.goo.gl/CdD8vRYHrWkpTGYj6).  
-first city of [[cyberia]].
+first city of [[cyberia]].  
+The highland pole of Bali: nature × technology, mountain tourism × a life worth staying for.
 
 started 2021 · first off-grid home 2023 · [[citadel]] (~30 ha) under construction.
 
