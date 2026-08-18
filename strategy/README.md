@@ -260,6 +260,8 @@ The valley runs on [[cyberia]] software — not as a slide, as the operating sys
 | layer | what it does here |
 |-------|-------------------|
 | [[robots]] | core — every person, org, and machine as an agent (Body · Soul · Skills) |
+| [[maps]] | space — plots, districts, trails, what sits where |
+| [[services]] | what the city offers — skills callable by tier |
 | [[sensor network]] | air, water, energy, soil — quality of life made measurable |
 | [[ladder]] | VISIT → STAY → SETTLE → BELONG — who can call which Skills |
 | [[marketplace]] | land rights, stays, events, utilities — one price surface |
