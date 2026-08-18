@@ -38,6 +38,8 @@ Three non-negotiable principles govern every decision in this document:
 
 The valley is wild, sacred, nature-first — glowing rather than loud, priced and filtered rather than mass-market, for people who respect land. Tone is an asset with named holders: founders, guardians, retreat leaders, key early guests, long-term partners, approved visual media.
 
+Demand-side place magnets: [[attractors]].
+
 Four guardrails protect it:
 
 1. **Price and filter.** No chasing the cheap market early, no budget-tour channels pushing clients, no low-quality parties.
