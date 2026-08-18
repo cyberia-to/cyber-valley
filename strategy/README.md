@@ -45,47 +45,23 @@ how [[citadel]] pays for quality of life without burning the tone:
 
 ---
 
-## 2. For Whom
+## 2. Who & what — the [[ladder]]
 
-The funnel starts with the Indonesian mountain gap, then opens to the world.
+One funnel for demand and product. Same rungs as [[cyberia]] protocol [[ladder]]. Indonesia opens the base; the world deepens it. Neither half is “fuel” for the other — they are zoned so volume and sacredness do not share the same hectare at the same hour.
 
-| layer | who | what they buy |
-|-------|-----|----------------|
-| **hours** | Indonesian families & friends | picnics + short mountain walks — a huge domestic fashion |
-| **days** | Indonesian families, Bali tourists, hikers | mountain tourism — trails, sunrise, glow, overnight |
-| **week** | retreat hosts, teams, communities | events — camps, markets, festivals, programs |
-| **month** | nomads, remote workers, builders between cycles | temporary belonging — bed, desk, quiet, network |
-| **residency / ownership** | foreign investors · affluent Indonesians (upper-middle+) | time-bound land rights, homes, stakes in the city |
+| tier | duration | who | product here |
+|------|----------|-----|--------------|
+| **TOUCH** | hours | Indonesian families & friends | picnics + short hikes — huge domestic fashion |
+| **VISIT** | days / weeks | families, Bali tourists, hikers, retreat hosts | overnight mountain tourism · Sinwood · glamping · events |
+| **STAY** | months+ | nomads, remote workers, builders between cycles | coliving · cowork · wellness — temporary belonging |
+| **SETTLE** | years | foreign investors · affluent Indonesians (upper-middle+) | leaseholds · Hak Pakai · Hak Milik (WNI) — the city itself |
+| **BELONG** | forever | network citizens | portable Cyberia membership — not a local land product |
 
-Indonesia is not “fuel for the real product.” It is half of the demand story: legitimacy, volume at the perimeter, and a deep pool of residents who never needed a passport to arrive. International nomads and investors are the other half. Neither is starved; they are zoned so volume and sacredness do not occupy the same hectare at the same hour.
-
-What the top of the local ladder buys here: **VISIT → STAY → SETTLE** (see [[ladder]] in the cyberia protocol). **BELONG** is a network product — portable across cities — not something Indonesia’s land law can sell as freehold to foreigners.
+**Rules.** Conversion is the strategy: TOUCH → VISIT → STAY → SETTLE (→ BELONG on the network). Each rung has its own job — legitimacy, margin, or depth — not one vanity metric. Capacity before marketing (Sinwood, trails, parking). Brand leads with forest, volcano, glow; cyber reveals itself after arrival.
 
 ---
 
-## 3. Products: The Ladder
-
-Ordered by length of stay. Each rung feeds the next.
-
-| stay | product | role |
-|------|---------|------|
-| **hours** | picnics & short hikes — Indonesian families | discovery · local love · legitimacy · volume |
-| **days** | mountain tourism — trails, sunrise, Sinwood, glamping | overnight · OTA · cash for ops |
-| **week** | retreats & events — camps, markets, festivals | multiplier · content · high-intent guests |
-| **month** | nomad / coliving — beds, cowork, wellness | backbone revenue · funnel into leases |
-| **residency & ownership** | leaseholds, Hak Pakai, Hak Milik (WNI) | the city itself — foreign investors + affluent Indonesians |
-
-**Rules.**
-
-- **Conversion is the strategy.** Picnic → overnight → week → month → residency. Measure each rung on its own job (legitimacy, margin, or conversion) — not one vanity metric.
-- **Capacity before marketing.** Sinwood load, trail load, parking — model the bottleneck before you push demand.
-- **Indonesia first in discovery; world in depth.** Brand leads with forest, volcano, glow; the cyber layer reveals itself after arrival.
-
-Full nation-level funnel (VISIT → STAY → SETTLE → BELONG): [[ladder]].
-
----
-
-## 4. Upside
+## 3. Upside
 
 A rare invest window: first batches of Bali North Star at **~$5k / are** — roughly **10–20×** below south Bali and Ubud, with cool highland climate and a real settlement instead of another beach suburb. Pioneer price only; later waves do not stay there.
 
@@ -104,7 +80,7 @@ The deeper bet is mountain repricing. Globally, **premium mountain prices like b
 
 ---
 
-## 5. Land Use Plan: Eight Zones
+## 4. Land Use Plan: Eight Zones
 
 | # | Zone | Area | % | Function |
 |---|------|------|---|----------|
@@ -120,13 +96,13 @@ The deeper bet is mountain repricing. Globally, **premium mountain prices like b
 **Design logic:**
 
 - **Z6 + Z7 (46%) are permanent holdings.** A villa plot adjoining managed forest and productive farmland commands a 30–50% premium over an identical plot in a bare subdivision. The unsold land is what sells the sold land.
-- **Z1 is released in waves, never in bulk** (§7). Total early release is capped at 20% of the residential inventory.
+- **Z1 is released in waves, never in bulk** (§6). Total early release is capped at 20% of the residential inventory.
 - **Z4 is the control layer.** Whoever owns energy, water, and access owns the city. All structures in this zone revert to the developer.
 - **The core is car-free.** Vehicles stop at the Z4 mobility hub on the perimeter; internal movement is by foot, e-mobility, and shuttle. This is simultaneously an operating decision and the wellness product itself — silence and clean air are the brand. It is also how rung-1 volume and the sacred core coexist (§2).
 
 ---
 
-## 6. Deal Architecture
+## 5. Deal Architecture
 
 ### 6.1 Instrument Menu
 
@@ -168,7 +144,7 @@ The deeper bet is mountain repricing. Globally, **premium mountain prices like b
 - Capacity: ~350 car slots (1 ha) + ~1,800 motorbike slots (1 ha), weighted for Balinese two-wheel culture.
 - Product: the slot as a micro-asset — **motorbike $1k / car $5k** (25-year lease per slot). Full sell-out ≈ **$3.5M**, comparable to a residential wave but consuming no buildable land.
 - Management company runs operations for opex + 25–30% of revenue; slot owners target 10–15% gross yield at $0.30–0.50/hour car tariffs in destination mode.
-- Strategic role: the $1k slot is the cheapest ticket into the project — a micro-investor funnel with an upgrade path (slot → option → lease) and the natural first candidate for tokenization (§10).
+- Strategic role: the $1k slot is the cheapest ticket into the project — a micro-investor funnel with an upgrade path (slot → option → lease) and the natural first candidate for tokenization (§9).
 - Honest disclosure to buyers: yield projections assume Phase 2+ traffic. Early tranches carry a 2-year minimum rent guarantee from the management company, priced into the slot.
 - Throughput at maturity: 10–12k people/day — sufficient for the anchor, events, and residency flows combined.
 
@@ -180,7 +156,7 @@ The deeper bet is mountain repricing. Globally, **premium mountain prices like b
 
 ---
 
-## 7. Phasing: Resolving the Chicken-and-Egg
+## 6. Phasing: Resolving the Chicken-and-Egg
 
 A city needs infrastructure to attract residents and residents to pay for infrastructure. The resolution is wave-based sequencing where each phase's sales fund the next phase's infrastructure, anchored by one demand magnet built first.
 
@@ -211,7 +187,7 @@ A city needs infrastructure to attract residents and residents to pay for infras
 
 ---
 
-## 8. Financial Architecture
+## 7. Financial Architecture
 
 ```
 Capital sources by phase:
@@ -239,12 +215,12 @@ The structural goal: by end of Phase 2, recurring streams cover 100% of estate o
 
 | source | what it is | where in this strategy |
 |---|---|---|
-| **Land rights** | sale of plots / [[hak sewa]] (upfront or instalments), [[leasehold upfront]], [[annual leasehold]], [[hak pakai]], [[hak milik]] | §6 instruments, §7 waves |
+| **Land rights** | sale of plots / [[hak sewa]] (upfront or instalments), [[leasehold upfront]], [[annual leasehold]], [[hak pakai]], [[hak milik]] | §5 instruments, §6 waves |
 | **Visit economy** | trails, short stays, events, temporary use | §3 rungs 1–3 |
-| **Infra & utilities** | water, power, connectivity, waste, parking slots — tariff margin retained | §6 Z4, §8 stream 1 |
-| **Participation / revenue share** | on-site operators (spa, F&B, farms, glamping, villas) pay share of activity | §8 streams 2–3; Z2 JV |
+| **Infra & utilities** | water, power, connectivity, waste, parking slots — tariff margin retained | §5 Z4, §7 stream 1 |
+| **Participation / revenue share** | on-site operators (spa, F&B, farms, glamping, villas) pay share of activity | §7 streams 2–3; Z2 JV |
 | **Company-run ops** | businesses PT PMA or subs run itself | residual operating profit |
-| **Later layers** | grants (earmarked, not distributable), carbon/biodiversity, franchise/playbook, tokens | §7 Phase 3+, §10–11 |
+| **Later layers** | grants (earmarked, not distributable), carbon/biodiversity, franchise/playbook, tokens | §6 Phase 3+, §9–11 |
 
 Instalment land sales: down payment, term, default and reversion live in the deal model per instrument — not restated here.
 
@@ -252,7 +228,7 @@ Instalment land sales: down payment, term, default and reversion live in the dea
 
 ---
 
-## 9. Spending Strategy
+## 8. Spending Strategy
 
 Sections 6–8 answer where money comes from; this one answers where it goes. A city is a machine that turns rent back into capability — the spending discipline IS the development strategy, and it is what separates an estate that compounds from a project that cashes out.
 
@@ -270,7 +246,7 @@ Sections 6–8 answer where money comes from; this one answers where it goes. A 
 
 **Five allocation rules:**
 
-1. **Two ledgers, never mixed.** One-time income (upfronts, HGB trades, lump sums) buys permanent capability; recurring income (the five streams of §8) runs the city. Capital events are never spent on opex — a city that eats its lump sums dies rich.
+1. **Two ledgers, never mixed.** One-time income (upfronts, HGB trades, lump sums) buys permanent capability; recurring income (the five streams of §7) runs the city. Capital events are never spent on opex — a city that eats its lump sums dies rich.
 2. **Maintenance is senior.** Existing capability is maintained before any new one is bought. A decaying asset is a liability wearing an asset's name.
 3. **Bottleneck-first.** Growth capex concentrates on the binding constraint of the current phase — sequencing is the strategy, applied to spending.
 4. **Collapse down the stack.** When income shrinks, cuts run top-down: computing before roads, roads before water. The bottom of the stack is never rationed.
@@ -280,7 +256,7 @@ Starting allocation of recurring income, reviewed at every phase gate: **40% run
 
 ---
 
-## 10. The Cyberia Layer (software)
+## 9. The Cyberia Layer (software)
 
 The valley runs on [[cyberia]] software — not as a slide, as the operating system of daily life.
 
@@ -290,7 +266,7 @@ The valley runs on [[cyberia]] software — not as a slide, as the operating sys
 | [[maps]] | space — plots, districts, trails, what sits where |
 | [[services]] | what the city offers — skills callable by tier |
 | [[sensor network]] | air, water, energy, soil — quality of life made measurable |
-| [[ladder]] | VISIT → STAY → SETTLE → BELONG — who can call which Skills |
+| [[ladder]] | TOUCH → VISIT → STAY → SETTLE → BELONG — who can call which Skills |
 | [[marketplace]] | land rights, stays, events, utilities — one price surface |
 | [[orgs]] | entities, roles, skills — who can act in the city |
 | [[century index]] | long-horizon value that does not rot with local currency |
@@ -299,21 +275,21 @@ Corporate / legal wrappers (PT PMA, DAO, deeds) live under [[cyberia]] · [[cve]
 
 ---
 
-## 11. The Network Exit
+## 10. The Network Exit
 
 Honesty about the ceiling: **Indonesia cannot sell rooting.** Hak Milik is citizens-only, dual citizenship is prohibited, every foreign status is time-bound. The top rung of the ladder — BELONG — is not this jurisdiction's product, and earlier versions of this strategy erred by promising it here. The correction:
 
 1. **Gesing is city #1, not the terminal city** — the prototype, the campus, and the cash engine of a network. Its ladder honestly ends at SETTLE: leaseholds of 25 years plus extensions.
 2. **BELONG is sold by the network.** Citizenship is Cyberia membership — portable across sites, with land rights attached per jurisdiction. The nomad who moves sideways keeps everything; this matches what nomads actually want (§2) instead of fighting it.
-3. **Cash out roughly half; keep the engine.** Capital assets — HGB anchors (Rockets, Bridge), district leaseholds, mature sale-leasebacks — are sold on the §7 phase gates. Never sold: Z4 (control), Z6/Z7 (the amenity engine), and the five recurring streams. Proceeds sit in [[century index]] reserves until deployed — a war chest that keeps its value while the next site is chosen.
-4. **Site #2 passes five filters that Gesing cannot:** perpetual land rights for foreigners · a real path to citizenship or permanent residence · rights that survive a change of government · geography that carries the tone · crypto-compatible rails. The jurisdiction memo is an open item (§13).
+3. **Cash out roughly half; keep the engine.** Capital assets — HGB anchors (Rockets, Bridge), district leaseholds, mature sale-leasebacks — are sold on the §6 phase gates. Never sold: Z4 (control), Z6/Z7 (the amenity engine), and the five recurring streams. Proceeds sit in [[century index]] reserves until deployed — a war chest that keeps its value while the next site is chosen.
+4. **Site #2 passes five filters that Gesing cannot:** perpetual land rights for foreigners · a real path to citizenship or permanent residence · rights that survive a change of government · geography that carries the tone · crypto-compatible rails. The jurisdiction memo is an open item (§12).
 5. **The export product is the playbook itself:** the CX index, the marketplace protocol, the spending discipline, the zone architecture, this document. Every city Cyberia develops prices its leases with the same machine — that sentence is already written into the [[century index]] spec.
 
-Winning, stated plainly: recurring streams cover Gesing's opex (§8), the reserve wave sells at 2× (§7), roughly half the capital redeploys into the first rooting-capable site, and city #2 starts with everything city #1 had to learn.
+Winning, stated plainly: recurring streams cover Gesing's opex (§7), the reserve wave sells at 2× (§6), roughly half the capital redeploys into the first rooting-capable site, and city #2 starts with everything city #1 had to learn.
 
 ---
 
-## 12. Risk Register
+## 11. Risk Register
 
 | Risk | Mitigation |
 |---|---|
@@ -322,20 +298,20 @@ Winning, stated plainly: recurring streams cover Gesing's opex (§8), the reserv
 | Loss of infrastructure control | Self-fund default; barter/BOT fallbacks only with reversion; perpetual transfer prohibited |
 | Community plots changing function | Deed restrictions + reversion clauses in all Z3 contracts |
 | Regulatory (PT PMA status, HGB extensions, zoning) | Extension options written into every lease now; Hak Pakai duplication where possible; ITR/RDTR Buleleng verification before plot subdivision is finalized |
-| Single-jurisdiction concentration | The network exit (§11): staged cash-out, CX reserves, site #2 filters |
+| Single-jurisdiction concentration | The network exit (§10): staged cash-out, CX reserves, site #2 filters |
 | Early parking buyers facing empty asphalt | Phase-2 yield framing in all sales material + 2-year minimum rent guarantee priced into tranche 1 |
 | Phase 0 raise falling short of Phase 1 capex | Construction does not start until the gap is closed; barter pre-negotiated as a standby facility, not a surprise |
 
 ---
 
-## 13. Open Items
+## 12. Open Items
 
 1. **Z1 subdivision grain:** 5-are vs 10-are minimum plots — more buyers vs. lower density and stronger atmosphere. Decision gates Wave 1 marketing.
 2. **Wave 1 price anchor:** comparable analysis of Munduk/Bedugul leasehold $/are required to calibrate the ×0.4 pioneer multiple.
 3. **ITR/RDTR Buleleng:** confirm permitted construction on current land status — this determines which zones are legal immediately and which require status conversion. **Highest-priority verification; gates the entire subdivision plan.**
 4. **Phase 1 capex model:** road + water + energy core + hub pad, priced against realistic Phase 0 sales volume — determines exactly how many Wave 1 are must sell before ground breaks.
 5. **DAO ↔ PT PMA legal bridge:** structure for token-side representation of registered leases.
-6. **Site #2 jurisdiction memo:** the five §11 filters applied first-principles to candidate jurisdictions, with verified facts on land rights, naturalization, and political risk.
+6. **Site #2 jurisdiction memo:** the five §10 filters applied first-principles to candidate jurisdictions, with verified facts on land rights, naturalization, and political risk.
 7. **Sinwood capacity model:** concurrent load limit for the sacred core — gates rung-3 event marketing and the new-moon product.
 
 ---
