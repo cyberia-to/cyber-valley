@@ -85,11 +85,30 @@ Full nation-level funnel (VISIT → STAY → SETTLE → BELONG): [[ladder]].
 
 ---
 
-## 4. The Asset and Its Position
+## 4. Upside — why Gesing / Munduk, not Ubud / Bukit / Nuanu
 
-37 hectares of highland cloud forest and productive land at 1,200–1,500 m — temperate year-round, scarce as lowland heat intensifies.
+The job of this section is not to restate the site — it is to show **price room**.
 
-Competitive position: the Munduk–Bedugul corridor is still under-built for *quality* settlement. South Bali is expensive and hot; the highlands lack a serious city-scale product. At 10% footprint and three levels (~100k m²), this site can house 2k–3k people — enough density for school, clinic, and markets without becoming another lowland suburb. The strategy is to be the party that normalizes access and captures the highland repricing.
+**Retail target:** **~$5k / are** (сотка) for finished city rights (leasehold / packaged residency product). That is the number the ladder and waves are built around.
+
+**Where the market sits today** (indicative asking bands, freehold land unless noted — mid-2025/26 listings & broker reports; not appraisals):
+
+| band | ~USD / are | what you get |
+|------|------------|--------------|
+| **Canggu / Seminyak** | $80k–$200k+ | hot, saturated, beach lifestyle — no mountain product |
+| **Ubud prime** | $40k–$150k+ | cultural center, already expensive; leasehold still steep |
+| **Bukit / Uluwatu** | high tens–hundreds of $k | cliff / surf suburb — same south heat and crowd |
+| **Nuanu** (ocean creative city) | marketed ~$100k+/are freehold class | gated oceanfront story — different climate, different product |
+| **Munduk / Gesing raw** | ~$2k–$4k (often IDR 35–65M/are) | cool air, views, **no city** — dirt + hope |
+
+**The upside.**
+
+1. **vs south & Ubud.** At **$5k/are** Cyber Valley is still an order of magnitude below Canggu/Ubud freehold — while selling *cool climate + settlement quality* those bands cannot offer. Buyers who are priced out of the south (or tired of it) are the pool.
+2. **vs raw highland dirt.** Gesing/Munduk listings sit around **$2–4k/are** with no infra, no tone, no ladder. City packaging (access, utilities, brand, community) is what lifts retail to **$5k** and beyond in later waves — the spread between raw and city is the developer margin *and* the reason pioneers enter early.
+3. **vs Nuanu.** Nuanu sells a south-ocean creative-city story at south-ocean prices. Bali North Star sells the opposite climate and a quieter life; it does not compete hectare-for-hectare — it takes the highland lane those projects leave empty.
+4. **Repricing path.** As north-bali access and utilities normalize, highland dirt catches up toward “real destination” prices. Strategy: be the party that builds the city *before* that catch-up, lock early waves below the future floor, and let quality of life — not hype — pull Munduk/Gesing toward a new band.
+
+**Rule of thumb.** If south Bali is $50k–$150k/are for heat and density, and raw Gesing is ~$3k/are for mist and silence, then **$5k/are retail** is the honest first city price: premium to dirt, discount to the overbuilt south, and room to climb as the settlement proves itself.
 
 ---
 
