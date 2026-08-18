@@ -4,7 +4,7 @@ crystal-type: pattern
 crystal-domain: cyberia
 alias: development, city development strategy, master plan, tone, the tone
 ---
-# Cyber Valley City Development Strategy
+# City Development Strategy
 
 ## 1. Strategic Intent
 
