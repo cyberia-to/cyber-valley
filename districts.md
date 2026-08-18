@@ -12,13 +12,13 @@ two geographies: the [[citadel]] slope and [[gesing]].
 
 computing fortress + living biome. modular homes, off-grid energy/water, community web3 backbone. grows as people arrive.
 
-| zone | note |
-|------|------|
-| [[sinwood]] | bioluminescent forest — night spectacle, new-moon peak |
-| [[avalon]] | water / pond hold — high zone premium |
-| [[rockets]] | family estate cluster |
-| [[etherland]] | west tower + pasture — soft amenity / workspace edge |
-| [[frontier]] | outer rim — canyon-facing plots, lower premium, more room to build |
+| zone | ha | note |
+|------|----|------|
+| [[sinwood]] | 4 | bioluminescent forest — night spectacle, new-moon peak |
+| [[avalon]] | 2 | water / pond hold — high zone premium |
+| [[rockets]] | 1.5 | family estate cluster |
+| [[etherland]] | 2 | west tower + pasture — soft amenity / workspace edge |
+| [[frontier]] | 19 | outer rim — canyon-facing plots, lower premium, more room to build |
 
 ## [[gesing]]
 

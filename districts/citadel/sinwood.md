@@ -7,7 +7,7 @@ icon: ✨
 ---
 # sinwood
 
-bioluminescent forest zone inside [[citadel]] / [[rockets]] — the valley’s signature night landscape.
+**4 ha** bioluminescent forest zone inside [[citadel]] / [[rockets]] — the valley’s signature night landscape.
 
 glow peaks around **new moon** (day before · night · day after). free to walk with day/night pass; premium new-moon packages exist on the visitor side ([[cyb-land]] / attractions).
 
