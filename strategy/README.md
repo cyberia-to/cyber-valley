@@ -98,11 +98,9 @@ Indicative HGB asks (USD / are; mid-2025/26 listings — not appraisals):
 | Nuanu | 100k | 100k+ | gated ocean creative |
 | Cyber Valley first batches | 5k | 5k | highland city pioneer |
 
-**Two points.**
+This is a rare window. At **$5k / are**, early waves sit roughly **10–20×** below Seminyak, Canggu, Ubud, Uluwatu, and Nuanu — while offering what those bands cannot: cool highland climate and a city built for life, not only for a weekend. That discount is not a permanent feature of the product; it is the pioneer price. As the settlement works, later batches leave $5k behind.
 
-1. **$5k is a gift — and only for early waves.** vs south Bali / Ubud / Nuanu it is ~10–20× cheaper today. That gap closes as the city works; later batches do not stay at pioneer price.
-
-2. **The real job is mountain repricing.** Globally, premium mountain always prices like beachfront — or higher (climate, silence, view, scarcity of buildable slope). Bali’s south already cleared that bar; the highlands have not. Building Bali North Star is how Gesing / Munduk stop trading as “cheap dirt” and start trading as **destination land**. Upside is not a bump from 5k to 6k — it is catching the beachfront band from below.
+The deeper bet is not a bump from five to six. Globally, **premium mountain prices like beachfront — or higher**: climate, silence, view, and scarce buildable slope. Bali’s south already cleared that bar; the highlands have not. Bali North Star is how Gesing and Munduk stop trading as cheap dirt and start trading as **destination land** — catching the beachfront band from below, once, while the window is still open.
 
 ---
 
