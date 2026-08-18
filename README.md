@@ -8,8 +8,10 @@ alias: cv, about, cyber valley
 ---
 # cyber valley
 
+> **Bali North Star**
+
 ~37 ha in [[gesing]], Buleleng — slope of [Sanghyang](https://maps.app.goo.gl/CdD8vRYHrWkpTGYj6).  
-**Bali North Star** — first city of [[cyberia]]: highland settlement where deep tech and a beautiful life share the same ground.
+first city of [[cyberia]]: highland settlement where deep tech and a beautiful life share the same ground.
 
 started 2021 · first off-grid home 2023 · [[citadel]] (~30 ha) under construction.
 

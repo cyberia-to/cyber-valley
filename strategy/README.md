@@ -2,13 +2,15 @@
 tags: cyberia, cyber valley, strategy
 crystal-type: pattern
 crystal-domain: cyberia
-alias: development, city development strategy, master plan, tone, the tone
+alias: bali north star, Bali North Star, development, city development strategy, master plan, tone, the tone
 ---
-# City Development Strategy
+# Bali North Star
+
+> **Bali North Star** — the highland pole of Bali: nature × technology, mountain tourism × a life worth staying for.
+
+City development strategy for [[cyber valley]], city #1 of [[cyberia]].
 
 ## 1. Strategic Intent
-
-**Bali North Star.** [[cyber valley]] is city #1 of [[cyberia]] — the highland pole of Bali: nature × technology, mountain tourism × a life worth staying for.
 
 **The gap.** Indonesia has mountains, volcanoes, cool air — and almost no *quality* mountain settlements. Bali is still the #1 destination for nomads and for Indonesia’s own weekend travel; the south is overbuilt and hot, while the **north** is cooler, emptier, and open for a real city. Families drive up for a day, retreats hunt for venues, and there is nowhere good enough to stay for a week, a month, or a life. That absence is the demand engine.
 
