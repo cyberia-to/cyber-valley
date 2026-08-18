@@ -7,7 +7,7 @@ icon: 🚀
 ---
 # rockets
 
-**1.5 ha** family estate cluster inside [[citadel]] — the first inhabited cells of the valley. fiber coverage started here (~4 ha) and grows outward.
+**1.5 ha** family estate cluster inside [[citadel]] — the first inhabited cells of the valley. fiber coverage started on this estate and grows outward.
 
 four named holds:
 
