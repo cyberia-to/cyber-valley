@@ -16,14 +16,14 @@ home desa of [[cyber valley]] — the civil address of PT PMA, the village inter
 
 | | |
 |--|--|
-| area | **14.78 km²** (~1,478 ha) — BPS Banjar dalam Angka |
+| area | **~22 km²** (~2,200 ha) — working figure; Wikipedia/BPS Banjar dalam Angka still lists 14.78 km² |
 | population | **3,105** (2016) · 3,331 (2010 census) · ~1,168 households (2016) |
 | density | ~226 / km² (2010) |
 | elevation | village belt ~600–1,400 m; valley sites ~1,200–1,500 m cloud forest |
 | land use | ~96% dry land · ~4% sawah |
 | neighbors | N [[Munduk]] + Kayuputih · E hutan lindung · S Pujungan (Pupuan, Tabanan) · W Umejero (Busungbiu) |
 
-> desa site once printed “1.231.620 Ha” — almost certainly m² mislabeled; BPS km² is the figure to trust.
+> desa site once printed “1.231.620 Ha” (almost certainly mislabeled m²). we use **~22 km²** as the working desa area.
 
 ## history
 
