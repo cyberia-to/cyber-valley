@@ -23,4 +23,4 @@ at the center: a small community web3 data center on renewable power and a [[sen
 | [[etherland]] | west tower, open grass, soft workspace |
 | [[frontier]] | outer rim toward canyons |
 
-see also: [[citadel/vision]] · [[citadel/strategy]] · [[citadel/legal]] · [[citadel/attractors]]
+see also: [[citadel/vision]] · [[citadel/strategy]] · [[citadel/attractors]]
