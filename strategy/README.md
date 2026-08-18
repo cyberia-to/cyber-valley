@@ -6,19 +6,11 @@ alias: development, city development strategy, master plan, tone, the tone
 ---
 # Cyber Valley City Development Strategy
 
-**Asset:** 37 ha · [[gesing]], Buleleng, Bali · 1,200–1,500 m · cloud forest  
-**Holding:** PT PMA Cyber Valley Estate · Cyberia DAO LLC (Marshall Islands)  
-**Version:** 3.0 · August 2026
-
-Public by design. The curve and the caps are commitments, not talking points.
-
----
-
 ## 1. Strategic Intent
 
-[[cyber valley]] is city #1 of [[cyberia]]: a highland settlement where deep tech and a beautiful life share the same ground.
+**Bali North Star.** [[cyber valley]] is city #1 of [[cyberia]] — the highland pole of Bali: nature × technology, mountain tourism × a life worth staying for.
 
-**The gap.** Indonesia has mountains, volcanoes, cool air — and almost no *quality* mountain settlements. **Bali** is still the #1 destination for nomads and for Indonesia’s own weekend travel; the south is overbuilt and hot, while the **north** (Bali North Star) is cooler, emptier, and open for a real city. Families drive up for a day, retreats hunt for venues, and there is nowhere good enough to stay for a week, a month, or a life. That absence is the demand engine.
+**The gap.** Indonesia has mountains, volcanoes, cool air — and almost no *quality* mountain settlements. Bali is still the #1 destination for nomads and for Indonesia’s own weekend travel; the south is overbuilt and hot, while the **north** is cooler, emptier, and open for a real city. Families drive up for a day, retreats hunt for venues, and there is nowhere good enough to stay for a week, a month, or a life. That absence is the demand engine.
 
 **Two markets, one place.**
 
@@ -73,7 +65,7 @@ Ordered by length of stay. Each rung feeds the next.
 
 **Rules.**
 
-- **Conversion is the strategy.** Day → overnight → week → month → residency. Measure each rung on its own job (legitimacy, margin, or conversion) — not one vanity metric.
+- **Conversion is the strategy.** Picnic → overnight → week → month → residency. Measure each rung on its own job (legitimacy, margin, or conversion) — not one vanity metric.
 - **Capacity before marketing.** Sinwood load, trail load, parking — model the bottleneck before you push demand.
 - **Indonesia first in discovery; world in depth.** Brand leads with forest, volcano, glow; the cyber layer reveals itself after arrival.
 
