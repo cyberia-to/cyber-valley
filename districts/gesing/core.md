@@ -7,6 +7,6 @@ icon: ◎
 ---
 # core
 
-highest-value zone on the Gesing / valley land rating (`core` / `avatar` → weight 1.0).
+**2 ha** — highest-value zone on the Gesing / valley land rating (`core` / `avatar` → weight 1.0).
 
 dense, connected, closest to village services and approach roads. scarce by design — the opposite of [[frontier]].

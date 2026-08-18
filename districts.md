@@ -22,10 +22,10 @@ computing fortress + living biome. modular homes, off-grid energy/water, communi
 
 ## [[gesing]]
 
-| zone | note |
-|------|------|
-| [[core]] | densest / highest-value zone on the map rating |
-| [[bridge]] | ~5–7 ha planned public [[magic forest]] + residential estate & light commerce |
+| zone | ha | note |
+|------|----|------|
+| [[core]] | 2 | densest / highest-value zone on the map rating |
+| [[bridge]] | ~5 | planned public [[magic forest]] + residential estate & light commerce |
 
 ---
 

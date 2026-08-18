@@ -9,7 +9,7 @@ dev: "false"
 ---
 # bridge
 
-planned district on the Gesing edge of [[cyber valley]] — **~4.8–7 ha** of fertile gardens opening into a public [[magic forest]] with residential estate and light commerce.
+planned district on the Gesing edge of [[cyber valley]] — **~5 ha** of fertile gardens opening into a public [[magic forest]] with residential estate and light commerce.
 
 **status:** architecture / planned.
 
