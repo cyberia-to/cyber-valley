@@ -4,15 +4,36 @@ tags: cyber, cyber valley
 crystal-type: entity
 crystal-domain: biology
 icon: "⛰"
-alias: cv, about
+alias: cv, about, cyber valley
 ---
-Thirty-seven hectares in [[gesing]], Buleleng — at the foot of [Sanghyang volcano](https://maps.app.goo.gl/CdD8vRYHrWkpTGYj6) — the first city of [[cyberia]], a [[sustainable community]] built from first principles, the place where technology and nature converge instead of collide. The project began in 2021 with a simple acquisition of land in one of the most pristine locations on Earth. By July 2023 the first completely offgrid home stood finished, and the real experiment started: learning how a civilization lives when it gives back more than it takes.
+# cyber valley
 
-Everything here grows from [[foundations]] — a practical philosophy of [[autonomy]] where comfortable independent life costs less than an average car, clean energy is harnessed rather than purchased, and the stars are visible every night. The [[cv/districts]] are designed symbiotically, each one a proof that human settlement can be redesigned. The [[magic forest]] weaves five hundred species into a regenerative system where food, medicine, materials, and beauty grow from the same soil.
+~37 ha in [[gesing]], Buleleng — slope of [Sanghyang](https://maps.app.goo.gl/CdD8vRYHrWkpTGYj6).  
+first city of [[cyberia]]: highland settlement where deep tech and a beautiful life share the same ground.
 
-The project is deliberately self-funded to protect one core idea: an outstanding environment for planet-aware people to live and prosper. Everything learned is published openly so anyone anywhere can start their own [[sustainable community]] from real knowledge. Visitor product notes live under [[cyb-land]]. The environment changes everyone who encounters it — and the [[superhuman]] begins where the environment is built for transformation.
+started 2021 · first off-grid home 2023 · [[citadel]] (~30 ha) under construction.
 
-[[visit us]], or [[join us]] from wherever you are.
+> quiet nights · clean air · fast networks · space to think
 
-- [[cyber-valley/cve]] — valley events
-- [[oxytocin]] — wellness layer
+---
+
+## map
+
+| section | what |
+|---------|------|
+| [[districts]] | [[citadel]] slope + [[gesing]] — zones and holds |
+| [[strategy]] | how the city grows — tone, ladder, [[attractors]], [[citadel strategy]] |
+| [[policies]] | air · water · soil · light · sound · carbon · zoning |
+| [[legal]] | PT PMA pack — land rights, SHA, AoA |
+| [[dzin]] | CEO / corporate closing pack |
+| [[cve]] | operating company |
+| [[buildings]] | what stands on the land |
+| [[landscape]] | trails, highland flora, place |
+| [[ops]] | day-to-day build and run |
+| [[cyb-land]] | visitor product (research) |
+
+---
+
+## one line
+
+[[cyberia]] is the nation · **cyber valley** is city #1 · [[gesing]] is the desa
