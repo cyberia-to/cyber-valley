@@ -1,10 +1,7 @@
 ---
-tags: district
-crystal-type: entity
-crystal-domain: cyberia
-ops: "false"
-dev: "false"
+alias: etherland, etherlandia
+tags: cyber valley
 ---
-[[west tower]]
+# etherland
 
-[[pasture]]
+→ **[[citadel/etherland]]**
