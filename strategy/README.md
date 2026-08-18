@@ -89,7 +89,7 @@ Full nation-level funnel (VISIT → STAY → SETTLE → BELONG): [[ladder]].
 
 The job of this section is not to restate the site — it is to show **price room**.
 
-**Retail target:** **~$5k / are** (сотка) for finished city rights (leasehold / packaged residency product). That is the number the ladder and waves are built around.
+**Retail target:** **~$5k / are** for finished city rights (leasehold / packaged residency product). That is the number the ladder and waves are built around.
 
 **Where the market sits today** (indicative asking bands, freehold land unless noted — mid-2025/26 listings & broker reports; not appraisals):
 
