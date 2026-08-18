@@ -27,6 +27,8 @@ Cyber Valley can own a niche that works on the Indonesian market *and* the Asian
 
 **Principle.** **Quality of life is the product.** Quiet nights, clean air, fast networks, space to think — not plots, not parties. Every deal, zone, and rung of the ladder is judged by whether it raises or burns that quality.
 
+**Autonomy.** The city runs on its own energy, water, food, and data — off-grid by design, not as a lifestyle pose. Dependence on the lowland grid is a risk; self-sufficiency is the baseline that makes highland life real and the settlement antifragile.
+
 **Tone.** Wild, sacred, nature-first — glowing rather than loud, priced and filtered rather than mass-market. Guardrails: price and filter · cap the sacred · guardians hold culture · curate the image.
 
 ### Attractors
