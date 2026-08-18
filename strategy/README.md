@@ -23,6 +23,8 @@ Cyber Valley can own a niche that works on the Indonesian market *and* the Asian
 
 **The scale math.** 37 ha at ~10% footprint, two floors + basement ≈ **~100,000 m²** of built space. That is enough for a settlement of **~2k–3k people** — large enough to support real education, medicine, markets, and culture; small enough to keep silence, air, and the sacred core intact.
 
+**Principle.** **Quality of life is the product.** Quiet nights, clean air, fast networks, space to think — not plots, not parties. Every deal, zone, and rung of the ladder is judged by whether it raises or burns that quality.
+
 **Tone.** Wild, sacred, nature-first — glowing rather than loud, priced and filtered rather than mass-market. Guardrails: price and filter · cap the sacred · guardians hold culture · curate the image. Place magnets: [[attractors]]. Citadel thesis: [[citadel strategy]].
 
 ---
