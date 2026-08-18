@@ -8,6 +8,8 @@ PT PMA Cyber Valley Estate — the Indonesian operating company of [[cyberia]]. 
 
 ---
 
+Legal pack: [[cve/legal]] · [[dzin]]
+
 ## legal structure
 
 | field | value |
