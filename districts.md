@@ -29,9 +29,7 @@ computing fortress + living biome. modular homes, off-grid energy/water, communi
 | [[edem]] | experimental [[magic forest]] — 240+ genus, genetics & food supplier |
 | [[baikal]] | pond hold — water feature estate |
 
-## [[gesing]] · village & approach
-
-the inhabited edge of the valley — access, neighbors, and the land that faces the road.
+## [[gesing]]
 
 | zone | note |
 |------|------|
