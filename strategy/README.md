@@ -93,13 +93,14 @@ The job of this section is not to restate the site — it is to show **price roo
 
 **Where the market sits today** (indicative asking bands, freehold land unless noted — mid-2025/26 listings & broker reports; not appraisals):
 
-| band | ~USD / are | what you get |
-|------|------------|--------------|
-| **Canggu / Seminyak** | $80k–$200k+ | hot, saturated, beach lifestyle — no mountain product |
-| **Ubud prime** | $40k–$150k+ | cultural center, already expensive; leasehold still steep |
-| **Bukit / Uluwatu** | high tens–hundreds of $k | cliff / surf suburb — same south heat and crowd |
-| **Nuanu** (ocean creative city) | marketed ~$100k+/are freehold class | gated oceanfront story — different climate, different product |
-| **Munduk / Gesing raw** | ~$2k–$4k (often IDR 35–65M/are) | cool air, views, **no city** — dirt + hope |
+| band | min $/are | max $/are | what you get |
+|------|-----------|-----------|--------------|
+| Canggu / Seminyak | 80k | 200k+ | hot, saturated, beach lifestyle — no mountain product |
+| Ubud prime | 40k | 150k+ | cultural center, already expensive; leasehold still steep |
+| Bukit / Uluwatu | 50k | 150k+ | cliff / surf suburb — same south heat and crowd |
+| Nuanu (ocean creative city) | 100k | 100k+ | gated oceanfront story — different climate, different product |
+| Munduk / Gesing raw | 2k | 4k | cool air, views, no city — dirt + hope |
+| **Cyber Valley retail (target)** | **5k** | **5k+** | city rights — cool climate + settlement quality |
 
 **The upside.**
 
