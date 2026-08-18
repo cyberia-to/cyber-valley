@@ -87,16 +87,15 @@ Full nation-level funnel (VISIT → STAY → SETTLE → BELONG): [[ladder]].
 
 ## 4. Upside
 
-Indicative land asks (USD / are, freehold unless noted; mid-2025/26 listings — not appraisals):
+Indicative HGB asks (USD / are; mid-2025/26 listings — not appraisals):
 
-| band | min | max |
-|------|-----|-----|
-| Canggu / Seminyak | 80k | 200k+ |
-| Ubud prime | 40k | 150k+ |
-| Bukit / Uluwatu | 50k | 150k+ |
-| Nuanu | 100k | 100k+ |
-| Munduk / Gesing raw | 2k | 4k |
-| Cyber Valley first batches | 5k | 5k |
+| band | min | max | note |
+|------|-----|-----|------|
+| Canggu / Seminyak | 80k | 200k+ | hot beach saturation |
+| Ubud prime | 40k | 150k+ | cultural center premium |
+| Bukit / Uluwatu | 50k | 150k+ | cliff surf suburb |
+| Nuanu | 100k | 100k+ | gated ocean creative |
+| Cyber Valley first batches | 5k | 5k | highland city pioneer |
 
 **Two points.**
 
