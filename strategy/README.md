@@ -4,11 +4,11 @@ crystal-type: pattern
 crystal-domain: cyberia
 alias: bali north star, Bali North Star, development, city development strategy, master plan, tone, the tone
 ---
-# Bali North Star
+# City Development Strategy
 
 > **Bali North Star** — the highland pole of Bali: nature × technology, mountain tourism × a life worth staying for.
 
-City development strategy for [[cyber valley]], city #1 of [[cyberia]].
+Strategy for [[cyber valley]], city #1 of [[cyberia]].
 
 ## 1. Strategic Intent
 
