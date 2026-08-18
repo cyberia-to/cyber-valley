@@ -56,11 +56,11 @@ One funnel for demand and product. Same rungs as [[cyberia]] protocol [[ladder]]
 
 | tier | duration | who | product here |
 |------|----------|-----|--------------|
-| **TOUCH** | hours | Indonesian families & friends | picnics + short hikes — huge domestic fashion |
-| **VISIT** | days / weeks | families, Bali tourists, hikers, retreat hosts | overnight mountain tourism · Sinwood · glamping · events |
-| **STAY** | months+ | nomads, remote workers, builders between cycles | coliving · cowork · wellness — temporary belonging |
-| **SETTLE** | years | foreign investors · affluent Indonesians (upper-middle+) | leaseholds · Hak Pakai · Hak Milik (WNI) — the city itself |
-| **BELONG** | forever | network citizens | portable Cyberia membership — not a local land product |
+| TOUCH | hours | Indonesian families & friends | picnics + short hikes — huge domestic fashion |
+| VISIT | days / weeks | families, Bali tourists, hikers, retreat hosts | overnight mountain tourism · Sinwood · glamping · events |
+| STAY | months+ | nomads, remote workers, builders between cycles | coliving · cowork · wellness — temporary belonging |
+| SETTLE | years | foreign investors · affluent Indonesians (upper-middle+) | leaseholds · Hak Pakai · Hak Milik (WNI) — the city itself |
+| BELONG | forever | network citizens | portable Cyberia membership — not a local land product |
 
 **Rules.** Conversion is the strategy: TOUCH → VISIT → STAY → SETTLE (→ BELONG on the network). Each rung has its own job — legitimacy, margin, or depth — not one vanity metric. Capacity before marketing (Sinwood, trails, parking). Brand leads with forest, volcano, glow; cyber reveals itself after arrival.
 
