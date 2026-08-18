@@ -11,7 +11,9 @@ icon: 🏰
 
 **status:** under construction.
 
-at the center: a small community web3 data center on renewable power and a [[sensor network]] — backbone for local governance and resource accounting, not a landlord. homes are modular, natural materials, meant to expand. [[magic forest]] feeds the edge; energy and water are decentralized (solar, wind, biomass, rain + biofilter).
+## vision
+
+a highland settlement where deep tech and a beautiful life share the same ground — quiet nights, clean air, fast networks, and space to think. not a resort, not a campus: a place built so living well and building the future are the same act.
 
 ## zones
 
@@ -19,8 +21,8 @@ at the center: a small community web3 data center on renewable power and a [[sen
 |------|------|
 | [[sinwood]] | glowing forest — the night attractor |
 | [[avalon]] | pond / water hold |
-| [[rockets]] | family estate cluster (asgard, carrot, edem, baikal) |
+| [[rockets]] | family estate cluster |
 | [[etherland]] | west tower, open grass, soft workspace |
 | [[frontier]] | outer rim toward canyons |
 
-see also: [[citadel/vision]] · [[citadel/strategy]] · [[attractors]]
+see also: [[citadel strategy]] · [[attractors]]
