@@ -41,7 +41,7 @@ The official RDTR status for Bali is published by `tarubali.baliprov.go.id` on t
 
 What the group's own documents give:
 
-- `cyber-valley/districts/bridge/ad.md` records, under the RTRW for a neighbouring 4.8 ha plot in the same Gesing: `Kawasan Pertanian` (agricultural), adjoining `Kawasan Lindung` (protective green zone), and states expressly that the buyer obtains the KKPR and that the buildable area is confirmed at the KKPR stage.
+- `cyber-valley/districts/gesing/bridge.md` records, under the RTRW for a neighbouring 4.8 ha plot in the same Gesing: `Kawasan Pertanian` (agricultural), adjoining `Kawasan Lindung` (protective green zone), and states expressly that the buyer obtains the KKPR and that the buildable area is confirmed at the KKPR stage.
 - the `land` spreadsheet has a PKKPR column. It is filled for 7 rows out of 21: 200, 400, 28, 445, 445, 88, 88 are — 1,694 are in total, 16.94 ha.
 
 | PKKPR | area | share of the Estate |
