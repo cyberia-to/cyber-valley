@@ -91,9 +91,10 @@ Indicative HGB asks (USD / are; mid-2025/26 listings — not appraisals):
 
 | band | min | max | note |
 |------|-----|-----|------|
-| Canggu / Seminyak | 80k | 200k+ | hot beach saturation |
-| Ubud prime | 40k | 150k+ | cultural center premium |
-| Bukit / Uluwatu | 50k | 150k+ | cliff surf suburb |
+| Seminyak | 150k | 300k+ | top beachfront band |
+| Canggu | 80k | 200k+ | hot beach saturation |
+| Ubud | 40k | 150k+ | cultural center premium |
+| Uluwatu | 50k | 150k+ | cliff surf suburb |
 | Nuanu | 100k | 100k+ | gated ocean creative |
 | Cyber Valley first batches | 5k | 5k | highland city pioneer |
 
