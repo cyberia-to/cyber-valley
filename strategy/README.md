@@ -18,7 +18,7 @@ Public by design. The curve and the caps are commitments, not talking points.
 
 [[cyber valley]] is city #1 of [[cyberia]]: a highland settlement where deep tech and a beautiful life share the same ground.
 
-**The gap.** Indonesia has mountains, volcanoes, cool air — and almost no *quality* mountain settlements. South Bali is overbuilt and hot. The highlands are under-served: families drive up for a day, retreats hunt for venues, and there is nowhere good enough to stay for a week, a month, or a life. That absence is the demand engine.
+**The gap.** Indonesia has mountains, volcanoes, cool air — and almost no *quality* mountain settlements. **Bali** is still the #1 destination for nomads and for Indonesia’s own weekend travel; the south is overbuilt and hot, while the **north** (Bali North Star) is cooler, emptier, and open for a real city. Families drive up for a day, retreats hunt for venues, and there is nowhere good enough to stay for a week, a month, or a life. That absence is the demand engine.
 
 **Two markets, one place.**
 
