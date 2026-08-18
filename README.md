@@ -22,7 +22,7 @@ started 2021 · first off-grid home 2023 · [[citadel]] (~30 ha) under construct
 | section | what |
 |---------|------|
 | [[districts]] | [[citadel]] slope + [[gesing]] — zones and holds |
-| [[strategy]] | how the city grows — tone, ladder, [[attractors]], [[citadel strategy]] |
+| [[strategy]] | how the city grows — tone, ladder, attractors, citadel lanes |
 | [[policies]] | air · water · soil · light · sound · carbon · zoning |
 | [[cve/legal]] | PT PMA legal pack — land rights, SHA, AoA |
 | [[dzin]] | CEO / corporate closing pack (in CVE) |

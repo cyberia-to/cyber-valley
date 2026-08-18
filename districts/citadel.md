@@ -25,4 +25,4 @@ a highland settlement where deep tech and a beautiful life share the same ground
 | [[etherland]] | west tower, open grass, soft workspace |
 | [[frontier]] | outer rim toward canyons |
 
-see also: [[citadel strategy]] · [[attractors]]
+see also: [[strategy]]

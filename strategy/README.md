@@ -25,7 +25,23 @@ Cyber Valley can own a niche that works on the Indonesian market *and* the Asian
 
 **Principle.** **Quality of life is the product.** Quiet nights, clean air, fast networks, space to think — not plots, not parties. Every deal, zone, and rung of the ladder is judged by whether it raises or burns that quality.
 
-**Tone.** Wild, sacred, nature-first — glowing rather than loud, priced and filtered rather than mass-market. Guardrails: price and filter · cap the sacred · guardians hold culture · curate the image. Place magnets: [[attractors]]. Citadel thesis: [[citadel strategy]].
+**Tone.** Wild, sacred, nature-first — glowing rather than loud, priced and filtered rather than mass-market. Guardrails: price and filter · cap the sacred · guardians hold culture · curate the image.
+
+### Attractors
+
+demand-side place magnets — what makes people come and stay:
+
+[[truly calm]] · [[best internet]] · [[unique education]] · [[extreme center]] · [[organic market]] · [[happy animals]] · [[amazing women]] · [[berry trails]] · [[glowing life]] · [[canopy walkways]] · [[living walls]] · [[functional fashion]] · [[usable aquatics]]
+
+### Citadel earns its keep
+
+how [[citadel]] pays for quality of life without burning the tone:
+
+| lane | bets |
+|------|------|
+| **tourism** | [[nomad hub]] · [[tourism star]] · [[event space]] · [[autonomous shelters]] · [[clean food]] · [[cool events]] · [[wellness paradise]] · [[extreme epicenter]] · [[tech labs]] |
+| **living** | [[carbon policy]] · [[sound policy]] · [[light policy]] · [[energy autonomy]] · [[water storage maximization]] · [[sensor network]] · [[community capital]] · [[gender optimization]] |
+| **export** | [[quality genetics]] · [[smart capital]] · [[authenticated data]] |
 
 ---
 
