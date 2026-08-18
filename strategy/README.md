@@ -77,7 +77,7 @@ Full nation-level funnel (VISIT → STAY → SETTLE → BELONG): [[ladder]].
 
 37 hectares of highland cloud forest and productive land at 1,200–1,500 m — temperate year-round, scarce as lowland heat intensifies.
 
-Competitive position: the Munduk–Bedugul corridor is still under-built for *quality* settlement. South Bali is expensive and hot; the highlands lack a serious city-scale product. At 10% footprint and three levels (~100k m²), this site can house 2–3k people — enough density for school, clinic, and markets without becoming another lowland suburb. The strategy is to be the party that normalizes access and captures the highland repricing.
+Competitive position: the Munduk–Bedugul corridor is still under-built for *quality* settlement. South Bali is expensive and hot; the highlands lack a serious city-scale product. At 10% footprint and three levels (~100k m²), this site can house 2k–3k people — enough density for school, clinic, and markets without becoming another lowland suburb. The strategy is to be the party that normalizes access and captures the highland repricing.
 
 ---
 
