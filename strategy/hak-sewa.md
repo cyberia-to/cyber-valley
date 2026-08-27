@@ -13,7 +13,7 @@ for a foreign resident it is the cleanest way to hold cyber valley land: no citi
 two payment forms, one right:
 
 - [[leasehold upfront]] (A) — the whole term paid at signing
-- [[annual leasehold]] (B) — a minimum share upfront, the rest on an indexed schedule
+- [[annual leasehold]] (B) — 30% down, the rest in equal instalments over 1 or 5 years, no interest, no index
 
 both inherit the [[cyber-valley/policies/zoning system|zoning code]] as a covenant, and both carry the right to sublet.
 

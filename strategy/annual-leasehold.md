@@ -6,9 +6,9 @@ crystal-domain: cyberia
 ---
 # annual leasehold
 
-enter [[cyber valley]] with 30% down. the rest is a fixed yearly rent for 25 years — locked on day one, not renegotiated at market.
+enter [[cyber valley]] with 30% down. the rest is equal instalments over 1 or 5 years — locked on day one, no interest, no deferral fee, not renegotiated at market.
 
-on bali, land often wants full cash or rides ~9% a year. that builds flips, not businesses. here the unpaid part grows at a fixed 3% real over Indonesian CPI — not tied to the [[century index]] — so the rest of the schedule is knowable on day one. so entrepreneurs can start building instead of scraping for a full cheque.
+on bali, land often wants full cash or rides ~9% a year. that builds flips, not businesses. here the balance carries no rate and no index — pay 100% of the upfront price over 1 year, or 115% over 5. so entrepreneurs can start building instead of scraping for a full cheque.
 
 [[hak sewa]] with the estate: build, live, sublet. after build — [[hak pakai]] with KITAS/KITAP, or [[hak milik]] if you are WNI. full cash today? [[leasehold upfront]].
 

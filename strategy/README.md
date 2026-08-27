@@ -114,7 +114,7 @@ The deeper bet is mountain repricing. Globally, **premium mountain prices like b
 | Instrument | Mechanics | Cash profile | Primary use |
 |---|---|---|---|
 | **A. [[leasehold upfront|Leasehold upfront]]** | Full payment at signing, registered lease (25y + pre-agreed extensions) | 100% now | Residents ready to build |
-| **B. [[annual leasehold|Annual leasehold]]** | 30% down, balance in equal instalments over the Term at a fixed 3% real over CPI — price a deal in the [[annual leasehold|pricer]] | Stream, little now | Cautious entrants, community services |
+| **B. [[annual leasehold|Annual leasehold]]** | 30% down, balance in equal instalments over 1 or 5 years, no interest, no index — price a deal in the [[annual leasehold|pricer]] | Stream, little now | Cautious entrants, community services |
 | **C. [[joint venture|Joint venture]]** | Lease contributed for a share of the OpCo | 0 now, OpCo stake | Operators without land capital |
 | **D. [[hak pakai|Hak Pakai]]** | Right-of-use title on a completed structure, registrable to foreign individuals (KITAS/KITAP) | 100% at transfer | Foreign buyers who want a registered title, not a contract |
 | **E. [[hak milik|Hak Milik]]** | Freehold transfer of the parcel | 100% at transfer | Indonesian citizens only — the WNI ownership channel |
