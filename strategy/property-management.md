@@ -33,5 +33,7 @@ operator's share, never charged on top.
 
 Management companies are appointed by open tender. Any team may bid —
 including companies the president director participates in — and nobody holds
-exclusivity. Deep-infrastructure tenders come next: energy, water,
+exclusivity. **First two years: a tender is not obligatory** — the estate may
+appoint operators directly, to simplify and speed up development; after that
+the open tender binds. Deep-infrastructure tenders come next: energy, water,
 data, computing, robotics.
