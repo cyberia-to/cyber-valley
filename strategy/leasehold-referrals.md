@@ -15,4 +15,4 @@ Bring a leaseholder — earn 10% of what they actually pay.
 | Cadence | paid on each collection, for as long as the referred lease keeps paying |
 | One hop | the referral does not chain — one referrer per lease |
 
-The program covers every leasehold instrument, [[leasehold-upfront|upfront]] and [[annual leasehold|annual]] alike. President director deal-closing runs on the same economics — see [[president director]] §9.
+The program covers every leasehold instrument, [[leasehold-upfront|upfront]] and [[annual leasehold|annual]] alike. President director deal-closing runs on the same economics — see [[president director]] §10.
