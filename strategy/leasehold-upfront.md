@@ -14,7 +14,7 @@ what the lease carries:
 
 - registered 25y term + extension pre-agreed on the [[century index]], notarial deed from PT PMA
 - the right to sublet the land at any horizon — day to season — via the cyberia [[marketplace]] API for agents, against the area tax (10%, or 5% self-sufficient) plus a thin settlement fee, not a management cut — see [[hak sewa]]
-- the [[cyber-valley/policies/zoning system|zoning code]] as a covenant: footprint caps, species density, pollution policies
+- the [[zoning/system|zoning code]] as a covenant: footprint caps, species density, pollution policies
 - build obligation on Wave 1 — anti-landbanking, reversion if nothing stands in 2–3 years
 
 pay less than 100% at signing and the remainder becomes equal instalments over 1 or 5 years, no interest — that is the [[annual leasehold]]; its pricer shows both ends of the same deal.

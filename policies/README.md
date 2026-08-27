@@ -6,7 +6,7 @@ alias: policies, cyber valley policies
 ---
 # policies
 
-rules of the land at [[cyber valley]] — how we treat air, water, soil, light, sound, carbon, and the layout of the estate.
+rules of the land at [[cyber valley]] — how we treat air, water, soil, light, sound, and carbon.
 
 | policy | what it protects |
 |--------|------------------|
@@ -16,4 +16,5 @@ rules of the land at [[cyber valley]] — how we treat air, water, soil, light, 
 | [[light policy]] | night sky and circadian life — warm, shielded, down |
 | [[sound policy]] | quiet as infrastructure — sources, hours, zones |
 | [[carbon policy]] | carbon-negative example — energy, efficiency, biochar |
-| [[zoning system]] | spatial law — what belongs where on the land |
+
+layout and zone types live under [[zoning]].

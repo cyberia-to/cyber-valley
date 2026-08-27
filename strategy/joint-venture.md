@@ -12,8 +12,8 @@ no cash moves at entry. the estate's return is the stake: equity split negotiate
 
 where it applies:
 
-- Z2 anchors — spa, market, restaurant: the demand engine that is never sold outright
-- Z5 innovation — larger operators who need ground without buying it
+- [[commercial]] anchors — spa, market, restaurant: the demand engine that is never sold outright
+- [[special]] — larger operators (labs, production) who need ground without buying it
 - exit paths: operator buyout of the stake, or sale-leaseback of the built asset in later phases
 
 for whom: operators without land capital — hotel, clinic, spa, market, restaurant, labs.

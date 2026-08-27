@@ -1,9 +1,11 @@
 ---
-tags: cyberia
+tags: cyberia, cyber valley, zoning
 crystal-type: entity
 crystal-domain: cyberia
-alias: land usage policy
+alias: zoning system, zoning-system, land usage policy
 ---
+# Zoning system
+
 [[land primitives]]
 
 this page and [[cve/legal/annex-c-design-code|Annex C — Design Code]] state one body of rules in two registers. this page holds the reasoning and the working numbers as the estate maintains them — the informal representation. the annex holds the same numbers in the form that binds a Holder under [[cve/legal/land-rights-agreement|land rights agreement]] §7 — the formal representation, version-locked at signing. amend a number here and the annex follows it under §7.3 of the deed, subject to the veto in §8.2.
