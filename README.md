@@ -28,8 +28,6 @@ started 2021 · first off-grid home 2023 · [[citadel]] (~30 ha) under construct
 | [[strategy]] | how the city grows — tone, ladder, attractors, citadel lanes |
 | [[policies]] | air · water · soil · light · sound · carbon |
 | [[zoning]] | system + residential · commercial · special · forestry · commons |
-| [[cve/legal]] | PT PMA legal pack — land rights, SHA, AoA |
-| [[dzin]] | president director / corporate closing pack (in CVE) |
 | [[cve]] | operating company |
 | [[buildings]] | what stands on the land |
 | [[landscape]] | trails, highland flora, place |
