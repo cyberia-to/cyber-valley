@@ -8,7 +8,7 @@ crystal-domain: cyberia
 
 enter [[cyber valley]] with 30% down. the rest is a fixed yearly rent for 25 years — locked on day one, not renegotiated at market.
 
-on bali, land often wants full cash or rides ~9% a year. that builds flips, not businesses. here the unpaid part grows only with the [[century index]] plus a modest 3% land floor, and the fee for paying later is just 1–4% by deposit. so entrepreneurs can start building instead of scraping for a full cheque.
+on bali, land often wants full cash or rides ~9% a year. that builds flips, not businesses. here the unpaid part grows at a fixed 3% real over Indonesian CPI — not tied to the [[century index]] — so the rest of the schedule is knowable on day one. so entrepreneurs can start building instead of scraping for a full cheque.
 
 [[hak sewa]] with the estate: build, live, sublet. after build — [[hak pakai]] with KITAS/KITAP, or [[hak milik]] if you are WNI. full cash today? [[leasehold upfront]].
 
