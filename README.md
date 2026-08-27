@@ -38,5 +38,4 @@ started 2021 · first off-grid home 2023 · [[citadel]] (~30 ha) under construct
 
 ## one line
 
-[[cyberia]] is the nation · cyber valley is city #1 · [[gesing]] is the desa  
 [[cyberia]] is the software · cyber valley is city #0 · indonesia is the host
