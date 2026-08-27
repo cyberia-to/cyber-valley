@@ -32,6 +32,6 @@ operator's share, never charged on top.
 ## appointment — open tender
 
 Management companies are appointed by open tender. Any team may bid —
-including companies the CEO participates in — and nobody holds
+including companies the president director participates in — and nobody holds
 exclusivity. Deep-infrastructure tenders come next: energy, water,
 data, computing, robotics.
