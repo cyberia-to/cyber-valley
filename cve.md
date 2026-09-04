@@ -2,7 +2,7 @@
 tags: cyberia, core
 crystal-type: entity
 crystal-domain: cyberia
-alias: PT CVE, PT PMA Cyber Valley Estate, CVE
+alias: PT CVE, PT PMA Cyber Valley Estate, CVE, cyber valley estate
 ---
 PT PMA Cyber Valley Estate — the Indonesian operating company of [[cyberia]]. a PMA (Penanaman Modal Asing, foreign investment company) licensed and operational in Bali
 

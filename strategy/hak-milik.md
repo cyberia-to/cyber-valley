@@ -13,7 +13,7 @@ the WNI ownership channel: hak milik is full ownership under Indonesian law, and
 what the deal carries:
 
 - full freehold title registered to the buyer
-- the [[cyber-valley/policies/zoning system|zoning code]] follows the land as recorded covenants — footprint caps, species density, pollution policies
+- the [[zoning/system|zoning code]] follows the land as recorded covenants — footprint caps, species density, pollution policies
 - keeps the desa share of ownership strong — the tone guardrail that anchors the city in its village
 
 for whom: Indonesian buyers and long-horizon local partners — the channel that makes cyber valley a mixed city, not an expat enclave.

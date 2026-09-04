@@ -8,15 +8,15 @@ icon: "🗂"
 ---
 # dzin
 
-Corporate pack of PT. Cyber Valley Estate. The pack lives in the CVE subgraph — hub: [[cve/dzin]].
+The appointment package of PT. Cyber Valley Estate — **seven documents,
+one closing**. Lives in the CVE subgraph — hub: [[cve/dzin|dzin]].
 
-| document | what |
-|---|---|
-| [[cve/legal/articles of association]] | Anggaran Dasar — capital, transfer, GMS, dividends |
-| [[cve/legal/shareholders agreement]] | ROFR, tag-along, consent list, moonly dividend cadence |
-| [[cve/legal/gms director appointment]] | GMS resolution — board composition, one closing |
-| [[cve/legal/share sale entry]] | 1% entry at the capital valuation |
-| [[cve/legal/ceo]] | CEO offer — dual accounts, options, KPI ladder |
-| [[cve/legal/preemption waiver letter]] | side letter to the deed of amendment |
-| [[cve/legal/land-rights-agreement]] | land instruments framework |
-| [[cve/legal/annex-c-design-code]] | design code annex |
+| # | document | what |
+|---|---|---|
+| 1 | [[cve/legal/gms director appointment|gms director appointment]] | GMS seats the board — effective only at Closing |
+| 2 | [[cve/legal/share sale entry|share sale entry]] | founder sells 1% (80 shares) at par — only at Closing |
+| 3 | [[cve/legal/preemption waiver letter|preemption waiver letter]] | ROFR over the entry shares waived (Form B) |
+| 4 | [[cve/legal/president director|president director]] | president director offer — dual accounts, options, KPI ladder |
+| 5 | [[cve/legal/shareholders agreement|shareholders agreement]] | ROFR, tag-along, consent list, moonly dividend cadence |
+| 6 | [[cve/legal/entry payment side letter|entry payment side letter]] | private receipt fixing the real entry price |
+| 7 | [[cve/legal/director disclosure indemnity agreement|director disclosure indemnity agreement]] | Owners' full disclosure + uncapped indemnity to the incoming Director |

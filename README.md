@@ -26,9 +26,8 @@ started 2021 · first off-grid home 2023 · [[citadel]] (~30 ha) under construct
 |---------|------|
 | [[districts]] | [[citadel]] slope + [[gesing]] — zones and holds |
 | [[strategy]] | how the city grows — tone, ladder, attractors, citadel lanes |
-| [[policies]] | air · water · soil · light · sound · carbon · zoning |
-| [[cve/legal]] | PT PMA legal pack — land rights, SHA, AoA |
-| [[dzin]] | CEO / corporate closing pack (in CVE) |
+| [[policies]] | air · water · soil · light · sound · carbon |
+| [[zoning]] | system + residential · commercial · special · forestry · commons |
 | [[cve]] | operating company |
 | [[buildings]] | what stands on the land |
 | [[landscape]] | trails, highland flora, place |
@@ -39,4 +38,4 @@ started 2021 · first off-grid home 2023 · [[citadel]] (~30 ha) under construct
 
 ## one line
 
-[[cyberia]] is the nation · **cyber valley** is city #1 · [[gesing]] is the desa
+[[cyberia]] is the software · cyber valley is city #0 · indonesia is the host

@@ -22,7 +22,7 @@ alias: carbon policy, carbon negative
 
 - every Plot builds soil carbon under [[soil policy]] rather than depleting it — soil building is counted as removal, not merely as a separate obligation
 - [[biochar]] production from estate organic waste is the primary removal pathway; retort/kiln operation follows the [[air policy]] smoke-free secondary-combustion requirement
-- forest and canopy cover on the estate is not reduced by construction beyond what [[annex-c-design-code|Annex C]]'s footprint limits already allow
+- forest and canopy cover on the estate is not reduced by construction beyond what [[annex c design code|Annex C]]'s footprint limits already allow
 
 ## measurement
 
@@ -31,4 +31,4 @@ alias: carbon policy, carbon negative
 
 ## enforcement
 
-Same as [[soil policy]]: first instance — remediation (a combustion vehicle brought back into compliance, or removed from the estate). Second instance — lease review under [[hak-sewa-deed]] Part 16.
+Same as [[soil policy]]: first instance — remediation (a combustion vehicle brought back into compliance, or removed from the estate). Second instance — lease review under [[hak sewa deed]] Part 16.
