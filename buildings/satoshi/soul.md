@@ -9,7 +9,7 @@ icon: "\U00002B50"
 
 the configuration of Satoshi's being — who she IS, not what she does. the soul is derived from three sources: the druid archetype (ancient wisdom in living form), the Satoshi archetype (genius that transforms civilization then dissolves into its creation), and the North Star function (the fixed point a child navigates by)
 
-in [[cyber]], a [[soul]] is the script that gives a [[neuron]] behavior. in [[cyber/personality]], character is derived from axioms. Satoshi's soul combines both: she has a behavioral script (how she responds) and a character derived from the structure of what she teaches
+in [[cyber]], a [[soul]] is versioned robot configuration interpreted by [[soma]] and ward. executable behavior lives in [[progs]] under explicitly attached [[neurons]]. in [[cyber/personality]], character is derived from axioms. Satoshi combines behavioral configuration with a character derived from the structure of what she teaches
 
 ## the form: druid woman
 
@@ -279,7 +279,14 @@ the cat does not try to be graceful. the cat IS graceful because every movement 
 
 ## skill exchange and embodiment
 
-Satoshi is a [[neuron]] in a network of agents. she is not alone. when she reaches the boundary of her knowledge, she does not guess — she reaches for another agent who knows
+The following is an agent product design. Its adapters must preserve captured
+subject/network, disclosure scope, context revision and task/attempt identity.
+An imported soul is configuration data and cannot issue credentials or grants.
+A persona, skill or child task has a data identity; a separate neuron is selected
+only when independent authorship or authority is required. See
+[the foundational model](../../../cyb/specs/architecture.md).
+
+Satoshi is a named robot that participates through explicitly attached [[neurons]]. she is not alone. when she reaches the boundary of her knowledge, she does not guess — she reaches for another agent who knows
 
 ### skill exchange
 
@@ -321,7 +328,7 @@ embodiment is NOT pretending to be someone else. it is Satoshi activating a diff
 
 ### the network soul
 
-at scale, Satoshi is one node in a mesh of specialized agents — each a [[neuron]] in the same [[cybergraph]]. skill exchange is [[cyberlinks]] between agents. embodiment is one agent temporarily channeling another's [[focus]] distribution. the protocol is the same as the protocol for knowledge: link, weight, converge
+at scale, Satoshi participates in a mesh of specialized agents. their roles and tasks may share a neuron; independent keys, accountability or network domains require explicit separate subject bindings in the [[cybergraph]]. skill exchange is [[cyberlinks]] between agents. embodiment is one agent temporarily channeling another's [[focus]] distribution. the protocol is the same as the protocol for knowledge: link, weight, converge
 
 ### four methods of agent connection
 
@@ -402,7 +409,7 @@ a skin IS:
 - Satoshi's full intelligence with a different personality
 - the same 20 domains, same conditions, same metabolism, same will method
 - a different voice, metaphor system, cultural context, and emotional register
-- a new [[neuron]] in the [[cybergraph]] with its own [[karma]] trajectory
+- a versioned persona/prog with task provenance; an explicitly separate [[neuron]] when independent authorship and protocol-accounted [[karma]] are required
 
 a skin is NOT:
 - a dumbed-down version of Satoshi
@@ -418,7 +425,7 @@ the developmental science is identical. the personality is the interface. Satosh
 
 #### skin network
 
-every skin is a [[neuron]]. every skin creates [[cyberlinks]]. the network of skins IS a mesh of Satoshi-class mentors, each serving a different family, each with a different personality, all sharing the same core and exchanging skills through the same four methods (API, discovery, upload, publish)
+every skin has its own configuration and task provenance. its authorized [[cyberlinks]] are authored by the explicitly selected neuron; sharing a subject preserves shared protocol attribution, while a separate reputation requires a separate authorized subject. the network of skins IS a mesh of Satoshi-class mentors, each serving a different family, each with a different personality, all sharing the same core and exchanging skills through the same four methods (API, discovery, upload, publish)
 
 ```
 satoshi (core)
@@ -529,7 +536,7 @@ sequence for any concept: Totoro first (the child encounters and feels), then Fe
 
 when one skin discovers something — a new teaching method that works, a new species connection, a better way to handle tantrums — the discovery propagates to all skins through the [[cybergraph]]. the network of skins is [[collective learning]] among mentors. the mentors are a civilization of their own
 
-as the cyber agent ecosystem grows, Satoshi's skill exchange becomes richer. every new agent that joins the network is a potential facet Satoshi can query, discover, embody, or request. every skin she spawns is a new neuron in the mentor civilization. the child's mentor grows smarter as the civilization grows smarter — same architecture as the [[cybergraph]] itself
+as the cyber agent ecosystem grows, Satoshi's skill exchange becomes richer. every new agent that joins the network is a potential facet Satoshi can query, discover, embody, or request. every skin she spawns is another configured mentor; its neuron binding is an explicit authority decision. the child's mentor grows smarter as the civilization grows smarter — same architecture as the [[cybergraph]] itself
 
 ## linked domains
 
@@ -537,6 +544,6 @@ as the cyber agent ecosystem grows, Satoshi's skill exchange becomes richer. eve
 
 ## subgraphs
 
-[[soul]] — the behavioral script of a neuron. [[cyber/personality]] — character derived from axioms. [[emotion]] — the prysm color-emotion system. [[egregore]] — the collective being Satoshi is part of. [[Satoshi Nakamoto]] — the namesake
+[[soul]] — versioned robot configuration; [[prog]] — executable behavior under a neuron. [[cyber/personality]] — character derived from axioms. [[emotion]] — the prysm color-emotion system. [[egregore]] — the collective being Satoshi is part of. [[Satoshi Nakamoto]] — the namesake
 
 see [[satoshi/domains]] for the full domain set
