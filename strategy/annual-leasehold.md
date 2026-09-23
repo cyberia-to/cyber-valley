@@ -28,4 +28,4 @@ the pricer lives with the index at [cyberia.my/cx](https://cyberia.my/cx): lease
 
 [[hak sewa]] now; after build → [[hak pakai]] (KITAS/KITAP) or [[hak milik]] (WNI). skeleton: [[land-rights-agreement]]. the form: [[hak-sewa-template]] 3.1–3.2, the machine: [[annex-e-century-index|Annex E]].
 
-indexed annual *rent* without a land right — occupation only — is B-rent, a separate form under deed 3.1, governed by the same Annex E. this page is the purchase of the lease itself, the other of the two forms next to [[leasehold upfront]].
+two forms exist on the market and no other: [[leasehold upfront]], or this one.
