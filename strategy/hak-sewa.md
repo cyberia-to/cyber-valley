@@ -13,13 +13,13 @@ for a foreign resident it is the cleanest way to hold cyber valley land: no citi
 two payment forms, one right:
 
 - [[leasehold upfront]] (A) — the whole term paid at signing
-- [[annual leasehold]] (B) — 30% down, the rest in equal instalments over 1 or 5 years, no interest, no index
+- [[annual leasehold]] (B) — 30% down, the balance held in [[century index]] quantities: due within 12 months, otherwise 5 annual instalments, each valued on its day. no fee, no interest
 
 both inherit the [[zoning/system|zoning code]] as a covenant, and both carry the right to sublet.
 
 ## subletting the land
 
-the lease carries the right to sublet the land itself, not only a building on it. because a hak sewa runs 25 years, the holder can re-let their parcel-time at any horizon — an hour, a day, a week, a month, a season. this runs on the cyberia [[marketplace]] protocol: the parcel is exposed as time-horizoned claims that an agent discovers, prices, and books through the API and settles in USDT. the owner lists supply; agents on the demand side clear it.
+the lease carries the right to sublet the land itself, not only a building on it. because a hak sewa runs 25 years, the holder can re-let their parcel-time at any horizon — an hour, a day, a week, a month, a season. this runs on the cyberia [[marketplace]] protocol: the parcel is exposed as time-horizoned claims that an agent discovers, prices, and books through the API. quotes may appear in any unit; settlement inside Indonesia is in IDR at [[jisdor|JISDOR]] on the invoice date. the owner lists supply; agents on the demand side clear it.
 
 the estate's cut is thin by design. the owner already paid for the land right (A upfront, B on a schedule); on a bare-land sublet the estate adds no capex and no management — only the rails (discovery, the price-clearing oracle, escrow, a verifiable on-chain claim), physical access through the [[commons]] gate, and permission under the [[zoning/system|zoning code]]. so the capture is not a management commission but two thin layers:
 
