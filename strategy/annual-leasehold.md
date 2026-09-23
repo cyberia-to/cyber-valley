@@ -6,73 +6,26 @@ crystal-domain: cyberia
 ---
 # annual leasehold
 
-enter [[cyber valley]] with a deposit. the rest is held in [[century index]] quantities — fixed on day one, valued on the day you pay, never renegotiated at market.
+enter [[cyber valley]] with a premium. the rest is rent in the [[century index]] — quantities fixed on day one, valued each year within the collar, never renegotiated at market.
 
-one scheduled form of the same [[hak sewa]]:
+the century index form of the same [[hak sewa]]:
 
-| deposit | balance | if the balance is still open after a year |
+| at signing | each lease year | each month |
 |---|---|---|
-| 30% at signing | the remaining 70% of the CX quantities, due within 12 months at their value on the payment date | 5 equal annual instalments of the same quantities, each valued on its due date |
+| premium — your share of the leasehold value, chosen by you | rent R(t): the year-0 rent R₀ carried by the index, reset on the anniversary, +35% / −15% collar, dual floor | R(t) ÷ 12 |
 
-on bali, land often wants full cash or rides ~9% a year. that builds flips, not businesses. here there is no rate and no fee: the balance is the index and nothing else, the same Annex E that prices the renewal.
+premium 100% is [[leasehold upfront]]; anything below it is this form. the year-0 rent R₀ follows from the premium through the pricer: a smaller premium carries more of the lease as rent and prices the estate's risk into the rate. the two numbers a deal recites are the premium and R₀; Annex E does the rest for the whole term.
 
-[[hak sewa]] with the estate: build, live, sublet. after build — [[hak pakai]] with KITAS/KITAP, or [[hak milik]] if you are WNI. full cash today? [[leasehold upfront]].
+on bali, land often wants full cash or rides ~9% a year. that builds flips, not businesses. here there is no rate and no fee on top of the index: the rent is the index and nothing else, the same Annex E that prices the renewal.
 
-arrears: 6 months to clear or to assign the lease. after that the Holder ceases and leaves the land. sums already paid stay as the price of the time held.
+arrears: an instalment is late after 30 days; 6 months to clear or to assign the lease. after that the Holder ceases and leaves the land. sums already paid stay as the price of the time held.
 
 ## price your deal
 
-<div id="lcalc"></div>
-
-<style>
-#lcalc{color:#f0f0f0;font-family:var(--font-body,'Play',system-ui,sans-serif);width:min(640px,100%);margin:28px auto;padding:0}
-#lcalc .panel{background:#0a0a0a;border:1px solid #222;border-radius:10px;padding:16px}
-#lcalc h4{font-family:var(--font-mono,'JetBrains Mono',monospace);font-size:11px;color:#22c55e;letter-spacing:2.5px;text-transform:uppercase;margin:0 0 12px}
-#lcalc label{font-size:12.5px;color:#8b948c;display:block;margin-bottom:4px}
-#lcalc input[type=number]{width:100%;background:#111;border:1px solid #222;color:#f0f0f0;padding:8px;border-radius:6px;font-family:var(--font-mono,'JetBrains Mono',monospace)}
-#lcalc .plans{display:flex;gap:8px;margin:12px 0}
-#lcalc .plan{flex:1;padding:10px;border:1px solid #222;border-radius:8px;background:#0a0a0a;color:#8b948c;cursor:pointer;font-family:var(--font-mono,'JetBrains Mono',monospace);font-size:12px}
-#lcalc .plan.on{color:#000;background:#22c55e;border-color:#22c55e}
-#lcalc .stats{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}
-#lcalc .stat{background:#111;border:1px solid #222;border-radius:8px;padding:10px 12px}
-#lcalc .stat .l{font-size:11px;color:#8b948c;margin-bottom:4px}
-#lcalc .stat .v{font-family:var(--font-mono,'JetBrains Mono',monospace);font-size:17px}
-#lcalc .note{font-size:12px;color:#8b948c;line-height:1.6;margin:12px 0 0}
-</style>
-
-<script>
-(function(){
-  const el=id=>document.getElementById(id);
-  const state={price:100000,plan:"1"};
-  const plans={
-    "1":{years:1,deposit:0.30,fee:0,label:"30% down · balance in 12 months"},
-    "5":{years:5,deposit:0.30,fee:0,label:"30% down · then 5 annual instalments"}
-  };
-  function fmt(n){return "$"+Math.round(n).toLocaleString("en-US")}
-  function render(){
-    const p=plans[state.plan];
-    const total=state.price*(1+p.fee);
-    const down=total*p.deposit;
-    const rest=total-down;
-    const per=rest/(p.years*12);
-    el("st").innerHTML=
-      "<div class=stat><div class=l>Pay now (deposit)</div><div class=v>"+fmt(down)+"</div></div>"+
-      "<div class=stat><div class=l>Total you pay</div><div class=v>"+fmt(total)+"</div></div>"+
-      "<div class=stat><div class=l>Balance</div><div class=v>"+fmt(rest)+"</div></div>"+
-      "<div class=stat><div class=l>Equal monthly</div><div class=v>"+fmt(per)+"</div></div>";
-    el("note").textContent="figures at today's CX level. the balance is held in CX quantities and is valued on the day you pay. arrears: 6 months to clear, then the Holder ceases.";
-  }
-  el("lcalc").innerHTML='<div class="panel"><h4>Scheduled hak sewa</h4><label>Plot price (upfront = 100%)</label><input id="price" type="number" min="10000" step="1000" value="100000"><div class="plans"><button type="button" class="plan on" data-plan="1">30% · balance in 12 months</button><button type="button" class="plan" data-plan="5">30% · then 5 annual</button></div><div class="stats" id="st"></div><p class="note" id="note"></p></div>';
-  el("price").oninput=e=>{state.price=Math.max(10000,+e.target.value||0);render();};
-  el("lcalc").querySelectorAll(".plan").forEach(b=>{
-    b.onclick=()=>{state.plan=b.getAttribute("data-plan");el("lcalc").querySelectorAll(".plan").forEach(x=>x.classList.toggle("on",x===b));render();};
-  });
-  render();
-})();
-</script>
+the pricer lives with the index at [cyberia.my/cx](https://cyberia.my/cx): leasehold value, term, premium, and the indexation the world delivers. the estate's own dials — base rate, risk spread — are shown there so the price can be checked rather than trusted.
 
 ## legal form
 
-[[hak sewa]] now; after build → [[hak pakai]] (KITAS/KITAP) or [[hak milik]] (WNI). skeleton: [[land-rights-agreement]]. scheduled terms: [[hak-sewa-deed]] §3.2.
+[[hak sewa]] now; after build → [[hak pakai]] (KITAS/KITAP) or [[hak milik]] (WNI). skeleton: [[land-rights-agreement]]. the form: [[hak-sewa-template]] 3.1–3.2, the machine: [[annex-e-century-index|Annex E]].
 
-indexed annual *rent* without a land right — occupation only — is B-rent, a separate form under deed 3.1, governed by the same [[annex-e-century-index|Annex E]]. this page is the scheduled purchase of the lease, the other of the two forms next to [[leasehold upfront]].
+indexed annual *rent* without a land right — occupation only — is B-rent, a separate form under deed 3.1, governed by the same Annex E. this page is the purchase of the lease itself, the other of the two forms next to [[leasehold upfront]].

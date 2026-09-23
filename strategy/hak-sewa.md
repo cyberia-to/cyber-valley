@@ -13,7 +13,7 @@ for a foreign resident it is the cleanest way to hold cyber valley land: no citi
 two payment forms, one right:
 
 - [[leasehold upfront]] (A) — the whole term paid at signing
-- [[annual leasehold]] (B) — 30% down, the balance held in [[century index]] quantities: due within 12 months, otherwise 5 annual instalments, each valued on its day. no fee, no interest
+- [[annual leasehold]] (B) — a premium at signing, the rest as rent in [[century index]] quantities for the term, reset yearly within the collar, paid monthly. no fee, no interest
 
 both inherit the [[zoning/system|zoning code]] as a covenant, and both carry the right to sublet.
 

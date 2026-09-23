@@ -17,4 +17,4 @@ what the lease carries:
 - the [[zoning/system|zoning code]] as a covenant: footprint caps, species density, pollution policies
 - build obligation on Wave 1 — anti-landbanking: start within 12 months, finish within 36; overrun runs a rising holding charge, then a buy-back offer at formula price, and reversion only after the buy-back is declined — [[hak-sewa-template|template]] Part 9
 
-pay 30% at signing and the remainder is held in [[century index]] quantities, valued on the day you pay — that is the [[annual leasehold]], the only other form.
+pay a premium below 100% and the remainder is rent in [[century index]] quantities for the term, paid monthly — that is the [[annual leasehold]], the only other form.
