@@ -16,5 +16,6 @@ rules of the land at [[cyber valley]] — how we treat air, water, soil, light, 
 | [[light policy]] | night sky and circadian life — warm, shielded, down |
 | [[sound policy]] | quiet as infrastructure — sources, hours, zones |
 | [[carbon policy]] | carbon-negative example — energy, efficiency, biochar |
+| [[guarantee fund policy]] | the money behind every promise to a leaseholder — inflows, ledger, order of payment |
 
 layout and zone types live under [[zoning]].
