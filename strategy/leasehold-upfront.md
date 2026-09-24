@@ -15,6 +15,6 @@ what the lease carries:
 - notarial 25y term (or the remaining title less 12 months, if shorter) + extension of right on the [[century index]], notarial deed from PT PMA
 - the right to sublet the land at any horizon — day to season — via the cyberia [[marketplace]] API for agents, against the area tax (10%, or 5% self-sufficient) plus a thin settlement fee, not a management cut — see [[hak sewa]]
 - the [[zoning/system|zoning code]] as a covenant: footprint caps, species density, pollution policies
-- build obligation on Wave 1 — anti-landbanking: start within 12 months, finish within 36; overrun runs a rising holding charge, then a buy-back offer at formula price, and reversion only after the buy-back is declined — [[hak-sewa-template|template]] Part 9
+- build obligation on Wave 1 — anti-landbanking: start within 12 months, finish within 36; overrun runs a rising holding charge, then a buy-back offer at formula price, and reversion only after the buy-back is declined — [[hak sewa deed|template]] Part 9
 
 pay a premium below 100% and the remainder is rent in [[century index]] quantities for the term, paid monthly — that is the [[annual leasehold]], the only other form.
