@@ -22,7 +22,7 @@ alias: carbon policy, carbon negative
 
 - every Plot builds soil carbon under [[soil policy]] rather than depleting it — soil building is counted as removal, not merely as a separate obligation
 - [[biochar]] production from estate organic waste is the primary removal pathway; retort/kiln operation follows the [[air policy]] smoke-free secondary-combustion requirement
-- forest and canopy cover on the estate is not reduced by construction beyond what [[annex c design code|Annex C (Design Code)]]'s footprint limits already allow
+- forest and canopy cover on the estate is not reduced by construction beyond what [[cyber-valley/policies/design code|Design Code]]'s footprint limits already allow
 
 ## measurement
 

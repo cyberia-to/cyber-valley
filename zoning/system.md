@@ -8,17 +8,7 @@ alias: zoning system, zoning-system, land usage policy
 
 [[land primitives]]
 
-this page and [[cve/legal/annex c design code|Annex C — Design Code]] state one body of rules in two registers. this page holds the reasoning and the working numbers as the estate maintains them — the informal representation. the annex holds the same numbers in the form that binds a Holder under [[cve/legal/land rights agreement|land rights agreement]] §7 — the formal representation, version-locked at signing. amend a number here and the annex follows it under §7.3 of the deed, subject to the veto in §8.2.
-
-| this page | formal counterpart |
-|---|---|
-| construction area | [[cve/legal/annex c design code|C2]] |
-| light balance | [[cve/legal/annex c design code|C3]] |
-| biodiversity | [[cve/legal/annex c design code|C4]] |
-| pollution, and the six policy pages under it | [[cve/legal/annex c design code|C5]] |
-| construction distribution, incentives | open — several min/max fields here are still blank, so they bind nothing under the deed yet |
-
-the annex carries further sections of its own: measurement, monitoring and publication, district balance, built form, overlays and grandfathering. those are contractual machinery and live only on the formal side.
+the binding rules are the [[cyber-valley/policies/design code|design code]]; this page holds the reasoning behind them.
 
 ## Sustainable land use code
 
@@ -37,7 +27,6 @@ the annex carries further sections of its own: measurement, monitoring and publi
 
 ## Light balance
 
-- formal counterpart: C3 of [[cve/legal/annex c design code|Annex C (Design Code)]]
 - light absorbents, e.g. photovoltaics, heat collectors
 	- min: 1% due to energy security
 	- max: 10% for biome balance
@@ -55,14 +44,12 @@ the annex carries further sections of its own: measurement, monitoring and publi
 
 ## Construction area
 
-- formal counterpart: C2 of [[cve/legal/annex c design code|Annex C (Design Code)]]
 - maximum ground footprint of construction: `10%`
 - multiplier: `×2` if two floors are used (20% effective usage with the same footprint)
 - purpose: protect soil, enable water infiltration, and preserve living ecosystems
 
 ## Construction distribution
 
-- formal counterpart: open. the blank min/max fields below are the reason
 - private: include residential, or unknown function
 	- min: 3%
 	- max: 5%
@@ -87,12 +74,10 @@ the annex carries further sections of its own: measurement, monitoring and publi
 
 ## Biodiversity
 
-- formal counterpart: C4 of [[cve/legal/annex c design code|Annex C (Design Code)]]
 - 20 plant species per hectare
 
 ## Pollution
 
-formal counterpart: C5 of [[cve/legal/annex c design code|Annex C (Design Code)]], which restates each limit below as a term of the deed.
 
 pollution is a resource in the wrong place. each type has specific standards governed by its own policy. the zoning system enforces compliance as a condition of land use.
 
@@ -139,7 +124,6 @@ governed by [[soil policy]]. key constraints:
 
 ## Incentives
 
-- formal counterpart: open. carried by Annex G (Permitted Use) of the deed once the rates are settled
 - cyberia tax income at the rate of 10% from revenue generated within its area
 - if the district is designed to become 100% sustaniable in terms of
 	- energy

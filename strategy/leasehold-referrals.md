@@ -14,5 +14,6 @@ Bring a leaseholder — earn 10% of what they actually pay.
 | Base | amounts paid, never the contract sum — [[annual leasehold]] pays year by year, and the referral follows the cash |
 | Cadence | paid on each collection, for as long as the referred lease keeps paying |
 | One hop | the referral does not chain — one referrer per lease |
+| Assignment fee | a holder with 3 referred holders in good standing assigns their lease at the 1.0% minimum fee of [[hak sewa template]] 4.5 |
 
 The program covers every leasehold instrument, [[leasehold-upfront|upfront]] and [[annual leasehold|annual]] alike. President director deal-closing runs on the same economics — see [[president director]] §10.
