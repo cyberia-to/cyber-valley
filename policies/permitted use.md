@@ -42,13 +42,13 @@ E is open to Indonesian citizens alone: the Basic Agrarian Law, UU 5/1960 Pasal 
 | Z7 — conservation | watershed, biodiversity | none | income from carbon and biodiversity credits and naming rights |
 | Z8 — commons | trails, plazas, public space | none | residents enter under the service charge; visitors buy an entry ticket |
 
-## 4. land-time and net-exporter status
+## 4. land-time
 
-the area revenue charge on land-time lettings under [[hak sewa template]] 5.1 is 10% of revenue, or 5% in a district that is a net exporter of energy, water and food.
+the area revenue charge on land-time lettings under [[hak sewa template]] 5.1 is 10% of revenue, or 5% on a plot its holder proves to be a net exporter of energy, water and food under 5.3 of that deed.
 
 | item | rule |
 |---|---|
 | revenue | the gross amount received for bare-land occupation in the month, before deductions |
 | reporting | the holder reports land-time revenue monthly with the invoice for the charge; the Company may check any of the prior 24 months |
-| net-exporter status | each district's meters for energy and water and its food-harvest log publish monthly in the register; a district whose production over the last 12 months exceeds its consumption of all three pays 5% from the next invoice |
+| net-exporter plot | the holder meters its plot's energy and water, keeps a food-harvest log and publishes both monthly in the register; the 5% rate starts with the invoice after 12 months of published surplus in all three |
 | understatement | the shortfall is paid on demand with [20]% of it added |

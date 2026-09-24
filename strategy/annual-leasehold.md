@@ -26,6 +26,6 @@ the pricer lives with the index at [cyberia.my/cx](https://cyberia.my/cx): lease
 
 ## legal form
 
-[[hak sewa]] now; after build → [[hak pakai]] (KITAS/KITAP) or [[hak milik]] (WNI). skeleton: [[land rights agreement]]. the form: [[hak sewa deed|hak sewa template]] 3.1–3.2, the machine: [[annex-e-century-index|Annex E (Century Index)]].
+[[hak sewa]] now; after build → [[hak pakai]] (KITAS/KITAP) or [[hak milik]] (WNI). skeleton: [[land rights agreement]]. the form: [[hak sewa template]] 3.1–3.2, the machine: [[annex-e-century-index|Annex E (Century Index)]].
 
 two forms exist on the market and no other: [[leasehold upfront]], or this one.
