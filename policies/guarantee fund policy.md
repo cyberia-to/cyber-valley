@@ -6,17 +6,17 @@ alias: guarantee fund policy, guarantee fund, fund policy
 ---
 # guarantee fund policy
 
-how the estate keeps the money that backs its promises to leaseholders. every sum [[hak sewa deed|hak sewa template]] promises to pay a Holder, and every official penalty a Holder's works can draw onto the estate's title, is paid from here first.
+how the estate keeps the money that backs its promises to leaseholders. every sum [[hak sewa template]] promises to pay a Holder, and every official penalty a Holder's works can draw onto the estate's title, is paid from here first.
 
 ## why the fund exists
 
-a promise to refund is worth what stands behind it. the fund turns the exit clauses of the lease — title failure, a design change required by law, a Hak Pakai the estate failed to deliver — into money on a separate account with a published balance. it is the estate's own decision (D4 of [[holder protocol decisions]]), taken under the strategy rule "tithes off the top": reserves are set aside before anything is spent.
+a promise to refund is worth what stands behind it. the fund turns the exit clauses of the lease — title failure, a design change required by law, a Hak Pakai the estate failed to deliver — into money on a separate account with a published balance. it follows the strategy rule "tithes off the top": reserves are set aside before anything is spent.
 
 ## inflows
 
 | source | share | clause |
 |---|---|---|
-| every sum received under a lease: premium, rent, instalments | 5% | [[hak sewa deed|hak sewa template]] 3.5 |
+| every sum received under a lease: premium, rent, instalments | 5% | [[hak sewa template]] 3.5 |
 | every assignment fee | 5% | 3.5 |
 | every Hak Pakai upgrade fee | 5% | 3.5 |
 | each area revenue charge | [1]% on top, until the fund reaches [2]% of the total Plot price under lease | 8.9 |
@@ -58,6 +58,6 @@ when claims stand at the same time, the fund pays in this order. within one rank
 | payment of an official penalty | before its due date |
 | recovery demand to the Holder after a rank-1 payment | 10 working days of the payment |
 
-## what the fund is not
+## what the fund is
 
 the fund is a Company asset held for Holders. on insolvency a Holder ranks as an unsecured creditor.

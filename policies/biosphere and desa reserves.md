@@ -6,7 +6,7 @@ alias: biosphere and desa reserves, biosphere reserve, desa reserve, tithes
 ---
 # biosphere and desa reserves
 
-two reserves the estate fills before it spends. the [[strategy/README|strategy]] sets them as tithes off the top: 10% of every recurring dollar to the biosphere, 10% to the desa. [[hak sewa template]] 9.5 sends every holding charge here as well — a plot left idle costs the land and the village, so its charge returns to them.
+two reserves the estate fills before it spends. the [[cyber-valley/strategy|strategy]] sets them as tithes off the top: 10% of every recurring dollar to the biosphere, 10% to the desa. [[hak sewa template]] 9.5 sends every holding charge here as well — a plot left idle costs the land and the village, so its charge returns to them.
 
 ## inflows
 
