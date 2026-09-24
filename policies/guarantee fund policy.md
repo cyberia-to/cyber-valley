@@ -6,7 +6,7 @@ alias: guarantee fund policy, guarantee fund, fund policy
 ---
 # guarantee fund policy
 
-how the estate keeps the money that backs its promises to leaseholders. every sum [[hak sewa template]] promises to pay a Holder, and every official penalty a Holder's works can draw onto the estate's title, is paid from here first.
+how the estate keeps the money that backs its promises to leaseholders. every sum [[hak sewa deed|hak sewa template]] promises to pay a Holder, and every official penalty a Holder's works can draw onto the estate's title, is paid from here first.
 
 ## why the fund exists
 
@@ -16,7 +16,7 @@ a promise to refund is worth what stands behind it. the fund turns the exit clau
 
 | source | share | clause |
 |---|---|---|
-| every sum received under a lease: premium, rent, instalments | 5% | [[hak sewa template]] 3.5 |
+| every sum received under a lease: premium, rent, instalments | 5% | [[hak sewa deed|hak sewa template]] 3.5 |
 | every assignment fee | 5% | 3.5 |
 | every Hak Pakai upgrade fee | 5% | 3.5 |
 | each area revenue charge | [1]% on top, until the balance reaches [target] | 8.9 |
