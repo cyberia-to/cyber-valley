@@ -10,7 +10,7 @@ how the estate keeps the money that backs its promises to leaseholders. every su
 
 ## why the fund exists
 
-a promise to refund is worth what stands behind it. the fund turns the exit clauses of the lease — title failure, a design change required by law, a Hak Pakai the estate failed to deliver — into money on a separate account with a published balance. it follows the strategy rule "tithes off the top": reserves are set aside before anything is spent.
+a promise to refund is worth what stands behind it. the fund turns the exit clauses of the lease — title failure, a design change required by law, a Hak Pakai the estate failed to deliver through its own fault — into money on a separate account with a published balance. it follows the strategy rule "tithes off the top": reserves are set aside before anything is spent.
 
 ## inflows
 
@@ -43,7 +43,7 @@ when claims stand at the same time, the fund pays in this order. within one rank
 |---|---|---|
 | 1 | official penalty, order or assessment against the estate arising from a Holder's works, occupation or use (8.9) | unpaid, it runs against the title every Holder's lease stands on |
 | 2 | sums under an arbitral award in favour of a Holder | the award is final and due within 10 days |
-| 3 | exit payments a Holder is entitled to: title failure (15.5, 16.3), licence deprivation (14.4), long stop (9.3), design change (10.6.3), Hak Pakai failure (12.1.11, 12.1.12) | a Holder leaving the estate is owed money now |
+| 3 | exit payments a Holder is entitled to: title failure (15.5, 16.3), licence deprivation (14.4), long stop (9.3), design change (10.6.3), Hak Pakai failure by the Landowner's cause (12.1.11) | a Holder leaving the estate is owed money now |
 | 4 | buy-back under the build obligation (9.5) | the estate's own choice to recover an idle plot |
 | 5 | return of surplus to the Company | with commissioner approval |
 

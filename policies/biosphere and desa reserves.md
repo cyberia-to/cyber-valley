@@ -6,13 +6,13 @@ alias: biosphere and desa reserves, biosphere reserve, desa reserve, tithes
 ---
 # biosphere and desa reserves
 
-two reserves the estate fills before it spends. the [[cyber-valley/strategy|strategy]] sets them as tithes off the top: 10% of every recurring dollar to the biosphere, 10% to the desa. [[hak sewa template]] 9.5 sends every holding charge here as well — a plot left idle costs the land and the village, so its charge returns to them.
+two reserves the estate fills before it spends. the [[cyber-valley/strategy|strategy]] sets them as tithes off the top: a share of every recurring dollar to the biosphere and to the desa. the share starts at 10% each and the Company's annual general meeting reviews it every year, setting it for the year ahead as income grows. [[hak sewa template]] 9.5 sends every holding charge here as well — a plot left idle costs the land and the village, so its charge returns to them.
 
 ## inflows
 
 | source | biosphere | desa |
 |---|---|---|
-| recurring income of the estate: rent, area revenue charge, service charge, stay and events | 10% | 10% |
+| recurring income of the estate: rent, area revenue charge, service charge, stay and events | the share set by the annual general meeting, 10% in the first year | the same |
 | holding charge under [[hak sewa template]] 9.5 | 50% | 50% |
 | carbon and biodiversity credits sold from the conservation zone | 100% | — |
 

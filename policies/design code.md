@@ -24,7 +24,7 @@ a plot of 1,000 m² carries 100 m² of footprint and up to 200 m² of floor area
 | element | share of the plot |
 |---|---|
 | garden — herbs, shrubs, trees, food beds | at least [70]% |
-| pond | at least [3]% and at least [10] m²; every plot has one |
+| pond | at least [3]% and at least [10] m², 2 m deep at the centre with gently sloping banks, for swimming and for edible aquaculture; every plot has one |
 | paths and terraces | the remainder |
 
 ## 3. light balance
