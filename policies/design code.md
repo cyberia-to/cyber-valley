@@ -23,11 +23,9 @@ a plot of 1,000 m² carries 100 m² of footprint and up to 200 m² of floor area
 
 | element | share of the plot |
 |---|---|
-| garden — herbs, shrubs, trees, food beds | at least [70]%, of which food beds under irrigation up to [10]%; the rest of the garden lives on rain and mulch |
-| pond | at least [3]% and at least [10] m², at least 1 m deep, filled by roof overflow; every plot has one |
+| garden — herbs, shrubs, trees, food beds | at least [70]% |
+| pond | at least [3]% and at least [10] m²; every plot has one |
 | paths and terraces | the remainder |
-
-the plot balances its own water: at 2,700 mm of rain a year, every 25 m² of rain-collecting roof carries one resident at 120 litres a day through the year, and 8 m³ of tank per resident carries the dry season. greywater feeds the food beds; the pond keeps its level through the dry season.
 
 ## 3. light balance
 
@@ -63,9 +61,9 @@ at least [60] plant species per plot, of which at least [30] are food or medicin
 
 | system | rule |
 |---|---|
-| supply | PPR pipes; rain-collecting roof of at least 25 m² per resident; tanks of at least 8 m³ per resident |
+| supply | PPR pipes; rainwater tanks sized under [[annex f utilities access mobility\|Annex F (Utilities, Access and Mobility)]] |
 | blackwater | a biodigester on every plot; its gas cooks, its digestate feeds trees |
-| greywater | treated on the plot to BOD below 30 mg/L, then feeds the food beds by drip |
+| greywater | treated on the plot to BOD below 30 mg/L before it returns to the soil |
 | household products | soaps, detergents, cleaners and cosmetics that break down in soil within 5 months |
 
 ## 7. energy

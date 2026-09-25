@@ -19,8 +19,6 @@ a promise to refund is worth what stands behind it. the fund turns the exit clau
 | every sum received under a lease: premium, rent, instalments | 5% | [[hak sewa template]] 3.5 |
 | every assignment fee | 5% | 3.5 |
 | every Hak Pakai upgrade fee | 5% | 3.5 |
-| each area revenue charge | [1]% on top, until the fund reaches [2]% of the total Plot price under lease | 8.9 |
-| each assignment fee | [10]% on top, until the fund reaches [2]% of the total Plot price under lease | 8.9 |
 | recoveries from a Holder after the fund paid a penalty for that Holder | 100% | 8.9 |
 
 a credit enters the fund before any other use of the money it comes from.
@@ -47,7 +45,7 @@ when claims stand at the same time, the fund pays in this order. within one rank
 | 2 | sums under an arbitral award in favour of a Holder | the award is final and due within 10 days |
 | 3 | exit payments a Holder is entitled to: title failure (15.5, 16.3), licence deprivation (14.4), long stop (9.3), design change (10.6.3), Hak Pakai failure (12.1.11, 12.1.12) | a Holder leaving the estate is owed money now |
 | 4 | buy-back under the build obligation (9.5) | the estate's own choice to recover an idle plot |
-| 5 | return of surplus to the Company | above [2]% of the total Plot price under lease, with commissioner approval |
+| 5 | return of surplus to the Company | with commissioner approval |
 
 ## deadlines
 
