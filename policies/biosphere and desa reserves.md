@@ -6,7 +6,7 @@ alias: biosphere and desa reserves, biosphere reserve, desa reserve, tithes
 ---
 # biosphere and desa reserves
 
-two reserves the estate fills before it spends. the [[cyber-valley/strategy|strategy]] sets them as tithes off the top: a share of every recurring dollar to the biosphere and to the desa. the share starts at 10% each and the annual general meeting reviews it every year, setting it for the year ahead as income grows. the annual general meeting of the Company is the meeting of the city council: every leaseholder is a shareholder. [[hak sewa template]] 9.5 sends every holding charge here as well — a plot left idle costs the land and the village, so its charge returns to them.
+two reserves the estate fills before it spends. the [[cyber-valley/strategy|strategy]] sets them as tithes off the top: a share of every recurring dollar to the biosphere and to the desa. the share starts at 10% each and the annual general meeting reviews it every year, setting it for the year ahead as income grows. the annual general meeting of the Company is the meeting of the city council: a leaseholder who holds at least 4 Company shares votes there. [[hak sewa template]] 9.5 sends every holding charge here as well — a plot left idle costs the land and the village, so its charge returns to them.
 
 ## inflows
 
