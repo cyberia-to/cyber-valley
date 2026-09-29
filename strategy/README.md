@@ -127,8 +127,8 @@ The deeper bet is mountain repricing. Globally, **premium mountain prices like b
 
 | Wave | Volume | Instruments | Price (per are) | Trigger |
 |---|---|---|---|---|
-| 1 — Pioneers | 15 are | A + build obligation | ×0.4 of target | Now. Build obligation mandatory; pioneer homes are the social proof |
-| 2 — Anchor live | 25 are | A | ×0.7 | Anchor operating, Phase 1 infrastructure complete |
+| 1 — Pioneers | 15 are | A, B + build obligation | ×0.4 of target | Now. Build obligation mandatory; pioneer homes are the social proof |
+| 2 — Anchor live | 25 are | A, B | ×0.7 | Anchor operating, Phase 1 infrastructure complete |
 | 3 — City alive | 25 are | A, B | ×1.0–1.3 | Community services populated, daily life visible |
 | Reserve | 15 are | — | ×2+ | Best view plots. Do not release until price doubles Wave 3 |
 
