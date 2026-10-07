@@ -16,6 +16,8 @@ The highland pole of Bali: nature × technology, mountain tourism × a life wort
 
 started 2021 · first off-grid home 2023 · [[citadel]] (~30 ha) under construction.
 
+the long read, as pitched in 2025: [[cyber valley vision]].
+
 > quiet nights · clean air · fast networks · space to think
 
 ---
