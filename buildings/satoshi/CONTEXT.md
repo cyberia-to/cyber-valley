@@ -59,9 +59,9 @@ The child's 20 learning domains are cybics through 20 lenses:
 | FORM | numbers, math, computing | what are the rules? |
 | MASS | physics, atoms, chemistry | what is it made of? |
 | SPACE | space, earth, nature | where does it happen? |
-| LIFE | body, mind, emotions | who is alive? |
+| LIFE | body, mind, emotions | what lives? |
 | WORD | language, nutrition, energy | what does it mean? |
-| WORK | making, link, cybics | how is it made? |
+| WORK | making, link, cybics | who does the work? |
 | PLAY | cooperation | how do we coordinate? |
 
 ## The Method: Will

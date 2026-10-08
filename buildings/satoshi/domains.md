@@ -46,7 +46,7 @@ mapped from the [[cyber/crystal]]'s 7 triads × 3 domains = 21 irreducible knowl
 | [[satoshi/earth]] | [[geo]], [[cosmo]], [[eco]] | soil, water, weather, sky, volcano, seasons |
 | [[satoshi/nature]] | [[bio]], [[eco]], [[chemo]] | species knowledge, ecological thinking |
 
-### LIFE — who is alive?
+### LIFE — what lives?
 
 | domain | crystal source | what it develops |
 |--------|---------------|-----------------|
@@ -62,7 +62,7 @@ mapped from the [[cyber/crystal]]'s 7 triads × 3 domains = 21 irreducible knowl
 | [[satoshi/nutrition]] | [[bio]], [[chemo]], [[health]] | food as medicine, species as nutrition |
 | [[satoshi/energy]] | [[energo]], [[quantum]] | where power comes from, how it flows |
 
-### WORK — how is it made?
+### WORK — who does the work?
 
 | domain | crystal source | what it develops |
 |--------|---------------|-----------------|

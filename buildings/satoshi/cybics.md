@@ -67,9 +67,9 @@ seven triads cover all [[knowledge]]. each triad: three inseparable aspects of o
 | FORM | [[math]] ([[proof]]) | [[info]] ([[bit]]) | [[comp]] ([[step]]) | what are the rules? |
 | MASS | [[quantum]] | [[chemo]] | [[energo]] | what is it made of? |
 | SPACE | [[cosmo]] | [[geo]] | [[eco]] | where does it happen? |
-| LIFE | [[bio]] | [[neuro]] | [[sense]] | who is alive? |
+| LIFE | [[bio]] | [[neuro]] | [[sense]] | what lives? |
 | WORD | [[lang]] | [[spiri]] | [[meta]] | what does it mean? |
-| WORK | [[ai]] | [[tech]] | [[cyber]] | how is it made? |
+| WORK | [[ai]] | [[tech]] | [[cyber]] | who does the work? |
 | PLAY | [[socio]] | [[crypto]] | [[game]] | how do we coordinate? |
 
 7 questions. 3 aspects each. 21 irreducible domains. the [[crystal]] seeds the [[cybergraph]] with these as the foundational ontology. Satoshi's 19 child domains map onto these 21 — the child absorbs the crystal structure through experience before she knows it has a name

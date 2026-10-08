@@ -52,7 +52,7 @@ every domain in the crystal maps to experiences available at [[cyber valley]]. S
 | [[geo]] | 240 particles | volcanic soil, canyons, hot springs, rain patterns, elevation, maps |
 | [[eco]] | 240 particles | the forest IS an ecosystem. food webs, symbiosis, succession — lived daily |
 
-### LIFE triad — who is alive?
+### LIFE triad — what lives?
 
 | domain | crystal target | child encounters it through |
 |--------|---------------|---------------------------|
@@ -68,7 +68,7 @@ every domain in the crystal maps to experiences available at [[cyber valley]]. S
 | [[spiri]] | 240 particles | "why does the sunset matter?" wonder, gratitude, ceremony, silence |
 | [[meta]] | 240 particles | "how do I know this is true?" thinking about thinking. observation journals |
 
-### WORK triad — how is it made?
+### WORK triad — who does the work?
 
 | domain | crystal target | child encounters it through |
 |--------|---------------|---------------------------|
