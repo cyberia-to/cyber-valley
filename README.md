@@ -35,6 +35,7 @@ the long read, as pitched in 2025: [[cyber valley vision]].
 | [[landscape]] | trails, highland flora, place |
 | [[ops]] | day-to-day build and run |
 | [[cyb-land]] | visitor product (research) |
+| [[edge city patagonia 2025\|courses]] | the field intensives the city ran; the index is in the [[courses\|blog]] |
 
 ---
 
