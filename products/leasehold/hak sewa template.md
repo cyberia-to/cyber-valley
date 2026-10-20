@@ -7,7 +7,7 @@ icon: "🖋"
 ---
 # Hak Sewa — signable template
 
-Two instruments per Plot form one transaction. The notary executes [[hak sewa simple]], the eight-clause *akta sewa*; the same parties sign this agreement alongside it. The two state their shared terms identically, and this agreement governs every other term. Both are executed in Bahasa Indonesia and English, the Indonesian text prevailing; the Director signs under Articles of Association Pasal 12(2)(c). Schedule 3 maps this text to the notary's long format, [[perjanjian sewa menyewa template]].
+One instrument per Plot: this agreement, executed before the notary as the *akta sewa* in Bahasa Indonesia and English, the Indonesian text prevailing; the Director signs under Articles of Association Pasal 12(2)(c). The notary draws the deed from this text; Annexes A–G are part of it.
 
 ---
 
@@ -552,20 +552,3 @@ Figures in brackets in the text:
 | 17.1 | force majeure termination | 12 months |
 | 2.4 | renewal price | L₀ · (T₂ ÷ T₁) · I(T) ÷ I(t₀), floored at L₀ · T₂ ÷ T₁ |
 | 4.5 | referral threshold | 3 referred Holders in good standing, fee at 1.0% |
-
-## Schedule 3. Map to the notary's format
-
-| this template | [[perjanjian sewa menyewa template]] |
-|---|---|
-| Recitals, Part 1 | Pembukaan, Pasal 1 |
-| Part 2 | Pasal 2, Pasal 8 (Opsi Perpanjangan) |
-| Part 3 | Pasal 3 |
-| Part 4, Part 5 | Pasal 4 |
-| Part 15, 2.1 | Pasal 5 |
-| Parts 7, 8, 9, 10 | Pasal 6, Pasal 7 |
-| Part 18 | Pasal 9 |
-| Part 16 | Pasal 10, Pasal 12 |
-| 12.1.8 | Pasal 11 |
-| 17.1 | Pasal 13 |
-| 17.3 | Pasal 14, Pasal 15 |
-| Part 13 | Pasal 16 |
