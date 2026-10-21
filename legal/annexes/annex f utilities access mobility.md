@@ -9,6 +9,8 @@ icon: "🔌"
 
 # Annex F — Utilities, Access and Mobility
 
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreidmj54fi6r7ivlkntzer326nye7r7e3af4lhpn3um4l5wsf7yo2rq) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreic35l4nuly7p7saar2acd6rzd357j7oejkfjie57uo7mvdommyw6y) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreifwe6lfss2yht6nzmqcbimx4an3namhoe2z4zjtsjo6jbrbg6gc6i)
+
 Annexed to [[hak sewa template]] under 11.5. Each Plot is self-sufficient; the norms below size its systems. The Holder builds them at its own cost under the [[cyber-valley/products/leasehold/design code|Design Code]].
 
 ## F1. Self-sufficiency norms per Plot

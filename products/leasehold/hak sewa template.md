@@ -7,7 +7,9 @@ icon: "🖋"
 ---
 # Hak Sewa — signable template
 
-One instrument per Plot: this agreement, executed before the notary as the *akta sewa* in Bahasa Indonesia and English, the Indonesian text prevailing; the Director signs under Articles of Association Pasal 12(2)(c). The notary draws the deed from this text; Annexes A–G are part of it.
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafybeigti47gnqrl7xcdq67s6fxllyqfbmpuct2ctpinss65hxgtaiulky) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafybeift23aotkeaj4s7ktesrijp5t5txge7c7xbfeckzws27tteb22yom)
+
+One instrument per Plot: this agreement, executed before the notary as the *akta sewa* in Bahasa Indonesia and English, the Indonesian text prevailing; the Landowner signs by its President Commissioner under Article 99(2)(b) of [[uu 40-2007 perseroan terbatas|Law No. 40 of 2007]] where the Director is the Holder, and otherwise by its Director under Articles of Association Pasal 12(2)(c). The notary draws the deed from this text; Annexes A–G are part of it.
 
 ---
 
@@ -16,6 +18,7 @@ One instrument per Plot: this agreement, executed before the notary as the *akta
 | field | value |
 |---|---|
 | Landowner | PT CYBER VALLEY ESTATE, PT PMA, Gesing, Banjar, Buleleng, Bali, established by Akta Pendirian No. 01 of 04.01.2022, [[nib\|NIB]] 2504220016017, NPWP 53.898.326.3-902.000 |
+| Represented by | [___] |
 | Holder | [___], [Foreign Holder / Indonesian Holder] |
 | Title | HGB No. 00048/Gesing, Annex A (Estate Registry), 40,000 m², parcel NIB 22040417.00276, Surat Ukur No. 00086/2002, right granted 08.02.2023 under KEPMEN ATR/KBPN No. 1339/SK-HK.02/X/2022, expiring 02.02.2053, registered to PT CYBER VALLEY ESTATE by AJB No. 81/2023 at the Kantor Pertanahan of Kabupaten Buleleng |
 | PKKPR | No. 10082310215108014, issued through OSS on 09.08.2023, KBLI 68111, 40,000 m² |
@@ -489,6 +492,8 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 18.4 General. Personal data: the Register and the ledger publish Plot state and results and keep the Holder's identity private. KYC and source-of-funds documents are delivered before signing. This deed with its Annexes is the entire agreement; a void clause is severed and the rest stands; counterparts and electronic signature are permitted where the notarial form allows.
 
+18.5 Language. This deed is made in Bahasa Indonesia and English as required by [[uu 24-2009 bahasa|Law 24/2009]] Article 31. In the event of a discrepancy between the two texts, the Indonesian text prevails.
+
 ---
 
 ## Annexes and linked pages
@@ -518,7 +523,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 ## Signature
 
-| PT CYBER VALLEY ESTATE, by its Director | the Holder |
+| PT CYBER VALLEY ESTATE | the Holder |
 |---|---|
 | __________________ | __________________ |
 | witnesses: [___], [___] | notary: [___] |

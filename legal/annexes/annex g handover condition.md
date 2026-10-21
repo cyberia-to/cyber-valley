@@ -9,6 +9,8 @@ icon: "🔑"
 
 # Annex G — Handover Condition
 
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreiah2a7piary2t5tguoawvnn6owiyb64msshcqq2zluufvoiki2dke) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreibd4ojglfqzfsyj2wctlbfxo5bkvjv77bj7e3ygpy6w6nbggk33oe) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreifsy5x3eoctpv2lpatum2kr6zu4bk4vvdyj34c3xsd4diwz5jhrcm)
+
 Annexed to [[hak sewa template]] under 8.6. The *Berita Acara Serah Terima Lahan* — the record of handover of the Plot — completed at BAST Lahan. The Plot returns at BAST Pengembalian measured against it.
 
 ## G1. Record

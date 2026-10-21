@@ -9,6 +9,8 @@ icon: "🗺"
 
 # Annex A — Estate Registry
 
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreibu52hexczxr5oobai2lvyjybagaomcfmivbbtcdgohffvw4ezlaq) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreicwwjiavdgoe6jylx57yye3nbeinnd5cpceqwc57rv4juz6ed7qbu) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreif3kmmof3udvuii3hi2qluwtaoovp2xszvmjqukjezazsakpvascy)
+
 Annexed to [[hak sewa template]]. The Title on which the Plot sits.
 
 | field | value |

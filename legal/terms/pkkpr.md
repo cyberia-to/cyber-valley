@@ -8,6 +8,8 @@ icon: "🔤"
 ---
 # PKKPR — Persetujuan KKPR / Approved Spatial Use Conformity
 
+Scan: [PKKPR No. 10082310215108014 for the Title](https://gateway.pinata.cloud/ipfs/bafkreicgcubeevnlffo4r42rtnjjrej7xmn2ck7lqbv67s4xfqpncjqeuy) — identity numbers and home addresses of natural persons blacked out
+
 The issued approval of [[kkpr|KKPR]] for a specific parcel and use.
 
 ## Where it appears

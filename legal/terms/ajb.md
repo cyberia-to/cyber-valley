@@ -8,6 +8,8 @@ icon: "🔤"
 ---
 # AJB — Akta Jual Beli / Deed of Sale and Purchase
 
+Scan: [AJB No. 81/2023, the Company's purchase of the Title](https://gateway.pinata.cloud/ipfs/bafybeiavjc5opojj6itcpzkzm4ystv5hn5fgupbo6j7cp5zraynfrtdumu) — identity numbers and home addresses of natural persons blacked out
+
 The notarial deed transferring land rights before a [[ppat|PPAT]].
 
 ## Where it appears
