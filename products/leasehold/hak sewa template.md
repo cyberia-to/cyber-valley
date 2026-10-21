@@ -7,9 +7,9 @@ icon: "🖋"
 ---
 # Hak Sewa — signable template
 
-One instrument per Plot: this agreement, executed before the notary as the *akta sewa* in Bahasa Indonesia and English, the Indonesian text prevailing; the Landowner signs by its President Commissioner under Article 99(2)(b) of [[uu 40-2007 perseroan terbatas|Law No. 40 of 2007]] where the Director is the Holder, and otherwise by its Director under Articles of Association Pasal 12(2)(c). The notary draws the deed from this text; Annexes A–G are part of it.
+One instrument per Plot: this agreement, executed before the notary as the *akta sewa* in Bahasa Indonesia and English, the Indonesian text prevailing; the Landowner signs by its Director under Articles of Association Pasal 12(2)(c). The notary draws the deed from this text; Annexes A–G are part of it.
 
-PDF: [ID](https://gateway.pinata.cloud/ipfs/bafybeif62bhowzloohsenwcf52r563ypovenicqzkc4ore4l4wrsh5duoy) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafybeidcs36a3y4yuwz7o3at2oxifluyhzytrj2b5pwydlt3rlxec7m63e)
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafybeifltcl6jhkmvrguql3odft7fsv5cp45bh55w7gl6hwyrghniyftye) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafybeietyl6uigh7tfork6mv2s6guzjvxciksek4zfzsl5zkrgaew54cxm)
 
 ---
 
@@ -523,7 +523,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 ## Signature
 
-| PT CYBER VALLEY ESTATE | the Holder |
+| PT CYBER VALLEY ESTATE, by its Director | the Holder |
 |---|---|
 | __________________ | __________________ |
 | witnesses: [___], [___] | notary: [___] |
