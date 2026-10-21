@@ -8,9 +8,9 @@ icon: "🔤"
 ---
 # NIB — Nomor Induk Berusaha / Business Identification Number
 
-Scan: [NIB 2504220016017 of PT Cyber Valley Estate](https://gateway.pinata.cloud/ipfs/bafybeic5zqkigew4u5nqm4uk5jkabo64gldvjw4uj4okdyxw5txrmvuzyq) — identity numbers and home addresses of natural persons blacked out
-
 The single business identity number issued through the OSS system, carrying the company's licensed activities.
+
+Scan: [NIB 2504220016017 of PT Cyber Valley Estate](https://gateway.pinata.cloud/ipfs/bafybeic5zqkigew4u5nqm4uk5jkabo64gldvjw4uj4okdyxw5txrmvuzyq) — identity numbers and home addresses of natural persons blacked out
 
 ## Where it appears
 

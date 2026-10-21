@@ -8,9 +8,9 @@ icon: "🔤"
 ---
 # PPJB — Perjanjian Pengikatan Jual Beli / Binding Sale and Purchase Agreement
 
-Scan: [the PPJB that preceded AJB No. 81/2023](https://gateway.pinata.cloud/ipfs/bafybeigcx2nqufcckns4wzyungnkk6ed7r5wadstwselcouvw2lntjsp6a) — identity numbers and home addresses of natural persons blacked out
-
 A preliminary sale agreement used before a title can be transferred.
+
+Scan: [the PPJB that preceded AJB No. 81/2023](https://gateway.pinata.cloud/ipfs/bafybeigcx2nqufcckns4wzyungnkk6ed7r5wadstwselcouvw2lntjsp6a) — identity numbers and home addresses of natural persons blacked out
 
 ## Where it appears
 

@@ -8,9 +8,9 @@ icon: "🔤"
 ---
 # HGB — Hak Guna Bangunan / Right to Build
 
-Scan: the certificate HGB No. 00048/Gesing reaches the Holder before signing day and is pinned the moment it does — [the shelf](https://cyberia.my/docs#pending)
-
 A registered land title giving the right to erect and own buildings on land for a fixed term. Under PP 18/2021: 30 years, extendable by 20, renewable for 30.
+
+Scan: the certificate HGB No. 00048/Gesing reaches the Holder before signing day and is pinned the moment it does — [the shelf](https://cyberia.my/docs#pending)
 
 ## Where it appears
 
