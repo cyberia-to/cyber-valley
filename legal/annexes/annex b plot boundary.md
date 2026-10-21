@@ -11,7 +11,7 @@ icon: "📐"
 
 Annexed to [[hak sewa template]]. One Annex B per Plot, completed at signing and initialled on every page. The Plot is demised *per aversionem* within the boundaries below, under Part 6 of the template: the boundaries define the Plot, and a later survey by anyone changes neither price nor Term.
 
-PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreidndj5jl4qxddcpwrtg7hv4lsi5gb5s6vg7qv3lrvxei2inhp6wfm) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreigxkw6pobfr5d7txli7mmx7h5vfpbg2nbt2mye5brea3oo3aw7wh4) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreicd7wom6npezmunfhjc7mb4bb6uammjoa5p4gvjbqo4252nwsqs7q)
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreid5rpuca4mwc64zwostfrnv2gxsr5gmpppde7f5tbrzy5gztcbopu) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreihj4ktbdmjifmzsqyahqxgp5tj2az6phm4avvvgwdcbdgdvg45ote) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreificjg5pxq7xjhb6l77hbzfsssrl4jool7ddxzdcmece3o5yiki3m)
 
 ## 1. The Plot
 

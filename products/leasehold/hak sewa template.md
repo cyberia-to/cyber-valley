@@ -9,7 +9,7 @@ icon: "🖋"
 
 One instrument per Plot: this agreement, executed before the notary as the *akta sewa* in Bahasa Indonesia and English, the Indonesian text prevailing; the Landowner signs by its Director under Articles of Association Pasal 12(2)(c). The notary draws the deed from this text; Annexes A–G are part of it.
 
-PDF: [ID](https://gateway.pinata.cloud/ipfs/bafybeifltcl6jhkmvrguql3odft7fsv5cp45bh55w7gl6hwyrghniyftye) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafybeietyl6uigh7tfork6mv2s6guzjvxciksek4zfzsl5zkrgaew54cxm)
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafybeicn423fhtg47co2kk5dspaiwqfbvrbg47n7s5zsk6dzypkzv4mv2q) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafybeibajrknkslmoyy5xbkp3djrgyiqmwb5skaebd3jkvgw4contoqsdu)
 
 ---
 
