@@ -10,7 +10,7 @@ icon: "🔤"
 
 The notarial deed transferring land rights before a [[ppat|PPAT]].
 
-Scan: [AJB No. 81/2023, the Company's purchase of the Title](https://gateway.pinata.cloud/ipfs/bafybeiavjc5opojj6itcpzkzm4ystv5hn5fgupbo6j7cp5zraynfrtdumu) — identity numbers and home addresses of natural persons blacked out
+Scan: [AJB No. 81/2023, the Company's purchase of the Title](https://gateway.pinata.cloud/ipfs/bafybeihctsbflepuvm4mfqyywhufrdsxumymvtwg66xeyvzeokfhqbzkfi) — identity numbers and home addresses of natural persons blacked out
 
 ## Where it appears
 

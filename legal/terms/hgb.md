@@ -10,7 +10,7 @@ icon: "🔤"
 
 A registered land title giving the right to erect and own buildings on land for a fixed term. Under PP 18/2021: 30 years, extendable by 20, renewable for 30.
 
-Scan: the certificate HGB No. 00048/Gesing reaches the Holder before signing day and is pinned the moment it does — [the shelf](https://cyberia.my/docs#pending)
+Scan: [the certificate HGB No. 00048/Gesing with the BPN check of 24-03-2023](https://gateway.pinata.cloud/ipfs/bafybeieu2iiij426htbtrb3upf6jca2skh7vm5znbchzlavny6dwyjuu5y) — birth dates of natural persons blacked out
 
 ## Where it appears
 

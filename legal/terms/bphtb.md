@@ -10,7 +10,7 @@ icon: "🔤"
 
 The duty payable by the acquirer on a transfer of land rights.
 
-Scan: [BPHTB on the Company's acquisition of the Title](https://gateway.pinata.cloud/ipfs/bafybeialrbqczjnuzsi5re6h6whw7biplaj2tdqfojn2cmgsz3ajb3iyim) — identity numbers and home addresses of natural persons blacked out
+Scan: [BPHTB on the Company's acquisition of the Title](https://gateway.pinata.cloud/ipfs/bafybeiat3aliiwg5eadewicbywyiuwgjg4dysctrdmyxticiu4szhb7pru) — identity numbers and home addresses of natural persons blacked out
 
 ## Where it appears
 

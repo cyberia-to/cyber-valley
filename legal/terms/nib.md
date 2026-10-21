@@ -10,7 +10,7 @@ icon: "🔤"
 
 The single business identity number issued through the OSS system, carrying the company's licensed activities.
 
-Scan: [NIB 2504220016017 of PT Cyber Valley Estate](https://gateway.pinata.cloud/ipfs/bafybeic5zqkigew4u5nqm4uk5jkabo64gldvjw4uj4okdyxw5txrmvuzyq) — identity numbers and home addresses of natural persons blacked out
+Scan: [NIB 2504220016017 of PT Cyber Valley Estate](https://gateway.pinata.cloud/ipfs/bafybeihcwdzx3cxozwmfalxnjydizu5y4xssicgzmxomwrngldm4s3ab44) — identity numbers and home addresses of natural persons blacked out
 
 ## Where it appears
 

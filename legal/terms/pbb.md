@@ -10,7 +10,7 @@ icon: "🔤"
 
 The annual property tax on land and buildings.
 
-Scan: [SPPT PBB 2023 of the Title](https://gateway.pinata.cloud/ipfs/bafybeic4rlgv4n2dlsh3djpmcm4ryyovfwfbvemfza7fchvcfxfdw2rqfe) — identity numbers and home addresses of natural persons blacked out
+Scan: [SPPT PBB 2023 of the Title](https://gateway.pinata.cloud/ipfs/bafybeifhjqdsae4dh7hoez2c2wtmocb4qlr3pwmrtllfb3boh6elxop3du) — identity numbers and home addresses of natural persons blacked out
 
 ## Where it appears
 

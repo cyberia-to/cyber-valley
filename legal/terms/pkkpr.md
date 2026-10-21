@@ -10,7 +10,7 @@ icon: "🔤"
 
 The issued approval of [[kkpr|KKPR]] for a specific parcel and use.
 
-Scan: [PKKPR No. 10082310215108014 for the Title](https://gateway.pinata.cloud/ipfs/bafkreicgcubeevnlffo4r42rtnjjrej7xmn2ck7lqbv67s4xfqpncjqeuy) — identity numbers and home addresses of natural persons blacked out
+Scan: [PKKPR No. 10082310215108014 for the Title](https://gateway.pinata.cloud/ipfs/bafkreihouyf45emi5pgdkxj2356spz5fawrcqtssnd76da25i6gycmfu54) — identity numbers and home addresses of natural persons blacked out
 
 ## Where it appears
 
