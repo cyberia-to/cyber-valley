@@ -10,7 +10,7 @@ icon: "📈"
 
 Annexed to [[hak sewa template]]. It sets the rent of the century index form (3.1–3.4), the renewal price (2.4), the Guarantee Fund unit (3.5) and the service charge cap (11.4). The rules follow the [[cyberia/protocol/century-index|century index]] protocol. The daily level, its history, the calculator and worked examples are published at [cyberia.my/cx](https://cyberia.my/cx).
 
-PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreicojyybfrwn6qzrxtls7rnpzqe3um5w7blqmg3lf7tttswjvzziaa) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreif2ont4rndn3bciqsbs4ye3k3r6xago4nz4g4eq4n2qrzl3zn2qwm) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreidyvvqi74m2l2heqh4rk4fb2d5zlccixewite37xcqyi3b6xeyxr4)
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreicojyybfrwn6qzrxtls7rnpzqe3um5w7blqmg3lf7tttswjvzziaa) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreif2ont4rndn3bciqsbs4ye3k3r6xago4nz4g4eq4n2qrzl3zn2qwm) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreidn7eiokviyuuuq34zhceri77tmlrgoprluib46t7dyfx5agrzjjm)
 
 ## E1. Terms
 

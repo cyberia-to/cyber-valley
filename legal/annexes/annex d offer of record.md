@@ -11,7 +11,7 @@ icon: "📌"
 
 Annexed to [[hak sewa template]] under 3.0. The product page and the price the Holder saw when deciding, recorded at signing. Later changes to the page leave this deal as recorded. The record is made under the [[offer of record memo]].
 
-PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreiftqbvgigi655l4546dmtox7stvfoynj5s33r3653dhx53uhziscu) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreif7k3kvsjwikfdkfoougrtztfnja4cfeyxz6roosulsaruybi52iq) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreidelzh6o3zvf4ifemzcxgmwb26vfigxpjggynkwxzmqk3fhr4o2oi)
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreiftqbvgigi655l4546dmtox7stvfoynj5s33r3653dhx53uhziscu) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreif7k3kvsjwikfdkfoougrtztfnja4cfeyxz6roosulsaruybi52iq) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreicspfdo6f4glajr2w6xlp5gxvxfuony6d6nnqbk52xlaxvmrb2i7q)
 
 ## D1. Record
 

@@ -11,7 +11,7 @@ icon: "🗺"
 
 Annexed to [[hak sewa template]]. The Title on which the Plot sits.
 
-PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreibu52hexczxr5oobai2lvyjybagaomcfmivbbtcdgohffvw4ezlaq) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreicwwjiavdgoe6jylx57yye3nbeinnd5cpceqwc57rv4juz6ed7qbu) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreif3kmmof3udvuii3hi2qluwtaoovp2xszvmjqukjezazsakpvascy)
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreibu52hexczxr5oobai2lvyjybagaomcfmivbbtcdgohffvw4ezlaq) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreicwwjiavdgoe6jylx57yye3nbeinnd5cpceqwc57rv4juz6ed7qbu) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreic4hpptrk3b57ozg46skqvnykcbwmnh7a4ctj3eiuhhem5g4dhz4m)
 
 | field | value |
 |---|---|

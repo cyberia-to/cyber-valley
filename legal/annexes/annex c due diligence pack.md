@@ -11,7 +11,7 @@ icon: "🔍"
 
 Annexed to [[hak sewa template]] under 15.1.1. The documents the Landowner hands the Holder before signing, and the record of their handover. The pack is assembled under the [[due diligence pack memo]].
 
-PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreibak7keeh7dvd63bdcfnon2hnxxdsxuor4wstuciwabbquo5kh2py) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreib5pxjlgxife4jcpb7evpmueuv6n5dd4do72jeuzzzcinh6ajzwna) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreieu73sgx4dr4gccmo7kxp4xtjrx3syl6hajmbnjiwy4nkrolshqzy)
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreibak7keeh7dvd63bdcfnon2hnxxdsxuor4wstuciwabbquo5kh2py) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreib5pxjlgxife4jcpb7evpmueuv6n5dd4do72jeuzzzcinh6ajzwna) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreigetlw4dmct3iwyqs4ipvs5erlgnazmnvlhm2udpbcyj2bqgfgybq)
 
 ## C1. Inventory
 
