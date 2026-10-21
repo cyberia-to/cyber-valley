@@ -11,7 +11,7 @@ icon: "🗺"
 
 Annexed to [[hak sewa template]]. The Title on which the Plot sits.
 
-PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreibu52hexczxr5oobai2lvyjybagaomcfmivbbtcdgohffvw4ezlaq) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreicwwjiavdgoe6jylx57yye3nbeinnd5cpceqwc57rv4juz6ed7qbu) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreic4hpptrk3b57ozg46skqvnykcbwmnh7a4ctj3eiuhhem5g4dhz4m) · [ID+UK](https://gateway.pinata.cloud/ipfs/bafkreigtkpmvaecl2z6ehn5yvc73k3qjxyki6w2qs5fnp2wp3sggro2ccu) · [ID+ZH](https://gateway.pinata.cloud/ipfs/bafybeichvsogmwocmgsgg2wnddnvn5r4ntnuyltinsguifrsmrg54oopby)
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreibu52hexczxr5oobai2lvyjybagaomcfmivbbtcdgohffvw4ezlaq) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreicwwjiavdgoe6jylx57yye3nbeinnd5cpceqwc57rv4juz6ed7qbu) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreic4hpptrk3b57ozg46skqvnykcbwmnh7a4ctj3eiuhhem5g4dhz4m) · [ID+UK](https://gateway.pinata.cloud/ipfs/bafkreigtkpmvaecl2z6ehn5yvc73k3qjxyki6w2qs5fnp2wp3sggro2ccu) · [ID+ZH](https://gateway.pinata.cloud/ipfs/bafybeichvsogmwocmgsgg2wnddnvn5r4ntnuyltinsguifrsmrg54oopby) · [ID+DE](https://gateway.pinata.cloud/ipfs/bafkreiaejsrldqbcra5vbw5qnqr2inrurymojcu7l3j2jbfdhlwivszk3a)
 
 | field | value |
 |---|---|
