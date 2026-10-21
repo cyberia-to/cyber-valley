@@ -11,7 +11,7 @@ icon: "🔑"
 
 Annexed to [[hak sewa template]] under 8.6. The *Berita Acara Serah Terima Lahan* — the record of handover of the Plot — completed at BAST Lahan. The Plot returns at BAST Pengembalian measured against it.
 
-PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreiah2a7piary2t5tguoawvnn6owiyb64msshcqq2zluufvoiki2dke) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreibd4ojglfqzfsyj2wctlbfxo5bkvjv77bj7e3ygpy6w6nbggk33oe) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreicmumggy5rsp7eerdw3nrbc6nymktoi3bfkxx6junvmkci4wd6oe4)
+PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreiah2a7piary2t5tguoawvnn6owiyb64msshcqq2zluufvoiki2dke) · [ID+EN](https://gateway.pinata.cloud/ipfs/bafkreibd4ojglfqzfsyj2wctlbfxo5bkvjv77bj7e3ygpy6w6nbggk33oe) · [ID+RU](https://gateway.pinata.cloud/ipfs/bafkreicmumggy5rsp7eerdw3nrbc6nymktoi3bfkxx6junvmkci4wd6oe4) · [ID+UK](https://gateway.pinata.cloud/ipfs/bafkreiddskrydtp374vaxbmr35uuwfjz6wdb5ollgovjar4cnbzw6jgrze)
 
 ## G1. Record
 
