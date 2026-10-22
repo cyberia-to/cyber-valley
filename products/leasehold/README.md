@@ -13,6 +13,7 @@ The 25-year [[hak sewa]] over a plot of [[cyber valley]], as a buyer reads it: t
 |---|---|
 | [[hak sewa template]] | the signable 25-year lease — the full text every holder signs |
 | [[design code]] | what is built on a plot and how — binds every holder, every zone and every assignee |
+| [[value provenance]] | where every figure of the lease comes from — law, Company decision or engineering minimum |
 | [[hak sewa]] | the instrument — the right, its two payment forms, the right to sublet |
 | [[rates]] | parcel-time on the same ladder — what a holder charges when subletting |
 

@@ -334,7 +334,7 @@ Weights are normalised per district each moon cycle, capped at 10% per participa
 
 11.2 Protection of what is built. Completed Improvements keep every right they were built with; an amendment of the Design Code or the Community Rules reaches them where it keeps or improves their position.
 
-11.3 Initiative. A proposal carrying [10]% of district weight is answered by the Board of Directors in writing in the Register within 30 days; silence is acceptance, subject to 10.2 and 11.2. Proposals carried under 10.5 amend the Design Code and the Community Rules.
+11.3 Initiative. A proposal carrying 10% of district weight is answered by the Board of Directors in writing in the Register within 30 days; silence is acceptance, subject to 10.2 and 11.2. While a district counts fewer than ten Holders, the Board answers any Holder's proposal. Proposals carried under 10.5 amend the Design Code and the Community Rules.
 
 11.4 Service charge. The actual cost of operating and maintaining Z4 and Z8 infrastructure serving the district, apportioned by Plot area, capped at 1% of the Plot price per year indexed under Annex E (Century Index). The Landowner publishes the budget before each year and the audited account within 90 days after it; a Holder may inspect the records on 30 days' notice. Trails and commons are open to residents under the service charge.
 
@@ -374,7 +374,7 @@ Weights are normalised per district each moon cycle, capped at 10% per participa
 
 12.1.8 Power of attorney. To the extent the law permits, the Landowner grants the Holder an irrevocable power, in the notary's form executed with this deed, to sign in its name the instruments of 12.1.5 left unsigned past the periods of 12.1.6. The obligation of 12.1.5 stands on its own.
 
-12.1.9 Costs. Holder: survey and *pemecahan*, the grant procedure, PPAT and notarial fees, registration fees, BPHTB on the grant, the PPh due on the *pelepasan* (paid by the Landowner and reimbursed by the Holder within 10 working days of evidence of payment), the valuation, its own advisers, and a processing fee of [2.0]% of the valuation under 12.1.4. Landowner: its own authorisations and advisers, the Office Practice verification, cure of any defect in its Title or licences, and every step repeated through its own act or omission.
+12.1.9 Costs. Holder: survey and *pemecahan*, the grant procedure, PPAT and notarial fees, registration fees, BPHTB on the grant, the PPh due on the *pelepasan* (paid by the Landowner and reimbursed by the Holder within 10 working days of evidence of payment), the valuation, its own advisers, and a processing fee of 2.0% of the valuation under 12.1.4. Landowner: its own authorisations and advisers, the Office Practice verification, cure of any defect in its Title or licences, and every step repeated through its own act or omission.
 
 12.1.9A Conversion price. The hak sewa is a lease and its consideration buys the Term only. The Plot under Hak Pakai is acquired for a conversion price equal to the valuation under 12.1.4 of the Plot held under Hak Pakai, fixed as at the date of the Notice, less the Unamortised premium at that date. The conversion price is paid before the *pelepasan* is executed and is refunded in full on any failure under 12.1.10.
 
