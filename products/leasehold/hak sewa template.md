@@ -117,7 +117,7 @@ Singular includes plural. Headings guide reading and bind nothing.
 
 ## Part 2. Grant and term
 
-2.1 The Landowner grants the Holder the right to use and occupy the Plot for [residential / mixed] purposes for the Term, and covenants that the Holder holds and enjoys the Plot without interruption by the Landowner or anyone claiming through it.
+2.1 The Landowner grants the Holder the right to use and occupy the Plot for mixed purposes for the Term, and covenants that the Holder holds and enjoys the Plot without interruption by the Landowner or anyone claiming through it.
 
 2.2 Term. The Term is the lesser of 25 years and the remaining term of the Title at signing less 12 months, stated in the recitals as dates.
 
@@ -336,7 +336,7 @@ Weights are normalised per district each moon cycle, capped at 10% per participa
 
 11.3 Initiative. A proposal carrying [10]% of district weight is answered by the Board of Directors in writing in the Register within 30 days; silence is acceptance, subject to 10.2 and 11.2. Proposals carried under 10.5 amend the Design Code and the Community Rules.
 
-11.4 Service charge. The actual cost of operating and maintaining Z4 and Z8 infrastructure serving the district, apportioned by Plot area, capped at [1]% of the Plot price per year indexed under Annex E (Century Index). The Landowner publishes the budget before each year and the audited account within 90 days after it; a Holder may inspect the records on 30 days' notice. Trails and commons are open to residents under the service charge.
+11.4 Service charge. The actual cost of operating and maintaining Z4 and Z8 infrastructure serving the district, apportioned by Plot area, capped at 1% of the Plot price per year indexed under Annex E (Century Index). The Landowner publishes the budget before each year and the audited account within 90 days after it; a Holder may inspect the records on 30 days' notice. Trails and commons are open to residents under the service charge.
 
 11.5 Each Plot is self-sufficient in energy, water and waste under the Design Code and Annex F (Utilities, Access and Mobility). The Landowner provides legal access to the Plot by the estate roads from the mobility hub. Where the Landowner opens a connection to an estate system, it does so for the period, capacity and tariff the Register publishes, and the connection ends on the date stated. Cars and combustion vehicles stop at the mobility hub; small electric vehicles move freely inside: e-bikes, e-scooters and electric carts. Annex F (Utilities, Access and Mobility) states access, parking, construction logistics and waste removal.
 
