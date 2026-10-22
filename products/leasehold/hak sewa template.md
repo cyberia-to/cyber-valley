@@ -204,10 +204,10 @@ The quantities are the ones fixed at signing; only their prices move. The Landow
 
 | channel | what it is | licence | the Landowner receives |
 |---|---|---|---|
-| land-time | bare land, an hour to a season, no accommodation service | the Holder | area revenue charge of 10% of revenue, or 5% on a Plot that is a net exporter under 5.3; plus a settlement fee of [2]% of revenue for the booking and payment rails |
-| stay | occupation with an accommodation service | the Landowner under KBLI 55199 and 55192 | management fee of [30]% of revenue, the operator's share under [[property management]] |
+| land-time | bare land, an hour to a season, no accommodation service | the Holder | area revenue charge of 10% of revenue, or 5% on a Plot that is a net exporter under 5.3; plus a settlement fee of 2% of revenue for the booking and payment rails |
+| stay | occupation with an accommodation service | the Landowner under KBLI 55199 and 55192 | management fee of [20]% of revenue, the operator's share under [[property management]] |
 
-Land-time totals 12% of revenue, or 7% on a net-exporter Plot. Stay totals [30]%, from which the operator runs guests, requests, upkeep and listing on marketplaces.
+Land-time totals 12% of revenue, or 7% on a net-exporter Plot. Stay totals [20]%, from which the operator runs guests, requests, upkeep and listing on marketplaces.
 
 5.2 Both channels settle in IDR at [[jisdor|JISDOR]] on the invoice date. Letting periods and uses follow the Permitted Use page and the Design Code.
 
@@ -249,7 +249,7 @@ Land-time totals 12% of revenue, or 7% on a net-exporter Plot. Stay totals [30]%
 
 8.4 Insurance. The Holder procures Contractors' All Risks, third-party liability and BPJS Ketenagakerjaan for the construction period, naming the Landowner co-insured; certificates before commencement; lapse stops the works. From SLF the Holder keeps property and public liability cover.
 
-8.5 Completion security. [5]% of the budgeted construction cost, paid in cash before commencement into a segregated Company account, held apart from operating money and from the Guarantee Fund. The balance per Plot is published monthly in the Register with the bank statement and stated in every Estate Certificate. Money leaves the account for a release under this clause, or for completion, rectification or reinstatement of abandoned works certified by the supervisor under 8.3. Released 50% at SLF and 50% at FHO, once the supervisor confirms the works match the approved design, each within 15 working days.
+8.5 Completion security. 5% of the budgeted construction cost, paid in cash before commencement into a segregated Company account, held apart from operating money and from the Guarantee Fund. The balance per Plot is published monthly in the Register with the bank statement and stated in every Estate Certificate. Money leaves the account for a release under this clause, or for completion, rectification or reinstatement of abandoned works certified by the supervisor under 8.3. Released 50% at SLF and 50% at FHO, once the supervisor confirms the works match the approved design, each within 15 working days.
 
 8.6 Handover chain. Risk moves only by a dated [[bast|BAST]] with photographic and inventory annexes:
 
@@ -282,8 +282,8 @@ Land-time totals 12% of revenue, or 7% on a net-exporter Plot. Stay totals [30]%
 
 9.5 Remedy ladder, in order:
 
-1. Holding charge: [0.5]% of the Plot price per month of overrun, rising by [0.25] percentage points every 6 months, paid to the biosphere and desa reserves under the [[cyber-valley/policies/biosphere and desa reserves|biosphere and desa reserves]] page.
-2. Buy-back offer: after [12] months of overrun the Landowner offers to acquire the interest at the Unamortised premium plus an independent valuation of works completed.
+1. Holding charge: 0.5% of the Plot price per month of overrun, rising by 0.25 percentage points every 6 months, paid to the biosphere and desa reserves under the [[cyber-valley/policies/biosphere and desa reserves|biosphere and desa reserves]] page.
+2. Buy-back offer: after 12 months of overrun the Landowner offers to acquire the interest at the Unamortised premium plus an independent valuation of works completed.
 3. Reversion: available once the Holder declines the offer or leaves it unanswered for 60 days.
 
 9.6 Purpose, recited: idle plots and permanent building sites harm a small community; every Holder keeps either the land or the money.
@@ -298,7 +298,7 @@ Land-time totals 12% of revenue, or 7% on a net-exporter Plot. Stay totals [30]%
 
 10.3 Footprint and canopy ratios are measured per Plot: ground footprint up to 10%, ×2 with two floors.
 
-10.4 Density transfer. From Wave 2 unused footprint entitlement may pass to another Plot in the same district through the Register, district balance maintained, against a settlement fee of [2]% of the price paid for the entitlement. Untransferred entitlement stays with the Plot.
+10.4 Density transfer. From Wave 2 unused footprint entitlement may pass to another Plot in the same district through the Register, district balance maintained, against a settlement fee of 2% of the price paid for the entitlement. Untransferred entitlement stays with the Plot.
 
 10.5 Amendment. The Community Council amends the Design Code and the Community Rules by a proposal under 11.3 carried by two thirds of district weight under 11.1.1. An amendment reaches completed Improvements where it keeps or improves their position; otherwise they keep the rule they were built under.
 
@@ -388,7 +388,7 @@ Weights are normalised per district each moon cycle, capped at 10% per participa
 
 A 12.1.6 period is exceeded for the first row only if the act remains unperformed 10 working days after the Holder's written demand and is not performed under 12.1.8. A refusal grounded on a defect in the Landowner's Title, licences, taxes or documents falls in the first row. Absent a decision 12 months after a complete grant application, the application counts as refused under the second row. The third row covers a condition unsatisfied at application or lapsing before registration. Mixed causes follow the cause without which registration would have succeeded; where no single cause meets that test, the first row applies. The Landowner carries the burden of showing the second row.
 
-12.1.11 Remedies for the Landowner's cause, cumulative at the Holder's election, save that exit ends the other remedies from the exit date: specific performance, damages being recorded as inadequate; delay compensation of [0.5]% of the sums paid under this deed per month from the exceeded period until performance or exit; exit with the Unamortised premium, the value of Improvements at independent valuation and direct loss, secured by the Guarantee Fund; suspension of the area revenue charge and of instalments until cure or exit, without default. The cap of 15.4 leaves specific performance and the exit sum untouched.
+12.1.11 Remedies for the Landowner's cause, cumulative at the Holder's election, save that exit ends the other remedies from the exit date: specific performance, damages being recorded as inadequate; delay compensation of 0.5% of the sums paid under this deed per month from the exceeded period until performance or exit; exit with the Unamortised premium, the value of Improvements at independent valuation and direct loss, secured by the Guarantee Fund; suspension of the area revenue charge and of instalments until cure or exit, without default. The cap of 15.4 leaves specific performance and the exit sum untouched.
 
 12.1.12 Refusal by the office or change of law. The hak sewa continues for its Term with every right. The conversion price returns to the Holder under 12.1.9A. At the Holder's request and cost, the Landowner re-applies whenever the law or the office's practice changes to permit the application.
 
@@ -446,7 +446,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 15.3 Non-disturbance. Any transferee of the Title or of the Estate, by any route, takes subject to this deed. By design of the Estate the land stays outside any pledge or security for debt.
 
-15.4 The Landowner indemnifies the Holder against loss, cost, penalty and reasonable legal expense from breach of 15.1, third-party rights subsisting at signing, loss or non-renewal of the Title otherwise than through the Holder's act, and inability to obtain PBG or SLF for reasons attributable to the Landowner's title or licences. Cap: sums paid by the Holder plus the valuation of Improvements. Claims may be brought within [3] years after termination.
+15.4 The Landowner indemnifies the Holder against loss, cost, penalty and reasonable legal expense from breach of 15.1, third-party rights subsisting at signing, loss or non-renewal of the Title otherwise than through the Holder's act, and inability to obtain PBG or SLF for reasons attributable to the Landowner's title or licences. Cap: sums paid by the Holder plus the valuation of Improvements. Claims may be brought within 3 years after termination.
 
 15.5 Title defect remedies:
 
@@ -462,7 +462,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 16.1 Default and cure, equal for both sides. A party in breach receives written notice naming the breach. Cure periods: payment, 30 days; other breaches, 60 days; breaches whose cure needs a permit or works, 180 days while diligently pursued. A breach uncured past its period is a material default. The Holder may assign under Part 4 during any cure period, the assignee taking the cure period as it stands. Repeated breach of one Community Rules standard, remediated once and recurring within 12 months, is a material default on the second notice.
 
-16.2 Improvements. At expiry without renewal, Improvements pass to the Landowner against compensation at independent valuation, unless the Holder elects within [6] months before expiry to remove them by the end of the Term. On termination for the Landowner's default 15.5 applies. On termination for the Holder's default compensation is reduced by the Landowner's documented loss. Valuation: one valuer agreed within 15 working days, failing which each party appoints one and the two appoint a third whose figure binds.
+16.2 Improvements. At expiry without renewal, Improvements pass to the Landowner against compensation at independent valuation, unless the Holder elects within 6 months before expiry to remove them by the end of the Term. On termination for the Landowner's default 15.5 applies. On termination for the Holder's default compensation is reduced by the Landowner's documented loss. Valuation: one valuer agreed within 15 working days, failing which each party appoints one and the two appoint a third whose figure binds.
 
 16.3 Title failure. Where the Title lapses through no act of the Holder: compensation under 16.2 plus the Unamortised premium, secured by the Guarantee Fund.
 
@@ -474,7 +474,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 ## Part 17. Force majeure, adat, disputes
 
-17.1 Force majeure: volcanic activity, earthquake, landslide, extreme weather, flood, epidemic, act of authority. Affected obligations are suspended, time-based rights extend day for day, the affected party notifies within 14 days and mitigates, and either party may terminate without fault where the event subsists beyond [12] months, Improvements following 16.2 at valuation net of insurance proceeds under 8.4. Each party bears its own loss save as insured.
+17.1 Force majeure: volcanic activity, earthquake, landslide, extreme weather, flood, epidemic, act of authority. Affected obligations are suspended, time-based rights extend day for day, the affected party notifies within 14 days and mitigates, and either party may terminate without fault where the event subsists beyond 12 months, Improvements following 16.2 at valuation net of insurance proceeds under 8.4. Each party bears its own loss save as insured.
 
 17.2 Adat. The Holder complies with the *awig-awig* of the *desa adat*, the *banjar* and *subak* arrangements affecting the Estate, ceremonial access and processional routes, and the customary contributions of residents, as the adat section of the Community Rules page records them. The Landowner discloses them before signing.
 
@@ -550,7 +550,7 @@ Figures in brackets in the text:
 | 12.1.9 | processing fee | 2.0% of the valuation |
 | 12.1.9A | conversion price | valuation at the Notice less the Unamortised premium |
 | 4.5 | assignment fee minimum | 1.0% |
-| 5.1 | stay management fee | 30% of revenue, per [[property management]] |
+| 5.1 | stay management fee | 20% of revenue, per [[property management]] |
 | 12.1.11 | delay compensation | 0.5% of sums paid per month |
 | 15.4 | limitation | 3 years after termination |
 | 16.2 | removal election | 6 months before expiry |

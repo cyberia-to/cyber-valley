@@ -17,10 +17,10 @@ PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreidmj54fi6r7ivlkntzer326nye7r7e
 
 | system | norm | built by the Holder |
 |---|---|---|
-| water | [120] litres per person per day | roof catchment and tanks holding [60] days of use: [7.2] m³ per resident |
-| blackwater | [50] litres per person per day | a biodigester sized to it; its gas cooks, its digestate feeds trees |
-| greywater | [70] litres per person per day | a planted filter or wetland treating to BOD below 30 mg/L |
-| energy | [5] kWh per person per day | generation under the Design Code energy section and batteries for [3] days |
+| water | 120 litres per person per day | roof catchment and tanks holding 60 days of use: 7.2 m³ per resident |
+| blackwater | 50 litres per person per day | a biodigester sized to it; its gas cooks, its digestate feeds trees |
+| greywater | 70 litres per person per day | a planted filter or wetland treating to BOD below 30 mg/L |
+| energy | 5 kWh per person per day | generation under the Design Code energy section and batteries for 3 days |
 | connectivity | one link per household | the Holder's own Starlink terminal |
 | waste | organic waste composted on the Plot; four clean streams to the hub | two compost bins per dwelling |
 
