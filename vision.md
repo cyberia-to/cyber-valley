@@ -8,7 +8,7 @@ crystal-domain: biology
 
 # cyber valley vision: re-design of civilization
 
-> written in 2025 as the pitch of the pilot; moved from `cyberia/foundation/vision.md` on 2026-10-07 because its subject is the valley. the nation speaks in [[cyberia/foundation/whitepaper]] and [[cyberia/foundation/strategy]].
+> written in 2025 as the pitch of the pilot; moved from `cyberia/vision.md` on 2026-10-07 because its subject is the valley. the nation speaks in [[cyberia/whitepaper]] and [[cyberia/strategy]].
 
 In an era where digital nomads like us roam the globe searching for community, sustainability, and innovation, we've poured our hearts into creating a bold new project emerging from the lush volcanic slopes of Bali. 
 
