@@ -15,7 +15,6 @@ soft
 - [sensor network](https://github.com/orgs/cyberia-to/projects/32): end-to-end community automation system
 - [cybaca](https://github.com/orgs/cyberia-to/projects/48): coworking and gathering place
 - [button](https://github.com/orgs/cyberia-to/projects/36): land management system
-- [mimi president](https://github.com/orgs/cyberia-to/projects/37): ai of the village
 
 brands
 
