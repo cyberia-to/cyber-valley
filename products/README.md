@@ -16,7 +16,7 @@ The separation from [[strategy]] is load-bearing. Strategy decides what the city
 | [[rates]] | stay and event — the rate card, the land anchor, and the terms behind both |
 | [[leasehold]] | the 25-year hak sewa over a plot — and the design code that binds every holder |
 
-Priced against the destination value the estate builds toward, on the ladder of horizons in [[marketplace]]. [[cyb-land]] joins here when the visitor product leaves research.
+Priced against the destination value the estate builds toward, on the ladder of horizons in [[marketplace]]. [[etherland]] joins here when the visitor product leaves research.
 
 ---
 
