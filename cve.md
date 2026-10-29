@@ -4,7 +4,7 @@ crystal-type: entity
 crystal-domain: cyberia
 alias: PT CVE, PT PMA Cyber Valley Estate, CVE, cyber valley estate
 ---
-PT PMA Cyber Valley Estate — the Indonesian operating company of [[cyberia]]. a PMA (Penanaman Modal Asing, foreign investment company) licensed and operational in Bali
+PT PMA Cyber Valley Estate — the Indonesian holding company of [[cyberia]]: it owns the strategic assets of [[cyber valley]] — land, infrastructure, robots and people — and leases them to operators and residents. a PMA (Penanaman Modal Asing, foreign investment company) licensed and operational in Bali
 
 ---
 
@@ -44,17 +44,19 @@ Legal pack: [[cve/legal]] · [[dzin]]
 | brand | Cyber Valley, Organiq, Burn.City, Sinwood | growing |
 | operational licenses | PMA formation, permits, compliance history | $100K+ replacement cost |
 
-## revenue streams managed by CVE
+## the business model
 
-| stream | status | managed by (agent) |
+the company holds and leases; it does not operate. an operator runs the cafe, the events, the accommodation or the farm on a lease that names the rent and the company's share of the operator's revenue, verified against the city's sensory feed. the company's money is rent, deposits, shares and licence fees; nothing it does puts a strategic asset at risk — no mortgage, no guarantee, no operating liability. the full doctrine is `cve/management.md` § the business model.
+
+| asset leased or licensed | to | the company's return |
 |---|---|---|
-| events | active — [[Burn.City]], retreats, workshops | PLAY socio-runner |
-| food sales | active — [[organiq]] cafe + store | SPACE eco-runner |
-| accommodation | active — glamping, nomad hub | PLAY socio-runner |
-| coffee | active — harvest, processing, direct sales | SPACE eco-runner |
-| produce | active — fruits, vegetables, spices | SPACE eco-runner |
-| farm program | active — [[Nandu]] farmer incubation | LIFE bio-runner |
-| tours | active — [[sinwood]], [[elona]], farm tours | PLAY socio-runner |
+| residential plots (hak sewa, to 2053) | residents | the leasehold price: deposit and schedule |
+| [[soft3]], [[organiq]], [[banya]], [[vitalik]], the accommodation ground | one operator per building | rent + a share of bookings, sales or nights |
+| the event grounds | the event operator, per event ([[Burn.City]]) | rent + a share of tickets, counted at the gate |
+| the gardens and pasture with what grows there | the farm operator | rent + a share of the harvest's sales |
+| machines and the sensory feed | operators, per slice | a fee per period or per use |
+
+the licences above are the company's and are used by the operators under their leases.
 
 ## employees
 
