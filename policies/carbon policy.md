@@ -31,4 +31,4 @@ alias: carbon policy, carbon negative
 
 ## enforcement
 
-Same as [[soil policy]]: first instance — remediation (a combustion vehicle brought back into compliance, or removed from the estate). Second instance — lease review under [[hak sewa deed]] Part 16.
+Same as [[soil policy]]: first instance — remediation (a combustion vehicle brought back into compliance, or removed from the estate). Second instance — lease review under [[hak sewa template]] Part [16](/cyber-valley/products/leasehold/hak-sewa-template#part-16-default-termination-end-of-term).
