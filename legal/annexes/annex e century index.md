@@ -16,7 +16,7 @@ PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreih2ykg6oqbgbj7irl47fsf3yjw2zis
 
 | term | meaning |
 |---|---|
-| Century Index | a fixed basket of eight world assets used as the unit of account |
+| Century Index | a fixed basket of eight world assets used as the method of computation of the rent in rupiah |
 | leg | one asset of the basket |
 | weight | the share of a leg in the basket at signing |
 | quantity | the amount of a leg the obligation holds: satoshi, grams of gold, barrels of oil; fixed at signing for the Term |
@@ -44,15 +44,25 @@ PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreih2ykg6oqbgbj7irl47fsf3yjw2zis
 
 ## E3. Formulas
 
+The year-0 rent in dollars:
+
+    F = R₀ ÷ J(t₀)
+
+| symbol | meaning |
+|---|---|
+| F | the year-0 rent in dollars |
+| R₀ | the year-0 rent in rupiah, as recited |
+| J(t₀) | JISDOR on the signing date |
+
 Quantities, fixed at signing:
 
-    qᵢ = wᵢ · R₀ ÷ Pᵢ(t₀)
+    qᵢ = wᵢ · F ÷ Pᵢ(t₀)
 
 | symbol | meaning |
 |---|---|
 | qᵢ | the quantity of leg i |
 | wᵢ | the weight of leg i |
-| R₀ | the year-0 rent, in dollars |
+| F | the year-0 rent in dollars |
 | Pᵢ(t₀) | the TWAP of leg i on the signing date |
 
 Value of the basket on day t:
@@ -86,8 +96,8 @@ Rent of a lease year, in bitcoin:
 | clamp | S(t), held between the lower and the upper bound that follow |
 | S(t) | the value of the basket in bitcoin at anniversary t |
 | R(t−1) | the rent of the previous lease year, in bitcoin; for the first year, S₀ |
-| S₀ | the year-0 rent in bitcoin: R₀ ÷ X(t₀) |
-| F | the year-0 rent in dollars: R₀ |
+| S₀ | the year-0 rent in bitcoin: F ÷ X(t₀) |
+| F | the year-0 rent in dollars |
 | X(t) | the bitcoin fix at anniversary t |
 
 Monthly instalment, in rupiah:
@@ -123,8 +133,9 @@ Monthly instalment, in rupiah:
 | field | value |
 |---|---|
 | signing date t₀ | [___] |
-| R₀, year-0 rent | USD [___] |
-| F, dollar floor | USD [___] |
+| R₀, year-0 rent | Rp [___] |
+| J(t₀), JISDOR on the signing date | Rp [___] per USD |
+| F, year-0 rent in dollars, the dollar floor: R₀ ÷ J(t₀) | USD [___] |
 | X(t₀), bitcoin fix | USD [___] |
 | S₀, year-0 rent in bitcoin | [___] BTC |
 
