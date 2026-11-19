@@ -123,7 +123,7 @@ Monthly instalment, in rupiah:
 | T6 Settlement | invoices settle in rupiah at JISDOR on the invoice date, under UU 7/2011; conversion follows the collar and carries the full rupiah rate |
 | T2 Asset falls | a leg that falls in price, even to zero, stays in the basket |
 | T3 Price source ends | a source is ended by cessation, 30 days without publication or a change of method; the price then comes from the named fallback, then a successor named by the regulator, then an equivalent fix set by an independent expert, with the last TWAP as a bridge. Where every bitcoin source ends, the ruler becomes the dollar |
-| T5 Recomputation | the Holder may recompute any invoice from public sources within 30 days; the recomputation prevails and manifest errors are corrected back to their date |
+| T5 Recomputation | the Holder may recompute any invoice from public sources within 30 days; a recomputation made under this annex prevails and manifest errors are corrected back to their date; on disagreement either party refers the computation within 30 days of the recomputation to an independent expert appointed by BANI, whose determination of the amount of the invoice binds the parties; the undisputed part is paid when due, the disputed part carries no arrears under 3.3 while the reference is pending, and the balance is paid or returned within 10 days of the determination |
 | T7 Continuity | the same quantities define the obligation whoever the parties are |
 | T8 On-chain fix | the fix published by the [[cx]] oracle serves as evidence; the computation from the named public sources prevails |
 | Publication | the register publishes each year's computation with every fix used; [cyberia.my/cx](https://cyberia.my/cx) publishes the daily level |
