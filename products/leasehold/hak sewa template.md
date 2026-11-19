@@ -23,7 +23,7 @@ PDF: [ID](https://gateway.pinata.cloud/ipfs/bafybeic6nh6ckdpbzfliic2wr32lgy7yu22
 | Title | HGB No. 00048/Gesing, Annex A (Estate Registry), 40,000 m², parcel NIB 22040417.00276, Surat Ukur No. 00086/2002, right granted 08.02.2023 under KEPMEN ATR/KBPN No. 1339/SK-HK.02/X/2022, expiring 02.02.2053, registered to PT CYBER VALLEY ESTATE by AJB No. 81/2023 at the Kantor Pertanahan of Kabupaten Buleleng |
 | PKKPR | No. 10082310215108014, issued through OSS on 09.08.2023, KBLI 68111, 40,000 m² |
 | Plot | sinwood-[___] on the estate map, Annex B (Plot Boundary), area ±[___] m² |
-| Term | from [___] for 25 years; the Title allows up to 02.02.2052, its expiry less 12 months, so the 25 years bind (Part 2) |
+| Term | from [___] to [___]: the lesser of 25 years and the expiry of the Title less 12 months, 02.02.2052 (2.2 Term) |
 | Form and price | Plot price Rp [___] · Premium [___]% = Rp [___] at signing · year-0 rent R₀ Rp [___] with its quantities in Annex E (Century Index) (Part 3) |
 | Offer of record | Annex D (Offer of Record): the product page and price as shown to the Holder, version of [___] |
 | Design Code | [[cyber-valley/products/leasehold/design code\|Design Code]] as published on [___]; the approved design is protected under 10.6 |
