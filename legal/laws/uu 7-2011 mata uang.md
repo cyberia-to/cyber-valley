@@ -12,7 +12,7 @@ Undang-Undang Republik Indonesia Nomor 7 Tahun 2011 tentang Mata Uang
 
 Full official text: [JDIH Kementerian Keuangan](https://jdih.kemenkeu.go.id/fulltext/2011/7TAHUN2011UU.htm) · [JDIH BPK RI](https://peraturan.bpk.go.id/Details/39197/uu-no-7-tahun-2011)
 
-The reason every payment obligation in the pack settles in rupiah, whatever unit it is denominated in.
+The reason every sum in the pack is an amount in rupiah, whatever method computes it.
 
 ## Pasal 21 — obligation to use Rupiah
 
@@ -30,6 +30,6 @@ Relied on by: [[shareholders agreement]] Article 4, [[land rights agreement]] §
 
 ## What this means for our documents
 
-A sum may be **denominated** in any unit — US dollars, basket quantities, anything. What may not happen is **settlement** in a currency other than rupiah for a transaction inside Indonesia. Hence the pattern used throughout the pack: the figure is fixed in dollars, the payment is made in rupiah, converted at the [JISDOR](https://www.bi.go.id/en/statistik/informasi-kurs/jisdor/default.aspx) rate published by Bank Indonesia on the payment date.
+Every sum in the pack is an amount in rupiah, stated and settled in rupiah for a transaction inside Indonesia. Where a formula computes the sum, as the century index of Annex E does, the formula is the method of computation and the rupiah is the only unit of account. Hence the pattern used throughout the pack: the formula runs on dollars and basket quantities, the result is an amount in rupiah, converted at the [JISDOR](https://www.bi.go.id/en/statistik/informasi-kurs/jisdor/default.aspx) rate published by Bank Indonesia on the payment date.
 
 JISDOR — Jakarta Interbank Spot Dollar Rate — is Bank Indonesia's official daily USD/IDR reference, which is why it is the conversion source named in every payment clause rather than a bank's own rate.

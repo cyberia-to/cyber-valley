@@ -8,7 +8,7 @@ icon: "🔤"
 ---
 # CX — Century Index — see [[century index]]
 
-The ticker of the century index: a fixed basket of eight world assets used as a unit of account for long-duration obligations.
+The ticker of the century index: a fixed basket of eight world assets used as the method of computing sums in rupiah for long-duration obligations.
 
 ## Where it appears
 
