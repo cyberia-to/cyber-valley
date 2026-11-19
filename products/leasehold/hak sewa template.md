@@ -352,7 +352,7 @@ Weights are normalised per district each moon cycle, capped at 10% per participa
 
 12.1.3 The Hak Pakai runs 30 years, extendable by 20 and renewable by 30 under PP 18/2021 Pasal 52(1), each cycle granted by the office.
 
-12.1.4 Trigger. A Hak Pakai Notice may be served once SLF has issued, an independent valuation annexed to the Notice meets the threshold, a residence permit is in force, and sums due are paid with no uncured material default. Where the Office Practice page confirms acceptance at PBG stage, the Notice may be served then.
+12.1.4 Trigger. A Hak Pakai Notice may be served once SLF has issued, an independent valuation annexed to the Notice, stating the Plot and the Improvements separately, meets the threshold, a residence permit is in force, and sums due are paid with no uncured material default. Where the Office Practice page confirms acceptance at PBG stage, the Notice may be served then.
 
 12.1.5 On a valid Notice the Landowner performs every act within its power: *pemecahan* with survey and boundary process; the *pelepasan* and grant application; every deed, consent, power and declaration the PPAT or the office requires; its own corporate authorisations; delivery of certificate, *Surat Ukur*, PBB receipts, NIB and tax documents; appearance at every stage; and abstention from any act that delays the application.
 
@@ -374,9 +374,9 @@ Weights are normalised per district each moon cycle, capped at 10% per participa
 
 12.1.8 Power of attorney. To the extent the law permits, the Landowner grants the Holder an irrevocable power, in the notary's form executed with this deed, to sign in its name the instruments of 12.1.5 left unsigned past the periods of 12.1.6. The obligation of 12.1.5 stands on its own.
 
-12.1.9 Costs. Holder: survey and *pemecahan*, the grant procedure, PPAT and notarial fees, registration fees, BPHTB on the grant, the PPh due on the *pelepasan* (paid by the Landowner and reimbursed by the Holder within 10 working days of evidence of payment), the valuation, its own advisers, and a processing fee of 2.0% of the valuation under 12.1.4. Landowner: its own authorisations and advisers, the Office Practice verification, cure of any defect in its Title or licences, and every step repeated through its own act or omission.
+12.1.9 Costs. Holder: survey and *pemecahan*, the grant procedure, PPAT and notarial fees, registration fees, BPHTB on the grant, the PPh due on the *pelepasan* (paid by the Landowner and reimbursed by the Holder within 10 working days of evidence of payment), the valuation, its own advisers, and a processing fee of 2.0% of the value of the Plot excluding the Improvements, as stated in the valuation under 12.1.4. Landowner: its own authorisations and advisers, the Office Practice verification, cure of any defect in its Title or licences, and every step repeated through its own act or omission.
 
-12.1.9A Conversion price. The hak sewa is a lease and its consideration buys the Term only. The Plot under Hak Pakai is acquired for a conversion price equal to the valuation under 12.1.4 of the Plot held under Hak Pakai, fixed as at the date of the Notice, less the Unamortised premium at that date. The conversion price is paid before the *pelepasan* is executed and is refunded in full on any failure under 12.1.10.
+12.1.9A Conversion price. The hak sewa is a lease and its consideration buys the Term only. The Plot under Hak Pakai is acquired for a conversion price equal to the value of the Plot held under Hak Pakai excluding the Improvements, as stated in the valuation under 12.1.4, fixed as at the date of the Notice, less the Unamortised premium at that date. The Improvements are the Holder's under 7.4 and carry no price. The conversion price is paid before the *pelepasan* is executed and is refunded in full on any failure under 12.1.10.
 
 12.1.10 Failure. The cause decides the consequence:
 
@@ -398,7 +398,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 12.1.15 Disclosed before election: a Hak Pakai is registered and residency-dependent, its resale pool is narrower, and it replaces the assignment freedom of Part 4. The base lease serves many Holders better.
 
-12.2 Track I, title for an Indonesian Holder. On request the Landowner procures *pemecahan* and transfers the split HGB by [[ajb|AJB]] before the PPAT at a price equal to the valuation under 12.1.4 of the Plot held under HGB, fixed as at the date of the request, less the Unamortised premium at that date, paid before the AJB. Conversion to Hak Milik is the Holder's own application: Indonesian citizen, natural person, *rumah tinggal* evidenced by PBG or a village head's *keterangan*, the simplified route up to 600 m², a declaration within 5 parcels or 5,000 m². An Indonesian citizen married to a foreign national produces the notarial separation-of-assets agreement PP 18/2021 Pasal 70 requires before the upgrade starts.
+12.2 Track I, title for an Indonesian Holder. On request the Landowner procures *pemecahan* and transfers the split HGB by [[ajb|AJB]] before the PPAT at a price equal to the value of the Plot held under HGB excluding the Improvements, as stated in a valuation made as under 12.1.4, fixed as at the date of the request, less the Unamortised premium at that date, paid before the AJB. Conversion to Hak Milik is the Holder's own application: Indonesian citizen, natural person, *rumah tinggal* evidenced by PBG or a village head's *keterangan*, the simplified route up to 600 m², a declaration within 5 parcels or 5,000 m². An Indonesian citizen married to a foreign national produces the notarial separation-of-assets agreement PP 18/2021 Pasal 70 requires before the upgrade starts.
 
 12.3 After any title change the Design Code, the Community Rules and Council membership continue through covenants in the AJB, easements over access and utilities, and Council membership as a condition of sale. Company shares the Holder has bought stay with the Holder.
 
@@ -547,8 +547,8 @@ Figures in brackets in the text:
 | 5.4 | conduct discount | 1 percentage point per condition, 4 conditions |
 | 11.3 | initiative threshold | 10% of district weight |
 | 11.4 | service charge cap | 1% of Plot price per year |
-| 12.1.9 | processing fee | 2.0% of the valuation |
-| 12.1.9A | conversion price | valuation at the Notice less the Unamortised premium |
+| 12.1.9 | processing fee | 2.0% of the value of the Plot excluding Improvements |
+| 12.1.9A | conversion price | value of the Plot excluding Improvements at the Notice, less the Unamortised premium |
 | 4.5 | assignment fee minimum | 1.0% |
 | 5.1 | stay management fee | 20% of revenue, per [[property management]] |
 | 12.1.11 | delay compensation | 0.5% of sums paid per month |
