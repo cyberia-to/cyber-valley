@@ -398,7 +398,7 @@ A 12.1.6 period is exceeded for the first row only if the act remains unperforme
 
 12.1.15 Disclosed before election: a Hak Pakai is registered and residency-dependent, its resale pool is narrower, and it replaces the assignment freedom of Part 4. The base lease serves many Holders better.
 
-12.2 Track I, title for an Indonesian Holder. On request the Landowner procures *pemecahan* and transfers the split HGB by [[ajb|AJB]] before the PPAT at a price equal to the value of the Plot held under HGB excluding the Improvements, as stated in a valuation made as under 12.1.4, fixed as at the date of the request, less the Unamortised premium at that date, paid before the AJB. Conversion to Hak Milik is the Holder's own application: Indonesian citizen, natural person, *rumah tinggal* evidenced by PBG or a village head's *keterangan*, the simplified route up to 600 m², a declaration within 5 parcels or 5,000 m². An Indonesian citizen married to a foreign national produces the notarial separation-of-assets agreement PP 18/2021 Pasal 70 requires before the upgrade starts.
+12.2 Track I, HGB and Hak Milik. On request of an Indonesian Holder, or of a Foreign Holder naming a PT PMA or another legal entity established under Indonesian law and domiciled in Indonesia that the Holder controls, the Landowner procures *pemecahan* and transfers the split HGB to the Indonesian Holder or to that entity by [[ajb|AJB]] before the PPAT, as [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 34 permits, at a price equal to the value of the Plot held under HGB excluding the Improvements, as stated in a valuation made as under 12.1.4, fixed as at the date of the request, less the Unamortised premium at that date, paid before the AJB. The Holder pays the processing fee of 12.1.9 on the same valuation. Conversion to Hak Milik is the Holder's own application, open to an Indonesian Holder: Indonesian citizen, natural person, *rumah tinggal* evidenced by PBG or a village head's *keterangan*, the simplified route up to 600 m², a declaration within 5 parcels or 5,000 m². An Indonesian citizen married to a foreign national produces the notarial separation-of-assets agreement PP 18/2021 Pasal 70 requires before the upgrade starts.
 
 12.3 After any title change the Design Code, the Community Rules and Council membership continue through covenants in the AJB, easements over access and utilities, and Council membership as a condition of sale. Company shares the Holder has bought stay with the Holder.
 
@@ -547,7 +547,7 @@ Figures in brackets in the text:
 | 5.4 | conduct discount | 1 percentage point per condition, 4 conditions |
 | 11.3 | initiative threshold | 10% of district weight |
 | 11.4 | service charge cap | 1% of Plot price per year |
-| 12.1.9 | processing fee | 2.0% of the value of the Plot excluding Improvements |
+| 12.1.9, 12.2 | processing fee | 2.0% of the value of the Plot excluding Improvements, on Hak Pakai and on HGB |
 | 12.1.9A | conversion price | value of the Plot excluding Improvements at the Notice, less the Unamortised premium |
 | 4.5 | assignment fee minimum | 1.0% |
 | 5.1 | stay management fee | 20% of revenue, per [[property management]] |

@@ -36,7 +36,7 @@ Proposed in drafting from the named benchmark, settled by the Company on 22 Octo
 | 10.4 | density settlement fee 2% of the price paid | mirrors the assignment fee: value moving through the Register pays ≈2% |
 | 11.3 | initiative threshold 10% of district weight; while a district counts fewer than ten Holders, the Board answers any Holder | shareholder-proposal thresholds of 1–10%; the weight cap makes the early district open to every Holder |
 | 11.4 | service charge capped at 1% of the Plot price per year; the charge itself is actual cost | complex service-charge practice of 0.5–2% |
-| 12.1.9 | processing fee 2.0% of the value of the Plot excluding Improvements on conversion to Hak Pakai | administrative-fee band of 1–3%; direct costs sit with the Holder separately |
+| 12.1.9, 12.2 | processing fee 2.0% of the value of the Plot excluding Improvements on conversion to Hak Pakai or transfer of HGB | administrative-fee band of 1–3%; direct costs sit with the Holder separately |
 | 12.1.11 | delay compensation 0.5% of sums paid per month | mirrors the holding charge: the same rate against the Landowner |
 | 15.4 | claims within 3 years after termination | contractual limitation practice |
 | 16.2 | removal elected within 6 months before expiry | time to contract demolition or sale of Improvements |
