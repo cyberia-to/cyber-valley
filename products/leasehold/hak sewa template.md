@@ -119,26 +119,24 @@ Singular includes plural. Headings guide reading and bind nothing.
 
 2.1 The Landowner grants the Holder the right to use and occupy the Plot for mixed purposes for the Term, and covenants that the Holder holds and enjoys the Plot without interruption by the Landowner or anyone claiming through it.
 
-2.2 Term. The Term is 25 years from signing, stated in the recitals as dates. The part of the Term past the expiry of the Title runs on condition that the Title is extended or renewed. Where the State refuses, the Term ends with the Title and 16.3 Title failure applies, the Unamortised premium counting the months of the recited Term that remain after that day.
+2.2 Term. The Term is 25 years from signing, stated in the recitals as dates. The part of the Term past the expiry of the Title runs on condition that the Title is extended, renewed or granted anew to the Landowner. Where the State refuses, the Term ends with the Title and 16.3 Title failure applies, the Unamortised premium counting the months of the 25 years that remain after that day.
 
 2.3 In place of registration the Holder receives: this notarial deed and an entry in the Register; the negative pledge and non-disturbance covenants of Part 15; the covenant that every transferee of the Estate takes subject to this deed; the Estate Certificate on demand; and the Hak Pakai option of Part 12.
 
-2.4 Renewal by right. The Holder may renew by written notice served between 24 and 12 months before the Term ends, provided sums due are paid and material defaults cured. The renewal Term is 20 years, its part past the expiry of the Title running as under 2.2 Term. The renewal price is
+2.4 Renewal by right. The Holder may renew by written notice served between 24 and 12 months before the Term ends, provided sums due are paid and material defaults cured, and renews in the same way at the end of each renewal Term. Each renewal Term is 25 years and runs as under 2.2 Term, the renewal price standing for the Premium. The renewal price is
 
-    L(T) = L₀ · (T₂ ÷ T₁) · I(T) ÷ I(t₀),   never below L₀ · T₂ ÷ T₁
+    L(T) = L₀ · I(T) ÷ I(t₀),   never below L₀
 
 | symbol | meaning |
 |---|---|
 | L(T) | the renewal price |
 | L₀ | the Plot price in the recitals |
-| T₂ | the renewal Term, in years |
-| T₁ | the first Term, in years |
 | I(T) | the dollar value of the Annex E (Century Index) quantities on the renewal date |
 | I(t₀) | the dollar value of the same quantities on the signing date |
 
-The quantities are the ones fixed at signing; only their prices move. The Landowner accepts a valid notice while the Title subsists. A second renewal needs a new grant of the Title by the State (*pembaruan*) and is agreed afresh at that time.
+The quantities are the ones fixed at signing; only their prices move. The Landowner accepts every valid notice.
 
-2.5 Title continuity. The Landowner keeps a title calendar in the Register, files the extension of the Title as soon as the land is used in line with the purpose of the grant, as [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 41 permits, and at the latest 2 years before expiry, pursues it at its own cost, and reports annually in the Register. A late filing is the Landowner's default under 15.5. The outcome of an extension or a *pembaruan* rests with the State and is stated in those words.
+2.5 Title continuity. The Landowner keeps a title calendar in the Register, files the extension of the Title as soon as the land is used in line with the purpose of the grant, as [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 41 permits, and at the latest 2 years before expiry, files the *pembaruan* and after it a new grant under the priority of Pasal 37(4) as early as the law permits, pursues each at its own cost, and reports annually in the Register. A late filing is the Landowner's default under 15.5. The outcome of each extension, *pembaruan* and new grant rests with the State and is stated in those words.
 
 ---
 
@@ -561,5 +559,5 @@ Figures in brackets in the text:
 | 15.4 | limitation | 3 years after termination |
 | 16.2 | removal election | 6 months before expiry |
 | 17.1 | force majeure termination | 12 months |
-| 2.4 | renewal price | L₀ · (T₂ ÷ T₁) · I(T) ÷ I(t₀), floored at L₀ · T₂ ÷ T₁ |
+| 2.4 | renewal price | L₀ · I(T) ÷ I(t₀), floored at L₀ |
 | 4.5 | referral threshold | 3 referred Holders in good standing, fee at 1.0% |
