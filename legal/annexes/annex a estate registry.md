@@ -24,6 +24,6 @@ PDF: [ID](https://gateway.pinata.cloud/ipfs/bafkreifmpensuddwqwwr5dtipnox4x2aoli
 | holder of record | PT CYBER VALLEY ESTATE, by AJB No. 81/2023 |
 | land office | Kantor Pertanahan of Kabupaten Buleleng |
 | [[pkkpr\|PKKPR]] | No. 10082310215108014 of 09.08.2023, KBLI 68111, in force for the term of the land held |
-| longest first Term | 25 years; the Title carries a Term to 02.02.2052 |
+| first Term | 25 years; past 02.02.2053 it runs on the extension of the Title |
 
 Where this annex and the certificate differ, the certificate governs and the Director corrects the annex within 10 working days.
