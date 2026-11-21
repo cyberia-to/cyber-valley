@@ -23,7 +23,7 @@ PDF: [ID](https://gateway.pinata.cloud/ipfs/bafybeic6nh6ckdpbzfliic2wr32lgy7yu22
 | Title | HGB No. 00048/Gesing, Annex A (Estate Registry), 40,000 m², parcel NIB 22040417.00276, Surat Ukur No. 00086/2002, right granted 08.02.2023 under KEPMEN ATR/KBPN No. 1339/SK-HK.02/X/2022, expiring 02.02.2053, registered to PT CYBER VALLEY ESTATE by AJB No. 81/2023 at the Kantor Pertanahan of Kabupaten Buleleng |
 | PKKPR | No. 10082310215108014, issued through OSS on 09.08.2023, KBLI 68111, 40,000 m² |
 | Plot | sinwood-[___] on the estate map, Annex B (Plot Boundary), area ±[___] m² |
-| Term | from [___] for 25 years; the Title allows up to 02.02.2052, its expiry less 12 months, so the 25 years bind (Part 2) |
+| Term | 25 years, from [___] to [___]; past 02.02.2053 it runs on the extension of the Title (2.2 Term) |
 | Form and price | Plot price Rp [___] · Premium [___]% = Rp [___] at signing · year-0 rent R₀ Rp [___] with its quantities in Annex E (Century Index) (Part 3) |
 | Offer of record | Annex D (Offer of Record): the product page and price as shown to the Holder, version of [___] |
 | Design Code | [[cyber-valley/products/leasehold/design code\|Design Code]] as published on [___]; the approved design is protected under 10.6 |
@@ -119,26 +119,24 @@ Singular includes plural. Headings guide reading and bind nothing.
 
 2.1 The Landowner grants the Holder the right to use and occupy the Plot for mixed purposes for the Term, and covenants that the Holder holds and enjoys the Plot without interruption by the Landowner or anyone claiming through it.
 
-2.2 Term. The Term is the lesser of 25 years and the remaining term of the Title at signing less 12 months, stated in the recitals as dates.
+2.2 Term. The Term is 25 years from signing, stated in the recitals as dates. The part of the Term past the expiry of the Title runs on condition that the Title is extended, renewed or granted anew to the Landowner. Where the State refuses, the Term ends with the Title and 16.3 Title failure applies, the Unamortised premium counting the months of the 25 years that remain after that day.
 
 2.3 In place of registration the Holder receives: this notarial deed and an entry in the Register; the negative pledge and non-disturbance covenants of Part 15; the covenant that every transferee of the Estate takes subject to this deed; the Estate Certificate on demand; and the Hak Pakai option of Part 12.
 
-2.4 Renewal by right. The Holder may renew by written notice served between 24 and 12 months before the Term ends, provided sums due are paid and material defaults cured. The renewal Term is the lesser of 20 years and the remaining term of the Title at renewal less 12 months. The renewal price is
+2.4 Renewal by right. The Holder may renew by written notice served between 24 and 12 months before the Term ends, provided sums due are paid and material defaults cured, and renews in the same way at the end of each renewal Term. Each renewal Term is 25 years and runs as under 2.2 Term, the renewal price standing for the Premium. The renewal price is
 
-    L(T) = L₀ · (T₂ ÷ T₁) · I(T) ÷ I(t₀),   never below L₀ · T₂ ÷ T₁
+    L(T) = L₀ · I(T) ÷ I(t₀),   never below L₀
 
 | symbol | meaning |
 |---|---|
 | L(T) | the renewal price |
 | L₀ | the Plot price in the recitals |
-| T₂ | the renewal Term, in years |
-| T₁ | the first Term, in years |
 | I(T) | the dollar value of the Annex E (Century Index) quantities on the renewal date |
 | I(t₀) | the dollar value of the same quantities on the signing date |
 
-The quantities are the ones fixed at signing; only their prices move. The Landowner accepts a valid notice while the Title subsists. A second renewal needs a new grant of the Title by the State (*pembaruan*) and is agreed afresh at that time.
+The quantities are the ones fixed at signing; only their prices move. The Landowner accepts every valid notice.
 
-2.5 Title continuity. The Landowner keeps a title calendar in the Register, files each extension application within the window of [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 41 and at the latest 12 months before expiry, pursues it at its own cost, and reports annually in the Register. A late filing is the Landowner's default under 15.5. The outcome of a *pembaruan* rests with the State and is stated in those words.
+2.5 Title continuity. The Landowner keeps a title calendar in the Register, files the extension of the Title as soon as the land is used in line with the purpose of the grant, as [[pp 18-2021 hak atas tanah|PP 18/2021]] Pasal 41 permits, and at the latest 2 years before expiry, files the *pembaruan* and after it a new grant under the priority of Pasal 37(4) as early as the law permits, pursues each at its own cost, and reports annually in the Register. A late filing is the Landowner's default under 15.5. The outcome of each extension, *pembaruan* and new grant rests with the State and is stated in those words.
 
 ---
 
@@ -561,5 +559,5 @@ Figures in brackets in the text:
 | 15.4 | limitation | 3 years after termination |
 | 16.2 | removal election | 6 months before expiry |
 | 17.1 | force majeure termination | 12 months |
-| 2.4 | renewal price | L₀ · (T₂ ÷ T₁) · I(T) ÷ I(t₀), floored at L₀ · T₂ ÷ T₁ |
+| 2.4 | renewal price | L₀ · I(T) ÷ I(t₀), floored at L₀ |
 | 4.5 | referral threshold | 3 referred Holders in good standing, fee at 1.0% |
